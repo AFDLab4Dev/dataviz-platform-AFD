@@ -11,7 +11,7 @@ __La plateforme Dataviz de l'AFD vise à rendre plus facile l'accès à ces donn
 
 * __Country Dashboard__ : Comment comprendre les multiples facettes d'un pays ? C'est l'objectif du "Country Dashboard", permettant de visualiser de nombreux indicateurs d'un pays.
 * __Indicator browser__: Vous chercher une donnée précise pour un pays ? Grâce à l'indicator browser, vous pourrez la récupérer facilement et la visualiser instantanement. 
-* __Urban Dashboard__: Quel est le population d'un quartier ? Combien d'habitants vivent à moins de 500 mètres de cette route ? C'est pour répondre à ces questions que l'urban dashboard manipule les données de census et permet de calculer très rapidement la population d'une zone donnée.
+* __Urban Dashboard__: Quelle est le population d'un quartier ? Combien d'habitants vivent à moins de 500 mètres de cette route ? C'est pour répondre à ces questions que l'urban dashboard manipule les données de census et permet de calculer très rapidement la population d'une zone donnée.
 * __Rapports interactifs__ : Dans le cadre des activités de l'équipe Data de l'AFD, des rapports interactifs à partir de données ouvertes sont écrits et ouvert à tous.
 
 ## dataviz4dev.js
