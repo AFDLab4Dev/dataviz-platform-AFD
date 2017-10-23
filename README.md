@@ -1,76 +1,47 @@
-<<<<<<< HEAD
-# [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
+# Dataviz platform AFD V 0.1
+
+## Pourquoi une plateforme de datavisualisation ? 
+
+Une grande variété d'indicateurs, de données, sont disponibles grâce au travail d'organisation comme l'ONU, la Banque Mondiale, FMI, USAID, mais aussi des communautés du libre comme les données OpenStreetMap etc... Malheureusement il est difficile de les faire parler, et le savoir contenu dans ces données nécessitent trop souvent l'intervention d'un expert, même pour des questions basiques.
+
+__La plateforme Dataviz de l'AFD vise à rendre plus facile l'accès à ces données, notamment sous forme de dataviz, ou outil d'analyse simple__
+
+
+## Les différentes fonctionnalités
+
+* __Country Dashboard__ : Comment comprendre les multiples facettes d'un pays ? C'est l'objectif du "Country Dashboard", permettant de visualiser de nombreux indicateurs d'un pays.
+* __Indicator browser__: Vous chercher une donnée précise pour un pays ? Grâce à l'indicator browser, vous pourrez la récupérer facilement et la visualiser instantanement. 
+* __Urban Dashboard__: Quel est le population d'un quartier ? Combien d'habitants vivent à moins de 500 mètres de cette route ? C'est pour répondre à ces questions que l'urban dashboard manipule les données de census et permet de calculer très rapidement la population d'une zone donnée.
+* __Rapports interactifs__ : Dans le cadre des activités de l'équipe Data de l'AFD, des rapports interactifs à partir de données ouvertes sont écrits et ouvert à tous.
+
+## dataviz4dev.js
+
+Construire un tableau de bord nécessite de bons outils. C'est pourquoi l'équipe Data de l'AFD a commencé à écrire dataviz4dev.js, une bibliothèque javascript qui permet de convertir une ligne de code en un magnifique graphe __Highcharts__ à partir d'une API de l'AFD ou d'un fournisseur de données. Le but est de rendre les données de développement le plus accessible possible aux développeurs web, ou aux Data journalistes afin qu'ils puissent créer une dataviz rapide sans connaissance particulière des API.
+
+## Entrepreneur d'intérêt général
+
+Cette plateforme a d'abord été écrite par Etienne David dans le cadre du programme "Entrepreneur d'intérêt Général" du SGMAP. Ce programme a pour vocation d'accélérer la transformation numérique de l'Etat grâce à des entrepreneurs du numérique en résidence pendant 10 mois dans une administration.
+
+## Prochaines étapes de développement
+
+### Développement dataviz4dev.js
+
+dataviz4dev.js est une bibliothèque toute jeune, non opérationnelle encore, et qui va se développer afin de répondre aux besoins de data.afd.fr.
+
+### Corrections des bugs
+
+N'hésitez pas à nous faire remonter tous types de bug !
+
+### Ajout de données supplémentaires
+* Un travail va être effectué pour sourcer d'autres API que celle de la banque mondiale et de USAID afin d'enrichir le "Indicator Browser"
+* Pour des jeux de données non disponibles sous forme d'API mais intéressant pour la communauté du développement, l'AFD travaillera à les mettre à disposition via une future API maison
+
+
+# Forked de [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
 
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-## Preview
-
-[![SB Admin Preview](https://startbootstrap.com/assets/img/templates/sb-admin.jpg)](https://blackrockdigital.github.io/startbootstrap-sb-admin/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-sb-admin/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-sb-admin/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-sb-admin)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-sb-admin?type=dev)
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/sb-admin/)
-* Install via npm: `npm i startbootstrap-sb-admin`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-sb-admin)
-
-## Usage
-
-### Basic Usage
-
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
-
-### Advanced Usage
-
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
-
-#### Gulp Tasks
-
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
-
-## Custom Builds
-
-You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
-=======
-# dataviz-platform-AFD
-front end de la plateforme de dataviz de l'AFD
->>>>>>> ebd4d9abb7a8a443e7fec55d7f3d44867931bb82
+
