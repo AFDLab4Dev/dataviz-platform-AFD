@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
 
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -69,3 +70,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
+=======
+# dataviz-platform-AFD
+front end de la plateforme de dataviz de l'AFD
+>>>>>>> ebd4d9abb7a8a443e7fec55d7f3d44867931bb82
