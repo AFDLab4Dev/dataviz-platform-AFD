@@ -1,0 +1,54 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/300283892",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/300283892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4226659,
+      -33.9237576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/300287170",
+  "properties": {
+    "amenity": "marketplace",
+    "id": "node/300287170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4239828,
+      -33.924571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2180615943",
+  "properties": {
+    "addr:housenumber": "373",
+    "addr:street": "Albert Road",
+    "amenity": "marketplace",
+    "name": "Old Biscuit Mill Market",
+    "opening_hours": "Sa 09:00-14:00",
+    "id": "node/2180615943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4577062,
+      -33.9275518
+    ]
+  }
+}
+]
+}

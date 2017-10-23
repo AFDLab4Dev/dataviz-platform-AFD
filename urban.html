@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107909085-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-107909085-1');
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Agence Française de Développement - Dataviz portal</title>
+    <!-- Bootstrap core CSS-->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template-->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Page level plugin CSS-->
+    <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+    <!-- Custom styles for this template-->
+    <link href="css/sb-admin.css" rel="stylesheet">
+    <!-- Bootstrap core JavaScript-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Page level plugin JavaScript-->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+    <!-- Mapbox -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.17.4/mapbox-gl-draw.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.1.0/mapbox-gl-geocoder.min.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v0.17.4/mapbox-gl-draw.css' type='text/css'/>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.1.0/mapbox-gl-geocoder.css' type='text/css' />
+    <!-- custom -->
+    <link rel='stylesheet' href='css/urban/urban.css' type='text/css'/>
+  </head>
+  <body class="fixed-nav sticky-footer bg-dark" id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <a href="index.html">
+        <img src="https://reportersdudeveloppement.files.wordpress.com/2017/06/afd_embleme_horizontale_designation_blanc.png" style="height: 35px;">
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+            <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#dash" data-parent="#exampleAccordion">
+              <i class="fa fa-fw fa-globe"></i>
+              <span class="nav-link-text">Country Dashboard</span>
+            </a>
+            <ul class="sidenav-second-level collapse" id="dash">
+              <li>
+                <a href="country_eco.html"><i class="fa fa-fw fa-line-chart"></i> Environnement Economique</a>
+              </li>
+              <li>
+                <a href="country_human.html"><i class="fa fa-fw fa-users"></i> Développement humain durable</a>
+              </li>
+              <li>
+                <a href="country_inst.html"><i class="fa fa-fw fa-balance-scale"></i> Environnement institutionnel</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+            <a class="nav-link" href="indicator.html">
+              <i class="fa fa-fw fa-area-chart"></i>
+              <span class="nav-link-text">Indicators browser</span>
+            </a>
+          </li>
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+            <a class="nav-link" href="urban.html">
+              <i class="fa fa-fw fa-building"></i>
+              <span class="nav-link-text">Urban Dashboard</span>
+            </a>
+          </li>
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+            <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
+              <i class="fa fa-fw fa-file"></i>
+              <span class="nav-link-text">Interactive reports</span>
+            </a>
+            <ul class="sidenav-second-level collapse" id="collapseComponents">
+              <li>
+                <a href="sahel.html">Sahel</a>
+              </li>
+              <li>
+                <a href="error.html">Our Activities</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+            <a class="nav-link" href="http://opendata.afd.fr">
+              <i class="fa fa-fw fa-database"></i>
+              <span class="nav-link-text">AFD OpenData</span>
+            </a>
+          </li>
+        </ul>
+        <ul class="navbar-nav sidenav-toggler">
+          <li class="nav-item">
+            <a class="nav-link text-center" id="sidenavToggler">
+              <i class="fa fa-fw fa-angle-left"></i>
+            </a>
+          </li>
+        </ul>
+        
+      </div>
+    </nav>
+    <div class="content-wrapper">
+      <div class="container-fluid">
+        <!-- Breadcrumbs-->
+        <ol class="breadcrumb">
+          <div id="info_select"></div>
+        </ol>
+        <div class="row">
+          <div class="col-lg-9">
+            <div class="card mb-3">
+              <div id="mapid1" class="mapbox"></div>
+              <nav id='filter-group' class='filter-group'>
+                <input type="checkbox" id="marketplace" onclick="test(this.id);" checked><label for="marketplace">Marchés</label>
+                <input type="checkbox" id="uni" onclick="test(this.id);" checked><label for="uni">Universités</label>
+                <input type="checkbox" id="townhall" onclick="test(this.id);" checked><label for="townhall">Administrations</label>
+                <input type="checkbox" id="hospital" onclick="test(this.id);" checked><label for="hospital">Hôpitaux</label>
+                <input type="checkbox" id="stadium" onclick="test(this.id);" checked ><label for="stadium">Equipements sportifs</label>
+              </nav>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="card mb-3 ">
+              <div class="card-header">
+              <i class="fa fa-globe"></i>Analyse</div>
+              <div class="card-body">
+                <div id='menu1' class="urban-element">
+                  <div class="col-md-12 text-center">
+                    <form>
+                      <button id='mapbox://styles/etibdv/cj0cviykv00br2sqpvtoco9j8'  type="button" class='btn btn-info' onclick="changestyle(this.id);">Transport</button>
+                      <button id='mapbox://styles/etibdv/cj6rntqct4mqw2soed0y5xzr0'  type="button" class='btn btn-info' onclick="changestyle(this.id);">Carte</button>
+                      <button id='mapbox://styles/etibdv/cj5dsrbx20qrm2rmx8ji9x4yq'  type="button" class='btn btn-info' onclick="changestyle(this.id);">Satellite</button>
+                    </form>
+                  </div>
+                </div>
+                <div id="control-layer" class="urban-element">
+                  <div class='map-overlay top'>
+                    <div class='map-overlay-inner'>
+                      <label>Occupation des sols: <span id='slider-value-chicago'>0%</span></label>
+                      <input id='slider-chicago' type='range' min='0' max='100' step='0' value='0' />
+                    </div>
+                  </div>
+                  <div class='map-overlay top'>
+                    <div class='map-overlay-inner'>
+                      <label>Population: <span id='slider-value-dallas'>0%</span></label>
+                      <input id='slider-dallas' type='range' min='0' max='100' step='0' value='0' />
+                    </div>
+                  </div>
+                </div>
+                <div id='calculation-box' class="urban-element">
+                  
+                  <div class="input-group sub-urban-element">
+                    <input id="corridor-text" type="text" class="form-control" value="500">
+                    <span class="input-group-btn">
+                      <button id="corridor" class="btn btn-info " type="button">Expansion lignes et points (m)</button>
+                    </span>
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <form>
+                      <button id='calculate'  type="button" class='btn btn-info sub-urban-element'>Calculer indicateurs</button>
+                      <a id='export_geojson'  type="button" class='btn btn-info sub-urban-element'>Exporter données</a>
+                    </form>
+                  </div>
+                  <div id='calculated-area'>
+                    
+                    <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th>Indicateur</th>
+                          <th>Résultat</th>
+                          <th>Unité</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>Longueur corridor</td>
+                          <td id="corridor_length">0</td>
+                          <td>km</td>
+                        </tr>
+                        <tr>
+                          <td>Surface</td>
+                          <td id="surface_table">0</td>
+                          <td>km2</td>
+                        </tr>
+                        <tr>
+                          <td>Population</td>
+                          <td id="population_table">0</td>
+                          <td>habitants</td>
+                        </tr>
+                        <tr>
+                          <td>Voirie primaire</td>
+                          <td id="primary_road">0</td>
+                          <td>km</td>
+                        </tr>
+                         <tr>
+                          <td>Habitants par km</td>
+                          <td id="ratio">0</td>
+                          <td>habitants/km</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  
+                  <div id="source"></div>
+                  <form>
+                    <div class="input-group">
+                      <input type="text" class="form-control"
+                      value="" placeholder="Cliquez sur générer" id="clipboard">
+                      <span class="input-group-btn">
+                        <button class="btn btn-default" type="button" id="copy-button"
+                        data-toggle="tooltip" data-placement="button"
+                        title="Partager la carte">
+                        Copier
+                        </button>
+                      </span>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.container-fluid-->
+      <!-- /.content-wrapper-->
+      <footer class="sticky-footer">
+        <div class="container">
+          <div class="text-center">
+            <small>Copyright © Agence Française de Développement</small>
+          </div>
+        </div>
+      </footer>
+      <!-- Scroll to Top Button-->
+      <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fa fa-angle-up"></i>
+      </a>
+      
+      <!-- Custom scripts for all pages-->
+      <script>
+      document.getElementById('copy-button').addEventListener('click', function() {
+      var ta = document.getElementById('clipboard');
+      ta.focus();
+      ta.select();
+      console.log(document.execCommand('copy'));
+      });
+      </script>
+      <script src="js/sb-admin.min.js"></script>
+      <!-- Custom scripts for this page-->
+      <script src="js/urban.js"></script>
+    </div>
+  </body>
+</html>

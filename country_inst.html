@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107909085-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-107909085-1');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Agence Française de Développement - Dataviz portal</title>
+
+
+  <!-- Bootstrap core CSS-->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom fonts for this template-->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <!-- Page level plugin CSS-->
+  <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin.css" rel="stylesheet">
+
+      <!-- Bootstrap core JavaScript-->
+  <script src="vendor/jquery/jquery.min.js"></script>
+
+  <script src="vendor/popper/popper.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!-- Core plugin JavaScript-->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <!-- Page level plugin JavaScript-->
+
+
+    <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+
+  <!-- Highcharts and Highmaps -->
+  <script src="https://code.highcharts.com/highcharts.src.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.src.js"></script>
+
+  <script src="//code.highcharts.com/maps/modules/map.js"></script>
+  <script src="  https://code.highcharts.com/maps/modules/exporting.js"></script>
+
+  <!-- Highchart/maps extension -->
+  <script src="http://code.highcharts.com/mapdata/custom/europe.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/asia.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/africa.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/oceania.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/middle-east.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/north-america-no-central.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/central-america.js"></script>
+  <script src="http://code.highcharts.com/mapdata/custom/south-america.js"></script>
+  <script src="vendor/highcharts/export-csv.js"></script>
+
+
+
+
+  <!-- custom -->
+  <script src="vendor/dataviz4dev/dataviz4dev.js"></script>
+  <script src="js/country_dashboard_inst.js"></script>
+
+
+
+
+
+
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+  <!-- Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+  <a href="index.html">
+    <img src="https://reportersdudeveloppement.files.wordpress.com/2017/06/afd_embleme_horizontale_designation_blanc.png" style="height: 35px;">
+    </a>
+
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+        <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#dash" data-parent="#exampleAccordion">
+
+            <i class="fa fa-fw fa-globe"></i>
+            <span class="nav-link-text">Country Dashboard</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="dash">
+            <li>
+              <a href="country_eco.html"><i class="fa fa-fw fa-line-chart"></i> Environnement Economique</a>
+            </li>
+            <li>
+              <a href="country_human.html"><i class="fa fa-fw fa-users"></i> Développement humain durable</a>
+            </li>
+            <li>
+              <a href="country_inst.html"><i class="fa fa-fw fa-balance-scale"></i> Environnement institutionnel</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+          <a class="nav-link" href="indicator.html">
+            <i class="fa fa-fw fa-area-chart"></i>
+            <span class="nav-link-text">Indicators browser</span>
+          </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+          <a class="nav-link" href="urban.html">
+            <i class="fa fa-fw fa-building"></i>
+            <span class="nav-link-text">Urban Dashboard</span>
+          </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+          <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
+            <i class="fa fa-fw fa-file"></i>
+            <span class="nav-link-text">Interactive reports</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="collapseComponents">
+            <li>
+              <a href="sahel.html">Sahel</a>
+            </li>
+            <li>
+              <a href="error.html">Our Activities</a>
+            </li>
+          </ul>
+        </li>
+             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+          <a class="nav-link" href="http://opendata.afd.fr">
+            <i class="fa fa-fw fa-database"></i>
+            <span class="nav-link-text">AFD OpenData</span>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav sidenav-toggler">
+        <li class="nav-item">
+          <a class="nav-link text-center" id="sidenavToggler">
+            <i class="fa fa-fw fa-angle-left"></i>
+          </a>
+        </li>
+      </ul>
+      
+    </div>
+  </nav>
+  <div class="content-wrapper">
+    <div class="container-fluid">
+      <!-- Breadcrumbs-->
+      <ol class="breadcrumb">
+
+
+      <select id="Country_Select" onchange="update_dashboard()" class="selectpicker" data-live-search="true" data-width="175px">
+            <option value ="COG">Congo, Rep.</option>
+            <option value ="AFG">Afghanistan</option>
+            <option value ="ALB">Albania</option>
+            <option value ="DZA">Algeria
+            <option value ="AND">Andorra
+            <option value ="AGO">Angola
+            <option value ="ATG">Antigua and Barbuda
+            <option value ="ARG">Argentina
+            <option value ="ARM">Armenia
+            <option value ="AUS">Australia
+            <option value ="AUT">Austria
+            <option value ="AZE">Azerbaijan
+            <option value ="BHS">Bahamas
+            <option value ="BHR">Bahrain
+            <option value ="BGD">Bangladesh
+            <option value ="BRB">Barbados
+            <option value ="BLR">Belarus
+            <option value ="BEL">Belgium
+            <option value ="BLZ">Belize
+            <option value ="BEN">Benin
+            <option value ="BMU">Bermuda
+            <option value ="BTN">Bhutan
+            <option value ="BOL">Bolivia
+            <option value ="BIH">Bosnia and Herzegovina
+            <option value ="BWA">Botswana
+            <option value ="BRA">Brazil
+            <option value ="BRN">Brunei Darussalam
+            <option value ="BGR">Bulgaria
+            <option value ="BFA">Burkina Faso
+            <option value ="BDI">Burundi
+            <option value ="CPV">Cabo Verde
+            <option value ="KHM">Cambodia
+            <option value ="CMR">Cameroon
+            <option value ="CAN">Canada
+            <option value ="CYM">Cayman Islands
+            <option value ="CAF">Central African Republic
+            <option value ="TCD">Chad
+            <option value ="CHI">Channel Islands
+            <option value ="CHL">Chile
+            <option value ="CHN">China
+            <option value ="COL">Colombia
+            <option value ="COM">Comoros
+            <option value ="COD">Congo, Dem.
+            <option value ="COG">Congo
+            <option value ="CRI">Costa Rica
+            <option value ="CIV">Cote d'Ivoire
+            <option value ="HRV">Croatia
+            <option value ="CUB">Cuba
+            <option value ="CUW">Curacao
+            <option value ="CYP">Cyprus
+            <option value ="CZE">Czech Republic
+            <option value ="DNK">Denmark
+            <option value ="DJI">Djibouti
+            <option value ="DMA">Dominica
+            <option value ="DOM">Dominican Republic
+            <option value ="ECU">Ecuador
+            <option value ="EGY">Egypt
+            <option value ="SLV">El Salvador
+            <option value ="GNQ">Equatorial Guinea
+            <option value ="ERI">Eritrea
+            <option value ="EST">Estonia
+            <option value ="ETH">Ethiopia
+            <option value ="FRO">Faeroe Islands
+            <option value ="FJI">Fiji
+            <option value ="FIN">Finland
+            <option value ="FRA">France
+            <option value ="PYF">French Polynesia
+            <option value ="GAB">Gabon
+            <option value ="GMB">Gambia
+            <option value ="GEO">Georgia
+            <option value ="DEU">Germany
+            <option value ="GHA">Ghana
+            <option value ="GRC">Greece
+            <option value ="GRD">Grenada
+            <option value ="GTM">Guatemala
+            <option value ="GIN">Guinea
+            <option value ="GNB">Guinea-Bissau
+            <option value ="GUY">Guyana
+            <option value ="HTI">Haiti
+            <option value ="HND">Honduras
+            <option value ="HKG">Hong Kong SAR
+            <option value ="HUN">Hungary
+            <option value ="ISL">Iceland
+            <option value ="IND">India
+            <option value ="IDN">Indonesia
+            <option value ="IRN">Iran
+            <option value ="IRQ">Iraq
+            <option value ="IRL">Ireland
+            <option value ="ISR">Israel
+            <option value ="ITA">Italy
+            <option value ="JAM">Jamaica
+            <option value ="JPN">Japan
+            <option value ="JOR">Jordan
+            <option value ="KAZ">Kazakhstan
+            <option value ="KEN">Kenya
+            <option value ="KIR">Kiribati
+            <option value ="KOR">Korea, South
+            <option value ="PRK">Korea, North
+            <option value ="KWT">Kuwait
+            <option value ="KGZ">Kyrgyz Republic
+            <option value ="LAO">Lao PDR
+            <option value ="LVA">Latvia
+            <option value ="LBN">Lebanon
+            <option value ="LSO">Lesotho
+            <option value ="LBR">Liberia
+            <option value ="LBY">Libya
+            <option value ="LIE">Liechtenstein
+            <option value ="LTU">Lithuania
+            <option value ="LUX">Luxembourg
+            <option value ="MAC">Macao SAR
+            <option value ="MKD">Macedonia
+            <option value ="MDG">Madagascar
+            <option value ="MWI">Malawi
+            <option value ="MYS">Malaysia
+            <option value ="MDV">Maldives
+            <option value ="MLI">Mali
+            <option value ="MLT">Malta
+            <option value ="MRT">Mauritania
+            <option value ="MUS">Mauritius
+            <option value ="MEX">Mexico
+            <option value ="FSM">Micronesia
+            <option value ="MDA">Moldova
+            <option value ="MCO">Monaco
+            <option value ="MNG">Mongolia
+            <option value ="MNE">Montenegro
+            <option value ="MAR">Morocco
+            <option value ="MOZ">Mozambique
+            <option value ="MMR">Myanmar
+            <option value ="NAM">Namibia
+            <option value ="NPL">Nepal
+            <option value ="NLD">Netherlands
+            <option value ="NCL">New Caledonia
+            <option value ="NZL">New Zealand
+            <option value ="NIC">Nicaragua
+            <option value ="NER">Niger
+            <option value ="NGA">Nigeria
+            <option value ="NOR">Norway
+            <option value ="OMN">Oman
+            <option value ="PAK">Pakistan
+            <option value ="PAN">Panama
+            <option value ="PNG">Papua New Guinea
+            <option value ="PRY">Paraguay
+            <option value ="PER">Peru
+            <option value ="PHL">Philippines
+            <option value ="POL">Poland
+            <option value ="PRT">Portugal
+            <option value ="PRI">Puerto Rico
+            <option value ="QAT">Qatar
+            <option value ="ROU">Romania
+            <option value ="RUS">Russian Federation
+            <option value ="RWA">Rwanda
+            <option value ="WSM">Samoa
+            <option value ="SMR">San Marino
+            <option value ="STP">Sao Tome and Principe
+            <option value ="SAU">Saudi Arabia
+            <option value ="SEN">Senegal
+            <option value ="SRB">Serbia
+            <option value ="SYC">Seychelles
+            <option value ="SLE">Sierra Leone
+            <option value ="SGP">Singapore
+            <option value ="SVK">Slovak Republic
+            <option value ="SVN">Slovenia
+            <option value ="SLB">Solomon Islands
+            <option value ="SOM">Somalia
+            <option value ="ZAF">South Africa
+            <option value ="SSD">South Sudan
+            <option value ="ESP">Spain
+            <option value ="LKA">Sri Lanka
+            <option value ="KNA">St. Kitts and Nevis
+            <option value ="LCA">St. Lucia
+            <option value ="MAF">St. Martin (French part)
+            <option value ="VCT">St. Vincent and the Grenadines
+            <option value ="SDN">Sudan
+            <option value ="SUR">Suriname
+            <option value ="SWZ">Swaziland
+            <option value ="SWE">Sweden
+            <option value ="CHE">Switzerland
+            <option value ="SYR">Syrian Arab Republic
+            <option value ="TWN">Taiwan
+            <option value ="TJK">Tajikistan
+            <option value ="TZA">Tanzania
+            <option value ="THA">Thailand
+            <option value ="TLS">Timor-Leste
+            <option value ="TGO">Togo
+            <option value ="TON">Tonga
+            <option value ="TTO">Trinidad and Tobago
+            <option value ="TUN">Tunisia
+            <option value ="TUR">Turkey
+            <option value ="TKM">Turkmenistan
+            <option value ="TUV">Tuvalu
+            <option value ="UGA">Uganda
+            <option value ="UKR">Ukraine
+            <option value ="ARE">United Arab Emirates
+            <option value ="GBR">United Kingdom
+            <option value ="USA">United States
+            <option value ="URY">Uruguay
+            <option value ="UZB">Uzbekistan
+            <option value ="VUT">Vanuatu
+            <option value ="VEN">Venezuela
+            <option value ="VNM">Vietnam
+            <option value ="VIR">Virgin Islands (U.S.)
+            <option value ="PSE">West Bank and Gaza
+            <option value ="YEM">Yemen
+            <option value ="ZMB">Zambia
+            <option value ="ZWE">Zimbabwe
+    </select>
+
+    </ol>
+
+
+      <div class="row">
+        <div class="col-lg-12">
+          <!-- Example Bar Chart Card-->
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-bar-chart"></i> Transparence et corruption dans le secteur publique</div>
+            <div class="card-body">
+              <div class="row">
+                <div class="col-lg-6">
+
+                <div id="type1_wdi_cpia" ></div>
+              </div>
+              <div class="col-lg-6">
+
+                <div id="type2_wdi_cpia"></div>
+              </div>
+              </div>
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+
+
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">
+          <!-- Example Bar Chart Card-->
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-bar-chart"></i> Temps nécessaires à la création d'une entreprise</div>
+            <div class="card-body">
+              <div class="row">
+                <div class="col-lg-6">
+
+                <div id="type1_wdi_startup" ></div>
+              </div>
+              <div class="col-lg-6">
+
+                <div id="type2_wdi_startup"></div>
+              </div>
+              </div>
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+
+
+
+        </div>
+      </div>
+      <div class="row">
+
+
+        <div class="col-lg-6">
+          <!-- Example Pie Chart Card-->
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-map"></i> Dépense militaire</div>
+            <div class="card-body">
+                  <div id="type1_wdi_military" ></div>   
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+        </div>
+      <div class="col-lg-6">
+          <!-- Example Pie Chart Card-->
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-bar-chart"></i> Politiques environnementales</div>
+            <div class="card-body">
+                  <div id="type1_wdi_cpiaenv" ></div>   
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+
+        <div class="col-lg-12">
+          <!-- Example Pie Chart Card-->
+          <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-bar-chart"></i> Migration et réfugiés</div>
+             <div class="card-body">
+              <div class="row">
+                <div class="col-lg-6">
+
+                <div id="type1_wdi_refugee" ></div>
+              </div>
+              <div class="col-lg-6">
+
+                <div id="type2_wdi_refugee"></div>
+              </div>
+              </div>
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+        </div>
+      </div>
+      
+
+
+  <br>
+
+
+    <!-- /.container-fluid-->
+    <!-- /.content-wrapper-->
+    <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>Copyright © Agence Française de Développement</small>
+        </div>
+      </div>
+    </footer>
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    
+
+    <!-- Custom scripts for all pages-->
+    <script src="js/sb-admin.min.js"></script>
+
+    <!-- Custom scripts for this page-->
+
+  </div>
+
+</body>
+
+</html>

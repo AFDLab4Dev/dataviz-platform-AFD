@@ -1,0 +1,21 @@
+.btn-info{
+ background-color: #273B77;
+border-color: #273B77;}
+
+.marker{
+	  background-size: contain;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+                /* (853 / 1280 * 100) */
+}
+
+.urban-element {
+    margin-top: 10px;
+}
+
+.sub-urban-element {
+    margin-top: 10px;
+    color: white!important;
+}
+

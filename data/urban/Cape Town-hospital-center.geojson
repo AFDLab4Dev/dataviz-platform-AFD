@@ -1,0 +1,1528 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/2839608",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mowbray Maternity Hospital",
+    "type": "multipolygon",
+    "id": "relation/2839608"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4741234,
+          -33.9485597
+        ],
+        [
+          18.4740928,
+          -33.9492016
+        ],
+        [
+          18.4740496,
+          -33.9492312
+        ],
+        [
+          18.4739039,
+          -33.9492227
+        ],
+        [
+          18.4737684,
+          -33.9503185
+        ],
+        [
+          18.4747642,
+          -33.950441
+        ],
+        [
+          18.4748398,
+          -33.9503992
+        ],
+        [
+          18.4749516,
+          -33.9488518
+        ],
+        [
+          18.4744677,
+          -33.9488625
+        ],
+        [
+          18.4744467,
+          -33.9485451
+        ],
+        [
+          18.4743582,
+          -33.9485473
+        ],
+        [
+          18.4741234,
+          -33.9485597
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/3103077",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Milnerton Medi-Clinic",
+    "type": "multipolygon",
+    "id": "relation/3103077"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.5047677,
+          -33.8652396
+        ],
+        [
+          18.5055828,
+          -33.8656669
+        ],
+        [
+          18.5077724,
+          -33.8668144
+        ],
+        [
+          18.5082632,
+          -33.8661836
+        ],
+        [
+          18.5083047,
+          -33.8661302
+        ],
+        [
+          18.5082866,
+          -33.8660795
+        ],
+        [
+          18.5082802,
+          -33.8660616
+        ],
+        [
+          18.508254,
+          -33.8660477
+        ],
+        [
+          18.5074082,
+          -33.8655985
+        ],
+        [
+          18.5073424,
+          -33.8655643
+        ],
+        [
+          18.5070688,
+          -33.8654188
+        ],
+        [
+          18.5069351,
+          -33.8653478
+        ],
+        [
+          18.5068584,
+          -33.8653088
+        ],
+        [
+          18.504533,
+          -33.864073
+        ],
+        [
+          18.5044691,
+          -33.864047
+        ],
+        [
+          18.5043464,
+          -33.8642076
+        ],
+        [
+          18.5039379,
+          -33.8647403
+        ],
+        [
+          18.504697,
+          -33.8651417
+        ],
+        [
+          18.5047677,
+          -33.8652396
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/17232452",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "2 Military Hospital",
+    "id": "way/17232452"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4531023,
+          -34.0036175
+        ],
+        [
+          18.4530132,
+          -34.0042605
+        ],
+        [
+          18.4531347,
+          -34.0042767
+        ],
+        [
+          18.4531104,
+          -34.0044388
+        ],
+        [
+          18.4541831,
+          -34.0045496
+        ],
+        [
+          18.4542452,
+          -34.0040849
+        ],
+        [
+          18.4540831,
+          -34.0040579
+        ],
+        [
+          18.4541209,
+          -34.0037526
+        ],
+        [
+          18.4531023,
+          -34.0036175
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/272205252",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Victoria Hospital",
+    "phone": "021 799 1111",
+    "id": "way/272205252"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4577952,
+          -34.0113758
+        ],
+        [
+          18.4577907,
+          -34.0122147
+        ],
+        [
+          18.4581459,
+          -34.0127265
+        ],
+        [
+          18.4585935,
+          -34.0129695
+        ],
+        [
+          18.460091,
+          -34.0115558
+        ],
+        [
+          18.4601888,
+          -34.011399
+        ],
+        [
+          18.4595204,
+          -34.0114303
+        ],
+        [
+          18.4577952,
+          -34.0113758
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/412983686",
+  "properties": {
+    "addr:city": "Cape Town",
+    "addr:country": "ZA",
+    "addr:housenumber": "32",
+    "addr:postcode": "8001",
+    "addr:street": "Prince Street",
+    "addr:suburb": "Oranjezicht",
+    "amenity": "hospital",
+    "email": "malcolmforster@boothhosp.org",
+    "emergency": "no",
+    "fax": "+27 21 461 4106",
+    "name": "Booth Memorial Hospital",
+    "operator": "The Salvation Army",
+    "phone": "+27 21 465 4846",
+    "website": "http://salvationarmy.org.za/hospitals/",
+    "id": "way/412983686"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4141374,
+          -33.937501
+        ],
+        [
+          18.4141589,
+          -33.9380339
+        ],
+        [
+          18.4142192,
+          -33.9380785
+        ],
+        [
+          18.4152358,
+          -33.9379027
+        ],
+        [
+          18.4151017,
+          -33.9375533
+        ],
+        [
+          18.415044,
+          -33.9374821
+        ],
+        [
+          18.4149608,
+          -33.9374687
+        ],
+        [
+          18.4141374,
+          -33.937501
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/412983690",
+  "properties": {
+    "addr:city": "Cape Town",
+    "addr:country": "ZA",
+    "addr:housenumber": "21",
+    "addr:postcode": "8001",
+    "addr:street": "Hof Street",
+    "addr:suburb": "Oranjezicht",
+    "amenity": "hospital",
+    "email": "hospmngrcapet@mediclinic.co.za",
+    "fax": "+27 21 464 5501",
+    "name": "Mediclinic Cape Town",
+    "operator": "Mediclinic",
+    "phone": "+27 21 464 5500",
+    "website": "http://www.mediclinic.co.za/",
+    "id": "way/412983690"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4107874,
+          -33.9361011
+        ],
+        [
+          18.4109537,
+          -33.9357762
+        ],
+        [
+          18.4105916,
+          -33.9355781
+        ],
+        [
+          18.4096635,
+          -33.9368777
+        ],
+        [
+          18.4103716,
+          -33.9373985
+        ],
+        [
+          18.41101,
+          -33.9361879
+        ],
+        [
+          18.4107874,
+          -33.9361011
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476408306",
+  "properties": {
+    "amenity": "hospital",
+    "id": "way/476408306"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4482955,
+          -33.9324602
+        ],
+        [
+          18.4492825,
+          -33.9326561
+        ],
+        [
+          18.4495588,
+          -33.931668
+        ],
+        [
+          18.4486173,
+          -33.9314721
+        ],
+        [
+          18.4482955,
+          -33.9324602
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/272205250",
+  "properties": {
+    "alt_name": "Somerset Hospital",
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "New Somerset Hospital",
+    "phone": "021 402 6911",
+    "wikipedia": "en:Somerset Hospital (Cape Town)",
+    "id": "way/272205250"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4162689,
+          -33.9036971
+        ],
+        [
+          18.4156356,
+          -33.904101
+        ],
+        [
+          18.4156223,
+          -33.9041351
+        ],
+        [
+          18.415539,
+          -33.9041887
+        ],
+        [
+          18.4154759,
+          -33.9042319
+        ],
+        [
+          18.415444,
+          -33.9042317
+        ],
+        [
+          18.4145893,
+          -33.9047843
+        ],
+        [
+          18.4145722,
+          -33.9048876
+        ],
+        [
+          18.4146099,
+          -33.9049723
+        ],
+        [
+          18.4160531,
+          -33.9065105
+        ],
+        [
+          18.416172,
+          -33.9064301
+        ],
+        [
+          18.4161775,
+          -33.9063401
+        ],
+        [
+          18.4162008,
+          -33.9063241
+        ],
+        [
+          18.4162647,
+          -33.90628
+        ],
+        [
+          18.4163344,
+          -33.9062844
+        ],
+        [
+          18.4163555,
+          -33.9063061
+        ],
+        [
+          18.4173639,
+          -33.9056234
+        ],
+        [
+          18.4173564,
+          -33.9056044
+        ],
+        [
+          18.4173959,
+          -33.9055789
+        ],
+        [
+          18.4174556,
+          -33.9055387
+        ],
+        [
+          18.4174773,
+          -33.9055562
+        ],
+        [
+          18.4175736,
+          -33.9054897
+        ],
+        [
+          18.4175535,
+          -33.9054697
+        ],
+        [
+          18.4178998,
+          -33.9052344
+        ],
+        [
+          18.4178933,
+          -33.9051357
+        ],
+        [
+          18.417407,
+          -33.904615
+        ],
+        [
+          18.4170783,
+          -33.9042772
+        ],
+        [
+          18.4165142,
+          -33.903784
+        ],
+        [
+          18.4163903,
+          -33.9037027
+        ],
+        [
+          18.4162689,
+          -33.9036971
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/231762776",
+  "properties": {
+    "addr:city": "Rosebank",
+    "addr:country": "ZA",
+    "addr:housenumber": "46",
+    "addr:postcode": "7700",
+    "addr:street": "Sawkins Road",
+    "amenity": "hospital",
+    "name": "Red Cross War Memorial Children's Hospital: Division of Child and Adolescent Psychiatry",
+    "id": "way/231762776"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4803602,
+          -33.9523601
+        ],
+        [
+          18.4804158,
+          -33.952437
+        ],
+        [
+          18.4806026,
+          -33.9525964
+        ],
+        [
+          18.4807643,
+          -33.9527492
+        ],
+        [
+          18.4808915,
+          -33.9528964
+        ],
+        [
+          18.4810266,
+          -33.9531954
+        ],
+        [
+          18.4811114,
+          -33.9534757
+        ],
+        [
+          18.481183,
+          -33.953513
+        ],
+        [
+          18.4812611,
+          -33.9535152
+        ],
+        [
+          18.4821794,
+          -33.9526865
+        ],
+        [
+          18.4803602,
+          -33.9523601
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/23883140",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Groote Schuur Hospital",
+    "website": "http://www.gsh.co.za/",
+    "wikipedia": "en:Groote Schuur Hospital",
+    "id": "way/23883140"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4597256,
+          -33.9405587
+        ],
+        [
+          18.4604182,
+          -33.9428449
+        ],
+        [
+          18.4606373,
+          -33.9428257
+        ],
+        [
+          18.4608624,
+          -33.9428511
+        ],
+        [
+          18.461251,
+          -33.9428738
+        ],
+        [
+          18.4616806,
+          -33.9428823
+        ],
+        [
+          18.4620011,
+          -33.942854
+        ],
+        [
+          18.4621818,
+          -33.9428455
+        ],
+        [
+          18.4625467,
+          -33.9428427
+        ],
+        [
+          18.4627819,
+          -33.9428229
+        ],
+        [
+          18.4629388,
+          -33.9427748
+        ],
+        [
+          18.463116,
+          -33.9426786
+        ],
+        [
+          18.463421,
+          -33.9424431
+        ],
+        [
+          18.4638968,
+          -33.9421723
+        ],
+        [
+          18.4654652,
+          -33.9416264
+        ],
+        [
+          18.4655095,
+          -33.9415811
+        ],
+        [
+          18.4655198,
+          -33.9415302
+        ],
+        [
+          18.4652709,
+          -33.9407976
+        ],
+        [
+          18.4651413,
+          -33.9405628
+        ],
+        [
+          18.4649913,
+          -33.9403762
+        ],
+        [
+          18.4648174,
+          -33.9401499
+        ],
+        [
+          18.4646708,
+          -33.9400198
+        ],
+        [
+          18.464248,
+          -33.9396181
+        ],
+        [
+          18.464023,
+          -33.9394116
+        ],
+        [
+          18.4635521,
+          -33.9390066
+        ],
+        [
+          18.4629982,
+          -33.9393527
+        ],
+        [
+          18.4618609,
+          -33.9400381
+        ],
+        [
+          18.4601765,
+          -33.9404386
+        ],
+        [
+          18.4597256,
+          -33.9405587
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/4627773",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Valkenberg Psychiatric Hospital",
+    "wikipedia": "en:Valkenberg Hospital",
+    "id": "way/4627773"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4823513,
+          -33.9385158
+        ],
+        [
+          18.4820641,
+          -33.9376937
+        ],
+        [
+          18.4806519,
+          -33.9381313
+        ],
+        [
+          18.4813314,
+          -33.9402461
+        ],
+        [
+          18.4829607,
+          -33.9398474
+        ],
+        [
+          18.4830286,
+          -33.940081
+        ],
+        [
+          18.4833812,
+          -33.9398387
+        ],
+        [
+          18.4834816,
+          -33.9395741
+        ],
+        [
+          18.4834274,
+          -33.9391108
+        ],
+        [
+          18.4833384,
+          -33.9391353
+        ],
+        [
+          18.4830895,
+          -33.9383805
+        ],
+        [
+          18.4823513,
+          -33.9385158
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/4353198",
+  "properties": {
+    "addr:street": "Klipfontein Road",
+    "amenity": "hospital",
+    "name": "Red Cross War Memorial Children's Hospital",
+    "phone": "021 658 5111",
+    "website": "http://www.westerncape.gov.za/redcrosshospital",
+    "wikipedia": "en:Red Cross War Memorial Children's Hospital",
+    "id": "way/4353198"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4877206,
+          -33.9559113
+        ],
+        [
+          18.4883114,
+          -33.9553552
+        ],
+        [
+          18.4897297,
+          -33.955582
+        ],
+        [
+          18.4897882,
+          -33.9553777
+        ],
+        [
+          18.4901274,
+          -33.9549912
+        ],
+        [
+          18.4903077,
+          -33.9546612
+        ],
+        [
+          18.487251,
+          -33.9528335
+        ],
+        [
+          18.4867083,
+          -33.9525316
+        ],
+        [
+          18.4866413,
+          -33.9525101
+        ],
+        [
+          18.48658,
+          -33.9525184
+        ],
+        [
+          18.4865044,
+          -33.9525303
+        ],
+        [
+          18.4864368,
+          -33.9525547
+        ],
+        [
+          18.4863834,
+          -33.9525817
+        ],
+        [
+          18.4863364,
+          -33.9526208
+        ],
+        [
+          18.4863104,
+          -33.9526797
+        ],
+        [
+          18.486298,
+          -33.9527479
+        ],
+        [
+          18.4860478,
+          -33.9553627
+        ],
+        [
+          18.487082,
+          -33.9557251
+        ],
+        [
+          18.4877206,
+          -33.9559113
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/68305686",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Vincent Pallotti Hospital",
+    "id": "way/68305686"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4891386,
+          -33.9435941
+        ],
+        [
+          18.4893137,
+          -33.9441239
+        ],
+        [
+          18.4877739,
+          -33.9444536
+        ],
+        [
+          18.4881712,
+          -33.9446635
+        ],
+        [
+          18.4887413,
+          -33.9448754
+        ],
+        [
+          18.4896685,
+          -33.9454739
+        ],
+        [
+          18.490371,
+          -33.9454582
+        ],
+        [
+          18.4909008,
+          -33.9449794
+        ],
+        [
+          18.4909268,
+          -33.9448009
+        ],
+        [
+          18.490889,
+          -33.9446262
+        ],
+        [
+          18.4907234,
+          -33.944638
+        ],
+        [
+          18.490695,
+          -33.9444555
+        ],
+        [
+          18.4908487,
+          -33.9444418
+        ],
+        [
+          18.4908322,
+          -33.9443123
+        ],
+        [
+          18.4908511,
+          -33.9441926
+        ],
+        [
+          18.4906997,
+          -33.9433135
+        ],
+        [
+          18.4903236,
+          -33.9433861
+        ],
+        [
+          18.4902929,
+          -33.9432684
+        ],
+        [
+          18.4902101,
+          -33.9432311
+        ],
+        [
+          18.4893373,
+          -33.943445
+        ],
+        [
+          18.4892403,
+          -33.9435647
+        ],
+        [
+          18.4891386,
+          -33.9435941
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/5098997",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Brooklyn Chest Hospital",
+    "id": "way/5098997"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          18.4825525,
+          -33.9015555
+        ],
+        [
+          18.4830269,
+          -33.9017225
+        ],
+        [
+          18.4830014,
+          -33.9017692
+        ],
+        [
+          18.4832267,
+          -33.9018461
+        ],
+        [
+          18.483279,
+          -33.9017392
+        ],
+        [
+          18.4855575,
+          -33.902456
+        ],
+        [
+          18.4856407,
+          -33.9024315
+        ],
+        [
+          18.4873435,
+          -33.8989053
+        ],
+        [
+          18.487372,
+          -33.8987157
+        ],
+        [
+          18.4873749,
+          -33.8983546
+        ],
+        [
+          18.4851377,
+          -33.897965
+        ],
+        [
+          18.4842794,
+          -33.8978225
+        ],
+        [
+          18.4837346,
+          -33.8988871
+        ],
+        [
+          18.4837721,
+          -33.8989104
+        ],
+        [
+          18.4837681,
+          -33.898936
+        ],
+        [
+          18.4825525,
+          -33.9015555
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476862509",
+  "properties": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "source": "coct-2015",
+    "id": "way/476862509"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        18.5082866,
+        -33.8660795
+      ],
+      [
+        18.5083047,
+        -33.8661302
+      ],
+      [
+        18.5082632,
+        -33.8661836
+      ],
+      [
+        18.5077724,
+        -33.8668144
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/2839608",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Mowbray Maternity Hospital",
+    "type": "multipolygon",
+    "id": "relation/2839608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.47436,
+      -33.9494931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/3103077",
+  "properties": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Milnerton Medi-Clinic",
+    "type": "multipolygon",
+    "id": "relation/3103077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5061213,
+      -33.8654307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/4954709",
+  "properties": {
+    "id": "way/4954709"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.505769,
+      -33.8647329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/50159939",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Claremont Hospital",
+    "id": "node/50159939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4664961,
+      -33.9862746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/50159943",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Kingsbury Hospital",
+    "id": "node/50159943"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4688649,
+      -33.986421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/50159949",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Crescent Clinic",
+    "wheelchair": "no",
+    "id": "node/50159949"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4670905,
+      -33.9894014
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/60482323",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "Potlatch alpha",
+    "name": "UCT Private Academic Hospital",
+    "id": "node/60482323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4633143,
+      -33.942054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/60807137",
+  "properties": {
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Christiaan Barnard Memorial Hospital",
+    "wheelchair": "yes",
+    "id": "node/60807137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4179364,
+      -33.9219382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152108279",
+  "properties": {
+    "id": "way/152108279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4742408,
+      -33.9485535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/212427477",
+  "properties": {
+    "id": "way/212427477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4744024,
+      -33.9485462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/212427479",
+  "properties": {
+    "id": "way/212427479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4746991,
+      -33.9487038
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/212427480",
+  "properties": {
+    "id": "way/212427480"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.47436,
+      -33.9495003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/231230369",
+  "properties": {
+    "id": "way/231230369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5043528,
+      -33.8647236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476862509",
+  "properties": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "source": "coct-2015",
+    "id": "way/476862509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5080386,
+      -33.8664469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476867389",
+  "properties": {
+    "id": "way/476867389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5044077,
+      -33.8641273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292585",
+  "properties": {
+    "id": "way/478292585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5073753,
+      -33.8655814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292586",
+  "properties": {
+    "id": "way/478292586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5072056,
+      -33.8654916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292589",
+  "properties": {
+    "id": "way/478292589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5082703,
+      -33.8660636
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292590",
+  "properties": {
+    "id": "way/478292590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5078311,
+      -33.8658231
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292600",
+  "properties": {
+    "id": "way/478292600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5051753,
+      -33.8654533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/478292601",
+  "properties": {
+    "id": "way/478292601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.5066776,
+      -33.8662407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/536984917",
+  "properties": {
+    "amenity": "hospital",
+    "name": "Woodstock Hospital",
+    "id": "node/536984917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4493796,
+      -33.9319263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4220407923",
+  "properties": {
+    "access": "permissive",
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "id": "node/4220407923"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.415539,
+      -33.9041887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4220411426",
+  "properties": {
+    "access": "permissive",
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "id": "node/4220411426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4162008,
+      -33.9063241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4220412320",
+  "properties": {
+    "access": "private",
+    "barrier": "gate",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "id": "node/4220412320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      18.4173959,
+      -33.9055789
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107909085-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-107909085-1');
+  </script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Agence Française de Développement - Dataviz portal</title>
+  <!-- Bootstrap core CSS-->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom fonts for this template-->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <!-- Page level plugin CSS-->
+  <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+  <!-- Custom styles for this template-->
+  <link href="css/sb-admin.css" rel="stylesheet">
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+  <!-- Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+  <a href="index.html">
+    <img src="https://reportersdudeveloppement.files.wordpress.com/2017/06/afd_embleme_horizontale_designation_blanc.png" style="height: 35px;">
+    </a>
+
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
+        <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#dash" data-parent="#exampleAccordion">
+
+            <i class="fa fa-fw fa-globe"></i>
+            <span class="nav-link-text">Country Dashboard</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="dash">
+            <li>
+              <a href="country_eco.html"><i class="fa fa-fw fa-line-chart"></i> Environnement Economique</a>
+            </li>
+            <li>
+              <a href="country_human.html"><i class="fa fa-fw fa-users"></i> Développement humain durable</a>
+            </li>
+            <li>
+              <a href="country_inst.html"><i class="fa fa-fw fa-balance-scale"></i> Environnement institutionnel</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+          <a class="nav-link" href="indicator.html">
+            <i class="fa fa-fw fa-area-chart"></i>
+            <span class="nav-link-text">Indicators browser</span>
+          </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+          <a class="nav-link" href="urban.html">
+            <i class="fa fa-fw fa-building"></i>
+            <span class="nav-link-text">Urban Dashboard</span>
+          </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+          <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
+            <i class="fa fa-fw fa-file"></i>
+            <span class="nav-link-text">Interactive reports</span>
+          </a>
+          <ul class="sidenav-second-level collapse" id="collapseComponents">
+
+            <li>
+              <a href="sahel.html">Sahel</a>
+            </li>
+            <li>
+              <a href="error.html">Our Activities</a>
+            </li>
+          </ul>
+        </li>
+             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+          <a class="nav-link" href="http://opendata.afd.fr">
+            <i class="fa fa-fw fa-database"></i>
+            <span class="nav-link-text">AFD OpenData</span>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav sidenav-toggler">
+        <li class="nav-item">
+          <a class="nav-link text-center" id="sidenavToggler">
+            <i class="fa fa-fw fa-angle-left"></i>
+          </a>
+        </li>
+      </ul>
+      
+    </div>
+  </nav>
+
+  <div class="content-wrapper">
+    <div class="container-fluid">
+      <!-- Breadcrumbs-->
+
+
+
+      <div class="row">
+        <div class="col-lg-6">
+          <!-- Country Dashboard-->
+          <div class="card mb-3">
+                      <div class="card-header">
+              <i class="fa fa-globe"></i><a href="country.html">Country Dashboard</a></div>
+            <a href="country.html"><img src="http://data.afd.fr/dashboards.jpg"  class="img-fluid" alt="Responsive image"></a>
+
+
+              <center><p>Des rapports par pays pour comprendre rapidement leurs grands enjeux.</p></center>
+              
+              
+            </div>
+          </div>
+
+        <div class="col-lg-6">
+          <!-- Country Dashboard-->
+          <div class="card mb-3">
+                      <div class="card-header">
+              <i class="fa fa-area-chart"></i><a href="indicator.html">Indicators browser</a></div>
+            <a href="indicator.html"><img src="http://data.afd.fr/secteur.jpg" class="img-fluid" alt="Responsive image"></a>
+
+
+              <center><p>Chercher rapidement des indicateurs des grandes organisations et les visualiser en un clic.</p></center>
+              
+              
+            </div>
+          </div>
+      
+    </div>
+      <div class="row">
+ <div class="col-lg-6">
+          <!-- Country Dashboard-->
+          <div class="card mb-3">
+                      <div class="card-header">
+              <i class="fa fa-area-building"></i><a href="urban.html">African urban dashboard</a></div>
+            <a href="urban.html"><img src="http://data.afd.fr/about.jpg" class="img-fluid" alt="Responsive image"></a>
+
+
+              <center><p>Explorer et analyser rapidement le contexte d'une ville.</p></center>
+              
+              
+            </div>
+          </div>
+        <div class="col-lg-6">
+          <!-- Country Dashboard-->
+          <div class="card mb-3">
+                      <div class="card-header">
+              <i class="fa fa-area-file"></i><a href="report.html">Interactive Reports</a></div>
+            <a href="report.html"><img src="http://data.afd.fr/story.jpg" class="img-fluid" alt="Responsive image"></a>
+
+
+              <center><p>Quelques articles et dataviz sur une thématique précise.</p></center>
+              
+              
+            </div>
+          </div>
+    </div>
+    
+
+
+
+
+
+
+
+    <!-- /.container-fluid-->
+    <!-- /.content-wrapper-->
+    <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>Copyright © Agence Française de Développement</small>
+        </div>
+      </div>
+    </footer>
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    
+    <!-- Bootstrap core JavaScript-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Page level plugin JavaScript-->
+
+    <!-- Custom scripts for all pages-->
+    <script src="js/sb-admin.min.js"></script>
+    <!-- Custom scripts for this page-->
+
+  </div>
+</body>
+
+</html>
