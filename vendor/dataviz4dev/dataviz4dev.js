@@ -81,88 +81,178 @@ var iso3toiso2 = {
     'ZWE': 'ZW'
 }
 var iso2toiso3 = {
-        'AF': 'AFG',
-        'AL': 'ALB',
-        'AO': 'AGO',
-        'AM': 'ARM',
-        'AZ': 'AZE',
-        'BD': 'BGD',
-        'BJ': 'BEN',
-        'BO': 'BOL',
-        'BT': 'BTN',
-        'BR': 'BRA',
-        'BF': 'BFA',
-        'NM': 'null',
-        'KH': 'KHM',
-        'CM': 'CMR',
-        'CF': 'CAF',
-        'TD': 'TCD',
-        'CO': 'COL',
-        'KM': 'COM',
-        'CG': 'COG',
-        'CD': 'COD',
-        'CI': 'CIV',
-        'EC': 'ECU',
-        'EG': 'EGY',
-        'ES': 'ESP',
-        'ER': 'ERI',
-        'ET': 'ETH',
-        'GA': 'GAB',
-        'GH': 'GHA',
-        'GU': 'GUM',
-        'GN': 'GIN',
-        'GY': 'GUY',
-        'HT': 'HTI',
-        'HN': 'HND',
-        'ID': 'IDN',
-        'JO': 'JOR',
-        'KE': 'KEN',
-        'KY': 'CYM',
-        'LS': 'LSO',
-        'LB': 'LBN',
-        'MD': 'MDA',
-        'MW': 'MWI',
-        'MV': 'MDV',
-        'ML': 'MLI',
-        'MR': 'MRT',
-        'MX': 'MEX',
-        'MA': 'MAR',
-        'MZ': 'MOZ',
-        'NP': 'NPL',
-        'NC': 'NCL',
-        'NI': 'NIC',
-        'NG': 'NGA',
-        'PK': 'PAK',
-        'PY': 'PRY',
-        'PE': 'PER',
-        'PH': 'PHL',
-        'RW': 'RWA',
-        'ST': 'STP',
-        'SN': 'SEN',
-        'SL': 'SLE',
-        'ZA': 'ZAF',
-        'LK': 'LKA',
-        'SD': 'SDN',
-        'SZ': 'SWZ',
-        'TJ': 'TJK',
-        'TZ': 'TZA',
-        'TH': 'THA',
-        'GM': 'GMB',
-        'TL': 'TLS',
-        'TG': 'TGO',
-        'TT': 'TTO',
-        'TN': 'TUN',
-        'TR': 'TUR',
-        'TM': 'TKM',
-        'UG': 'UGA',
-        'UA': 'UKR',
-        'UZ': 'UZB',
-        'VN': 'VNM',
-        'YE': 'YEM',
-        'ZM': 'ZMB',
-        'ZW': 'ZWE'
-    }
-    // Miscellaneous fonctions
+    'AF': 'AFG',
+    'AL': 'ALB',
+    'AO': 'AGO',
+    'AM': 'ARM',
+    'AZ': 'AZE',
+    'BD': 'BGD',
+    'BJ': 'BEN',
+    'BO': 'BOL',
+    'BT': 'BTN',
+    'BR': 'BRA',
+    'BF': 'BFA',
+    'NM': 'null',
+    'KH': 'KHM',
+    'CM': 'CMR',
+    'CF': 'CAF',
+    'TD': 'TCD',
+    'CO': 'COL',
+    'KM': 'COM',
+    'CG': 'COG',
+    'CD': 'COD',
+    'CI': 'CIV',
+    'EC': 'ECU',
+    'EG': 'EGY',
+    'ES': 'ESP',
+    'ER': 'ERI',
+    'ET': 'ETH',
+    'GA': 'GAB',
+    'GH': 'GHA',
+    'GU': 'GUM',
+    'GN': 'GIN',
+    'GY': 'GUY',
+    'HT': 'HTI',
+    'HN': 'HND',
+    'ID': 'IDN',
+    'JO': 'JOR',
+    'KE': 'KEN',
+    'KY': 'CYM',
+    'LS': 'LSO',
+    'LB': 'LBN',
+    'MD': 'MDA',
+    'MW': 'MWI',
+    'MV': 'MDV',
+    'ML': 'MLI',
+    'MR': 'MRT',
+    'MX': 'MEX',
+    'MA': 'MAR',
+    'MZ': 'MOZ',
+    'NP': 'NPL',
+    'NC': 'NCL',
+    'NI': 'NIC',
+    'NG': 'NGA',
+    'PK': 'PAK',
+    'PY': 'PRY',
+    'PE': 'PER',
+    'PH': 'PHL',
+    'RW': 'RWA',
+    'ST': 'STP',
+    'SN': 'SEN',
+    'SL': 'SLE',
+    'ZA': 'ZAF',
+    'LK': 'LKA',
+    'SD': 'SDN',
+    'SZ': 'SWZ',
+    'TJ': 'TJK',
+    'TZ': 'TZA',
+    'TH': 'THA',
+    'GM': 'GMB',
+    'TL': 'TLS',
+    'TG': 'TGO',
+    'TT': 'TTO',
+    'TN': 'TUN',
+    'TR': 'TUR',
+    'TM': 'TKM',
+    'UG': 'UGA',
+    'UA': 'UKR',
+    'UZ': 'UZB',
+    'VN': 'VNM',
+    'YE': 'YEM',
+    'ZM': 'ZMB',
+    'ZW': 'ZWE'
+}
+
+var gps_dict = {
+    "AL": "ALB,41.1533,20.1683,7",
+    "AO": "AGO,-11.2027,17.8739,5",
+    "AM": "ARM,40.0691,45.0382,7",
+    "AZ": "AZE,40.1431,47.5769,7",
+    "BD": "BGD,23.685,90.3563,7",
+    "BJ": "BEN,9.30769,2.31583,6",
+    "BO": "BOL,-16.2902,-63.5887,5",
+    "BT": "BTN,27.5142,90.4336,8",
+    "BR": "BRA,-14.235,-51.9253,4",
+    "BF": "BFA,12.2383,-1.56159,6",
+    "BU": "null,-32.87,26.12,6",
+    "KH": "KHM,12.5657,104.991, 7",
+    "CM": "CMR,7.36972,12.3547, 5",
+    "CF": "CAF,6.61111,20.9394,6",
+    "TD": "TCD,15.4542,18.7322,5",
+    "CO": "COL,4.57087,-74.2973,5",
+    "KM": "COM,-11.875,43.8722,8",
+    "CG": "COG,-0.228021,15.8277,6",
+    "CD": "COD,-4.03833,21.7587,5",
+    "CI": "CIV,7.53999,-5.54708,6",
+    "DR": "null,-32.87,26.12,7",
+    "EC": "ECU,-1.83124,-78.1834,6",
+    "EG": "EGY,26.8206,30.8025,5",
+    "ES": "ESP,40.4637,-3.74922,6",
+    "ER": "ERI,15.1794,39.7823,7",
+    "ET": "ETH,9.145,40.4897,5",
+    "GA": "GAB,-0.803689,11.6094,6",
+    "GH": "GHA,7.94653,-1.02319,6",
+    "GU": "GUM,13.4443,144.794,9",
+    "GN": "GIN,9.94559,-9.69664,6",
+    "GY": "GUY,4.86042,-58.9302,6",
+    "HT": "HTI,18.9712,-72.2852,8",
+    "HN": "HND,15.2,-86.2419,7",
+    "IA": "null,-32.87,26.12,7",
+    "ID": "IDN,-0.789275,113.921,4",
+    "JO": "JOR,30.5852,36.2384,7",
+    "KK": "null,-32.87,26.12,7",
+    "KE": "KEN,-0.023559,37.9062,6",
+    "KY": "CYM,19.5135,-80.567,9",
+    "LS": "LSO,-29.61,28.2336,8",
+    "LB": "LBN,33.8547,35.8623,8",
+    "MD": "MDA,47.4116,28.3699,7",
+    "MW": "MWI,-13.2543,34.3015,6",
+    "MV": "MDV,3.20278,73.2207,7",
+    "ML": "MLI,17.5707,-3.99617,5",
+    "MR": "MRT,21.0079,-10.9408,5",
+    "MX": "MEX,23.6345,-102.553,5",
+    "MB": "null,-32.87,26.12,7",
+    "MA": "MAR,31.7917,-7.09262,5",
+    "MZ": "MOZ,-18.6657,35.5296,5",
+    "NM": "null,-32.87,26.12,7",
+    "NP": "NPL,28.3949,84.124,7",
+    "NC": "NCL,-20.9043,165.618,7",
+    "NI": "NIC,12.8654,-85.2072,7",
+    "NG": "NGA,9.082,8.67528,6",
+    "PK": "PAK,30.3753,69.3451,5",
+    "PY": "PRY,-23.4425,-58.4438,6",
+    "PE": "PER,-9.18997,-75.0152,5",
+    "PH": "PHL,12.8797,121.774,5",
+    "RW": "RWA,-1.94028,29.8739,8",
+    "ST": "STP,0.18636,6.61308,8",
+    "SN": "SEN,14.4974,-14.4524,7",
+    "SL": "SLE,8.46056,-11.7799,7",
+    "ZA": "ZAF,-30.5595,22.9375,5",
+    "LK": "LKA,7.87305,80.7718,7",
+    "SD": "SDN,12.8628,30.2176,5",
+    "SZ": "SWZ,-26.5225,31.4659,8",
+    "TJ": "TJK,38.861,71.2761,6",
+    "TZ": "TZA,-6.36903,34.8888,5",
+    "TH": "THA,15.87,100.993,5",
+    "GM": "GMB,13.4432,-15.3101,8",
+    "TL": "TLS,-8.87422,125.728,8",
+    "TG": "TGO,8.61954,0.824782,7",
+    "TT": "TTO,10.6918,-61.2225,8",
+    "TN": "TUN,33.8869,9.5375,6",
+    "TR": "TUR,38.9637,35.2433,6",
+    "TM": "TKM,38.9697,59.5563,7",
+    "UG": "UGA,1.37333,32.2903,7",
+    "UA": "UKR,48.3794,31.1656,6",
+    "UZ": "UZB,41.3775,64.5853,6",
+    "VN": "VNM,14.0583,108.277,6",
+    "YE": "YEM,15.5527,48.5164,6",
+    "ZM": "ZMB,-13.1339,27.8493,6",
+    "ZW": "ZWE,-19.0154,29.1549,6"
+}
+
+
+
+// Miscellaneous fonctions
 function OnChartComplete(chart) { // on complete
     if (iterator < 2) {
         var textX = chart.plotLeft + chart.plotWidth + 100;
@@ -203,21 +293,32 @@ function dataviz_type3(container, API_params, common_ressources, furnisher_obj, 
     promise.then(function(return_data) {
         display_dataviz_type3(return_data, container, API_params, furnisher_obj[furnisher_name].source);
     });
-    
+
 
 
 }
 
 function dataviz_type4(container, API_params, common_ressources, furnisher_obj, furnisher_name) {
-     var get = furnisher_obj[furnisher_name].prepare_type4(common_ressources, API_params);
-     var promise = furnisher_obj[furnisher_name].parse_type4(get[1],get[0],common_ressources)
+    var get = furnisher_obj[furnisher_name].prepare_type4(common_ressources, API_params);
+    var promise = furnisher_obj[furnisher_name].parse_type4(get[1], get[0], common_ressources)
     promise.then(function(return_data) {
-      display_dataviz_type4(return_data, container, furnisher_obj[furnisher_name].source)
+        display_dataviz_type4(return_data, container, furnisher_obj[furnisher_name].source)
     });
-     
+
 
 
 }
+
+function dataviz_type5(container, API_params, common_ressources, furnisher_obj, furnisher_name) {
+    var url = furnisher_obj[furnisher_name].prepare_type5(common_ressources, API_params);
+    promise = furnisher_obj[furnisher_name].parse_type5(url, container, API_params)
+    promise.then(function(map) {
+        console.log(map)
+        return map
+    });
+
+}
+
 
 
 
@@ -396,23 +497,51 @@ function display_dataviz_type3(return_data, container, API_params, credits) {
 }
 
 function display_dataviz_type4(return_data, container, credits) {
-  console.log( return_data.label)
     return new Highcharts.Chart({
-        chart: {renderTo: container, polar: true, type: 'line'},
-        title: {text: '',x: 0, style: {"fontSize": "14px"}},
-        credits: { enabled: false },
-        subtitle: {useHTML: true, text: credits},
-
-       xAxis: {
-         categories: return_data.label,
-          tickmarkPlacement: 'on',lineWidth: 0
+        chart: {
+            renderTo: container,
+            polar: true,
+            type: 'line'
+        },
+        title: {
+            text: '',
+            x: 0,
+            style: {
+                "fontSize": "14px"
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        subtitle: {
+            useHTML: true,
+            text: credits
         },
 
-       yAxis: {gridLineInterpolation: 'polygon', lineWidth: 0, tickInterval:1},
-        tooltip: {shared: true, valuePrefix: '', valueSuffix: '', valueDecimals: 2},
+        xAxis: {
+            categories: return_data.label,
+            tickmarkPlacement: 'on',
+            lineWidth: 0
+        },
+
+        yAxis: {
+            gridLineInterpolation: 'polygon',
+            lineWidth: 0,
+            tickInterval: 1
+        },
+        tooltip: {
+            shared: true,
+            valuePrefix: '',
+            valueSuffix: '',
+            valueDecimals: 2
+        },
 
         series: return_data.series
-            }, OnChartComplete);
+    }, OnChartComplete);
+}
+
+function display_dataviz_type5(return_data, container, credits) {
+
 }
 
 
@@ -627,83 +756,83 @@ function parse_data_wdi_type3(get, cname, API_params) {
     var date_2 = [];
 
     $.getJSON(get[1], function(json) {
-            var date_1 = []
+        var date_1 = []
 
-            $.each(json[1], function(i, data) {
-                    switch (1) {
-                        case (positive($.inArray(data.country.value, common_ressources.region_list))):
-                            return_data.region_name = data.country.value;
-                            return_data.arrayRegion_1.push(parseFloat(data.value))
-                            break;
-                        default:
-                            return_data.arrayCountry_1.push(parseFloat(data.value));
-                            break;
+        $.each(json[1], function(i, data) {
+            switch (1) {
+                case (positive($.inArray(data.country.value, common_ressources.region_list))):
+                    return_data.region_name = data.country.value;
+                    return_data.arrayRegion_1.push(parseFloat(data.value))
+                    break;
+                default:
+                    return_data.arrayCountry_1.push(parseFloat(data.value));
+                    break;
 
-                    }
-                    date_1.push(data.date)
-                    return_data.indicatorName_1 = data.indicator.value;
+            }
+            date_1.push(data.date)
+            return_data.indicatorName_1 = data.indicator.value;
 
-                });
+        });
 
 
-                request_1.resolve(date_1);
+        request_1.resolve(date_1);
 
-            }); 
+    });
 
     $.getJSON(get[2], function(json) {
-                          var date_2 = []
+        var date_2 = []
 
-            $.each(json[1], function(i, data) {
-                  switch (1) {
-                    case (positive($.inArray(data.country.value, common_ressources.region_list))):
-                          return_data.region_name = data.country.value;
-                          return_data.arrayRegion_2.push(parseFloat(data.value))
-                      break;
-                  default:
-                      return_data.arrayCountry_2.push(parseFloat(data.value));
-                      break;
+        $.each(json[1], function(i, data) {
+            switch (1) {
+                case (positive($.inArray(data.country.value, common_ressources.region_list))):
+                    return_data.region_name = data.country.value;
+                    return_data.arrayRegion_2.push(parseFloat(data.value))
+                    break;
+                default:
+                    return_data.arrayCountry_2.push(parseFloat(data.value));
+                    break;
 
-                        }
-                    date_2.push(data.date)
-                    return_data.indicatorName_2 = data.indicator.value;
+            }
+            date_2.push(data.date)
+            return_data.indicatorName_2 = data.indicator.value;
 
-                    });
+        });
 
 
 
-                    request_2.resolve(date_2);
+        request_2.resolve(date_2);
 
-                });
+    });
 
 
 
 
     $.when(request_1, request_2).done(function(date_1, date_2) {
-              return_data.date = date_1;
+        return_data.date = date_1;
 
-              return_data.series = [{
-                name: cname + " - " +return_data.indicatorName_1,
-                data: return_data.arrayCountry_1
-            },{
-                name: return_data.region_name + " - " +return_data.indicatorName_1,
-                data: return_data.arrayRegion_1
-            },{
-                name: cname + " - " +return_data.indicatorName_2,
-                data: return_data.arrayCountry_2
-            },{
-                name: return_data.region_name + " - " +return_data.indicatorName_2,
-                data: return_data.arrayRegion_2
-            }]
-
-
-              deferred.resolve(return_data);
+        return_data.series = [{
+            name: cname + " - " + return_data.indicatorName_1,
+            data: return_data.arrayCountry_1
+        }, {
+            name: return_data.region_name + " - " + return_data.indicatorName_1,
+            data: return_data.arrayRegion_1
+        }, {
+            name: cname + " - " + return_data.indicatorName_2,
+            data: return_data.arrayCountry_2
+        }, {
+            name: return_data.region_name + " - " + return_data.indicatorName_2,
+            data: return_data.arrayRegion_2
+        }]
 
 
-            });
+        deferred.resolve(return_data);
 
-        return deferred.promise();
 
-        }
+    });
+
+    return deferred.promise();
+
+}
 
 function prepare_api_request_wdi_type4(common_ressources, API_params) {
     //Get country and region name name from dictionary   
@@ -715,92 +844,91 @@ function prepare_api_request_wdi_type4(common_ressources, API_params) {
     // display is the amount of information retrieved from the API query    
     var display = nbSeries * ((API_params['end'] - API_params['start']) + 1);
     // Set url request
-    var url_array = API_params['Ind_Select'].map(function(i){
-      return "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + ";WLD/indicators/" + i+ "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=jsonP&prefix=?"
+    var url_array = API_params['Ind_Select'].map(function(i) {
+        return "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + ";WLD/indicators/" + i + "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=jsonP&prefix=?"
 
     });
-    
+
     return [cname, url_array]
 }
 
-function parse_data_wdi_type4(url_array, cname, common_ressources){
-  var deferred = $.Deferred();
-  var raw_data = new Object;
+function parse_data_wdi_type4(url_array, cname, common_ressources) {
+    var deferred = $.Deferred();
+    var raw_data = new Object;
 
-  function parse_wdi_4_each(data){
-    var raw = new Object;
-    raw.label = data[0].indicator.value;
+    function parse_wdi_4_each(data) {
+        var raw = new Object;
+        raw.label = data[0].indicator.value;
 
-    raw.country = data.filter(item => item.country.value == cname ).filter(item => item.value !=null)[0]
+        raw.country = data.filter(item => item.country.value == cname).filter(item => item.value != null)[0]
 
 
-    raw.region = data.filter(item => $.inArray(item.country.value, common_ressources.region_list) > -1 )
-    raw.region_label = raw.region[0].country.value;
-    raw.region = raw.region.filter(item => item.value != null)[0]
+        raw.region = data.filter(item => $.inArray(item.country.value, common_ressources.region_list) > -1)
+        raw.region_label = raw.region[0].country.value;
+        raw.region = raw.region.filter(item => item.value != null)[0]
 
-    raw.income = data.filter(item => $.inArray(item.country.value, income_list) > -1)
-    raw.income_label = raw.income[0].country.value;
-    raw.income = raw.income.filter(item => item.value != null)[0]
+        raw.income = data.filter(item => $.inArray(item.country.value, income_list) > -1)
+        raw.income_label = raw.income[0].country.value;
+        raw.income = raw.income.filter(item => item.value != null)[0]
 
-    raw.world = data.filter(item => $.inArray(item.country.value, world_list) > -1).filter(item => item.value != null)[0]
-    return raw
+        raw.world = data.filter(item => $.inArray(item.country.value, world_list) > -1).filter(item => item.value != null)[0]
+        return raw
 
-    
-  }
 
-  $.when.apply($, url_array.map(function(item) {
-        return $.getJSON(item).then(function(data){
-          raw_data[data[1][0].indicator.id] = parse_wdi_4_each(data[1]);
+    }
+
+    $.when.apply($, url_array.map(function(item) {
+        return $.getJSON(item).then(function(data) {
+            raw_data[data[1][0].indicator.id] = parse_wdi_4_each(data[1]);
 
 
         });
     })).then(function() {
-    var return_data = new Object;
-    return_data.label = [];
-    return_data.arrayCountry = [];
-    return_data.arrayRegion = [];
-    return_data.arrayIncome = [];
-    return_data.arrayWorld = [];
-    Object.keys(raw_data).forEach(function(key,index) {
-        return_data.label.push(raw_data[key].label);
-        return_data.region_label =  raw_data[key].region_label
-        return_data.income_label =  raw_data[key].income_label
-        return_data.arrayCountry.push(typeof raw_data[key].country != "undefined"? parseInt(raw_data[key].country.value) : null);
-        return_data.arrayRegion.push(typeof raw_data[key].region != "undefined"? parseInt(raw_data[key].region.value) : null);
-        return_data.arrayIncome.push(typeof raw_data[key].income != "undefined"? parseInt(raw_data[key].income.value) : null);
-        return_data.arrayWorld.push(typeof raw_data[key].world != "undefined"? parseInt(raw_data[key].world.value) : null);
-          // key: the name of the object key
-          // index: the ordinal position of the key within the object 
-    });
+        var return_data = new Object;
+        return_data.label = [];
+        return_data.arrayCountry = [];
+        return_data.arrayRegion = [];
+        return_data.arrayIncome = [];
+        return_data.arrayWorld = [];
+        Object.keys(raw_data).forEach(function(key, index) {
+            return_data.label.push(raw_data[key].label);
+            return_data.region_label = raw_data[key].region_label
+            return_data.income_label = raw_data[key].income_label
+            return_data.arrayCountry.push(typeof raw_data[key].country != "undefined" ? parseInt(raw_data[key].country.value) : null);
+            return_data.arrayRegion.push(typeof raw_data[key].region != "undefined" ? parseInt(raw_data[key].region.value) : null);
+            return_data.arrayIncome.push(typeof raw_data[key].income != "undefined" ? parseInt(raw_data[key].income.value) : null);
+            return_data.arrayWorld.push(typeof raw_data[key].world != "undefined" ? parseInt(raw_data[key].world.value) : null);
+            // key: the name of the object key
+            // index: the ordinal position of the key within the object 
+        });
 
-    return_data.series = [{
-                  name: cname,
-                  data: return_data.arrayCountry, 
-                  color: '#83b3ea',
-                  pointPlacement: "on"
-                }, {
-                  name: return_data.region_label,
-                  data: return_data.arrayRegion, 
-                  color: '#4572A7'
-                }, {
-                  name: return_data.income_label,
-                  data: return_data.arrayIncome, 
-                  color: '#c3d69b'
-                }, {
-                  name: 'World',
-                  data: return_data.arrayWorld,
-                  color: '#f4bb90',
-                  pointPlacement: 'on'
-                }]
+        return_data.series = [{
+            name: cname,
+            data: return_data.arrayCountry,
+            color: '#83b3ea',
+            pointPlacement: "on"
+        }, {
+            name: return_data.region_label,
+            data: return_data.arrayRegion,
+            color: '#4572A7'
+        }, {
+            name: return_data.income_label,
+            data: return_data.arrayIncome,
+            color: '#c3d69b'
+        }, {
+            name: 'World',
+            data: return_data.arrayWorld,
+            color: '#f4bb90',
+            pointPlacement: 'on'
+        }]
         console.log(return_data.series)
-      deferred.resolve(return_data);
+        deferred.resolve(return_data);
 
     });
 
     return deferred.promise()
 
 };
-
 
 
 
@@ -1066,3 +1194,163 @@ function parse_data_dhs_type2(json, cname) {
     return return_data
 
 }
+
+
+function prepare_api_request_dhs_type5(common_ressources, API_params) {
+    // prepare api request for type 2 
+    var url = "https://api.dhsprogram.com/rest/dhs/surveys?indicatorIds=" + API_params['Ind_Select'] + "&countryIds=" + iso3toiso2[API_params['Country_Select']] + "&f=json"
+    return url
+}
+
+function parse_data_dhs_type5(url, container, API_params) {
+    var deferred = $.Deferred();
+    var iso2 = iso3toiso2[API_params['Country_Select']];
+
+
+    $.getJSON(url, function(yearData) {
+        var temp = yearData.Data.length
+        var surveyyear = yearData.Data[temp - 1].SurveyYear;
+        apiURL = "https://api.dhsprogram.com/rest/dhs/data/?f=geojson&returnGeometry=true&breakdown=subnational&countryIds=" + iso2 + "+&surveyYear=" + surveyyear.toString() + "&indicatorIds=" + API_params['Ind_Select'];
+        $.getJSON(apiURL, function(returnData) {
+            var view = gps_dict[iso2].split(",")
+            map.remove()
+            map = L.map(container).setView([view[1], view[2]], view[3]);
+
+            L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                maxZoom: 18,
+                attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+                    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+                id: 'mapbox.light'
+            }).addTo(map);
+
+            var Indicator = returnData.features[0].properties.Indicator
+
+            var Max = 0;
+            var Min = 100000;
+
+            returnData.features.map(function(f) {
+                if (f.properties.Value > Max) {
+                    Max = f.properties.Value;
+                }
+                if (f.properties.Value < Min) {
+                    Min = f.properties.Value;
+                }
+            })
+
+            function getColor(d, Max, Min) {
+
+
+
+
+
+
+                return d > Math.round(Min + (4 / 5) * (Max - Min)) ? '#092f47' :
+                    d > Math.round(Min + (3 / 5) * (Max - Min)) ? '#3e6b82' :
+                    d > Math.round(Min + (2 / 5) * (Max - Min)) ? '#50A1D8' :
+                    d > Math.round(Min + (1 / 5) * (Max - Min)) ? '#77abce' :
+                    d > Math.round(Min) ? '#90c3db' :
+                    '#E0E9F0';
+            }
+
+            function style(feature) {
+                return {
+                    weight: 2,
+                    opacity: 1,
+                    color: 'white',
+                    dashArray: '3',
+                    fillOpacity: 0.7,
+                    fillColor: getColor(feature.properties.Value, Max, Min)
+                };
+            }
+
+
+            // control that shows state info on hover
+            var info = L.control();
+
+            info.onAdd = function(map) {
+                this._div = L.DomUtil.create('div', 'info');
+                this.update();
+                return this._div;
+            };
+            info.update = function(props) {
+                this._div.innerHTML = (props ? '<h3>' + Indicator + '</h3>' + '<h4>' + props.CharacteristicLabel.substr(2, props.CharacteristicLabel.length) + '</h4>' + props.Value + ' %' :
+                    Indicator);
+            };
+
+            info.addTo(map);
+
+            function highlightFeature(e) {
+                var layer = e.target;
+
+                layer.setStyle({
+                    weight: 5,
+                    color: '#666',
+                    dashArray: '',
+                    fillOpacity: 0.7
+                });
+
+                if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+                    layer.bringToFront();
+                }
+
+                info.update(layer.feature.properties);
+            }
+
+            var geojson;
+
+            function resetHighlight(e) {
+                geojson.resetStyle(e.target);
+                info.update();
+            }
+
+            function zoomToFeature(e) {
+                map.fitBounds(e.target.getBounds());
+            }
+
+            function onEachFeature(feature, layer) {
+                layer.on({
+                    mouseover: highlightFeature,
+                    mouseout: resetHighlight,
+                    click: zoomToFeature
+                });
+            }
+
+
+            geojson = L.geoJson(returnData, {
+                onEachFeature: onEachFeature,
+                style: style
+            }).addTo(map);
+
+
+            var legend = L.control({
+                position: 'bottomright'
+            });
+
+            legend.onAdd = function(map) {
+                console.log(Min)
+                var div = L.DomUtil.create('div', 'info legend'),
+                    grades = [Min, Math.round(Min + (1 / 5) * (Max - Min)), Math.round(Min + (2 / 5) * (Max - Min)), Math.round(Min + (3 / 5) * (Max - Min)), Math.round(Min + (4 / 5) * (Max - Min)), Math.round(Max)],
+                    labels = [],
+                    from, to;
+
+                for (var i = 0; i < grades.length; i++) {
+                    from = grades[i];
+                    to = grades[i + 1];
+                    console.log('<i style="background:' + getColor(from + 1, Max, Min) + '"></i> ' +
+                        from + (to ? '&ndash;' + to : '+'))
+
+                    labels.push(
+                        '<i style="background:' + getColor(from + 1, Max, Min) + '"></i> ' +
+                        from + (to ? '&ndash;' + to : '+'));
+                }
+
+                div.innerHTML = labels.join('<br>');
+                return div;
+            };
+
+            deferred.resolve(map)
+        });
+    });
+    return deferred.promise()
+};

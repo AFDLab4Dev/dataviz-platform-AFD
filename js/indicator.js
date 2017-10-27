@@ -2,7 +2,7 @@ var API_list = {"WDI":{furnisher_fr:"Banque Mondiale", indicators : "../data/wdi
                 "DHS":{furnisher_fr:"USAID", indicators: "../data/dhs.json"}}
 var furnisher = {
   WDI : {prepare_type1 : prepare_api_request_wdi_type1, prepare_type2 : prepare_api_request_wdi_type2, parse_type1: parse_data_WDI_type1, parse_type2: parse_data_WDI_type2, source: '<b>Source: </b> <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/889386" target="_blank">World Bank Data API</a><br><b>Author: </b><a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD</a>' },
-  DHS: {prepare_type1: prepare_api_request_dhs_type1, parse_type1: parse_data_dhs_type1, prepare_type2: prepare_api_request_dhs_type2, parse_type2: parse_data_dhs_type2, source:'<b>Source: </b> <a href="http://api.dhsprogram.com/#/index.html" target="_blank">DHS programme API</a> | <a href="http://www.dhsprogram.com/data/Data-Tools-and-Manuals.cfm" target="_blank">Data description</a><br><b>Author: </b><a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD and</a> <a href="https://twitter.com/EtienneDavid" target="_blank">Etienne David, AFD</a>'},
+  DHS: {prepare_type5: prepare_api_request_dhs_type5, parse_type5 : parse_data_dhs_type5 ,prepare_type1: prepare_api_request_dhs_type1, parse_type1: parse_data_dhs_type1, prepare_type2: prepare_api_request_dhs_type2, parse_type2: parse_data_dhs_type2, source:'<b>Source: </b> <a href="http://api.dhsprogram.com/#/index.html" target="_blank">DHS programme API</a> | <a href="http://www.dhsprogram.com/data/Data-Tools-and-Manuals.cfm" target="_blank">Data description</a><br><b>Author: </b><a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD and</a> <a href="https://twitter.com/EtienneDavid" target="_blank">Etienne David, AFD</a>'},
  }
 
 var common_ressources_d =  $.Deferred();
@@ -95,8 +95,18 @@ function init_parameters_dictionary(hash, parameters_array){
 
 }
 
+function hide(id){
+  var element= document.getElementById(id);
+  element.style.visibility = 'hidden'
+  element.style.height = 0;
+}
 
+function show(id){
+    var element= document.getElementById(id);
+  element.style.visibility = 'visible'
+  element.style.height = 400;
 
+}
 
 function displayData() {
   // Get parameters from hash or update them
@@ -115,6 +125,17 @@ function displayData() {
   dataviz_type1('container', API_params, common_ressources, furnisher, API_params['Furnisher'])
   dataviz_type2('Mapcontainer', API_params, common_ressources, furnisher, API_params['Furnisher'])
 
+  if (API_params['Furnisher'] == "DHS"){
+      show('subnational')
+
+      dataviz_type5('infra', API_params, common_ressources, furnisher, API_params['Furnisher'])
+  } else {
+    hide('subnational')
+
+    }
+
+  
+
 
  
 };
@@ -127,6 +148,7 @@ function displayData() {
 
 var common_ressources
 $.when( common_ressources_d).done(function ( i) {
+  map = L.map('infra')
     common_ressources = i;
     load_indicators();
     $.when( d1).done(function ( v1) {

@@ -17,7 +17,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Agence Française de Développement - Dataviz portal</title>
+  <title>Portail de Dataviz - Agence Française de Développement</title>
 
 
   <!-- Bootstrap core CSS-->
@@ -61,7 +61,12 @@
   <script src="http://code.highcharts.com/mapdata/custom/south-america.js"></script>
   <script src="vendor/highcharts/export-csv.js"></script>
 
+  <!-- LEaflet -->
 
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" integrity="sha512-07I2e+7D8p6he1SIM+1twR5TIrhUQn9+I6yjqD53JQjFiMf8EtC93ty0/5vJTZGF8aAocvHYNEDJajGdNx1IsQ==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-hash/0.2.1/leaflet-hash.min.js"></script>
 
 
   <!-- custom -->
@@ -77,7 +82,7 @@
 
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
   <!-- Navigation-->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
   <a href="index.html">
     <img src="https://reportersdudeveloppement.files.wordpress.com/2017/06/afd_embleme_horizontale_designation_blanc.png" style="height: 35px;">
     </a>
@@ -121,15 +126,11 @@
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
           <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
             <i class="fa fa-fw fa-file"></i>
-            <span class="nav-link-text">Interactive reports</span>
+            <span class="nav-link-text">Rapports interactifs</span>
           </a>
           <ul class="sidenav-second-level collapse" id="collapseComponents">
-
             <li>
               <a href="sahel.html">Sahel</a>
-            </li>
-            <li>
-              <a href="error.html">Our Activities</a>
             </li>
           </ul>
         </li>
@@ -139,7 +140,12 @@
             <span class="nav-link-text">AFD OpenData</span>
           </a>
         </li>
-
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+            <a class="nav-link" href="http://www.dataspace.fr/old-dashboard">
+              <i class="fa fa-fw fa-history"></i>
+              <span class="nav-link-text">Ancienne version</span>
+            </a>
+          </li>
       </ul>
       <ul class="navbar-nav sidenav-toggler">
         <li class="nav-item">
@@ -150,6 +156,7 @@
       </ul>
       
     </div>
+  
   </nav>
   <div class="content-wrapper">
     <div class="container-fluid">
@@ -722,6 +729,18 @@
           </div>
         </div>
       
+    </div>
+    <div class="row" id="subnational" style="height:0px; visibility: hidden">
+      <div class="col-lg-12" >
+                <div class="card mb-3">
+            <div class="card-header">
+              <i class="fa fa-bar-chart"></i>Infranational </div>
+            <div class="card-body">
+                <div id="infra" style="height:400px;"></div>
+            </div>
+            <div class="card-footer small text-muted">Made by data.afd.fr, powered by Highcharts</div>
+          </div>
+      </div>
     </div>
 
     <form>

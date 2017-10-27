@@ -155,7 +155,7 @@ function set_map(){
 		return this._div;
 	};
 	info.update = function (props) {
-		this._div.innerHTML =(props ?'<h3>Summary</h3><br><h4> Custom INFORM index:'  +round_plus(props.render,2) + '</h4><br><h4> Population (NOT EXACT!):'+Math.round(props.spsum/100)+'</h4>':'');
+		this._div.innerHTML =(props ?'<h3>Summary</h3><br><h4> Custom INFORM index:'  +round_plus(props.render,2) + '</h4><br><h4> Density per km2 (NOT EXACT!):'+Math.round(props.density/100)+'</h4>':'');
 	};
 
 	info.addTo(map);
@@ -163,23 +163,27 @@ function set_map(){
   
    var geojson;
    function getColor(d, Max, Min) {
-		return d > round_plus(( Min + (4/5)*(Max-Min)),2) ? '#d60000' : 
-				d > round_plus(( Min +(3/5)*(Max-Min)),2 )? '#ff0000'  :
-				d > round_plus( (Min + (2/5)*(Max-Min)),2)   ? '#fc3636' :
-				d > round_plus(  (Min+ (1/5)*(Max-Min)),2)  ?  '#ff6c6c':
-				d > round_plus( Min,2 )  ? '#ffa1a1':
-							'#fac0c0';
+		return d > round_plus(( Min + (4/5)*(Max-Min)),2) ? '#b81b34' : 
+				d > round_plus(( Min +(3/5)*(Max-Min)),2 )? '#db4551'  :
+				d > round_plus( (Min + (2/5)*(Max-Min)),2)   ? '#f47461' :
+				d > round_plus(  (Min+ (1/5)*(Max-Min)),2)  ?  '#ffa474':
+				d > round_plus( Min,2 )  ? '#ffd59b':
+							'#ffffe0';
 
 	}
-	function getOpacity(d, pop_max) {
+	function getOpacity(d, pop) {
 		return Math.min(((d*4)/(pop_max))+0.2,1)
 	}
   
 	function style(feature) {
+				console.log(feature.properties.density )
+		console.log( pop_th_global )
+
+		console.log(Math.round(feature.properties.density/100) > pop_th_global ? 0.9 : 0.1 )
 			return {
 				opacity: 0.01,
 
-				fillOpacity: getOpacity(feature.properties.spsum, pop_max),
+				fillOpacity: Math.round(feature.properties.density/100) > pop_th_global ? 0.9 : 0.1  ,
 				fillColor: getColor(feature.properties.render, Max,Min)
 			};
 		}
@@ -264,7 +268,7 @@ function init_parameters(hash){
 	var parameters = hash_to_dict(hash);
 	
 
-	var list_parameters = ["inform_DRR", "inform_HAZARD", "inform_LACK_OF_COPING_CAPACITY"];
+	var list_parameters = ["inform_VULNERABILITY", "inform_HAZARD", "inform_LACK_OF_COPING_CAPACITY"];
 
 	list_parameters.forEach(function(item){
 
@@ -280,16 +284,19 @@ function init_parameters(hash){
 	});
 
 	window.location.hash = dict_to_hash(parameters);
-	console.log(parameters)
 	return parameters
 }
 
 function update_map(){
 	var gjson = []
 	var layer_parameters = init_parameters('');
+	pop_th_global = get_threshold()
+	console.log(pop_th_global)
 	g_global.features.forEach(function(element){
     var render = calculate_mean(generate_new_prop(element.properties, layer_parameters, inform_global, ['ISO','ID_1']));
 	var new_element = element
+
+	new_element.properties.density = (element.properties.spsum*1000000) / turf.area(element.geometry)
 	new_element.properties.render = render;
 	gjson.push(new_element)
     });
@@ -300,8 +307,19 @@ function update_map(){
 
 };
 
+
+
+function get_threshold(){
+	var value = parseInt(document.getElementById("population_threshold").value)
+	document.getElementById("population_threshold_label").innerHTML = value+" habitants/km^2";
+
+	return value
+
+}
+
 var g_global
 var inform_global 
+var pop_th_global = get_threshold()
 $.when( inform_d, geometry_pop_d).done(function ( i, g ) {
 	var gjson = []
     var inform = array_to_dict(i, ['ISO','ID_1']);
@@ -313,6 +331,8 @@ $.when( inform_d, geometry_pop_d).done(function ( i, g ) {
     	var render = calculate_mean(generate_new_prop(element.properties, layer_parameters, inform, ['ISO','ID_1']));
 		var new_element = element
 		new_element.properties.render = render;
+		new_element.properties.density = (element.properties.spsum*1000000) / turf.area(element.geometry)
+
 		gjson.push(new_element)
     });
     set_layer(gjson);

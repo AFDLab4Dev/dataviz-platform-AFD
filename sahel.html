@@ -17,7 +17,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Agence Française de Développement - Dataviz portal</title>
+  <title>Portail de Dataviz - Agence Française de Développement</title>
   <!-- Bootstrap core CSS-->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom fonts for this template-->
@@ -32,6 +32,7 @@
     <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js" integrity="sha512-A7vV8IFfih/D732iSSKi20u/ooOfj/AGehOKq0f4vLT1Zr2Y+RX7C+w8A1gaSasGtRUZpF/NZgzSAu4/Gc41Lg==" crossorigin=""></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-hash/0.2.1/leaflet-hash.min.js"></script>
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>   
     
 
   
@@ -84,25 +85,26 @@
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
           <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
             <i class="fa fa-fw fa-file"></i>
-            <span class="nav-link-text">Interactive reports</span>
+            <span class="nav-link-text">Rapports interactifs</span>
           </a>
           <ul class="sidenav-second-level collapse" id="collapseComponents">
-
             <li>
               <a href="sahel.html">Sahel</a>
             </li>
-            <li>
-              <a href="error.html">Our Activities</a>
-            </li>
           </ul>
         </li>
-       <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+             <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
           <a class="nav-link" href="http://opendata.afd.fr">
             <i class="fa fa-fw fa-database"></i>
             <span class="nav-link-text">AFD OpenData</span>
           </a>
         </li>
-
+          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+            <a class="nav-link" href="http://www.dataspace.fr/old-dashboard">
+              <i class="fa fa-fw fa-history"></i>
+              <span class="nav-link-text">Ancienne version</span>
+            </a>
+          </li>
       </ul>
       <ul class="navbar-nav sidenav-toggler">
         <li class="nav-item">
@@ -118,7 +120,9 @@
   <div class="content-wrapper">
     <div class="container-fluid">
       <!-- Breadcrumbs-->
-
+        <ol class="breadcrumb">
+          <p>Cette dataviz permet 1) de recréer son propre indicateur INFORM à partir des trois sous indicateurs principaux, en attribuant à chacun son poids, 2) de coupler avec les densités de populations. L'indicateur INFORM, créé par IASC (Union européenne) permet de synthétiser la situation d'un territoire à risque. La méhodologie est disponible ici: http://www.inform-index.org/InDepth/Methodology. </p>        
+        </ol>
       <div class="row">
         <div class="col-lg-9">
           <div class="card mb-3">
@@ -128,11 +132,11 @@
         <div class="col-lg-3">
           <div class="card mb-3 mapbox">
             <div class="card-header">
-              <i class="fa fa-globe"></i>Sahel RE:INFORM</div>
+              <i class="fa fa-globe"></i>Sahel RE:INFORM (Version bêta !!!)</div>
               <div class="map-overlay top">
                 <div class="map-overlay-inner">
                   <label>
-                    Inform_HAZARD: 
+                    Risques: 
 
                     <span id="inform_HAZARD_label">
                       0%
@@ -146,14 +150,14 @@
 
                 <div class="map-overlay-inner">
                   <label>
-                    Inform_DRR: 
+                    Vulnérabilité: 
 
-                    <span id="inform_DRR_label">
+                    <span id="inform_VULNERABILITY_label">
                       0%
                     </span>
                     
                   </label>
-                  <input id="inform_DRR" type="range" min="0" max="100" step="0" value="50">
+                  <input id="inform_VULNERABILITY" type="range" min="0" max="100" step="0" value="50">
                 </div>
               </div>
 
@@ -161,7 +165,7 @@
 
                 <div class="map-overlay-inner">
                   <label>
-                    Inform_LACK_OF_COPING_CAPACITY: 
+                    Manque de capacité d'adaptation: 
 
                     <span id="inform_LACK_OF_COPING_CAPACITY_label">
                       0%
@@ -171,7 +175,23 @@
                   <input id="inform_LACK_OF_COPING_CAPACITY" type="range" min="0" max="100" step="0" value="50">
                 </div>
               </div>
+              <div class="map-overlay top">
+
+                <div class="map-overlay-inner">
+                  <label>
+                    Densité de population: 
+
+                    <span id="population_threshold_label">
+                      50 habitants/km^2
+                    </span>
+                    
+                  </label>
+                  <input id="population_threshold" value="50">
+                </div>
+              </div>
+
               <button id="the_button" onclick="update_map()">Update map</button>
+
 
 
 
