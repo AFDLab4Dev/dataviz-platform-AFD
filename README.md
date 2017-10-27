@@ -18,6 +18,20 @@ __La plateforme Dataviz de l'AFD vise à rendre plus facile l'accès à ces donn
 
 Construire un tableau de bord nécessite de bons outils. C'est pourquoi l'équipe Data de l'AFD a commencé à écrire dataviz4dev.js, une bibliothèque javascript qui permet de convertir une ligne de code en un magnifique graphe __Highcharts__ à partir d'une API de l'AFD ou d'un fournisseur de données. Le but est de rendre les données de développement le plus accessible possible aux développeurs web, ou aux Data journalistes afin qu'ils puissent créer une dataviz rapide sans connaissance particulière des API.
 
+## Comment la répliquer chez soi ? 
+
+### Prérequis
+* Installation d'une version de python (je recommande Python 3.x, installé via Anaconda)
+* Navigateur moderne (pas de IE 8 ...)
+
+### Mode d'emploi
+* Répliquer le dépôt (soit via git clone, soit en téléchargeant le zip)
+* Ouvrir cmd ou bash (je recommancde anaconda bash sous windows) et se placer dans le répertoire (cd ou dir ../.../dataviz-platform-AFD)
+* Lancer la commande "python -m http.server" si Python 3.x, "python -m SimpleHTTPserver" si 2.x. Si le paquet n'est pas installé, l'installer avec "conda install xxx" ou "pip install xxx"
+* Lancer son navigateur sur le lien suivant "http://localhost:8000"
+* Et voilà
+
+
 ## Entrepreneur d'intérêt général
 
 Cette plateforme a d'abord été écrite par Etienne David dans le cadre du programme "Entrepreneur d'intérêt Général" du SGMAP. Ce programme a pour vocation d'accélérer la transformation numérique de l'Etat grâce à des entrepreneurs du numérique en résidence pendant 10 mois dans une administration.
@@ -37,11 +51,11 @@ N'hésitez pas à nous faire remonter tous types de bug !
 * Pour des jeux de données non disponibles sous forme d'API mais intéressant pour la communauté du développement, l'AFD travaillera à les mettre à disposition via une future API maison
 
 
-# Forked de [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
+### A propos
 
-[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+L'UX a été forké de [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/). La plupart des fichiers css ont été écrit par ce projet.
 
-## Copyright and License
+[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) est un template pour tableau de bord ouvert utilisant [Bootstrap](http://getbootstrap.com/), créé par [Start Bootstrap](http://startbootstrap.com/).
 
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
+
 
