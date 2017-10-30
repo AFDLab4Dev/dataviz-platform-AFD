@@ -6,6 +6,10 @@ Une grande variété d'indicateurs, de données, sont disponibles grâce au trav
 
 __La plateforme Dataviz de l'AFD vise à rendre plus facile l'accès à ces données, notamment sous forme de dataviz, ou outil d'analyse simple__
 
+## Ceci est une version alpha/beta/0.1/work in progress etc...
+
+... Cela veut dire que de nombreux petits bugs existent, des passages inélégants, des tests qui manquent.. N'hésitez à pas être (positivement) critiques et nous faire remonter les problèmes sur la page issue !
+
 
 ## Les différentes fonctionnalités
 
