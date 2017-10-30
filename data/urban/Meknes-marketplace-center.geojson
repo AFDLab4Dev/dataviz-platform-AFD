@@ -1,0 +1,201 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/153353181",
+  "properties": {
+    "timestamp": "2014-12-04T18:48:47Z",
+    "version": 2,
+    "changeset": 27242418,
+    "user": "ayoub_az",
+    "uid": 2494387,
+    "amenity": "marketplace",
+    "name": "vegetable souk",
+    "id": "way/153353181"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.566308,
+      33.8924587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307411007",
+  "properties": {
+    "timestamp": "2014-10-12T09:00:29Z",
+    "version": 1,
+    "changeset": 26021246,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk al Had (Dimanche)",
+    "id": "way/307411007"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5365054,
+      33.8612223
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307419705",
+  "properties": {
+    "timestamp": "2014-12-04T18:48:47Z",
+    "version": 2,
+    "changeset": 27242418,
+    "user": "ayoub_az",
+    "uid": 2494387,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché",
+    "id": "way/307419705"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5661343,
+      33.8926213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308773008",
+  "properties": {
+    "timestamp": "2014-10-20T18:39:42Z",
+    "version": 1,
+    "changeset": 26220120,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché Mellah",
+    "id": "way/308773008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5709952,
+      33.8884045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315785563",
+  "properties": {
+    "timestamp": "2014-12-04T18:48:46Z",
+    "version": 1,
+    "changeset": 27242418,
+    "user": "ayoub_az",
+    "uid": 2494387,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché de poison",
+    "id": "way/315785563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5664161,
+      33.8928702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2437755877",
+  "properties": {
+    "timestamp": "2014-10-12T11:40:02Z",
+    "version": 4,
+    "changeset": 26023890,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "marketplace",
+    "name": "Marché central",
+    "id": "node/2437755877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5508996,
+      33.9000955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3125474816",
+  "properties": {
+    "timestamp": "2017-04-01T17:06:32Z",
+    "version": 3,
+    "changeset": 47361756,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "marketplace",
+    "shop": "furniture",
+    "id": "node/3125474816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5359846,
+      33.8602546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3214364991",
+  "properties": {
+    "timestamp": "2015-04-25T18:27:32Z",
+    "version": 3,
+    "changeset": 30481062,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "amenity": "marketplace",
+    "name": "Palais de la Foire",
+    "id": "node/3214364991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5535078,
+      33.8975445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4769756655",
+  "properties": {
+    "timestamp": "2017-04-01T17:05:16Z",
+    "version": 2,
+    "changeset": 47361725,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "marché du grain",
+    "name:ar": "رحبة الزرع",
+    "shop": "yes",
+    "id": "node/4769756655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5771797,
+      33.8948029
+    ]
+  }
+}
+]
+}

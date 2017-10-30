@@ -1,0 +1,229 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/363367340",
+  "properties": {
+    "timestamp": "2017-01-27T09:23:06Z",
+    "version": 5,
+    "changeset": 45550523,
+    "user": "Eva Blue",
+    "uid": 4803528,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Sekoly Ambony Loterana momba ny Teolojia",
+    "name:fr": "Faculté de théologie luthérienne",
+    "source": "Bing",
+    "id": "way/363367340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0935838,
+      -21.4468427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/391709293",
+  "properties": {
+    "timestamp": "2016-01-16T08:53:41Z",
+    "version": 1,
+    "changeset": 36610115,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "École Nationale d'Informatique",
+    "source": "Bing",
+    "id": "way/391709293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.093386,
+      -21.4549398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1298725783",
+  "properties": {
+    "timestamp": "2015-08-22T11:11:02Z",
+    "version": 2,
+    "changeset": 33502774,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "Institut des Sciences et Techniques de l'Environnement",
+    "operator": "Université de Fianarantsoa",
+    "id": "node/1298725783"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0843611,
+      -21.4529059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1298750578",
+  "properties": {
+    "timestamp": "2011-05-24T20:03:42Z",
+    "version": 1,
+    "changeset": 8237491,
+    "user": "Eric S",
+    "uid": 45284,
+    "amenity": "university",
+    "name": "Université Privée de Madagascar",
+    "id": "node/1298750578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0889143,
+      -21.4505835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1298774632",
+  "properties": {
+    "timestamp": "2011-05-24T20:31:56Z",
+    "version": 1,
+    "changeset": 8237491,
+    "user": "Eric S",
+    "uid": 45284,
+    "amenity": "university",
+    "name": "Institut de Formation Technique",
+    "id": "node/1298774632"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0836282,
+      -21.4524341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1821258509",
+  "properties": {
+    "timestamp": "2015-08-22T11:11:02Z",
+    "version": 5,
+    "changeset": 33502774,
+    "user": "@dolly",
+    "uid": 3107789,
+    "addr:housename": "ENI",
+    "addr:postcode": "BP 1487",
+    "addr:street": "Fianarantsoa",
+    "amenity": "university",
+    "designation": "Etablissement public d'enseignement supérieur",
+    "name": "École Nationale d'Informatique",
+    "operator": "Université de Fianarantsoa",
+    "source": "http://www.univ-fianar.mg",
+    "id": "node/1821258509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0933461,
+      -21.4550958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3696424754",
+  "properties": {
+    "timestamp": "2015-08-14T07:09:58Z",
+    "version": 1,
+    "changeset": 33330058,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "Institut de Formation Technique",
+    "id": "node/3696424754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0847111,
+      -21.4519831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3700732626",
+  "properties": {
+    "timestamp": "2015-08-17T08:54:16Z",
+    "version": 1,
+    "changeset": 33385034,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "CRTE-CNTEMAD",
+    "id": "node/3700732626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0860007,
+      -21.4564654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3709114326",
+  "properties": {
+    "timestamp": "2015-09-08T04:03:26Z",
+    "version": 2,
+    "changeset": 33872186,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "Campus Universitaire Andrainjato",
+    "operator": "Université de Fianarantsoa",
+    "website": "http://www.univ-fianar.mg/",
+    "wikipedia": "fr:Université de Fianarantsoa",
+    "id": "node/3709114326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1096568,
+      -21.464777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3712496519",
+  "properties": {
+    "timestamp": "2016-01-16T18:14:51Z",
+    "version": 2,
+    "changeset": 36620717,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "university",
+    "name": "INSPNMAD",
+    "id": "node/3712496519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0886243,
+      -21.4586791
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,110 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 166332497,
+  "timestamp": "2015-01-07T14:52:49Z",
+  "version": 3,
+  "changeset": 27978300,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2265648,
+    "lon": -8.4874287
+  },
+  "nodes": [
+    1777864468,
+    1777864462,
+    1777864474,
+    1777864466,
+    1777864463,
+    1777864461,
+    1777864472,
+    1777864469,
+    1777864471,
+    1777864470,
+    1777864464,
+    1777864465,
+    1777864473,
+    3274595107,
+    1777864467,
+    1777864460,
+    1777864468
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Chouaib Doukkali University"
+  }
+},
+{
+  "type": "way",
+  "id": 414813392,
+  "timestamp": "2016-05-04T09:01:40Z",
+  "version": 5,
+  "changeset": 39091196,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.2508239,
+    "lon": -8.4345795
+  },
+  "nodes": [
+    3270389855,
+    4159507637,
+    4159507638,
+    3270389866,
+    4159507639,
+    3270389855
+  ],
+  "tags": {
+    "addr:city": "EL Jadida",
+    "addr:postcode": "24002",
+    "addr:street": "Route d'azzemour, Nationale N°1, ELHAOUZIA",
+    "amenity": "university",
+    "name": "École nationale des sciences appliquées d'El Jadida",
+    "phone": "+212 5 23 34 48 22",
+    "short_name": "ENSAJ",
+    "wikipedia": "fr:École nationale des sciences appliquées d'El Jadida"
+  }
+},
+{
+  "type": "way",
+  "id": 414815114,
+  "timestamp": "2016-05-04T09:00:39Z",
+  "version": 3,
+  "changeset": 39090739,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.2513779,
+    "lon": -8.4330784
+  },
+  "nodes": [
+    4159533351,
+    4159533352,
+    4159533353,
+    4159533354,
+    4159533355,
+    4159533351
+  ],
+  "tags": {
+    "addr:city": "EL Jadida",
+    "addr:postcode": "24002",
+    "addr:street": "Route Nationale N°1 El haouziya,",
+    "amenity": "university",
+    "name": "Faculté Polydisciplinaire El-Jadida",
+    "phone": "+212 5 23379301",
+    "short_name:fr": "FPJ",
+    "website": "www.fpj.ucd.ac.ma/"
+  }
+}
+
+  ]
+}

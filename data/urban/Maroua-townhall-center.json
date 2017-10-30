@@ -1,0 +1,171 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2162428395,
+  "lat": 10.5885126,
+  "lon": 14.2928213,
+  "timestamp": "2013-02-19T10:31:44Z",
+  "version": 1,
+  "changeset": 15087554,
+  "user": "Jorieke V",
+  "uid": 378610,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "way",
+  "id": 416118856,
+  "timestamp": "2016-05-06T11:46:32Z",
+  "version": 1,
+  "changeset": 39141865,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5869909,
+    "lon": 14.3054103
+  },
+  "nodes": [
+    4169604032,
+    4169604035,
+    4169604036,
+    4169604033,
+    4169604037,
+    4169604034,
+    4169604030,
+    4169604029,
+    4169604027,
+    4169604026,
+    4169604028,
+    4169604031,
+    4169604032
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Communauté urbaine de Maroua 1er"
+  }
+},
+{
+  "type": "way",
+  "id": 399973349,
+  "timestamp": "2016-05-06T14:34:09Z",
+  "version": 2,
+  "changeset": 39145343,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6032134,
+    "lon": 14.3139296
+  },
+  "nodes": [
+    4026181997,
+    4026184033,
+    4026184248,
+    4026184284,
+    4026185670,
+    4026185085,
+    4026177885,
+    4026182248,
+    4026181997
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE URBAINE de MAROUA I"
+  }
+},
+{
+  "type": "way",
+  "id": 400004822,
+  "timestamp": "2016-05-06T16:08:32Z",
+  "version": 2,
+  "changeset": 39147434,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6036843,
+    "lon": 14.3377270
+  },
+  "nodes": [
+    4026419340,
+    4026419267,
+    4026419259,
+    4026419184,
+    4026419285,
+    4026419344,
+    4026419334,
+    4026418941,
+    4026418950,
+    4026418952,
+    4026418945,
+    4026418942,
+    4026418943,
+    4026418949,
+    4026418956,
+    4026418973,
+    4026418984,
+    4026420204,
+    4026420215,
+    4026420221,
+    4026420229,
+    4026420233,
+    4026420223,
+    4026420216,
+    4026420208,
+    4026418987,
+    4026418980,
+    4026420392,
+    4026420397,
+    4026420435,
+    4026420286,
+    4026420258,
+    4026420261,
+    4026420210,
+    4026418988,
+    4026419312,
+    4026419340
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Maroua 3",
+    "source": "Plan polyvalent Maroua"
+  }
+},
+{
+  "type": "way",
+  "id": 416168891,
+  "timestamp": "2016-05-06T16:08:29Z",
+  "version": 1,
+  "changeset": 39147434,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6121757,
+    "lon": 14.3345562
+  },
+  "nodes": [
+    4169997503,
+    4169997499,
+    4169997497,
+    4169997498,
+    4169997503
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Nouvelle Mairie de Maroua"
+  }
+}
+
+  ]
+}

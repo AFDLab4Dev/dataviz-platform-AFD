@@ -1,0 +1,87 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1859401417",
+  "properties": {
+    "timestamp": "2012-08-09T21:10:54Z",
+    "version": 1,
+    "changeset": 12673543,
+    "user": "MichaelUbuntu",
+    "uid": 781415,
+    "amenity": "townhall",
+    "id": "node/1859401417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7286532,
+      36.4422037
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1863745769",
+  "properties": {
+    "timestamp": "2012-08-13T00:22:21Z",
+    "version": 1,
+    "changeset": 12708365,
+    "user": "MichaelUbuntu",
+    "uid": 781415,
+    "amenity": "townhall",
+    "id": "node/1863745769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7380952,
+      36.4491043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1864323914",
+  "properties": {
+    "timestamp": "2014-04-01T21:41:53Z",
+    "version": 2,
+    "changeset": 21447711,
+    "user": "Amir-BD",
+    "uid": 2012674,
+    "amenity": "townhall",
+    "name": "Mairie de Béni Khiar",
+    "id": "node/1864323914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.781492,
+      36.4695462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1865620936",
+  "properties": {
+    "timestamp": "2012-08-14T12:24:27Z",
+    "version": 1,
+    "changeset": 12726240,
+    "user": "Hedi_B",
+    "uid": 799200,
+    "amenity": "townhall",
+    "name": "Municipalité",
+    "id": "node/1865620936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8090998,
+      36.4663025
+    ]
+  }
+}
+]
+}

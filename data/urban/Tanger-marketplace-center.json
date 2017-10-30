@@ -1,0 +1,178 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2849419569,
+  "lat": 35.7784944,
+  "lon": -5.8138939,
+  "timestamp": "2014-05-10T23:00:00Z",
+  "version": 1,
+  "changeset": 22260522,
+  "user": "Jlux",
+  "uid": 2067123,
+  "tags": {
+    "amenity": "marketplace",
+    "fixme": "resurvey",
+    "name": "Place Jedida"
+  }
+},
+{
+  "type": "node",
+  "id": 2849419583,
+  "lat": 35.7862786,
+  "lon": -5.8044744,
+  "timestamp": "2016-02-24T09:56:03Z",
+  "version": 2,
+  "changeset": 37408501,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fish Sellers",
+    "produce": "fish"
+  }
+},
+{
+  "type": "way",
+  "id": 475605229,
+  "timestamp": "2017-02-19T11:45:08Z",
+  "version": 2,
+  "changeset": 46213095,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 35.7713379,
+    "lon": -5.8244377
+  },
+  "nodes": [
+    4693375509,
+    4693375513,
+    4693375510,
+    4693375511,
+    4693375512,
+    4693375509
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Souani"
+  }
+},
+{
+  "type": "way",
+  "id": 331931772,
+  "timestamp": "2017-03-13T08:07:37Z",
+  "version": 7,
+  "changeset": 46804545,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 35.7485401,
+    "lon": -5.7963350
+  },
+  "nodes": [
+    3390326589,
+    3390326571,
+    3390328394,
+    3390328401,
+    3390326589
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq al-Jumla سوق الجملة",
+    "name:ar": "سوق الجملة",
+    "name:fr": "Souq al-Jumla",
+    "shop": "greengrocer",
+    "wholesale": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 250948989,
+  "timestamp": "2013-12-09T11:53:45Z",
+  "version": 1,
+  "changeset": 19357525,
+  "user": "jamesks",
+  "uid": 2500,
+  "center": {
+    "lat": 35.7832573,
+    "lon": -5.8118097
+  },
+  "nodes": [
+    2572798008,
+    2572798007,
+    2572798000,
+    2572798002,
+    2572797996,
+    2572797999,
+    2572798004,
+    2572798006,
+    2572798008
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 250948990,
+  "timestamp": "2015-07-05T20:09:15Z",
+  "version": 2,
+  "changeset": 32434411,
+  "user": "malta-dinger",
+  "uid": 96382,
+  "center": {
+    "lat": 35.7846152,
+    "lon": -5.8121772
+  },
+  "nodes": [
+    2572798005,
+    2572797997,
+    2572797995,
+    3635818678,
+    2572797998,
+    2572798005
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 277666424,
+  "timestamp": "2015-07-05T20:09:15Z",
+  "version": 3,
+  "changeset": 32434411,
+  "user": "malta-dinger",
+  "uid": 96382,
+  "center": {
+    "lat": 35.7840007,
+    "lon": -5.8115987
+  },
+  "nodes": [
+    2821510813,
+    2821510812,
+    3635818657,
+    2821510814,
+    2821510815,
+    2821510813
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk Al-Hout",
+    "name:fr": "Marché Central De Poissons"
+  }
+}
+
+  ]
+}

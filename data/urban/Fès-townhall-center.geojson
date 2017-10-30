@@ -1,0 +1,76 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/394171829",
+  "properties": {
+    "timestamp": "2016-12-21T07:05:28Z",
+    "version": 5,
+    "changeset": 44557952,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Fès فاس",
+    "addr:postcode": "30000",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "wlan",
+    "name": "Commune de Fès جماعة فاس",
+    "name:ar": "جماعة فاس",
+    "name:fr": "Commune de Fès",
+    "website": "http://www.fes.ma",
+    "id": "way/394171829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0162787,
+      34.0344907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2952750627",
+  "properties": {
+    "timestamp": "2017-01-22T17:51:00Z",
+    "version": 3,
+    "changeset": 45374941,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "townhall",
+    "name": "Siége de la Région de Fès Meknes",
+    "id": "node/2952750627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0026876,
+      34.0360135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4614900032",
+  "properties": {
+    "timestamp": "2017-01-17T21:11:31Z",
+    "version": 1,
+    "changeset": 45254854,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "amenity": "townhall",
+    "name": "Siège de la wilaya de Fès",
+    "id": "node/4614900032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0025307,
+      34.0362592
+    ]
+  }
+}
+]
+}

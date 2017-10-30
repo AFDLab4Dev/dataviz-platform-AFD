@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/176163173",
+  "properties": {
+    "timestamp": "2012-08-15T12:00:56Z",
+    "version": 1,
+    "changeset": 12738043,
+    "user": "Hedi_B",
+    "uid": 799200,
+    "amenity": "university",
+    "building": "school",
+    "designation": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+    "name": "FSEGN",
+    "id": "way/176163173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6896853,
+      36.4351354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/176163177",
+  "properties": {
+    "timestamp": "2014-06-26T17:48:20Z",
+    "version": 2,
+    "changeset": 23198377,
+    "user": "selimachour",
+    "uid": 400177,
+    "addr:city": "Nabeul",
+    "amenity": "university",
+    "building": "school",
+    "name": "Faculté des Beaux arts",
+    "id": "way/176163177"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.68647,
+      36.4359512
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1860278005",
+  "properties": {
+    "timestamp": "2012-08-15T12:00:58Z",
+    "version": 2,
+    "changeset": 12738043,
+    "user": "Hedi_B",
+    "uid": 799200,
+    "amenity": "university",
+    "name": "IPEIN",
+    "id": "node/1860278005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6785296,
+      36.4379676
+    ]
+  }
+}
+]
+}

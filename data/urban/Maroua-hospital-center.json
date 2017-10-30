@@ -1,0 +1,749 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4674934089,
+  "lat": 10.5920584,
+  "lon": 14.3216179,
+  "timestamp": "2017-02-08T15:41:12Z",
+  "version": 1,
+  "changeset": 45920694,
+  "user": "Aime Noutsa",
+  "uid": 3995436,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Fondation Sociale Solidarité",
+    "name:fr": "Fondation Sociale Solidarité"
+  }
+},
+{
+  "type": "node",
+  "id": 4762059526,
+  "lat": 10.5878304,
+  "lon": 14.3233680,
+  "timestamp": "2017-03-29T15:15:19Z",
+  "version": 1,
+  "changeset": 47263129,
+  "user": "GUEMENI PATRICK",
+  "uid": 4589766,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Plg",
+    "name:fr": "Plg"
+  }
+},
+{
+  "type": "way",
+  "id": 417923947,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.4527318,
+    "lon": 14.2378115
+  },
+  "nodes": [
+    4183951103,
+    4183951106,
+    4183951101,
+    4183951090,
+    4183951092,
+    4183951089,
+    4183951103
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Salak"
+  }
+},
+{
+  "type": "way",
+  "id": 417923948,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5218078,
+    "lon": 14.2027908
+  },
+  "nodes": [
+    4183951111,
+    4183951118,
+    4183951117,
+    4183951115,
+    4183951113,
+    4183951116,
+    4183951114,
+    4183951107,
+    4183951108,
+    4183951109,
+    4183951112,
+    4183951110,
+    4183951111
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de santé intégré de Katoual"
+  }
+},
+{
+  "type": "way",
+  "id": 403474992,
+  "timestamp": "2016-05-10T09:05:18Z",
+  "version": 2,
+  "changeset": 39210333,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5609895,
+    "lon": 14.2530599
+  },
+  "nodes": [
+    4058234404,
+    4058234405,
+    4175817807,
+    4058234406,
+    4058234407,
+    4058234408,
+    4058234409,
+    4058234410,
+    4058234411,
+    4058234412,
+    4058234413,
+    4058234414,
+    4058234404
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Meskine",
+    "name:en": "Meskine Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 417923946,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5609742,
+    "lon": 14.2602725
+  },
+  "nodes": [
+    4183951127,
+    4183951130,
+    4183951137,
+    4183951135,
+    4183951128,
+    4183951122,
+    4183951120,
+    4183951124,
+    4183951126,
+    4183951119,
+    4183951121,
+    4183951127
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de MESKINE"
+  }
+},
+{
+  "type": "way",
+  "id": 417923940,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5806776,
+    "lon": 14.2824617
+  },
+  "nodes": [
+    4183951170,
+    4183951164,
+    4183951166,
+    4183951171,
+    4183951170
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Wouro tchédé"
+  }
+},
+{
+  "type": "way",
+  "id": 417923944,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5742395,
+    "lon": 14.3012669
+  },
+  "nodes": [
+    4183951146,
+    4183951145,
+    4183951138,
+    4183951139,
+    4183951140,
+    4183951147,
+    4183951146
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de MAKABAYE"
+  }
+},
+{
+  "type": "way",
+  "id": 417923945,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5759405,
+    "lon": 14.3002567
+  },
+  "nodes": [
+    4183951163,
+    4183951161,
+    4183951160,
+    4183951162,
+    4183951163
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégrée de Makabaye"
+  }
+},
+{
+  "type": "way",
+  "id": 417923956,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5843426,
+    "lon": 14.2854641
+  },
+  "nodes": [
+    4183951180,
+    4183951181,
+    4183951179,
+    4183951178,
+    4183951180
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Croix rouge"
+  }
+},
+{
+  "type": "way",
+  "id": 417923951,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5906561,
+    "lon": 14.2788137
+  },
+  "nodes": [
+    4183951306,
+    4183951314,
+    4183951354,
+    4183951342,
+    4183951306
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre des handicapés"
+  }
+},
+{
+  "type": "way",
+  "id": 399985782,
+  "timestamp": "2016-05-13T17:37:04Z",
+  "version": 2,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6022849,
+    "lon": 14.2812188
+  },
+  "nodes": [
+    4026284052,
+    4026284756,
+    4026284784,
+    4026284702,
+    4026284052
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intégrée de PALAR",
+    "source": "Plan polyvalent Maroua"
+  }
+},
+{
+  "type": "way",
+  "id": 417923960,
+  "timestamp": "2016-05-13T17:37:04Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5903160,
+    "lon": 14.2971382
+  },
+  "nodes": [
+    4183951307,
+    4183951309,
+    4183951331,
+    4183951330,
+    4183951325,
+    4183951317,
+    4183951307
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Médecin Sans Frontière"
+  }
+},
+{
+  "type": "way",
+  "id": 417923942,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5936547,
+    "lon": 14.3089690
+  },
+  "nodes": [
+    4169636145,
+    4183951367,
+    4183951366,
+    4183951365,
+    4183951364,
+    4183951362,
+    4183951363,
+    4169636133,
+    4169636144,
+    4169636145
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré domayo"
+  }
+},
+{
+  "type": "way",
+  "id": 417923958,
+  "timestamp": "2016-05-13T17:37:04Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5927815,
+    "lon": 14.3083851
+  },
+  "nodes": [
+    4183951358,
+    4183951360,
+    4183951361,
+    4183951359,
+    4183951358
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Croix rouge"
+  }
+},
+{
+  "type": "way",
+  "id": 416126700,
+  "timestamp": "2016-05-13T17:37:05Z",
+  "version": 2,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5943886,
+    "lon": 14.3055490
+  },
+  "nodes": [
+    4183951370,
+    4183951371,
+    4183951369,
+    4169636160,
+    4169636154,
+    4169636151,
+    4183951370
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "District de Santé de Maroua"
+  }
+},
+{
+  "type": "way",
+  "id": 417923953,
+  "timestamp": "2016-05-13T17:37:03Z",
+  "version": 1,
+  "changeset": 39297319,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.5914101,
+    "lon": 14.3156650
+  },
+  "nodes": [
+    4183951357,
+    4183951355,
+    4183951344,
+    4183951356,
+    4183951357
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre medico-social de Maroua"
+  }
+},
+{
+  "type": "way",
+  "id": 417923949,
+  "timestamp": "2016-11-05T22:55:51Z",
+  "version": 2,
+  "changeset": 43432100,
+  "user": "Johnwhelan",
+  "uid": 186592,
+  "center": {
+    "lat": 10.5896523,
+    "lon": 14.3146456
+  },
+  "nodes": [
+    4183951304,
+    4183951302,
+    4183951186,
+    4183951291,
+    4183951182,
+    4178911567,
+    4178911568,
+    4183110142,
+    4183107268,
+    4183951304
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé privée catholique de domayo"
+  }
+},
+{
+  "type": "way",
+  "id": 417928560,
+  "timestamp": "2016-05-13T18:07:14Z",
+  "version": 1,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6015358,
+    "lon": 14.3141081
+  },
+  "nodes": [
+    4183991735,
+    4183991736,
+    4183991749,
+    4183991750,
+    4183991752,
+    4183991755,
+    4183991753,
+    4183991751,
+    4183991735
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpitl Régional de MAROUA"
+  }
+},
+{
+  "type": "way",
+  "id": 417928551,
+  "timestamp": "2016-05-13T18:07:13Z",
+  "version": 1,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6027492,
+    "lon": 14.3136502
+  },
+  "nodes": [
+    4183991757,
+    4183991758,
+    4183991756,
+    4183991754,
+    4183991757
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CROIX ROUGE CAMEROUNAISE"
+  }
+},
+{
+  "type": "way",
+  "id": 417928556,
+  "timestamp": "2016-05-13T18:07:13Z",
+  "version": 1,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6030138,
+    "lon": 14.3144139
+  },
+  "nodes": [
+    4183991763,
+    4183991764,
+    4183991762,
+    4183991761,
+    4183991763
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intégrée de ZOKOK"
+  }
+},
+{
+  "type": "way",
+  "id": 417928561,
+  "timestamp": "2016-05-13T18:07:14Z",
+  "version": 1,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6031565,
+    "lon": 14.3152380
+  },
+  "nodes": [
+    4183991759,
+    4183991760,
+    4183991766,
+    4183991767,
+    4183991765,
+    4183991759
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpitl de la SURETE NATIONAL"
+  }
+},
+{
+  "type": "way",
+  "id": 417931934,
+  "timestamp": "2016-05-13T18:32:25Z",
+  "version": 1,
+  "changeset": 39298198,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6005658,
+    "lon": 14.3358339
+  },
+  "nodes": [
+    4180769896,
+    4184034793,
+    4184034794,
+    4180769898,
+    4180769896
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical de Founangué"
+  }
+},
+{
+  "type": "way",
+  "id": 205643273,
+  "timestamp": "2016-05-13T18:07:14Z",
+  "version": 2,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6101089,
+    "lon": 14.3256067
+  },
+  "nodes": [
+    2156182120,
+    2156182122,
+    2156182115,
+    2156182100,
+    2156182120
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "health_facility_type": "Outpatient_Nutritional_Centre",
+    "name": "Centre Nutritionnel Ambulatoire de Lopéré",
+    "source": "Croix-Rouge Française"
+  }
+},
+{
+  "type": "way",
+  "id": 417928559,
+  "timestamp": "2016-05-13T18:07:13Z",
+  "version": 1,
+  "changeset": 39297768,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6099431,
+    "lon": 14.3255082
+  },
+  "nodes": [
+    4183991768,
+    4183991773,
+    4183991779,
+    4183991775,
+    4183991768
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Privé Islamique de Bamaré"
+  }
+},
+{
+  "type": "way",
+  "id": 417931937,
+  "timestamp": "2016-05-13T18:32:25Z",
+  "version": 1,
+  "changeset": 39298198,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6223417,
+    "lon": 14.3251078
+  },
+  "nodes": [
+    4184034838,
+    4184034845,
+    4184034830,
+    4184034831,
+    4184034838
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Intégré de Doualaré"
+  }
+},
+{
+  "type": "way",
+  "id": 417931938,
+  "timestamp": "2016-05-13T18:32:25Z",
+  "version": 1,
+  "changeset": 39298198,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6079739,
+    "lon": 14.3547773
+  },
+  "nodes": [
+    4184034805,
+    4184034803,
+    4184034804,
+    4184034806,
+    4184034805
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Intégré de Douggoï"
+  }
+},
+{
+  "type": "way",
+  "id": 417931936,
+  "timestamp": "2016-05-13T18:32:25Z",
+  "version": 1,
+  "changeset": 39298198,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6247470,
+    "lon": 14.3681915
+  },
+  "nodes": [
+    4184034850,
+    4184034849,
+    4184034846,
+    4184034848,
+    4184034850
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Djarengol Kodek"
+  }
+},
+{
+  "type": "way",
+  "id": 417931935,
+  "timestamp": "2016-05-13T18:32:25Z",
+  "version": 1,
+  "changeset": 39298198,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 10.6638025,
+    "lon": 14.4160669
+  },
+  "nodes": [
+    4181432707,
+    4184034852,
+    4184034851,
+    4181432706,
+    4181432707
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de kodek"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1002 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/192729491",
+  "properties": {
+    "timestamp": "2013-04-27T21:45:56Z",
+    "version": 2,
+    "changeset": 15889120,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 5",
+    "source": "GeoCameroun",
+    "id": "way/192729491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5673226,
+      3.8933013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192733782",
+  "properties": {
+    "timestamp": "2013-04-27T21:45:56Z",
+    "version": 2,
+    "changeset": 15889120,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 2",
+    "source": "GeoCameroun",
+    "id": "way/192733782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5009332,
+      3.8868481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192778770",
+  "properties": {
+    "timestamp": "2013-04-27T21:45:55Z",
+    "version": 2,
+    "changeset": 15889120,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture Yaoundé 1",
+    "source": "GeoCameroun",
+    "id": "way/192778770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5158102,
+      3.8806035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192782827",
+  "properties": {
+    "timestamp": "2017-03-02T22:46:40Z",
+    "version": 5,
+    "changeset": 46535078,
+    "user": "Arsene Amassana Obokobe",
+    "uid": 3916571,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Marie de Yaoundé 2",
+    "name:fr": "Ancienne Mairie de Yaoundé 2",
+    "source": "GeoCameroun",
+    "id": "way/192782827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5033047,
+      3.8848457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192797866",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:30Z",
+    "version": 4,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 7",
+    "source": "GeoCameroun",
+    "id": "way/192797866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4628352,
+      3.8727867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192809989",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:29Z",
+    "version": 5,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 1",
+    "source": "GeoCameroun",
+    "id": "way/192809989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5207432,
+      3.8768934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192824271",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:30Z",
+    "version": 4,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 5",
+    "source": "GeoCameroun",
+    "id": "way/192824271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5331094,
+      3.8711308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192850146",
+  "properties": {
+    "timestamp": "2017-03-02T15:02:16Z",
+    "version": 3,
+    "changeset": 46524431,
+    "user": "Ghislain Landry",
+    "uid": 1707074,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ancienne Mairie de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/192850146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5355485,
+      3.8521092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192854794",
+  "properties": {
+    "timestamp": "2013-04-28T10:12:23Z",
+    "version": 2,
+    "changeset": 15893426,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous Préfecture de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/192854794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5363599,
+      3.8522043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857178",
+  "properties": {
+    "timestamp": "2013-04-27T17:59:26Z",
+    "version": 5,
+    "changeset": 15886836,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture de Yaoundé 6",
+    "source": "GeoCameroun",
+    "id": "way/192857178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4842591,
+      3.8366454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192858369",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:30Z",
+    "version": 3,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 6",
+    "id": "way/192858369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863225,
+      3.8381678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193508210",
+  "properties": {
+    "timestamp": "2013-04-28T10:12:19Z",
+    "version": 2,
+    "changeset": 15893426,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 4",
+    "source": "GeoCameroun",
+    "id": "way/193508210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5409601,
+      3.8418085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193526587",
+  "properties": {
+    "timestamp": "2013-04-27T17:59:24Z",
+    "version": 2,
+    "changeset": 15886836,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yaoundé 3",
+    "source": "GeoCameroun",
+    "id": "way/193526587"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5088333,
+      3.8348894
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193526629",
+  "properties": {
+    "timestamp": "2013-04-27T17:59:25Z",
+    "version": 3,
+    "changeset": 15886836,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "alt_name": "Sous-Préfecture d'Efoulan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-Préfecture de Yaoundé 3",
+    "source": "sobzeros",
+    "id": "way/193526629"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5066555,
+      3.8335152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/210970089",
+  "properties": {
+    "timestamp": "2014-02-28T21:38:55Z",
+    "version": 2,
+    "changeset": 20835817,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Mbankomo",
+    "source": "ATANGANA Jacques Landry",
+    "id": "way/210970089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4021366,
+      3.7875483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/211549823",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:55Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Chefferie de Nkolnyada",
+    "id": "way/211549823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4035989,
+      3.9904934
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250520257",
+  "properties": {
+    "timestamp": "2016-07-30T16:51:36Z",
+    "version": 4,
+    "changeset": 41130713,
+    "user": "Aime Noutsa",
+    "uid": 3995436,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Sous-Préfecture de Yaoundé 6",
+    "id": "way/250520257"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4876347,
+      3.8410098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292851306",
+  "properties": {
+    "timestamp": "2014-10-18T18:56:05Z",
+    "version": 5,
+    "changeset": 26176404,
+    "user": "user_5359",
+    "uid": 5359,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville",
+    "opening_hours": "Mo-Fr 07:30-15:30",
+    "source": "survey TSF Cameroun 2014",
+    "id": "way/292851306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5953874,
+      3.9771922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/448853866",
+  "properties": {
+    "timestamp": "2016-08-22T09:13:45Z",
+    "version": 4,
+    "changeset": 41609897,
+    "user": "ronic",
+    "uid": 355933,
+    "amenity": "townhall",
+    "ele": "667m",
+    "name": "Maison du Chef",
+    "name:en": "Chief House",
+    "id": "node/448853866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3874081,
+      3.9815965
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272322",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi I",
+    "id": "node/1067272322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4433126,
+      3.9288603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272324",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkong",
+    "id": "node/1067272324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4524668,
+      3.9667848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272340",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya II",
+    "id": "node/1067272340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4649234,
+      3.9305707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272347",
+  "properties": {
+    "timestamp": "2013-07-02T11:56:20Z",
+    "version": 2,
+    "changeset": 16790490,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Ngoya III",
+    "id": "node/1067272347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4726021,
+      3.9202281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272351",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ebot",
+    "id": "node/1067272351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4683871,
+      3.9816747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272415",
+  "properties": {
+    "timestamp": "2013-07-02T11:47:54Z",
+    "version": 2,
+    "changeset": 16790381,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II",
+    "id": "node/1067272415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.445422,
+      3.920379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272469",
+  "properties": {
+    "timestamp": "2013-03-26T00:39:02Z",
+    "version": 2,
+    "changeset": 15498198,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Leboudi II",
+    "id": "node/1067272469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.444423,
+      3.9228233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272515",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  et Centre d'etat civil de Yegassi",
+    "id": "node/1067272515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.471302,
+      3.992059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272525",
+  "properties": {
+    "timestamp": "2013-07-02T11:53:21Z",
+    "version": 3,
+    "changeset": 16790453,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  d'Etoud",
+    "id": "node/1067272525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4246265,
+      3.907219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272558",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Nkolondom",
+    "id": "node/1067272558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4805273,
+      3.983046
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272561",
+  "properties": {
+    "timestamp": "2010-12-27T06:35:17Z",
+    "version": 1,
+    "changeset": 6774522,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "townhall",
+    "name": "Centre d'etat civil de Nouma",
+    "id": "node/1067272561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4244918,
+      3.9669107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272577",
+  "properties": {
+    "timestamp": "2010-12-27T06:35:17Z",
+    "version": 1,
+    "changeset": 6774522,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil de Ngoya I",
+    "id": "node/1067272577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4645079,
+      3.9321773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272581",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  d'Ekong",
+    "id": "node/1067272581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4602142,
+      3.9422095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272590",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Nouma",
+    "id": "node/1067272590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4240962,
+      3.9668228
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272617",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Mintotomo",
+    "id": "node/1067272617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4921623,
+      3.9974423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272640",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:57Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie  de Metak",
+    "id": "node/1067272640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4165451,
+      3.9363003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272680",
+  "properties": {
+    "timestamp": "2010-12-27T06:35:19Z",
+    "version": 1,
+    "changeset": 6774522,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "townhall",
+    "name": "Centre Special d'etat civil d'Ekong",
+    "id": "node/1067272680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4595316,
+      3.9434737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067289821",
+  "properties": {
+    "timestamp": "2013-03-23T12:10:28Z",
+    "version": 3,
+    "changeset": 15465099,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie de Nkolakie",
+    "id": "node/1067289821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3782127,
+      3.9787843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1366949424",
+  "properties": {
+    "timestamp": "2013-06-30T22:53:01Z",
+    "version": 3,
+    "changeset": 16771443,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie Ebang 1",
+    "id": "node/1366949424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.461795,
+      3.863362
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1366949425",
+  "properties": {
+    "timestamp": "2013-03-23T12:39:58Z",
+    "version": 2,
+    "changeset": 15465451,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "townhall",
+    "name": "Chefferie Ngoya 1",
+    "id": "node/1366949425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4590516,
+      3.9479992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807755",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5088354,
+      3.834888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807756",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863245,
+      3.8381686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807757",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5355612,
+      3.8520901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807758",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807758"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5331127,
+      3.8711305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807759",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4629065,
+      3.8727495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807760",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5207406,
+      3.8768937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2989807761",
+  "properties": {
+    "timestamp": "2014-07-31T18:42:28Z",
+    "version": 1,
+    "changeset": 24468391,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "townhall",
+    "id": "node/2989807761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5033031,
+      3.8848477
+    ]
+  }
+}
+]
+}

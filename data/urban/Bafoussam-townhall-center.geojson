@@ -1,0 +1,205 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/215248929",
+  "properties": {
+    "timestamp": "2015-11-01T15:14:06Z",
+    "version": 6,
+    "changeset": 35014281,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Sous-préfecture",
+    "id": "way/215248929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.329283,
+      5.3869039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218612112",
+  "properties": {
+    "timestamp": "2013-06-14T08:24:55Z",
+    "version": 4,
+    "changeset": 16547121,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie",
+    "id": "way/218612112"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3301006,
+      5.3884795
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225225428",
+  "properties": {
+    "timestamp": "2013-06-11T10:39:38Z",
+    "version": 1,
+    "changeset": 16508370,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie",
+    "id": "way/225225428"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.411917,
+      5.3752551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/225225429",
+  "properties": {
+    "timestamp": "2013-06-11T10:39:38Z",
+    "version": 1,
+    "changeset": 16508370,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Préfecture du Koung-Khi",
+    "id": "way/225225429"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4114034,
+      5.3749507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/394654451",
+  "properties": {
+    "timestamp": "2016-06-16T07:31:06Z",
+    "version": 3,
+    "changeset": 40055916,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Bafoussam II",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Mairie de Bafoussam II",
+    "id": "way/394654451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.398525,
+      5.5052822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/395568928",
+  "properties": {
+    "timestamp": "2016-06-16T07:29:41Z",
+    "version": 3,
+    "changeset": 40055815,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Bafoussam III",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "0",
+    "name": "Mairie de Bafoussam III",
+    "id": "way/395568928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3976144,
+      5.4960319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424738578",
+  "properties": {
+    "timestamp": "2016-06-13T12:26:13Z",
+    "version": 1,
+    "changeset": 39991314,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Hôtel de Ville",
+    "id": "way/424738578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.419044,
+      5.4724616
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424758169",
+  "properties": {
+    "timestamp": "2016-06-13T14:21:37Z",
+    "version": 1,
+    "changeset": 39993868,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "name": "Mairie de de Bafoussam 1",
+    "id": "way/424758169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.436739,
+      5.4569324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4058424573",
+  "properties": {
+    "timestamp": "2016-03-13T16:13:30Z",
+    "version": 1,
+    "changeset": 37802875,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "name": "Mairie",
+    "id": "node/4058424573"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3962437,
+      5.4979342
+    ]
+  }
+}
+]
+}

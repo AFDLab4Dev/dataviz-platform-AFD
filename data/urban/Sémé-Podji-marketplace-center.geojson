@@ -1,0 +1,246 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/256268159",
+  "properties": {
+    "timestamp": "2015-12-28T02:17:55Z",
+    "version": 4,
+    "changeset": 36210351,
+    "user": "Wim L",
+    "uid": 223681,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché d'Adjerra",
+    "id": "way/256268159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6641288,
+      6.5316559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256270415",
+  "properties": {
+    "timestamp": "2016-01-09T16:22:23Z",
+    "version": 7,
+    "changeset": 36466396,
+    "user": "dalmond",
+    "uid": 36223,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Ouando",
+    "source": "Bing",
+    "id": "way/256270415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6109511,
+      6.5064313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/356471210",
+  "properties": {
+    "timestamp": "2015-06-26T07:52:51Z",
+    "version": 1,
+    "changeset": 32220150,
+    "user": "benoitberlin",
+    "uid": 1197015,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché",
+    "id": "way/356471210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6459074,
+      6.5020843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/364745356",
+  "properties": {
+    "timestamp": "2016-01-23T21:16:01Z",
+    "version": 2,
+    "changeset": 36766067,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "addr:city": "Avrankou",
+    "amenity": "marketplace",
+    "fixme": "check",
+    "name": "Marché central d'Avrankou",
+    "source": "bing",
+    "source:date": "12/16/2013",
+    "id": "way/364745356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6539135,
+      6.5511246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377325432",
+  "properties": {
+    "timestamp": "2015-10-28T17:39:22Z",
+    "version": 1,
+    "changeset": 34931855,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi",
+    "id": "way/377325432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5397009,
+      6.3953867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/398778218",
+  "properties": {
+    "timestamp": "2016-06-03T07:19:24Z",
+    "version": 2,
+    "changeset": 39771821,
+    "user": "FrancoDewez",
+    "uid": 4056607,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/398778218"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6089867,
+      6.4730288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4172381291",
+  "properties": {
+    "timestamp": "2016-05-08T01:20:28Z",
+    "version": 1,
+    "changeset": 39173646,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché de N'vènamedé",
+    "id": "node/4172381291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4598064,
+      6.3745678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4207422049",
+  "properties": {
+    "timestamp": "2016-05-25T16:46:19Z",
+    "version": 1,
+    "changeset": 39560683,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché Sekandji",
+    "id": "node/4207422049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5074534,
+      6.3756425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4254736032",
+  "properties": {
+    "timestamp": "2016-06-20T17:28:49Z",
+    "version": 1,
+    "changeset": 40162522,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché PK3",
+    "operator": "SOGEMA",
+    "id": "node/4254736032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.461551,
+      6.3708036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323430692",
+  "properties": {
+    "timestamp": "2016-07-27T15:20:40Z",
+    "version": 1,
+    "changeset": 41065199,
+    "user": "PhidiasAZO",
+    "uid": 3216072,
+    "amenity": "marketplace",
+    "name": "KINTOCOME",
+    "id": "node/4323430692"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440886,
+      6.4564482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4431338551",
+  "properties": {
+    "timestamp": "2016-10-04T18:43:41Z",
+    "version": 1,
+    "changeset": 42639276,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Marché central",
+    "id": "node/4431338551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6269016,
+      6.4711879
+    ]
+  }
+}
+]
+}

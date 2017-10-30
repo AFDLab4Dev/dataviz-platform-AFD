@@ -1,0 +1,196 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/285944951",
+  "properties": {
+    "timestamp": "2016-12-22T23:51:50Z",
+    "version": 6,
+    "changeset": 44606486,
+    "user": "tlardia",
+    "uid": 5006716,
+    "amenity": "university",
+    "area": "yes",
+    "barrier": "wall",
+    "name": "UPB ex Centre de calcul",
+    "short_name": "CFR",
+    "id": "way/285944951"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3149602,
+      11.1646054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314096563",
+  "properties": {
+    "timestamp": "2017-03-03T09:43:26Z",
+    "version": 4,
+    "changeset": 46544374,
+    "user": "Dibloni Innocent",
+    "uid": 2557538,
+    "amenity": "university",
+    "id": "way/314096563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.4176148,
+      11.2092606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/357948912",
+  "properties": {
+    "timestamp": "2015-07-04T15:31:09Z",
+    "version": 2,
+    "changeset": 32409640,
+    "user": "Dibloni Innocent",
+    "uid": 2557538,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut National des Sciences de la Santé",
+    "source": "bing;survey",
+    "id": "way/357948912"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3622102,
+      11.1820509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/737617777",
+  "properties": {
+    "timestamp": "2016-11-08T10:48:17Z",
+    "version": 6,
+    "changeset": 43484190,
+    "user": "projet_carteinnov",
+    "uid": 4786719,
+    "addr:full": "Ouest dans le village de Nasso, Bobo-Dioulasso, Burkina Faso",
+    "amenity": "university",
+    "contact:email": "info@univ-bobo.bf",
+    "contact:facebook": "www.facebook.com/Universit%C3%A9-Polytechnique-de-Bobo-Dioulasso-178236412252888/?ref=ts&fref=ts",
+    "contact:phone": "+226 20 98 06 35",
+    "contact:website": "www.univ-bobo.bf",
+    "description": "L'UPB est un établissement public de l’État à caractère scientifique, culturel et technique (EPSCT) chargé d’enseignement supérieur et de recherche scientifique.",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:universite-polytechnique-de-bobo-dioulasso",
+    "name": "Université Polytechnique de Bobo Dioulasso",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UPB",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-23",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1997",
+    "id": "node/737617777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.4184406,
+      11.2098166
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3459771763",
+  "properties": {
+    "timestamp": "2015-04-16T16:42:01Z",
+    "version": 1,
+    "changeset": 30269555,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "university",
+    "name": "U-AUBEN",
+    "operator:type": "private",
+    "source": "survey",
+    "id": "node/3459771763"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3239379,
+      11.1896948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3583900863",
+  "properties": {
+    "timestamp": "2015-06-09T17:22:42Z",
+    "version": 1,
+    "changeset": 31850372,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "university",
+    "name": "Institut Africaine de Management",
+    "id": "node/3583900863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3242013,
+      11.1890292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3641217672",
+  "properties": {
+    "timestamp": "2015-07-08T17:55:55Z",
+    "version": 1,
+    "changeset": 32501586,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "university",
+    "name": "Institut National des Sciences de la Santé",
+    "id": "node/3641217672"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3631545,
+      11.1818205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3739602490",
+  "properties": {
+    "timestamp": "2015-09-11T20:47:34Z",
+    "version": 1,
+    "changeset": 33969347,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "university",
+    "name": "Université Aube Nouvelle",
+    "operator:type": "private",
+    "short_name": "ISIG",
+    "source": "survey",
+    "id": "node/3739602490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3181752,
+      11.2050012
+    ]
+  }
+}
+]
+}

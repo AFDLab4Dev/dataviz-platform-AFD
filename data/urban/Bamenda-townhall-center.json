@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3145006102,
+  "lat": 6.0092529,
+  "lon": 10.0124460,
+  "timestamp": "2016-11-11T13:35:58Z",
+  "version": 3,
+  "changeset": 43559335,
+  "user": "zaizone",
+  "uid": 1122708,
+  "tags": {
+    "addr:city": "Mbengwi",
+    "amenity": "townhall",
+    "name": "Mbengwi Council Building"
+  }
+},
+{
+  "type": "way",
+  "id": 426138924,
+  "timestamp": "2016-08-06T10:21:50Z",
+  "version": 2,
+  "changeset": 41284762,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9735599,
+    "lon": 10.1364346
+  },
+  "nodes": [
+    3295006036,
+    3295006044,
+    4254501039,
+    3295006018,
+    3295006009,
+    4254501040,
+    4254501041,
+    1749885320,
+    3295005962,
+    3295005976,
+    3295006013,
+    3295006026,
+    3295006036
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Bamenda Urban Council"
+  }
+},
+{
+  "type": "way",
+  "id": 403278278,
+  "timestamp": "2016-03-12T12:49:09Z",
+  "version": 1,
+  "changeset": 37782437,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9801289,
+    "lon": 10.1894796
+  },
+  "nodes": [
+    4056394080,
+    4056394081,
+    4056394082,
+    4056394083,
+    4056394084,
+    4056394085,
+    4056394086,
+    4056394087,
+    4056394088,
+    4056394089,
+    4056394090,
+    4056394091,
+    4056394092,
+    4056394093,
+    4056394094,
+    4056394095,
+    4056394096,
+    4056394097,
+    4056394098,
+    4056394099,
+    4056394080
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Bamenda III Townhall",
+    "name:fr": "Mairie de Bamenda III"
+  }
+}
+
+  ]
+}

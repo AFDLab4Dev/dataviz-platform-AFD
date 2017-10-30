@@ -1,0 +1,52 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 183319586,
+  "timestamp": "2012-09-28T15:04:53Z",
+  "version": 1,
+  "changeset": 13286064,
+  "user": "Skiper",
+  "uid": 306409,
+  "center": {
+    "lat": 6.8674819,
+    "lon": -5.2392289
+  },
+  "nodes": [
+    1936865526,
+    1936865523,
+    1936865536,
+    1936865522,
+    1936865529,
+    1936865528,
+    1936865532,
+    1936865530,
+    1936865521,
+    1936865520,
+    1936865527,
+    1936865514,
+    1936865534,
+    1936865518,
+    1936865535,
+    1936865531,
+    1936865519,
+    1936865516,
+    1936865517,
+    1936865526
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut national polytechnique Houphouët-Boigny",
+    "source": "Google, university official website"
+  }
+}
+
+  ]
+}

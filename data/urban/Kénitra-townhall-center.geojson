@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/331932604",
+  "properties": {
+    "timestamp": "2017-03-19T23:16:20Z",
+    "version": 2,
+    "changeset": 46996305,
+    "user": "nasa1949",
+    "uid": 5435048,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "بلدية القنيطرة",
+    "name:fr": "Municipalité de Kénitra",
+    "id": "way/331932604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5824761,
+      34.262441
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4743686354",
+  "properties": {
+    "timestamp": "2017-03-19T19:10:46Z",
+    "version": 1,
+    "changeset": 46991034,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "townhall",
+    "name": "Province de Kénitra",
+    "id": "node/4743686354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5787042,
+      34.2556808
+    ]
+  }
+}
+]
+}

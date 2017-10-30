@@ -1,0 +1,767 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2499528286,
+  "lat": 6.3831567,
+  "lon": 2.3948629,
+  "timestamp": "2014-04-06T08:26:14Z",
+  "version": 2,
+  "changeset": 21527165,
+  "user": "benoitberlin",
+  "uid": 1197015,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire DeSouza",
+    "source": "GPS;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3260703525,
+  "lat": 6.3899961,
+  "lon": 2.3652351,
+  "timestamp": "2016-05-15T11:46:06Z",
+  "version": 2,
+  "changeset": 39329049,
+  "user": "sev_osm",
+  "uid": 219668,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Menontin",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3592579493,
+  "lat": 6.3920956,
+  "lon": 2.3010582,
+  "timestamp": "2016-06-19T15:53:14Z",
+  "version": 3,
+  "changeset": 40138603,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medical Nassira",
+    "source": "gps;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3900428339,
+  "lat": 6.3893070,
+  "lon": 2.3107980,
+  "timestamp": "2015-12-19T19:10:17Z",
+  "version": 1,
+  "changeset": 36052510,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Humanity Frist",
+    "operator": "Privée",
+    "phone": "0022997216262"
+  }
+},
+{
+  "type": "node",
+  "id": 3920702829,
+  "lat": 6.3899938,
+  "lon": 2.3239034,
+  "timestamp": "2017-02-01T22:18:02Z",
+  "version": 3,
+  "changeset": 45728877,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Galilée",
+    "operator": "ONG OVDH",
+    "phone": "(+229) 97065593/ 95031840"
+  }
+},
+{
+  "type": "node",
+  "id": 3949940791,
+  "lat": 6.3918800,
+  "lon": 2.3278447,
+  "timestamp": "2017-02-01T22:18:03Z",
+  "version": 2,
+  "changeset": 45728877,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Saint Augustin",
+    "phone": "21037893"
+  }
+},
+{
+  "type": "node",
+  "id": 3949957862,
+  "lat": 6.3907425,
+  "lon": 2.3290904,
+  "timestamp": "2017-02-01T22:18:03Z",
+  "version": 2,
+  "changeset": 45728877,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Shalom",
+    "phone": "95953316"
+  }
+},
+{
+  "type": "node",
+  "id": 3969886224,
+  "lat": 6.4484028,
+  "lon": 2.3533443,
+  "timestamp": "2016-04-04T14:58:11Z",
+  "version": 2,
+  "changeset": 38293102,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de la commune d’Abomey-Calavi"
+  }
+},
+{
+  "type": "node",
+  "id": 3976417069,
+  "lat": 6.4343656,
+  "lon": 2.3443859,
+  "timestamp": "2016-05-29T22:56:28Z",
+  "version": 3,
+  "changeset": 39652608,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique pédiatrique d’Abomey-Calavi",
+    "opening_hours": "24/7",
+    "phone": "(+229)95372161/95863945"
+  }
+},
+{
+  "type": "node",
+  "id": 3989796513,
+  "lat": 6.4277418,
+  "lon": 2.3018412,
+  "timestamp": "2016-07-19T11:55:36Z",
+  "version": 4,
+  "changeset": 40854700,
+  "user": "PhidiasAZO",
+  "uid": 3216072,
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "yes",
+    "name": "Centre de santé public de Maria Gleta",
+    "source": "Pleiade_2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3989799358,
+  "lat": 6.4326386,
+  "lon": 2.3497055,
+  "timestamp": "2016-07-20T17:09:18Z",
+  "version": 3,
+  "changeset": 40900932,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique centrale de Calavi",
+    "phone": "(+229)66789301/95068743/99476827"
+  }
+},
+{
+  "type": "node",
+  "id": 4016630242,
+  "lat": 6.4635913,
+  "lon": 2.3038475,
+  "timestamp": "2016-05-26T12:14:29Z",
+  "version": 2,
+  "changeset": 39579321,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Togba maternité"
+  }
+},
+{
+  "type": "node",
+  "id": 4019451629,
+  "lat": 6.4069524,
+  "lon": 2.3429074,
+  "timestamp": "2017-03-06T13:25:28Z",
+  "version": 2,
+  "changeset": 46623961,
+  "user": "mtmail",
+  "uid": 8339,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre Médical Albert Schweitzer"
+  }
+},
+{
+  "type": "node",
+  "id": 4029928434,
+  "lat": 6.4730697,
+  "lon": 2.3426891,
+  "timestamp": "2016-09-20T13:36:39Z",
+  "version": 5,
+  "changeset": 42299029,
+  "user": "PhidiasAZO",
+  "uid": 3216072,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de zone d’Abomey-Calavi"
+  }
+},
+{
+  "type": "node",
+  "id": 4113030008,
+  "lat": 6.4524724,
+  "lon": 2.5410730,
+  "timestamp": "2016-04-11T01:20:12Z",
+  "version": 1,
+  "changeset": 38463710,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "CENTRE MEDICO SOCIAL DE HOULAZOUME",
+    "operator": "CROIX ROUGE",
+    "operator:type": "ngo",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4161715092,
+  "lat": 6.4148248,
+  "lon": 2.3442712,
+  "timestamp": "2016-05-02T15:58:25Z",
+  "version": 1,
+  "changeset": 39043010,
+  "user": "japento",
+  "uid": 3908611,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CNHU"
+  }
+},
+{
+  "type": "node",
+  "id": 4172329288,
+  "lat": 6.3819772,
+  "lon": 2.4629357,
+  "timestamp": "2016-05-08T00:59:24Z",
+  "version": 1,
+  "changeset": 39173478,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Zone de SURU LERE"
+  }
+},
+{
+  "type": "node",
+  "id": 4187858341,
+  "lat": 6.4024688,
+  "lon": 2.3274833,
+  "timestamp": "2016-05-15T19:07:36Z",
+  "version": 1,
+  "changeset": 39337294,
+  "user": "Salimalfa",
+  "uid": 3883978,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique St. Benjamin"
+  }
+},
+{
+  "type": "node",
+  "id": 4208098202,
+  "lat": 6.3706930,
+  "lon": 2.4473709,
+  "timestamp": "2016-05-26T00:30:19Z",
+  "version": 1,
+  "changeset": 39569771,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Misséssin"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452693,
+  "lat": 6.3781288,
+  "lon": 2.4498446,
+  "timestamp": "2016-06-06T14:49:46Z",
+  "version": 1,
+  "changeset": 39840228,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Zone Ayélawadjè"
+  }
+},
+{
+  "type": "node",
+  "id": 4249997051,
+  "lat": 6.3606694,
+  "lon": 2.4258161,
+  "timestamp": "2016-06-18T08:27:41Z",
+  "version": 1,
+  "changeset": 40111184,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:housenumber": "1278",
+    "amenity": "hospital",
+    "description": "chirurgie générale et spécialités, imagerie et analyses biomédicales",
+    "email": "sainteanned.afrique@gmail.com",
+    "name": "Centre médico-social Sainte Anne d'Afrique",
+    "phone": "21315850"
+  }
+},
+{
+  "type": "node",
+  "id": 4254408220,
+  "lat": 6.3860630,
+  "lon": 2.4223591,
+  "timestamp": "2016-06-20T13:46:11Z",
+  "version": 1,
+  "changeset": 40157758,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre d'isolement MVE"
+  }
+},
+{
+  "type": "node",
+  "id": 4254408221,
+  "lat": 6.3857765,
+  "lon": 2.4219845,
+  "timestamp": "2016-09-28T12:56:12Z",
+  "version": 2,
+  "changeset": 42493808,
+  "user": "luc_kpogbe",
+  "uid": 2207384,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé d'Ahouansori-Agué"
+  }
+},
+{
+  "type": "node",
+  "id": 4309638150,
+  "lat": 6.3736833,
+  "lon": 2.3225833,
+  "timestamp": "2016-07-21T14:01:49Z",
+  "version": 2,
+  "changeset": 40921108,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé d’arrondissement (CSA) de Dèkoungbé"
+  }
+},
+{
+  "type": "node",
+  "id": 4309638152,
+  "lat": 6.4570450,
+  "lon": 2.2564900,
+  "timestamp": "2016-07-21T14:01:49Z",
+  "version": 2,
+  "changeset": 40921108,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Ouedo"
+  }
+},
+{
+  "type": "node",
+  "id": 4309638154,
+  "lat": 6.4108967,
+  "lon": 2.2997300,
+  "timestamp": "2016-07-21T13:21:30Z",
+  "version": 2,
+  "changeset": 40920045,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé d’arrondissement (CSA) de Womey"
+  }
+},
+{
+  "type": "node",
+  "id": 4309638912,
+  "lat": 6.4031433,
+  "lon": 2.3171933,
+  "timestamp": "2016-07-21T14:01:49Z",
+  "version": 2,
+  "changeset": 40921108,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Eau-vive"
+  }
+},
+{
+  "type": "node",
+  "id": 4309639320,
+  "lat": 6.4045283,
+  "lon": 2.3162433,
+  "timestamp": "2016-07-21T14:01:49Z",
+  "version": 2,
+  "changeset": 40921108,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé Eau-vive"
+  }
+},
+{
+  "type": "node",
+  "id": 4309639542,
+  "lat": 6.3837146,
+  "lon": 2.2715231,
+  "timestamp": "2016-11-25T08:51:38Z",
+  "version": 3,
+  "changeset": 43939358,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé d’arrondissement (CSA) de Cococodji"
+  }
+},
+{
+  "type": "node",
+  "id": 4309639543,
+  "lat": 6.4406333,
+  "lon": 2.2479683,
+  "timestamp": "2016-07-21T14:01:49Z",
+  "version": 2,
+  "changeset": 40921108,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "FIXME": "position ?",
+    "amenity": "hospital",
+    "name": "Centre de santé de Hêvié"
+  }
+},
+{
+  "type": "node",
+  "id": 4309639547,
+  "lat": 6.3897357,
+  "lon": 2.3458980,
+  "timestamp": "2016-07-21T13:20:22Z",
+  "version": 3,
+  "changeset": 40920015,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé public de Godomey"
+  }
+},
+{
+  "type": "node",
+  "id": 4311038853,
+  "lat": 6.5083702,
+  "lon": 2.3631655,
+  "timestamp": "2016-07-19T11:39:50Z",
+  "version": 1,
+  "changeset": 40854346,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé de AKASSATO"
+  }
+},
+{
+  "type": "node",
+  "id": 4312717843,
+  "lat": 6.5015281,
+  "lon": 2.3994746,
+  "timestamp": "2016-07-20T12:33:46Z",
+  "version": 1,
+  "changeset": 40895207,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Dogodo",
+    "amenity": "hospital",
+    "name": "Centre de santé de So-Ava"
+  }
+},
+{
+  "type": "node",
+  "id": 4312742170,
+  "lat": 6.4982139,
+  "lon": 2.4575849,
+  "timestamp": "2016-07-20T12:44:14Z",
+  "version": 1,
+  "changeset": 40895418,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Houedo-Aguekon",
+    "amenity": "hospital",
+    "name": "Centre de santé de Houedo-Aguekon"
+  }
+},
+{
+  "type": "node",
+  "id": 4313114200,
+  "lat": 6.4747325,
+  "lon": 2.3913296,
+  "timestamp": "2016-07-20T15:33:27Z",
+  "version": 1,
+  "changeset": 40898944,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Ganvié",
+    "amenity": "hospital",
+    "name": "Centre de santé de Ganvié"
+  }
+},
+{
+  "type": "node",
+  "id": 4313202182,
+  "lat": 6.4742275,
+  "lon": 2.4128787,
+  "timestamp": "2016-07-20T16:34:49Z",
+  "version": 1,
+  "changeset": 40900340,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Sotchanhoué",
+    "amenity": "hospital",
+    "name": "Centre de santé saint Joseph"
+  }
+},
+{
+  "type": "node",
+  "id": 4313209398,
+  "lat": 6.4809755,
+  "lon": 2.4171273,
+  "timestamp": "2016-07-20T16:44:18Z",
+  "version": 1,
+  "changeset": 40900517,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Vekky",
+    "amenity": "hospital",
+    "name": "Centre de santé de Vekky"
+  }
+},
+{
+  "type": "node",
+  "id": 4403019206,
+  "lat": 6.3614434,
+  "lon": 2.4383377,
+  "timestamp": "2016-09-15T17:48:56Z",
+  "version": 1,
+  "changeset": 42181113,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:housenumber": "274",
+    "addr:street": "Rue ROI DAKO DONOU R. 5.132",
+    "amenity": "hospital",
+    "name": "Hôpital de l'enfant et de la mère lagune",
+    "phone": "+22921317115"
+  }
+},
+{
+  "type": "node",
+  "id": 4488813057,
+  "lat": 6.3599010,
+  "lon": 2.4380992,
+  "timestamp": "2016-11-08T14:44:48Z",
+  "version": 1,
+  "changeset": 43488614,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CS Cotonou 1"
+  }
+},
+{
+  "type": "node",
+  "id": 4709867091,
+  "lat": 6.3536984,
+  "lon": 2.3965650,
+  "timestamp": "2017-02-28T13:07:43Z",
+  "version": 1,
+  "changeset": 46467374,
+  "user": "Moïse",
+  "uid": 5395861,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Doctors",
+    "operator": "Hopital"
+  }
+},
+{
+  "type": "node",
+  "id": 4711849512,
+  "lat": 6.3639754,
+  "lon": 2.4148459,
+  "timestamp": "2017-03-01T16:06:53Z",
+  "version": 2,
+  "changeset": 46497922,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical Saint Jean",
+    "source": "gps,survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4716412133,
+  "lat": 6.3639273,
+  "lon": 2.4149590,
+  "timestamp": "2017-03-04T12:25:04Z",
+  "version": 1,
+  "changeset": 46571137,
+  "user": "Euripide",
+  "uid": 4418688,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre médical Saint Jean"
+  }
+},
+{
+  "type": "way",
+  "id": 272486188,
+  "timestamp": "2016-05-17T18:17:23Z",
+  "version": 4,
+  "changeset": 39383631,
+  "user": "Sam AGBADONOU",
+  "uid": 1718307,
+  "center": {
+    "lat": 6.3547463,
+    "lon": 2.4101343
+  },
+  "nodes": [
+    2773988664,
+    2773988661,
+    4189880038,
+    4183721176,
+    4183721177,
+    2773988663,
+    2773988666,
+    2773988664
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre National Hospitalier Universitaire (CNHU)"
+  }
+},
+{
+  "type": "way",
+  "id": 459613842,
+  "timestamp": "2016-12-14T16:37:07Z",
+  "version": 1,
+  "changeset": 44401754,
+  "user": "FranckArnold",
+  "uid": 2895297,
+  "center": {
+    "lat": 6.3770580,
+    "lon": 2.3828840
+  },
+  "nodes": [
+    4554155052,
+    4554155053,
+    4554155054,
+    4554155055,
+    4554155052
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Houenoussou",
+    "operator": "Etat"
+  }
+},
+{
+  "type": "way",
+  "id": 376980825,
+  "timestamp": "2016-04-28T13:10:07Z",
+  "version": 5,
+  "changeset": 38950149,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "center": {
+    "lat": 6.3867284,
+    "lon": 2.5415107
+  },
+  "nodes": [
+    3803518641,
+    3887632593,
+    3887632584,
+    4153519689,
+    4153519690,
+    3803518642,
+    3887632410,
+    3803518633,
+    3807014719,
+    3887632415,
+    3803518635,
+    3803518639,
+    3949022316,
+    3803518636,
+    3803518641
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hopital de Zone d'EKPE",
+    "source": "bing",
+    "source:date": "12/16/2013"
+  }
+}
+
+  ]
+}

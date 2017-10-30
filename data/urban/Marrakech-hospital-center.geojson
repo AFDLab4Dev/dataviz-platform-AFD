@@ -1,0 +1,286 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/46791011",
+  "properties": {
+    "timestamp": "2016-12-19T22:33:57Z",
+    "version": 4,
+    "changeset": 44526899,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hopital Ibn Zohr",
+    "id": "way/46791011"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9954822,
+      31.6181663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/150782355",
+  "properties": {
+    "timestamp": "2012-02-17T13:50:55Z",
+    "version": 1,
+    "changeset": 10711329,
+    "user": "johanemilsson",
+    "uid": 559500,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Hospitalier Universitaire Mohammed VI",
+    "source": "bing",
+    "id": "way/150782355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9956027,
+      31.6633665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/328555734",
+  "properties": {
+    "timestamp": "2016-06-18T09:38:46Z",
+    "version": 3,
+    "changeset": 40112106,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hopital Ibn Torfael",
+    "id": "way/328555734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0156193,
+      31.6415953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/328555735",
+  "properties": {
+    "timestamp": "2015-02-18T18:29:58Z",
+    "version": 2,
+    "changeset": 28939576,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "hospital",
+    "name": "Polyclinique du Sud",
+    "id": "way/328555735"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0147083,
+      31.6378212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/339711680",
+  "properties": {
+    "timestamp": "2015-04-21T09:30:36Z",
+    "version": 1,
+    "changeset": 30373202,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "hospital",
+    "name": "Polyclinique les Narcisses",
+    "id": "way/339711680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0197303,
+      31.6402436
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/390401950",
+  "properties": {
+    "timestamp": "2016-01-09T10:40:33Z",
+    "version": 1,
+    "changeset": 36460971,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "hospital",
+    "name": "Clinique les Narcisses",
+    "id": "way/390401950"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0122087,
+      31.6410721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1944406985",
+  "properties": {
+    "timestamp": "2012-10-03T14:30:43Z",
+    "version": 1,
+    "changeset": 13348413,
+    "user": "cybersg",
+    "uid": 616845,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Dispensaire Sidi Ghiate",
+    "id": "node/1944406985"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.8483569,
+      31.5190593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2255736108",
+  "properties": {
+    "timestamp": "2013-04-07T16:34:35Z",
+    "version": 1,
+    "changeset": 15643014,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Clinique Toubkal",
+    "id": "node/2255736108"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0542668,
+      31.6496946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2481427727",
+  "properties": {
+    "timestamp": "2013-10-03T17:37:20Z",
+    "version": 1,
+    "changeset": 18165727,
+    "user": "sulagaloh",
+    "uid": 290723,
+    "amenity": "hospital",
+    "name": "Hôpital Riad Al Mokha",
+    "id": "node/2481427727"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9880222,
+      31.6228327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3080018256",
+  "properties": {
+    "timestamp": "2016-01-05T06:35:20Z",
+    "version": 4,
+    "changeset": 36374174,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Clinique Internationale Marrakech",
+    "website": "http://www.clinique-internationale-marrakech.com",
+    "id": "node/3080018256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9980641,
+      31.6121648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3358339104",
+  "properties": {
+    "timestamp": "2015-10-15T07:22:34Z",
+    "version": 2,
+    "changeset": 34648426,
+    "user": "pascal_cyclist",
+    "uid": 3292520,
+    "amenity": "hospital",
+    "name": "Hopital Militaire Moulay Ismail",
+    "id": "node/3358339104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0213497,
+      31.6344893
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3556568002",
+  "properties": {
+    "timestamp": "2016-06-19T14:33:13Z",
+    "version": 5,
+    "changeset": 40137065,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hôpital El Antaki مستشفى الأنطاكي",
+    "name:ar": "مستشفى الأنطاكي",
+    "name:en": "Antaki Hospital",
+    "name:fr": "Hôpital El Antaki",
+    "id": "node/3556568002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9852668,
+      31.6365765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4361734090",
+  "properties": {
+    "timestamp": "2016-08-22T15:38:49Z",
+    "version": 1,
+    "changeset": 41617359,
+    "user": "Moulay Ahmed Essoualeh Elidrissi",
+    "uid": 4459149,
+    "amenity": "hospital",
+    "name": "الترويض الطبي",
+    "name:ar": "الترويض الطبي",
+    "id": "node/4361734090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0572744,
+      31.6318134
+    ]
+  }
+}
+]
+}

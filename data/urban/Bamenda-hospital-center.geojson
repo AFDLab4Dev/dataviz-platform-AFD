@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/403273769",
+  "properties": {
+    "timestamp": "2016-03-12T12:09:15Z",
+    "version": 1,
+    "changeset": 37781895,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Bamenda Regional Hospital",
+    "name:fr": "Hôpital Régional de Bamenda",
+    "id": "way/403273769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1441495,
+      5.9554835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452710595",
+  "properties": {
+    "timestamp": "2016-11-11T16:05:45Z",
+    "version": 1,
+    "changeset": 43562172,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Saint Francis Hospital",
+    "id": "way/452710595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1545798,
+      5.9902959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1082879039",
+  "properties": {
+    "timestamp": "2011-01-05T13:12:06Z",
+    "version": 2,
+    "changeset": 6871397,
+    "user": "SHed",
+    "uid": 120875,
+    "amenity": "hospital",
+    "name": "Bamenda Polyclinic",
+    "id": "node/1082879039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1393749,
+      5.9458385
+    ]
+  }
+}
+]
+}

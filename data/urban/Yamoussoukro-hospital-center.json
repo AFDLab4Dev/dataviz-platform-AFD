@@ -1,0 +1,152 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2867499856,
+  "lat": 6.8787194,
+  "lon": -5.2274250,
+  "timestamp": "2014-10-22T09:43:12Z",
+  "version": 2,
+  "changeset": 26251744,
+  "user": "fennikusu",
+  "uid": 595138,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Infirmerie INPHB Centre"
+  }
+},
+{
+  "type": "way",
+  "id": 399788313,
+  "timestamp": "2016-02-25T01:04:16Z",
+  "version": 3,
+  "changeset": 37425600,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 6.8132072,
+    "lon": -5.2909602
+  },
+  "nodes": [
+    4024698687,
+    4024699247,
+    4024800679,
+    4024795383,
+    4024800669,
+    4024699223,
+    4024699625,
+    4024699209,
+    4024811525,
+    4024699210,
+    4024699211,
+    4024699213,
+    4024800665,
+    4024800668,
+    4024790884,
+    4024790882,
+    4024790885,
+    4024699626,
+    4024699222,
+    4024699933,
+    4024700004,
+    4024804879,
+    4024804881,
+    4024804883,
+    4024699938,
+    4024699944,
+    4024699087,
+    4024700006,
+    4024698687
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "fence",
+    "landuse": "grass",
+    "name": "Hôpital Saint-Joseph Moscati"
+  }
+},
+{
+  "type": "way",
+  "id": 94224466,
+  "timestamp": "2016-02-24T09:07:38Z",
+  "version": 3,
+  "changeset": 37407649,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 6.8175123,
+    "lon": -5.2772611
+  },
+  "nodes": [
+    1095019051,
+    4023233007,
+    1095019222,
+    1095019091,
+    4023233006,
+    4023233005,
+    1095019069,
+    3640923474,
+    1095019315,
+    3640923473,
+    1095019050,
+    1095019043,
+    4023232656,
+    4023232654,
+    4023232653,
+    1095019355,
+    1095019322,
+    1095019342,
+    1095019349,
+    1095019458,
+    1095019126,
+    1095019358,
+    1095019201,
+    1095019301,
+    1095019318,
+    1095019128,
+    1095019180,
+    1095019051
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "CHR de Yamoussoukro",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 282802432,
+  "timestamp": "2014-05-18T21:55:29Z",
+  "version": 2,
+  "changeset": 22415473,
+  "user": "Ouleur",
+  "uid": 2081270,
+  "center": {
+    "lat": 6.8787274,
+    "lon": -5.2274062
+  },
+  "nodes": [
+    2867489548,
+    2867489549,
+    2867489550,
+    2867500170,
+    2867489551,
+    2867489548
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Infirmerie INP centre"
+  }
+}
+
+  ]
+}

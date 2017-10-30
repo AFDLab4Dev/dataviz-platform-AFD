@@ -1,0 +1,741 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/4074578",
+  "properties": {
+    "timestamp": "2017-03-21T18:06:09Z",
+    "version": 2,
+    "changeset": 47047148,
+    "user": "sebastic",
+    "uid": 665748,
+    "amenity": "hospital",
+    "name": "CHU Tokoin",
+    "type": "multipolygon",
+    "id": "relation/4074578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2084362,
+      6.1460654
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/49697541",
+  "properties": {
+    "timestamp": "2015-11-08T08:36:40Z",
+    "version": 7,
+    "changeset": 35163835,
+    "user": "sev_osm",
+    "uid": 219668,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "health_facility:type": "hospital",
+    "name": "Centre Hospitalier Sylvanus Olympio",
+    "operator:type": "public",
+    "source": "Bing;survey",
+    "id": "way/49697541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2069979,
+      6.1451398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228164855",
+  "properties": {
+    "timestamp": "2015-11-14T17:57:47Z",
+    "version": 4,
+    "changeset": 35312809,
+    "user": "jeanmariemancabou",
+    "uid": 1072176,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Hopital Bon Sécours de Kegué",
+    "source": "bing",
+    "id": "way/228164855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2360554,
+      6.1918095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/235999901",
+  "properties": {
+    "timestamp": "2014-04-24T15:37:59Z",
+    "version": 3,
+    "changeset": 21910739,
+    "user": "Oberpfälzer",
+    "uid": 1244807,
+    "amenity": "hospital",
+    "name": "CMS Cacaveli",
+    "source": "bing",
+    "id": "way/235999901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1959267,
+      6.2066542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247117144",
+  "properties": {
+    "timestamp": "2016-10-12T05:51:03Z",
+    "version": 5,
+    "changeset": 42821280,
+    "user": "Enock4seth",
+    "uid": 1803854,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in:": "Viepe, Volta Region, Ghana",
+    "name": "New Hope Clinic",
+    "id": "way/247117144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1598332,
+      6.1092765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247224773",
+  "properties": {
+    "timestamp": "2015-01-04T08:02:11Z",
+    "version": 6,
+    "changeset": 27903919,
+    "user": "Enock4seth",
+    "uid": 1803854,
+    "addr:street": "Linus Koffie Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Ketu South District Hospital",
+    "id": "way/247224773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1800364,
+      6.1172968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/247289779",
+  "properties": {
+    "timestamp": "2013-11-20T19:33:40Z",
+    "version": 1,
+    "changeset": 19021516,
+    "user": "Enock4seth",
+    "uid": 1803854,
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Sape Agbo Memorial Hospital",
+    "id": "way/247289779"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1428712,
+      6.0972489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/268779320",
+  "properties": {
+    "timestamp": "2014-03-24T23:57:32Z",
+    "version": 1,
+    "changeset": 21296476,
+    "user": "Enock4seth",
+    "uid": 1803854,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Aflao Hospital",
+    "id": "way/268779320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1689449,
+      6.1152168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314994541",
+  "properties": {
+    "timestamp": "2017-01-24T15:50:25Z",
+    "version": 6,
+    "changeset": 45436940,
+    "user": "Verdy_p",
+    "uid": 90780,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "CMS Doumassesse",
+    "id": "way/314994541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.217678,
+      6.1600473
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/352969032",
+  "properties": {
+    "timestamp": "2015-06-27T15:46:10Z",
+    "version": 2,
+    "changeset": 32245437,
+    "user": "Amen ABBEY MATHEY",
+    "uid": 2245273,
+    "amenity": "hospital",
+    "name": "CMS ATIKOUME",
+    "id": "way/352969032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2072875,
+      6.1662233
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/379735527",
+  "properties": {
+    "timestamp": "2015-11-11T13:13:32Z",
+    "version": 2,
+    "changeset": 35239414,
+    "user": "djoumbata",
+    "uid": 1995876,
+    "amenity": "hospital",
+    "name": "CNTS",
+    "id": "way/379735527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2176655,
+      6.1594722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/480952907",
+  "properties": {
+    "timestamp": "2017-03-17T00:34:53Z",
+    "version": 2,
+    "changeset": 46914244,
+    "user": "ANVIC",
+    "uid": 5414731,
+    "amenity": "hospital",
+    "name": "PHARMACIE KEGUE",
+    "id": "way/480952907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2414563,
+      6.2093712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2435398462",
+  "properties": {
+    "timestamp": "2014-09-16T11:56:15Z",
+    "version": 2,
+    "changeset": 25477376,
+    "user": "löcknitzpaddler",
+    "uid": 65334,
+    "amenity": "hospital",
+    "name": "Centre Médico-Social d'Agoè-Nyivé",
+    "source": "bing; survey",
+    "id": "node/2435398462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2101698,
+      6.2239604
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2594350812",
+  "properties": {
+    "timestamp": "2016-12-06T18:24:38Z",
+    "version": 2,
+    "changeset": 44216260,
+    "user": "hermann106",
+    "uid": 632960,
+    "amenity": "hospital",
+    "name": "Orl Aziable",
+    "id": "node/2594350812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2386019,
+      6.1299782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2642979522",
+  "properties": {
+    "timestamp": "2014-01-30T01:31:29Z",
+    "version": 1,
+    "changeset": 20276023,
+    "user": "AKE Amazan",
+    "uid": 1586794,
+    "amenity": "hospital",
+    "name": "Centre medico-social de secours Christ Roi",
+    "short_name": "CMS Christ Roi",
+    "id": "node/2642979522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2064404,
+      6.1204623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3022452153",
+  "properties": {
+    "timestamp": "2014-08-17T14:43:58Z",
+    "version": 1,
+    "changeset": 24809420,
+    "user": "Aimé BOUKPESSI",
+    "uid": 1995994,
+    "amenity": "hospital",
+    "name": "Centre de santé de Kodjoviakopé",
+    "id": "node/3022452153"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2059168,
+      6.1168602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3132004330",
+  "properties": {
+    "timestamp": "2014-10-15T20:06:32Z",
+    "version": 1,
+    "changeset": 26103998,
+    "user": "hyacinthe Djiwonou",
+    "uid": 1595908,
+    "amenity": "hospital",
+    "name": "CMS Baguida",
+    "source": "bing;survey",
+    "id": "node/3132004330"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.3255964,
+      6.1701028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3834209789",
+  "properties": {
+    "timestamp": "2015-11-13T13:15:49Z",
+    "version": 1,
+    "changeset": 35283815,
+    "user": "liye",
+    "uid": 3375850,
+    "amenity": "hospital",
+    "name": "CMS centre medico-social",
+    "id": "node/3834209789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1936015,
+      6.2417851
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3834209794",
+  "properties": {
+    "timestamp": "2015-11-13T13:15:49Z",
+    "version": 1,
+    "changeset": 35283815,
+    "user": "liye",
+    "uid": 3375850,
+    "amenity": "hospital",
+    "name": "hôpitale du CAMP FIR",
+    "id": "node/3834209794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1899013,
+      6.2461951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3859947896",
+  "properties": {
+    "timestamp": "2015-11-26T02:23:01Z",
+    "version": 1,
+    "changeset": 35583751,
+    "user": "AKE Amazan",
+    "uid": 1586794,
+    "amenity": "hospital",
+    "name": "cabinet médical st  Kisito",
+    "id": "node/3859947896"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.218404,
+      6.1570725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3935749397",
+  "properties": {
+    "timestamp": "2016-10-21T15:02:25Z",
+    "version": 3,
+    "changeset": 43061703,
+    "user": "Verdy_p",
+    "uid": 90780,
+    "amenity": "hospital",
+    "name": "Hôpital de Bè",
+    "id": "node/3935749397"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2463902,
+      6.140772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4032771690",
+  "properties": {
+    "timestamp": "2016-02-29T12:00:31Z",
+    "version": 1,
+    "changeset": 37520065,
+    "user": "Guy Maurel KONAN",
+    "uid": 1703949,
+    "amenity": "hospital",
+    "description": "Centre médico social",
+    "name": "CMS",
+    "id": "node/4032771690"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1792675,
+      6.198828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4061918874",
+  "properties": {
+    "timestamp": "2016-03-15T16:32:14Z",
+    "version": 1,
+    "changeset": 37847973,
+    "user": "Guy Maurel KONAN",
+    "uid": 1703949,
+    "amenity": "hospital",
+    "name": "Cabinet médicala la grâce",
+    "id": "node/4061918874"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2606498,
+      6.1520226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4108204916",
+  "properties": {
+    "timestamp": "2016-07-29T19:03:04Z",
+    "version": 2,
+    "changeset": 41116044,
+    "user": "Nyatefe",
+    "uid": 4021113,
+    "amenity": "hospital",
+    "name": "Centre Medico-Chirurgical SOURCE DE VIE",
+    "phone": "23361916",
+    "id": "node/4108204916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1773818,
+      6.193746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278125895",
+  "properties": {
+    "timestamp": "2017-01-20T16:42:35Z",
+    "version": 3,
+    "changeset": 45331149,
+    "user": "hermann106",
+    "uid": 632960,
+    "amenity": "hospital",
+    "name": "CHU du Campus",
+    "id": "node/4278125895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2125318,
+      6.1793653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278139593",
+  "properties": {
+    "timestamp": "2016-07-02T11:46:26Z",
+    "version": 1,
+    "changeset": 40438650,
+    "user": "hermann106",
+    "uid": 632960,
+    "amenity": "hospital",
+    "name": "centre médico social",
+    "id": "node/4278139593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2323449,
+      6.1493123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278153195",
+  "properties": {
+    "timestamp": "2016-10-10T21:09:48Z",
+    "version": 2,
+    "changeset": 42787575,
+    "user": "Verdy_p",
+    "uid": 90780,
+    "amenity": "hospital",
+    "name": "Clinique de gastro entérologie",
+    "id": "node/4278153195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.208152,
+      6.1927209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278275881",
+  "properties": {
+    "timestamp": "2016-07-02T13:08:38Z",
+    "version": 1,
+    "changeset": 40440004,
+    "user": "AGBOLI Komla",
+    "uid": 3815281,
+    "amenity": "hospital",
+    "name": "CMS Amoutive",
+    "id": "node/4278275881"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2297878,
+      6.1402281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4328284004",
+  "properties": {
+    "timestamp": "2016-12-06T18:24:35Z",
+    "version": 2,
+    "changeset": 44216260,
+    "user": "hermann106",
+    "uid": 632960,
+    "amenity": "hospital",
+    "name": "Autel D'elie",
+    "id": "node/4328284004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2441149,
+      6.1408165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4351625229",
+  "properties": {
+    "timestamp": "2016-08-15T19:33:30Z",
+    "version": 1,
+    "changeset": 41474799,
+    "user": "AKE Amazan",
+    "uid": 1586794,
+    "amenity": "hospital",
+    "name": "Clinique des Cocotiers",
+    "id": "node/4351625229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2140953,
+      6.1335117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4445618642",
+  "properties": {
+    "timestamp": "2016-10-13T11:16:44Z",
+    "version": 1,
+    "changeset": 42859288,
+    "user": "cindy_l",
+    "uid": 4679269,
+    "amenity": "hospital",
+    "name": "Clinique Bien-Être",
+    "id": "node/4445618642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1621949,
+      6.1884066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4526659290",
+  "properties": {
+    "timestamp": "2016-11-28T17:20:21Z",
+    "version": 1,
+    "changeset": 44012495,
+    "user": "Nyatefe",
+    "uid": 4021113,
+    "amenity": "hospital",
+    "name": "CLINIQUE MERE ET ENFANT",
+    "name:fr": "CLINIQUE MERE ET ENFANT",
+    "id": "node/4526659290"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1988935,
+      6.184457
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4550979289",
+  "properties": {
+    "timestamp": "2016-12-12T14:12:57Z",
+    "version": 1,
+    "changeset": 44346983,
+    "user": "SANTONYODEGUIDI2",
+    "uid": 4856346,
+    "amenity": "hospital",
+    "id": "node/4550979289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.1954371,
+      6.1849496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4582705789",
+  "properties": {
+    "timestamp": "2016-12-31T13:45:50Z",
+    "version": 1,
+    "changeset": 44806687,
+    "user": "Moritz Pe",
+    "uid": 5055159,
+    "amenity": "hospital",
+    "name": "Polyclinique Saint Joseph",
+    "name:fr": "Polyclinique Saint Joseph",
+    "id": "node/4582705789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2409883,
+      6.1741816
+    ]
+  }
+}
+]
+}

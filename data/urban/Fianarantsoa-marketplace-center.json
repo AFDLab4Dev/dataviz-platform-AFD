@@ -1,0 +1,47 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 363213576,
+  "timestamp": "2016-01-16T07:34:26Z",
+  "version": 8,
+  "changeset": 36609441,
+  "user": "@dolly",
+  "uid": 3107789,
+  "center": {
+    "lat": -21.4564667,
+    "lon": 47.0853234
+  },
+  "nodes": [
+    3673909700,
+    3673909701,
+    3673909702,
+    3673909703,
+    3673909704,
+    3673909705,
+    3673909706,
+    3673909707,
+    3673909709,
+    3673909710,
+    3673909711,
+    3673909712,
+    3673909700
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Lapan'ny Tanàna",
+    "office": "administrative",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

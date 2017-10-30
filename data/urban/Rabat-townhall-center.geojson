@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/3925718704",
+  "properties": {
+    "timestamp": "2016-01-03T17:34:14Z",
+    "version": 1,
+    "changeset": 36343270,
+    "user": "Karl Stanzick",
+    "uid": 2374915,
+    "amenity": "townhall",
+    "name": "Harhoura",
+    "id": "node/3925718704"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9597157,
+      33.9254054
+    ]
+  }
+}
+]
+}

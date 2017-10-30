@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/1706564163",
+  "properties": {
+    "timestamp": "2012-04-08T02:49:01Z",
+    "version": 1,
+    "changeset": 11220464,
+    "user": "andryono",
+    "uid": 643030,
+    "amenity": "townhall",
+    "name": "Balai Kota",
+    "id": "node/1706564163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6098141,
+      -6.9108076
+    ]
+  }
+}
+]
+}

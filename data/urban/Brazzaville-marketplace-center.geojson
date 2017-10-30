@@ -1,0 +1,602 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/4693467",
+  "properties": {
+    "timestamp": "2017-01-17T17:33:07Z",
+    "version": 5,
+    "changeset": 45248481,
+    "user": "isabelrs",
+    "uid": 4888384,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de la LIberté",
+    "id": "way/4693467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3842693,
+      -4.3919783
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48570162",
+  "properties": {
+    "timestamp": "2010-05-03T09:06:08Z",
+    "version": 2,
+    "changeset": 4592891,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché des Anciens Combattants",
+    "old_name": "Marché Cité Beaudoin",
+    "id": "way/48570162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2399401,
+      -4.3547111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/57890777",
+  "properties": {
+    "timestamp": "2010-05-03T08:23:54Z",
+    "version": 1,
+    "changeset": 4592608,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka",
+    "id": "way/57890777"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.300619,
+      -4.3513984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/63951640",
+  "properties": {
+    "timestamp": "2017-01-17T17:56:59Z",
+    "version": 6,
+    "changeset": 45249026,
+    "user": "isabelrs",
+    "uid": 4888384,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Yolo",
+    "sport": "football",
+    "id": "way/63951640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3328792,
+      -4.3511788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/129297270",
+  "properties": {
+    "timestamp": "2017-01-17T17:33:07Z",
+    "version": 4,
+    "changeset": 45248481,
+    "user": "isabelrs",
+    "uid": 4888384,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Somba Zigida",
+    "id": "way/129297270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3170578,
+      -4.3276986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/194696285",
+  "properties": {
+    "timestamp": "2012-12-05T21:43:39Z",
+    "version": 1,
+    "changeset": 14168601,
+    "user": "yaho",
+    "uid": 385987,
+    "amenity": "marketplace",
+    "name": "Marche Total",
+    "id": "way/194696285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2404266,
+      -4.2990375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204418633",
+  "properties": {
+    "timestamp": "2013-02-06T17:46:55Z",
+    "version": 1,
+    "changeset": 14936122,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché Bayaka",
+    "id": "way/204418633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.300614,
+      -4.3521249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204867792",
+  "properties": {
+    "timestamp": "2013-02-09T23:59:40Z",
+    "version": 1,
+    "changeset": 14974369,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "marketplace",
+    "id": "way/204867792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3052418,
+      -4.3243113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/466709518",
+  "properties": {
+    "timestamp": "2017-01-17T17:56:58Z",
+    "version": 1,
+    "changeset": 45249026,
+    "user": "isabelrs",
+    "uid": 4888384,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Lemba",
+    "id": "way/466709518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3326091,
+      -4.3946294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/466709519",
+  "properties": {
+    "timestamp": "2017-01-17T17:56:58Z",
+    "version": 1,
+    "changeset": 45249026,
+    "user": "isabelrs",
+    "uid": 4888384,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché  de Matete",
+    "id": "way/466709519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3472992,
+      -4.3922424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/467167188",
+  "properties": {
+    "timestamp": "2017-01-19T11:59:55Z",
+    "version": 1,
+    "changeset": 45295636,
+    "user": "Zuzana Pucha",
+    "uid": 4964118,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "marché",
+    "id": "way/467167188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2834025,
+      -4.3852383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1640305526",
+  "properties": {
+    "timestamp": "2012-02-20T10:23:39Z",
+    "version": 1,
+    "changeset": 10738507,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "marketplace",
+    "name": "Wenze",
+    "id": "node/1640305526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2630405,
+      -4.3412468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2273728696",
+  "properties": {
+    "timestamp": "2013-04-20T13:35:27Z",
+    "version": 1,
+    "changeset": 15797207,
+    "user": "MBUNGA",
+    "uid": 1229302,
+    "amenity": "marketplace",
+    "name": "Marché Kalé Banzazi",
+    "id": "node/2273728696"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3092766,
+      -4.3562963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2273811597",
+  "properties": {
+    "timestamp": "2013-04-20T14:56:57Z",
+    "version": 1,
+    "changeset": 15798458,
+    "user": "Wenceslas NTUMBA",
+    "uid": 1210633,
+    "amenity": "marketplace",
+    "name": "Marché Q7",
+    "id": "node/2273811597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3720464,
+      -4.3980814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2299738184",
+  "properties": {
+    "timestamp": "2013-05-11T15:06:24Z",
+    "version": 1,
+    "changeset": 16081400,
+    "user": "kadima_mbuyi",
+    "uid": 1232037,
+    "amenity": "marketplace",
+    "id": "node/2299738184"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2770662,
+      -4.3413325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2533328477",
+  "properties": {
+    "timestamp": "2013-11-15T08:59:16Z",
+    "version": 1,
+    "changeset": 18910108,
+    "user": "Wenceslas NTUMBA",
+    "uid": 1210633,
+    "amenity": "marketplace",
+    "name": "Marché UPN",
+    "id": "node/2533328477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2558038,
+      -4.4061069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291476353",
+  "properties": {
+    "timestamp": "2015-01-16T00:01:28Z",
+    "version": 1,
+    "changeset": 28176240,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché Total",
+    "id": "node/3291476353"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2504677,
+      -4.288987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291519902",
+  "properties": {
+    "timestamp": "2015-01-16T00:57:53Z",
+    "version": 1,
+    "changeset": 28176899,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché de la Plaine",
+    "id": "node/3291519902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2833791,
+      -4.2743066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291519934",
+  "properties": {
+    "timestamp": "2016-09-01T10:00:29Z",
+    "version": 2,
+    "changeset": 41845028,
+    "user": "我是老虎",
+    "uid": 4363096,
+    "amenity": "marketplace",
+    "name": "工艺品市场Marché Touristique du Plateau",
+    "id": "node/3291519934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.268944,
+      -4.2813498
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3292022157",
+  "properties": {
+    "timestamp": "2015-01-16T09:27:36Z",
+    "version": 1,
+    "changeset": 28181583,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché Tembé Na Ba Mbanda",
+    "id": "node/3292022157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2746052,
+      -4.2189564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3447641029",
+  "properties": {
+    "timestamp": "2015-04-10T00:01:27Z",
+    "version": 1,
+    "changeset": 30107000,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "marketplace",
+    "name": "Marché des Valeurs",
+    "id": "node/3447641029"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2834209,
+      -4.3152865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725889159",
+  "properties": {
+    "timestamp": "2016-10-14T13:18:24Z",
+    "version": 2,
+    "changeset": 42896174,
+    "user": "我是老虎",
+    "uid": 4363096,
+    "amenity": "marketplace",
+    "name": "Marché Plateau Ville",
+    "name:zh": "工艺品市场",
+    "id": "node/3725889159"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2686445,
+      -4.2812653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725889163",
+  "properties": {
+    "timestamp": "2015-09-02T10:20:10Z",
+    "version": 1,
+    "changeset": 33747946,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché Moungali",
+    "id": "node/3725889163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2789622,
+      -4.2583344
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725889187",
+  "properties": {
+    "timestamp": "2015-09-02T10:20:10Z",
+    "version": 1,
+    "changeset": 33747946,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché Poto-Poto",
+    "id": "node/3725889187"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2862126,
+      -4.2631421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725889188",
+  "properties": {
+    "timestamp": "2015-09-02T10:20:10Z",
+    "version": 1,
+    "changeset": 33747946,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "marketplace",
+    "name": "Marché Plateau des 15 ans",
+    "id": "node/3725889188"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2654388,
+      -4.2600391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4092519419",
+  "properties": {
+    "timestamp": "2016-04-02T13:26:28Z",
+    "version": 1,
+    "changeset": 38248603,
+    "user": "leroiluende",
+    "uid": 3687000,
+    "amenity": "marketplace",
+    "name": "marché mariano",
+    "id": "node/4092519419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3105007,
+      -4.3522931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4278203349",
+  "properties": {
+    "timestamp": "2016-07-02T12:30:23Z",
+    "version": 1,
+    "changeset": 40439378,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "marketplace",
+    "name": "Marché de Matete",
+    "id": "node/4278203349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3473275,
+      -4.3922509
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4618026749",
+  "properties": {
+    "timestamp": "2017-01-19T09:44:12Z",
+    "version": 1,
+    "changeset": 45292859,
+    "user": "Zuzana Pucha",
+    "uid": 4964118,
+    "amenity": "marketplace",
+    "id": "node/4618026749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.317033,
+      -4.3277689
+    ]
+  }
+}
+]
+}

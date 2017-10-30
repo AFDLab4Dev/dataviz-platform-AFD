@@ -1,0 +1,458 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/241551999",
+  "properties": {
+    "timestamp": "2016-10-10T05:59:41Z",
+    "version": 7,
+    "changeset": 42768802,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché Dantokpa",
+    "tourism": "attraction",
+    "wikipedia": "fr:Dantokpa",
+    "id": "way/241551999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4333016,
+      6.3727019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/242493401",
+  "properties": {
+    "timestamp": "2013-10-17T14:56:18Z",
+    "version": 1,
+    "changeset": 18405104,
+    "user": "paulbanon",
+    "uid": 1717089,
+    "amenity": "marketplace",
+    "name": "Marché Vêdoko",
+    "source": "GPS;survey",
+    "id": "way/242493401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3895826,
+      6.3782505
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/272261760",
+  "properties": {
+    "timestamp": "2014-04-06T11:05:38Z",
+    "version": 1,
+    "changeset": 21530092,
+    "user": "benoitberlin",
+    "uid": 1197015,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "way/272261760"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4129357,
+      6.3766552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/273441850",
+  "properties": {
+    "timestamp": "2014-04-11T08:53:59Z",
+    "version": 1,
+    "changeset": 21622474,
+    "user": "benoitberlin",
+    "uid": 1197015,
+    "amenity": "marketplace",
+    "id": "way/273441850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3985567,
+      6.391263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377325432",
+  "properties": {
+    "timestamp": "2015-10-28T17:39:22Z",
+    "version": 1,
+    "changeset": 34931855,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi",
+    "id": "way/377325432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5397009,
+      6.3953867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/418396611",
+  "properties": {
+    "timestamp": "2016-05-15T23:08:11Z",
+    "version": 1,
+    "changeset": 39340683,
+    "user": "Salimalfa",
+    "uid": 3883978,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Womey",
+    "id": "way/418396611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3057133,
+      6.4053508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/419117437",
+  "properties": {
+    "timestamp": "2016-05-17T23:47:45Z",
+    "version": 1,
+    "changeset": 39388963,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché St Michel",
+    "opening_hours": "24/7",
+    "wheelchair": "yes",
+    "id": "way/419117437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.426506,
+      6.3695479
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/443598145",
+  "properties": {
+    "timestamp": "2016-09-21T13:08:10Z",
+    "version": 1,
+    "changeset": 42323298,
+    "user": "rody",
+    "uid": 196272,
+    "amenity": "marketplace",
+    "fixme": "low accuracy",
+    "id": "way/443598145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4361849,
+      6.3667666
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2499580589",
+  "properties": {
+    "timestamp": "2013-10-17T15:51:28Z",
+    "version": 1,
+    "changeset": 18405823,
+    "user": "paulbanon",
+    "uid": 1717089,
+    "amenity": "marketplace",
+    "name": "Marché Togba",
+    "source": "GPS;survey",
+    "id": "node/2499580589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3059166,
+      6.4635422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3032537605",
+  "properties": {
+    "timestamp": "2014-08-21T14:24:33Z",
+    "version": 1,
+    "changeset": 24910645,
+    "user": "paulbanon",
+    "uid": 1717089,
+    "amenity": "marketplace",
+    "id": "node/3032537605"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.34485,
+      6.394968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3913012835",
+  "properties": {
+    "timestamp": "2015-12-27T16:52:59Z",
+    "version": 1,
+    "changeset": 36200385,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "amenity": "marketplace",
+    "name": "MARCHE D'ATROKPOKODJI",
+    "operator": "Mairie d'Abomey Calavi",
+    "wheelchair": "yes",
+    "id": "node/3913012835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3271523,
+      6.3941902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3919463999",
+  "properties": {
+    "timestamp": "2016-04-21T07:32:37Z",
+    "version": 2,
+    "changeset": 38748894,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Marché de Ganvie",
+    "id": "node/3919463999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3911031,
+      6.467855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3969886231",
+  "properties": {
+    "timestamp": "2016-05-26T12:05:16Z",
+    "version": 2,
+    "changeset": 39579321,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Marché de Tokan",
+    "id": "node/3969886231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3170308,
+      6.4581063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4165296540",
+  "properties": {
+    "timestamp": "2016-05-04T09:36:27Z",
+    "version": 1,
+    "changeset": 39091858,
+    "user": "christelkenou",
+    "uid": 3884088,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "operator": "Kindonou",
+    "source": "Survey",
+    "id": "node/4165296540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.364661,
+      6.3923139
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4165315270",
+  "properties": {
+    "timestamp": "2016-05-04T10:07:21Z",
+    "version": 2,
+    "changeset": 39092411,
+    "user": "fifauria",
+    "uid": 3884200,
+    "amenity": "marketplace",
+    "name": "Marché Kindonou",
+    "source": "survey",
+    "id": "node/4165315270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3646839,
+      6.3922955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4172381291",
+  "properties": {
+    "timestamp": "2016-05-08T01:20:28Z",
+    "version": 1,
+    "changeset": 39173646,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché de N'vènamedé",
+    "id": "node/4172381291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4598064,
+      6.3745678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4207422049",
+  "properties": {
+    "timestamp": "2016-05-25T16:46:19Z",
+    "version": 1,
+    "changeset": 39560683,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché Sekandji",
+    "id": "node/4207422049"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5074534,
+      6.3756425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4254736032",
+  "properties": {
+    "timestamp": "2016-06-20T17:28:49Z",
+    "version": 1,
+    "changeset": 40162522,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "marketplace",
+    "name": "Marché PK3",
+    "operator": "SOGEMA",
+    "id": "node/4254736032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.461551,
+      6.3708036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4440045658",
+  "properties": {
+    "timestamp": "2016-10-10T05:50:44Z",
+    "version": 1,
+    "changeset": 42768714,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "id": "node/4440045658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4372291,
+      6.3545333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4520425085",
+  "properties": {
+    "timestamp": "2016-11-25T10:21:33Z",
+    "version": 1,
+    "changeset": 43941067,
+    "user": "Sam AGBADONOU",
+    "uid": 1718307,
+    "amenity": "marketplace",
+    "name": "Marché de Cococodji",
+    "id": "node/4520425085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.278613,
+      6.3884067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4555392791",
+  "properties": {
+    "timestamp": "2016-12-17T09:45:29Z",
+    "version": 2,
+    "changeset": 44465464,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Marché d’Akassato",
+    "id": "node/4555392791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.3661626,
+      6.5042198
+    ]
+  }
+}
+]
+}

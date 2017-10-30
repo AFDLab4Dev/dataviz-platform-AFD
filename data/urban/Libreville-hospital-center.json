@@ -1,0 +1,410 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1252292649,
+  "lat": 0.4069683,
+  "lon": 9.5050457,
+  "timestamp": "2011-04-20T10:53:39Z",
+  "version": 1,
+  "changeset": 7914231,
+  "user": "tridex",
+  "uid": 439865,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Military Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3179776916,
+  "lat": 0.3911432,
+  "lon": 9.4465110,
+  "timestamp": "2015-08-24T16:55:51Z",
+  "version": 2,
+  "changeset": 33551837,
+  "user": "Alex Sige",
+  "uid": 1652138,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital général"
+  }
+},
+{
+  "type": "node",
+  "id": 3678077746,
+  "lat": 0.3380794,
+  "lon": 9.4834246,
+  "timestamp": "2015-08-02T20:56:30Z",
+  "version": 1,
+  "changeset": 33056457,
+  "user": "morasa",
+  "uid": 3116623,
+  "tags": {
+    "addr:city": "Owendo",
+    "amenity": "hospital",
+    "name": "CHUO"
+  }
+},
+{
+  "type": "node",
+  "id": 4040662119,
+  "lat": 0.4243506,
+  "lon": 9.4267835,
+  "timestamp": "2016-03-04T19:32:21Z",
+  "version": 1,
+  "changeset": 37615264,
+  "user": "Abel Zeus",
+  "uid": 3684976,
+  "tags": {
+    "amenity": "hospital",
+    "name": "El Rafa"
+  }
+},
+{
+  "type": "node",
+  "id": 4075762147,
+  "lat": 0.4176536,
+  "lon": 9.4529731,
+  "timestamp": "2016-03-23T20:38:53Z",
+  "version": 1,
+  "changeset": 38028477,
+  "user": "Igondjo",
+  "uid": 3578467,
+  "tags": {
+    "amenity": "hospital",
+    "name": "S.O.S Medecin"
+  }
+},
+{
+  "type": "node",
+  "id": 4121837395,
+  "lat": 0.3970606,
+  "lon": 9.4455026,
+  "timestamp": "2016-04-14T20:22:03Z",
+  "version": 1,
+  "changeset": 38568258,
+  "user": "Parfaittt",
+  "uid": 3824725,
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Montagne Sainte",
+    "amenity": "hospital",
+    "description": "Clinique privée",
+    "emergency": "yes",
+    "name": "Clinique Chambrier",
+    "operator": "Dr Chambrier"
+  }
+},
+{
+  "type": "node",
+  "id": 4121844946,
+  "lat": 0.3970097,
+  "lon": 9.4423489,
+  "timestamp": "2016-04-14T20:23:47Z",
+  "version": 1,
+  "changeset": 38568340,
+  "user": "Parfaittt",
+  "uid": 3824725,
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Montagne Sainte",
+    "amenity": "hospital",
+    "description": "Clinique privée",
+    "emergency": "yes",
+    "name": "Clinique Biyoghe",
+    "operator": "Dr Biyoghe"
+  }
+},
+{
+  "type": "node",
+  "id": 4121875057,
+  "lat": 0.4162191,
+  "lon": 9.4265547,
+  "timestamp": "2016-04-14T20:50:40Z",
+  "version": 1,
+  "changeset": 38569350,
+  "user": "Parfaittt",
+  "uid": 3824725,
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Batterie IV",
+    "amenity": "hospital",
+    "description": "Clinique privée",
+    "name": "Clinique"
+  }
+},
+{
+  "type": "node",
+  "id": 4121875263,
+  "lat": 0.4168963,
+  "lon": 9.4260460,
+  "timestamp": "2016-04-14T20:49:06Z",
+  "version": 1,
+  "changeset": 38569315,
+  "user": "Parfaittt",
+  "uid": 3824725,
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Batterie IV",
+    "amenity": "hospital",
+    "description": "Clinique privée",
+    "name": "Clinique du Litoral"
+  }
+},
+{
+  "type": "node",
+  "id": 4121893797,
+  "lat": 0.4204724,
+  "lon": 9.4493847,
+  "timestamp": "2016-04-14T21:01:16Z",
+  "version": 1,
+  "changeset": 38569639,
+  "user": "Parfaittt",
+  "uid": 3824725,
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Sobraga",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinique Union Médicale"
+  }
+},
+{
+  "type": "way",
+  "id": 251018734,
+  "timestamp": "2016-06-11T14:14:02Z",
+  "version": 3,
+  "changeset": 39953516,
+  "user": "Aloy29",
+  "uid": 3792390,
+  "center": {
+    "lat": 0.4066752,
+    "lon": 9.4336078
+  },
+  "nodes": [
+    2573183651,
+    1252259531,
+    2573183707,
+    2573183742,
+    2573183749,
+    2573183747,
+    2573183750,
+    2573183748,
+    2573183746,
+    2573183743,
+    2573183726,
+    2573183711,
+    2573183703,
+    2573183735,
+    2573183744,
+    2573183736,
+    2573183737,
+    2573183734,
+    2573183722,
+    2573183695,
+    2573183653,
+    2573183648,
+    2573183637,
+    2573183631,
+    2573183630,
+    2573183632,
+    2573183633,
+    2573183651
+  ],
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Boulevard de l'Independance",
+    "amenity": "hospital",
+    "name": "Fondation Hôpital Jeanne Ebori"
+  }
+},
+{
+  "type": "way",
+  "id": 410356077,
+  "timestamp": "2016-11-30T08:33:42Z",
+  "version": 4,
+  "changeset": 44054076,
+  "user": "Pango Amélie",
+  "uid": 4773912,
+  "center": {
+    "lat": 0.3919825,
+    "lon": 9.4478692
+  },
+  "nodes": [
+    4121856300,
+    4121856301,
+    4121856302,
+    4121856303,
+    4121856304,
+    4529799722,
+    4529799740,
+    4121856305,
+    4121856306,
+    4121856307,
+    4121856308,
+    4121856309,
+    4529799747,
+    4121856310,
+    4121856311,
+    4121856312,
+    4121856313,
+    4121856314,
+    4121856315,
+    4121856316,
+    4121856317,
+    4121856318,
+    4121856319,
+    4121856320,
+    4121856321,
+    4520781535,
+    4520781534,
+    4520781531,
+    4121856322,
+    4121856323,
+    4121856324,
+    4520725090,
+    4121856325,
+    4121856326,
+    4121856327,
+    4121856328,
+    4121856329,
+    4121856330,
+    4121856331,
+    4121856332,
+    4121856300
+  ],
+  "tags": {
+    "addr:city": "Libreville",
+    "addr:street": "Felix Eboube Avenue",
+    "amenity": "hospital",
+    "description": "Centre Hospitalier Universitaire",
+    "emergency": "yes",
+    "name": "CHU de Libreville",
+    "operator": "Ministère de la santé",
+    "source": "BEDE Parfaittt"
+  }
+},
+{
+  "type": "way",
+  "id": 251604749,
+  "timestamp": "2016-03-18T00:15:23Z",
+  "version": 2,
+  "changeset": 37909887,
+  "user": "Igondjo",
+  "uid": 3578467,
+  "center": {
+    "lat": 0.4105421,
+    "lon": 9.4568891
+  },
+  "nodes": [
+    2578003185,
+    2578003186,
+    2578003187,
+    2578003188,
+    2578003190,
+    2578003189,
+    2578003191,
+    2578003194,
+    2578003197,
+    2578003198,
+    2578003199,
+    2578003200,
+    2578003202,
+    2578003203,
+    2578003204,
+    2578003201,
+    2578003196,
+    2578003195,
+    2578003192,
+    2578003193,
+    2578003185
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Nkembo Hospital",
+    "name:fr": "Hopital de Nkembo"
+  }
+},
+{
+  "type": "way",
+  "id": 410296774,
+  "timestamp": "2016-04-14T14:08:25Z",
+  "version": 1,
+  "changeset": 38556314,
+  "user": "Hellrazor Bissok",
+  "uid": 3824718,
+  "center": {
+    "lat": 0.4185097,
+    "lon": 9.4438653
+  },
+  "nodes": [
+    4121249641,
+    4121249642,
+    4121249643,
+    4121249644,
+    4121249641
+  ],
+  "tags": {
+    "addr:city": "Libreville",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "level": "1",
+    "name": "Centre médical",
+    "operator": "CNOU"
+  }
+},
+{
+  "type": "way",
+  "id": 413903267,
+  "timestamp": "2016-04-27T13:38:53Z",
+  "version": 2,
+  "changeset": 38919875,
+  "user": "Obone 241",
+  "uid": 3828108,
+  "center": {
+    "lat": 0.4072415,
+    "lon": 9.5058848
+  },
+  "nodes": [
+    3524351026,
+    4151210499,
+    4151210500,
+    4151210501,
+    4151210502,
+    3524350952,
+    3524350910,
+    4151210503,
+    3524338319,
+    3524350716,
+    3524338316,
+    3524338315,
+    3524338323,
+    3524338326,
+    3524338329,
+    3524338308,
+    3524350814,
+    3524350812,
+    3524350830,
+    3524350865,
+    3524350998,
+    3524351025,
+    3524351026
+  ],
+  "tags": {
+    "addr:city": "Libreville",
+    "amenity": "hospital",
+    "name": "Hôpital d'Instruction des armées"
+  }
+}
+
+  ]
+}

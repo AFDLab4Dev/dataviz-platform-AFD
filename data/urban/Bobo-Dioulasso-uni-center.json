@@ -1,0 +1,218 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 737617777,
+  "lat": 11.2098166,
+  "lon": -4.4184406,
+  "timestamp": "2016-11-08T10:48:17Z",
+  "version": 6,
+  "changeset": 43484190,
+  "user": "projet_carteinnov",
+  "uid": 4786719,
+  "tags": {
+    "addr:full": "Ouest dans le village de Nasso, Bobo-Dioulasso, Burkina Faso",
+    "amenity": "university",
+    "contact:email": "info@univ-bobo.bf",
+    "contact:facebook": "www.facebook.com/Universit%C3%A9-Polytechnique-de-Bobo-Dioulasso-178236412252888/?ref=ts&fref=ts",
+    "contact:phone": "+226 20 98 06 35",
+    "contact:website": "www.univ-bobo.bf",
+    "description": "L'UPB est un établissement public de l’État à caractère scientifique, culturel et technique (EPSCT) chargé d’enseignement supérieur et de recherche scientifique.",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:universite-polytechnique-de-bobo-dioulasso",
+    "name": "Université Polytechnique de Bobo Dioulasso",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UPB",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-23",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1997"
+  }
+},
+{
+  "type": "node",
+  "id": 3459771763,
+  "lat": 11.1896948,
+  "lon": -4.3239379,
+  "timestamp": "2015-04-16T16:42:01Z",
+  "version": 1,
+  "changeset": 30269555,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "tags": {
+    "amenity": "university",
+    "name": "U-AUBEN",
+    "operator:type": "private",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3583900863,
+  "lat": 11.1890292,
+  "lon": -4.3242013,
+  "timestamp": "2015-06-09T17:22:42Z",
+  "version": 1,
+  "changeset": 31850372,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut Africaine de Management"
+  }
+},
+{
+  "type": "node",
+  "id": 3641217672,
+  "lat": 11.1818205,
+  "lon": -4.3631545,
+  "timestamp": "2015-07-08T17:55:55Z",
+  "version": 1,
+  "changeset": 32501586,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National des Sciences de la Santé"
+  }
+},
+{
+  "type": "node",
+  "id": 3739602490,
+  "lat": 11.2050012,
+  "lon": -4.3181752,
+  "timestamp": "2015-09-11T20:47:34Z",
+  "version": 1,
+  "changeset": 33969347,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Aube Nouvelle",
+    "operator:type": "private",
+    "short_name": "ISIG",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 314096563,
+  "timestamp": "2017-03-03T09:43:26Z",
+  "version": 4,
+  "changeset": 46544374,
+  "user": "Dibloni Innocent",
+  "uid": 2557538,
+  "center": {
+    "lat": 11.2092606,
+    "lon": -4.4176148
+  },
+  "nodes": [
+    3201362255,
+    3201362230,
+    3716612042,
+    3201362210,
+    3201362221,
+    3201362219,
+    3201362224,
+    3201362220,
+    3201362231,
+    3201362246,
+    3201362257,
+    3201362247,
+    3201362252,
+    3201362679,
+    3201362699,
+    3201362689,
+    3201362690,
+    3201362661,
+    3201362667,
+    3201362706,
+    3201362708,
+    3201362695,
+    3201362700,
+    3201362677,
+    3201362694,
+    3201362669,
+    3201362678,
+    3201362255
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 357948912,
+  "timestamp": "2015-07-04T15:31:09Z",
+  "version": 2,
+  "changeset": 32409640,
+  "user": "Dibloni Innocent",
+  "uid": 2557538,
+  "center": {
+    "lat": 11.1820509,
+    "lon": -4.3622102
+  },
+  "nodes": [
+    3630255372,
+    3630255373,
+    3630255370,
+    3630255371,
+    3630255374,
+    3630255375,
+    3630255369,
+    3630255368,
+    3630255367,
+    3630255366,
+    3630255365,
+    3630255364,
+    3634251010,
+    3634251009,
+    3630255372
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut National des Sciences de la Santé",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 285944951,
+  "timestamp": "2016-12-22T23:51:50Z",
+  "version": 6,
+  "changeset": 44606486,
+  "user": "tlardia",
+  "uid": 5006716,
+  "center": {
+    "lat": 11.1646054,
+    "lon": -4.3149602
+  },
+  "nodes": [
+    2895858055,
+    2895858054,
+    3498665099,
+    2895858057,
+    3498720376,
+    3498720359,
+    2895858056,
+    2895858055
+  ],
+  "tags": {
+    "amenity": "university",
+    "area": "yes",
+    "barrier": "wall",
+    "name": "UPB ex Centre de calcul",
+    "short_name": "CFR"
+  }
+}
+
+  ]
+}

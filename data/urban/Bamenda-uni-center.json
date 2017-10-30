@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 479474890,
+  "timestamp": "2017-03-09T09:58:51Z",
+  "version": 1,
+  "changeset": 46704776,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9814898,
+    "lon": 10.1789343
+  },
+  "nodes": [
+    4725662854,
+    4725662855,
+    4725662856,
+    4725662857,
+    4725662858,
+    4725662859,
+    4725662860,
+    4725662861,
+    4725662862,
+    4725662863,
+    4725662864,
+    4725662865,
+    4725662866,
+    4725662867,
+    4725662868,
+    4725662869,
+    4725662870,
+    4725662871,
+    4725662872,
+    4725662873,
+    4725662874,
+    4725662875,
+    4725662876,
+    4725662877,
+    4725662878,
+    4725662879,
+    4725662880,
+    4725662881,
+    4725662882,
+    4725662854
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "St Louis University Institute of Health and Biomedical Sciences",
+    "short_name": "UNIHEBS"
+  }
+},
+{
+  "type": "way",
+  "id": 401878863,
+  "timestamp": "2016-03-06T02:05:00Z",
+  "version": 1,
+  "changeset": 37637987,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 6.0122435,
+    "lon": 10.2583043
+  },
+  "nodes": [
+    3296636551,
+    3296636537,
+    3296636528,
+    4042871659,
+    4042871660,
+    4042871661,
+    4042871662,
+    4042871663,
+    4042871664,
+    4042871665,
+    4042871666,
+    4042871667,
+    4042871668,
+    3296636557,
+    4042859171,
+    4042859170,
+    4042859169,
+    4042859167,
+    4042859168,
+    3296636551
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "The University of Bamenda",
+    "name:fr": "Université de Bamenda"
+  }
+}
+
+  ]
+}

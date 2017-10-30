@@ -1,0 +1,112 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/451977575",
+  "properties": {
+    "timestamp": "2016-11-22T16:38:03Z",
+    "version": 3,
+    "changeset": 43874976,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hôpital EL IDRISSI",
+    "phone": "+212 537 373111",
+    "id": "way/451977575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5782073,
+      34.2483198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452143297",
+  "properties": {
+    "timestamp": "2016-11-22T16:38:03Z",
+    "version": 6,
+    "changeset": 43874976,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Polyclinique de Kenitra",
+    "phone": "+212 537 373635",
+    "id": "way/452143297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5747815,
+      34.2518462
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452738714",
+  "properties": {
+    "timestamp": "2016-12-05T13:28:26Z",
+    "version": 2,
+    "changeset": 44183481,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hopital",
+    "id": "way/452738714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5432781,
+      34.2544386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4494540883",
+  "properties": {
+    "timestamp": "2016-11-22T16:43:37Z",
+    "version": 2,
+    "changeset": 43875110,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hôpital Régional de Kénitra",
+    "id": "node/4494540883"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.57586,
+      34.247003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4515651181",
+  "properties": {
+    "timestamp": "2016-11-22T17:03:57Z",
+    "version": 1,
+    "changeset": 43875614,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "مستودع الأموات",
+    "id": "node/4515651181"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5725199,
+      34.2630264
+    ]
+  }
+}
+]
+}

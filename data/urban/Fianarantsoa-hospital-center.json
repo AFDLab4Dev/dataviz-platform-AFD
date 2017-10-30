@@ -1,0 +1,109 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3689722151,
+  "lat": -21.4496069,
+  "lon": 47.0847588,
+  "timestamp": "2015-09-15T04:52:21Z",
+  "version": 3,
+  "changeset": 34033103,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CDS",
+    "operator": "EKAR"
+  }
+},
+{
+  "type": "node",
+  "id": 3689722153,
+  "lat": -21.4514126,
+  "lon": 47.0932267,
+  "timestamp": "2016-01-24T11:38:21Z",
+  "version": 3,
+  "changeset": 36774216,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SALFA",
+    "operator": "FLM",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3713925175,
+  "lat": -21.4618694,
+  "lon": 47.1099383,
+  "timestamp": "2015-09-20T06:24:05Z",
+  "version": 2,
+  "changeset": 34133671,
+  "user": "user_5359",
+  "uid": 5359,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Universitaire Andrainjato",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3997287446,
+  "lat": -21.4190855,
+  "lon": 47.1240654,
+  "timestamp": "2016-02-09T11:45:35Z",
+  "version": 1,
+  "changeset": 37099552,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CDS Ambalakilonga",
+    "operator": "EKAR",
+    "source": "Bing"
+  }
+},
+{
+  "type": "relation",
+  "id": 7115627,
+  "timestamp": "2017-03-28T14:20:31Z",
+  "version": 1,
+  "changeset": 47231294,
+  "user": "Aurimas Fišeras",
+  "uid": 651869,
+  "center": {
+    "lat": -21.4446371,
+    "lon": 47.0860273
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 483226231,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 363366894,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Tambohobe",
+    "note": "CHU",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

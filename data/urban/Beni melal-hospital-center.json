@@ -1,0 +1,46 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2068353391,
+  "lat": 32.3288580,
+  "lon": -6.3537145,
+  "timestamp": "2016-06-12T11:01:26Z",
+  "version": 6,
+  "changeset": 39968670,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4230313822,
+  "lat": 32.3336887,
+  "lon": -6.3602737,
+  "timestamp": "2016-06-22T11:22:24Z",
+  "version": 4,
+  "changeset": 40202480,
+  "user": "GEOSYSTEME",
+  "uid": 4063963,
+  "tags": {
+    "addr:city": "Béni Mellal",
+    "addr:postcode": "23000",
+    "addr:street": "Avenue Mohammed V, 1 ère étage",
+    "amenity": "hospital",
+    "name": "Laboratoire Central D'Analyses Médicales du Tadla",
+    "phone": "0523486448"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,180 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/150786744",
+  "properties": {
+    "timestamp": "2014-09-05T15:34:16Z",
+    "version": 4,
+    "changeset": 25250997,
+    "user": "kamal fmpf",
+    "uid": 2313919,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University hospital Hassan II",
+    "note": "Fix french and arabic name",
+    "id": "way/150786744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9622857,
+      34.0043481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133975409",
+  "properties": {
+    "timestamp": "2013-01-29T18:03:38Z",
+    "version": 1,
+    "changeset": 14837892,
+    "user": "bstegmaier",
+    "uid": 118863,
+    "amenity": "hospital",
+    "name": "Hopital Ibn Alkhatib",
+    "id": "node/2133975409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9904739,
+      34.0635348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2157394170",
+  "properties": {
+    "timestamp": "2013-02-16T13:56:48Z",
+    "version": 1,
+    "changeset": 15051139,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "id": "node/2157394170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9849267,
+      34.0449702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2952714570",
+  "properties": {
+    "timestamp": "2014-07-07T16:36:37Z",
+    "version": 1,
+    "changeset": 24006658,
+    "user": "Monsidi",
+    "uid": 2170766,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Hopital Bab Lahdid",
+    "id": "node/2952714570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9820346,
+      34.0578021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3899915428",
+  "properties": {
+    "timestamp": "2015-12-19T14:34:47Z",
+    "version": 1,
+    "changeset": 36046896,
+    "user": "amd1976",
+    "uid": 473058,
+    "amenity": "hospital",
+    "name": "Centre hospitalier universitaire Hassan II",
+    "id": "node/3899915428"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9637961,
+      34.0036766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499322590",
+  "properties": {
+    "timestamp": "2017-03-28T13:20:19Z",
+    "version": 2,
+    "changeset": 47229863,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "الكوثر",
+    "id": "node/4499322590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9997233,
+      34.0143151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4711503889",
+  "properties": {
+    "timestamp": "2017-03-02T18:39:34Z",
+    "version": 2,
+    "changeset": 46529905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Centre de santé adarissa المركز الصحي الادارسة",
+    "name:ar": "المركز الصحي الادارسة",
+    "name:fr": "Centre de santé adarissa",
+    "id": "node/4711503889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0135807,
+      34.017432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4725737195",
+  "properties": {
+    "timestamp": "2017-03-16T16:27:06Z",
+    "version": 3,
+    "changeset": 46903036,
+    "user": "commune de Fes",
+    "uid": 3811485,
+    "addr:city": "Fes",
+    "addr:housenumber": "16",
+    "addr:street": "Avenue Allal Ben Abdallah",
+    "amenity": "hospital",
+    "name": "Clinique RAIS",
+    "id": "node/4725737195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0060922,
+      34.033527
+    ]
+  }
+}
+]
+}

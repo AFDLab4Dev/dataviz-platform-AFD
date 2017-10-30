@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/298281727",
+  "properties": {
+    "timestamp": "2016-03-27T13:06:55Z",
+    "version": 2,
+    "changeset": 38099554,
+    "user": "KDRT",
+    "uid": 1842847,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville",
+    "id": "way/298281727"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.935882,
+      4.9566316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/298281728",
+  "properties": {
+    "timestamp": "2016-03-26T19:07:44Z",
+    "version": 2,
+    "changeset": 38088438,
+    "user": "KDRT",
+    "uid": 1842847,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Maire de Nkongsamba I",
+    "id": "way/298281728"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9333595,
+      4.9557127
+    ]
+  }
+}
+]
+}

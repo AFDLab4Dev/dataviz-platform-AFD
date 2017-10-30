@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/321997047",
+  "properties": {
+    "timestamp": "2015-01-14T14:23:52Z",
+    "version": 1,
+    "changeset": 28137636,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "Institut Protestant de Theologie de Ndoungue",
+    "id": "way/321997047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8925528,
+      4.925779
+    ]
+  }
+}
+]
+}

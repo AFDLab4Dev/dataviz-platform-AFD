@@ -1,0 +1,928 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/48729259",
+  "properties": {
+    "timestamp": "2010-05-29T06:54:22Z",
+    "version": 2,
+    "changeset": 4839903,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Kinoise",
+    "id": "way/48729259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.27369,
+      -4.3142303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/57739002",
+  "properties": {
+    "timestamp": "2010-05-01T21:05:36Z",
+    "version": 1,
+    "changeset": 4579270,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Sanatorium de Makala",
+    "id": "way/57739002"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2839368,
+      -4.3818358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/57889654",
+  "properties": {
+    "timestamp": "2013-02-21T21:09:57Z",
+    "version": 2,
+    "changeset": 15116872,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital SS Mabanga",
+    "id": "way/57889654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3207625,
+      -4.359902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/57898054",
+  "properties": {
+    "timestamp": "2011-09-08T16:45:04Z",
+    "version": 2,
+    "changeset": 9247252,
+    "user": "nmakaka",
+    "uid": 429517,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Nganda",
+    "source": "Local knowledge",
+    "id": "way/57898054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2658057,
+      -4.3540801
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/102422512",
+  "properties": {
+    "timestamp": "2011-03-02T15:03:46Z",
+    "version": 1,
+    "changeset": 7438407,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "hospital",
+    "name": "Hôpital du Cinquantenaire",
+    "id": "way/102422512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2963058,
+      -4.3419047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362880802",
+  "properties": {
+    "timestamp": "2016-03-11T04:01:56Z",
+    "version": 2,
+    "changeset": 37751156,
+    "user": "yannick masuanga",
+    "uid": 3687063,
+    "amenity": "hospital",
+    "id": "way/362880802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2611866,
+      -4.383029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368806391",
+  "properties": {
+    "timestamp": "2016-11-16T16:13:21Z",
+    "version": 2,
+    "changeset": 43703711,
+    "user": "derFred",
+    "uid": 331548,
+    "amenity": "hospital",
+    "name": "Hôpital Blanche Gomez",
+    "id": "way/368806391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2579977,
+      -4.274571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368809375",
+  "properties": {
+    "timestamp": "2015-09-02T19:36:58Z",
+    "version": 1,
+    "changeset": 33759363,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "hospital",
+    "name": "Hôpital de Talangaï",
+    "id": "way/368809375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.295353,
+      -4.2342291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368809377",
+  "properties": {
+    "timestamp": "2015-09-02T19:36:58Z",
+    "version": 1,
+    "changeset": 33759363,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Universitaire de Brazzaville (CHU-BZV)",
+    "id": "way/368809377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.269596,
+      -4.2649269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/390204901",
+  "properties": {
+    "timestamp": "2016-01-08T11:46:58Z",
+    "version": 1,
+    "changeset": 36443024,
+    "user": "Gaille BOSS",
+    "uid": 3512825,
+    "amenity": "hospital",
+    "name": "Centre Psychiatrique du CHU",
+    "operator": "CHU",
+    "id": "way/390204901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2644022,
+      -4.2648398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/404843994",
+  "properties": {
+    "timestamp": "2016-03-21T03:24:48Z",
+    "version": 1,
+    "changeset": 37967631,
+    "user": "kriscarle",
+    "uid": 1323363,
+    "amenity": "hospital",
+    "id": "way/404843994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2710466,
+      -4.3347444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/421156978",
+  "properties": {
+    "timestamp": "2016-05-29T10:12:10Z",
+    "version": 2,
+    "changeset": 39639117,
+    "user": "dalia perziani",
+    "uid": 3700952,
+    "amenity": "hospital",
+    "id": "way/421156978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3813474,
+      -4.3911874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440012909",
+  "properties": {
+    "timestamp": "2012-04-23T21:26:58Z",
+    "version": 2,
+    "changeset": 11400074,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "hospital",
+    "name": "Hôpital Mutombo",
+    "id": "node/440012909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3815474,
+      -4.392263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440013894",
+  "properties": {
+    "timestamp": "2009-07-11T09:25:19Z",
+    "version": 1,
+    "changeset": 1795074,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "hospital",
+    "name": "Centre hospitalier Gen-Tai",
+    "id": "node/440013894"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3292882,
+      -4.3386207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440110090",
+  "properties": {
+    "timestamp": "2009-07-11T13:31:13Z",
+    "version": 1,
+    "changeset": 1796740,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "hospital",
+    "name": "Centre hospitalier de la Banque commerciale du Congo",
+    "id": "node/440110090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3096972,
+      -4.299313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440110512",
+  "properties": {
+    "timestamp": "2013-01-21T22:20:24Z",
+    "version": 3,
+    "changeset": 14739526,
+    "user": "PierZen",
+    "uid": 226516,
+    "addr:city": "Gombe",
+    "addr:housenumber": "48",
+    "addr:street": "Avenue de la Mongala",
+    "amenity": "hospital",
+    "name": "Centre médical de la Mongala",
+    "phone": "+243 81 8841774",
+    "id": "node/440110512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3078819,
+      -4.302553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/441141197",
+  "properties": {
+    "timestamp": "2009-07-13T11:49:23Z",
+    "version": 1,
+    "changeset": 1815566,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "hospital",
+    "name": "Hôpital de Kitambo",
+    "id": "node/441141197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2707759,
+      -4.3343413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451549764",
+  "properties": {
+    "timestamp": "2016-11-05T11:39:25Z",
+    "version": 3,
+    "changeset": 43419468,
+    "user": "Djodjo Ngandu",
+    "uid": 4341652,
+    "amenity": "hospital",
+    "name": "Centre hospitalier Bolingo",
+    "id": "way/451549764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2997094,
+      -4.3613788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476958794",
+  "properties": {
+    "timestamp": "2017-02-24T16:05:08Z",
+    "version": 1,
+    "changeset": 46371864,
+    "user": "Never Fallen",
+    "uid": 5352124,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre hospitalier du Mont-Amba",
+    "operator": "Universté de Kinshasa",
+    "id": "way/476958794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3040571,
+      -4.4107621
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/718489870",
+  "properties": {
+    "timestamp": "2010-05-03T08:50:05Z",
+    "version": 2,
+    "changeset": 4592794,
+    "user": "Männedorf",
+    "uid": 105050,
+    "addr:city": "Gombe",
+    "addr:housenumber": "81",
+    "addr:street": "Avenue Mbuji Mayi",
+    "amenity": "hospital",
+    "name": "Centre Medical International",
+    "note": "fix placement",
+    "id": "node/718489870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2963904,
+      -4.3045553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/718628352",
+  "properties": {
+    "timestamp": "2014-04-08T10:45:25Z",
+    "version": 2,
+    "changeset": 21568922,
+    "user": "Wenceslas NTUMBA",
+    "uid": 1210633,
+    "amenity": "hospital",
+    "name": "Maternité",
+    "id": "node/718628352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2611976,
+      -4.3829711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/755793137",
+  "properties": {
+    "timestamp": "2010-05-29T08:17:29Z",
+    "version": 1,
+    "changeset": 4840336,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "hospital",
+    "name": "Hôpital de la Rive",
+    "id": "node/755793137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2453958,
+      -4.3246241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/789398720",
+  "properties": {
+    "timestamp": "2014-10-22T21:36:34Z",
+    "version": 2,
+    "changeset": 26266698,
+    "user": "Maximilien Kungana",
+    "uid": 2418886,
+    "amenity": "hospital",
+    "name": "Les Cliniques BONDEKO",
+    "id": "node/789398720"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3295359,
+      -4.3522446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/829315734",
+  "properties": {
+    "timestamp": "2013-04-16T22:29:28Z",
+    "version": 3,
+    "changeset": 15756449,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "hospital",
+    "name": "Maternité",
+    "id": "node/829315734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3188436,
+      -4.3681943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/983582956",
+  "properties": {
+    "timestamp": "2010-11-09T18:26:44Z",
+    "version": 1,
+    "changeset": 6330074,
+    "user": "yanoy2004",
+    "uid": 368963,
+    "amenity": "hospital",
+    "name": "Clinique Ngaliema",
+    "id": "node/983582956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2708218,
+      -4.3147774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1424410520",
+  "properties": {
+    "timestamp": "2011-09-05T20:04:15Z",
+    "version": 1,
+    "changeset": 9221446,
+    "user": "expatelec",
+    "uid": 517550,
+    "amenity": "hospital",
+    "name": "Ngaliema Center",
+    "id": "node/1424410520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2565931,
+      -4.3328761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1911330663",
+  "properties": {
+    "timestamp": "2012-09-12T10:48:04Z",
+    "version": 1,
+    "changeset": 13080934,
+    "user": "Brazza",
+    "uid": 701599,
+    "amenity": "hospital",
+    "name": "EPAC",
+    "id": "node/1911330663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2795917,
+      -4.1533932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2143730497",
+  "properties": {
+    "timestamp": "2013-02-06T10:11:08Z",
+    "version": 1,
+    "changeset": 14931622,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "hospital",
+    "name": "Centre Médical de Kinshasa",
+    "phone": "00243998265004",
+    "id": "node/2143730497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3168527,
+      -4.2995703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2273811569",
+  "properties": {
+    "timestamp": "2013-04-20T14:56:56Z",
+    "version": 1,
+    "changeset": 15798458,
+    "user": "Wenceslas NTUMBA",
+    "uid": 1210633,
+    "amenity": "hospital",
+    "name": "Hopital Générale de Réference de N'djili",
+    "id": "node/2273811569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3740855,
+      -4.4031405
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2273811572",
+  "properties": {
+    "timestamp": "2013-04-20T14:56:56Z",
+    "version": 1,
+    "changeset": 15798458,
+    "user": "Wenceslas NTUMBA",
+    "uid": 1210633,
+    "amenity": "hospital",
+    "name": "Hopital de l'Amitie Sino-Congolaise",
+    "id": "node/2273811572"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3741868,
+      -4.4036656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2299738104",
+  "properties": {
+    "timestamp": "2013-05-11T15:06:24Z",
+    "version": 1,
+    "changeset": 16081400,
+    "user": "kadima_mbuyi",
+    "uid": 1232037,
+    "amenity": "hospital",
+    "name": "CBCO",
+    "id": "node/2299738104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2763662,
+      -4.3436662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2299738115",
+  "properties": {
+    "timestamp": "2013-05-11T15:06:24Z",
+    "version": 1,
+    "changeset": 16081400,
+    "user": "kadima_mbuyi",
+    "uid": 1232037,
+    "amenity": "hospital",
+    "name": "Centre de Transfusion Sanguine",
+    "id": "node/2299738115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2841189,
+      -4.3503511
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2953314336",
+  "properties": {
+    "timestamp": "2014-07-07T21:43:29Z",
+    "version": 1,
+    "changeset": 24013071,
+    "user": "Lingonzu Mboyo Junior",
+    "uid": 2169514,
+    "addr:city": "kinshasa",
+    "addr:street": "Avenue Itaga",
+    "amenity": "hospital",
+    "name": "Hopital de réfénce Scibe Congo",
+    "id": "node/2953314336"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3258301,
+      -4.3170506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3078092819",
+  "properties": {
+    "timestamp": "2014-09-15T11:39:08Z",
+    "version": 1,
+    "changeset": 25453318,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "hospital",
+    "name": "Hôpital général provincial de référence",
+    "old_name": "Hôpital Mama Yemo",
+    "id": "node/3078092819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3060664,
+      -4.3088004
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3300149702",
+  "properties": {
+    "timestamp": "2015-01-20T11:05:38Z",
+    "version": 1,
+    "changeset": 28273343,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "hospital",
+    "name": "CNSS",
+    "id": "node/3300149702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2793316,
+      -4.2325999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725455976",
+  "properties": {
+    "timestamp": "2015-09-01T23:06:25Z",
+    "version": 1,
+    "changeset": 33740796,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "hospital",
+    "name": "Hôpital Militaire",
+    "id": "node/3725455976"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2680258,
+      -4.2750606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3725455996",
+  "properties": {
+    "timestamp": "2015-09-01T23:06:25Z",
+    "version": 1,
+    "changeset": 33740796,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "hospital",
+    "name": "Morgue de Brazzaville",
+    "id": "node/3725455996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2688418,
+      -4.263336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4092511636",
+  "properties": {
+    "timestamp": "2016-04-02T13:22:31Z",
+    "version": 1,
+    "changeset": 38248546,
+    "user": "leroiluende",
+    "uid": 3687000,
+    "addr:street": "Bondo",
+    "amenity": "hospital",
+    "name": "centre bondeko",
+    "id": "node/4092511636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3082597,
+      -4.3598643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4150480788",
+  "properties": {
+    "timestamp": "2016-04-27T06:17:45Z",
+    "version": 1,
+    "changeset": 38910599,
+    "user": "joy1015004",
+    "uid": 3883179,
+    "amenity": "hospital",
+    "id": "node/4150480788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3307645,
+      -4.3879253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4483733542",
+  "properties": {
+    "timestamp": "2016-11-05T11:38:28Z",
+    "version": 1,
+    "changeset": 43419453,
+    "user": "Djodjo Ngandu",
+    "uid": 4341652,
+    "amenity": "hospital",
+    "name": "Centre Hospitalier Bolingo",
+    "operator": "lier",
+    "id": "node/4483733542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2997082,
+      -4.3613626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4545092889",
+  "properties": {
+    "timestamp": "2016-12-08T15:54:19Z",
+    "version": 1,
+    "changeset": 44261194,
+    "user": "Bassehissila Evgueni",
+    "uid": 4504816,
+    "amenity": "hospital",
+    "name": "Hôpital de Makélékélé",
+    "name:fr": "Hôpital de Makélékélé",
+    "id": "node/4545092889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2421179,
+      -4.294632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4739752701",
+  "properties": {
+    "timestamp": "2017-03-17T13:00:49Z",
+    "version": 1,
+    "changeset": 46927274,
+    "user": "davylib",
+    "uid": 5415046,
+    "amenity": "hospital",
+    "name": "Hopital General",
+    "id": "node/4739752701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2490271,
+      -4.1926659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4774813133",
+  "properties": {
+    "timestamp": "2017-04-04T14:06:50Z",
+    "version": 1,
+    "changeset": 47443718,
+    "user": "jean baptiste lotika",
+    "uid": 5565277,
+    "amenity": "hospital",
+    "name": "Centre d'excellence Damien CEDA",
+    "name:fr": "Centre d'excellence Damien CEDA",
+    "id": "node/4774813133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2432459,
+      -4.3252731
+    ]
+  }
+}
+]
+}

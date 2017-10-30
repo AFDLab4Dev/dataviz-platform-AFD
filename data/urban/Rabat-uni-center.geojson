@@ -1,0 +1,389 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/88482382",
+  "properties": {
+    "timestamp": "2016-11-11T17:21:44Z",
+    "version": 5,
+    "changeset": 43563719,
+    "user": "devincia1",
+    "uid": 2949841,
+    "amenity": "university",
+    "name": "Iav - Apesa",
+    "id": "way/88482382"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8553036,
+      34.0049149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/150144726",
+  "properties": {
+    "timestamp": "2016-02-16T15:20:30Z",
+    "version": 2,
+    "changeset": 37247905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Istea Sala Al Jadida",
+    "id": "way/150144726"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7409439,
+      33.9929925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152609309",
+  "properties": {
+    "timestamp": "2012-03-01T09:58:36Z",
+    "version": 1,
+    "changeset": 10835955,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "Faculté des Sciences de l'Éducation",
+    "id": "way/152609309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8619623,
+      33.9902907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152609311",
+  "properties": {
+    "timestamp": "2012-03-01T09:58:36Z",
+    "version": 1,
+    "changeset": 10835955,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "Faculté des sciences juridiques, économiques et sociales",
+    "id": "way/152609311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8645447,
+      33.9873156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152609313",
+  "properties": {
+    "timestamp": "2012-03-01T09:58:37Z",
+    "version": 1,
+    "changeset": 10835955,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "Institut National de Statistique et d'Economie Appliquée",
+    "opening_hours": "24/7",
+    "id": "way/152609313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8626575,
+      33.9820211
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152609320",
+  "properties": {
+    "timestamp": "2012-03-01T09:58:38Z",
+    "version": 1,
+    "changeset": 10835955,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "École nationale d'architecture",
+    "id": "way/152609320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8614333,
+      33.987239
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152610309",
+  "properties": {
+    "timestamp": "2012-03-01T10:09:46Z",
+    "version": 1,
+    "changeset": 10836057,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "Faculté de Médecine et de Pharmacie",
+    "id": "way/152610309"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8570395,
+      33.9840562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/198052509",
+  "properties": {
+    "timestamp": "2015-08-28T22:13:52Z",
+    "version": 3,
+    "changeset": 33653932,
+    "user": "عقبة بن نافع",
+    "uid": 1823346,
+    "alt_name": "Mines Rabat",
+    "amenity": "university",
+    "name": "École Nationale Supérieure des Mines de Rabat",
+    "name:ar": "المدرسة الوطنية العليا للمعادن بالرباط",
+    "name:ber": "ⵜⵉⵏⵎⵍ ⵜⴰⵏⴰⵎⵓⵔⵜ ⵜⴰⵏⴰⴼⵍⴰⵜ ⵏ ⵉⵣⵓⵖⴰⵣ ⵕⵕⴱⴰⵟ",
+    "name:fr": "École Nationale Supérieure des Mines de Rabat",
+    "old_name": "المدرسة الوطنية للصناعات المعدنية",
+    "old_name:fr": "Ecole Nationale de l'Industrie Minérale",
+    "id": "way/198052509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8548466,
+      34.0001802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250470220",
+  "properties": {
+    "timestamp": "2016-10-27T08:05:43Z",
+    "version": 3,
+    "changeset": 43211312,
+    "user": "devincia1",
+    "uid": 2949841,
+    "amenity": "university",
+    "name": "ISTA Temara",
+    "id": "way/250470220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8931469,
+      33.9312104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/251169805",
+  "properties": {
+    "timestamp": "2016-09-26T14:50:31Z",
+    "version": 2,
+    "changeset": 42447234,
+    "user": "ennabbadi reda",
+    "uid": 1644161,
+    "amenity": "university",
+    "id": "way/251169805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7367378,
+      34.0200858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/280121158",
+  "properties": {
+    "timestamp": "2016-02-16T15:20:26Z",
+    "version": 3,
+    "changeset": 37247905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Enset - Ecole Normale Supérieure de l'Enseignement Technique de Rabat",
+    "id": "way/280121158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8767504,
+      33.9690008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/280285432",
+  "properties": {
+    "timestamp": "2014-05-08T16:44:00Z",
+    "version": 3,
+    "changeset": 22213119,
+    "user": "abde01",
+    "uid": 702180,
+    "amenity": "university",
+    "name": "Institut Spécialisé de Technologie Appliquée",
+    "id": "way/280285432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.88094,
+      33.9667628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/384086919",
+  "properties": {
+    "timestamp": "2016-04-01T15:20:55Z",
+    "version": 2,
+    "changeset": 38228623,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Ecole Supérieure de Technologie - Salé",
+    "id": "way/384086919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8124476,
+      34.0498425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482731506",
+  "properties": {
+    "timestamp": "2017-03-25T20:32:56Z",
+    "version": 1,
+    "changeset": 47161576,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "university",
+    "name": "Faculté de Médecine Dentaire",
+    "id": "way/482731506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.870344,
+      33.9803532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1421448836",
+  "properties": {
+    "timestamp": "2016-11-13T14:02:50Z",
+    "version": 2,
+    "changeset": 43605737,
+    "user": "devincia1",
+    "uid": 2949841,
+    "amenity": "university",
+    "name": "Université mohamed V",
+    "id": "node/1421448836"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8431746,
+      33.9995918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1761182094",
+  "properties": {
+    "timestamp": "2013-12-20T14:35:47Z",
+    "version": 4,
+    "changeset": 19550856,
+    "user": "ennabbadi reda",
+    "uid": 1644161,
+    "amenity": "university",
+    "name": "Université Mohamed 5 Rabat",
+    "id": "node/1761182094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8381851,
+      34.007744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2008210234",
+  "properties": {
+    "timestamp": "2012-11-11T11:43:48Z",
+    "version": 1,
+    "changeset": 13831355,
+    "user": "Bert Bos",
+    "uid": 155462,
+    "amenity": "university",
+    "name": "Ecole Mohammadia d'Ingénieurs",
+    "id": "node/2008210234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8531191,
+      33.9980155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2957026907",
+  "properties": {
+    "timestamp": "2014-07-10T10:23:39Z",
+    "version": 1,
+    "changeset": 24060919,
+    "user": "RedFox",
+    "uid": 10610,
+    "amenity": "university",
+    "name": "École d'Enseignement Supérieur de Technologie",
+    "id": "node/2957026907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8081139,
+      34.0548623
+    ]
+  }
+}
+]
+}

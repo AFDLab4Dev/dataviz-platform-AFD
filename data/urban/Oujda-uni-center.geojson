@@ -1,0 +1,137 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/251532785",
+  "properties": {
+    "timestamp": "2014-10-03T15:05:07Z",
+    "version": 2,
+    "changeset": 25833762,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "university",
+    "area": "yes",
+    "contact:website": "http://www.ump.ma/",
+    "name": "Université Mohammed Premier Oujda - Faculté de Médecine et de Pharmacie",
+    "name:fr": "Université Mohammed Premier Oujda - Faculté de Médecine et de Pharmacie",
+    "id": "way/251532785"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.910632,
+      34.6584698
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/293020624",
+  "properties": {
+    "timestamp": "2015-06-24T13:00:03Z",
+    "version": 8,
+    "changeset": 32182983,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Université Mohammed Premier",
+    "id": "way/293020624"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.903457,
+      34.6518334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/294491988",
+  "properties": {
+    "timestamp": "2016-01-22T20:08:42Z",
+    "version": 5,
+    "changeset": 36747180,
+    "user": "Yazid Ringo",
+    "uid": 2554696,
+    "amenity": "university",
+    "area": "yes",
+    "name": "المعهد المتخصص للتكنولوجيا التطبيقية العونية",
+    "name:fr": "Institut Spécialisé de Technologie Appliquée (ISTA) El Aounia",
+    "id": "way/294491988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.879844,
+      34.6945113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/326554023",
+  "properties": {
+    "timestamp": "2015-02-05T16:32:09Z",
+    "version": 1,
+    "changeset": 28633814,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "university",
+    "name": "ISTA Sidi Maafa",
+    "id": "way/326554023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.8947254,
+      34.6485961
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/326554025",
+  "properties": {
+    "timestamp": "2015-02-05T16:32:10Z",
+    "version": 1,
+    "changeset": 28633814,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "university",
+    "name": "Faculté Des Sciences Juridiques, Economiques et Sociales",
+    "id": "way/326554025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9024865,
+      34.652931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/383615249",
+  "properties": {
+    "timestamp": "2016-10-06T14:05:04Z",
+    "version": 4,
+    "changeset": 42685547,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Campus Du Savoir",
+    "website": "http://www.ump.ma/?page_id=1090",
+    "id": "way/383615249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9458702,
+      34.7679691
+    ]
+  }
+}
+]
+}

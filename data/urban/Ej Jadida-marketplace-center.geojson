@@ -1,0 +1,107 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/320778533",
+  "properties": {
+    "timestamp": "2015-01-07T09:49:01Z",
+    "version": 1,
+    "changeset": 27972857,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "marketplace",
+    "name": "Marché de gros pour fruits et légumes",
+    "id": "way/320778533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4811042,
+      33.2358771
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320936323",
+  "properties": {
+    "timestamp": "2015-01-08T09:17:11Z",
+    "version": 2,
+    "changeset": 27992210,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "marketplace",
+    "name": "Marché Lalla Zahra",
+    "id": "way/320936323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5137244,
+      33.2542122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322202372",
+  "properties": {
+    "timestamp": "2015-01-15T09:51:18Z",
+    "version": 1,
+    "changeset": 28155695,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "marketplace",
+    "id": "way/322202372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.50546,
+      33.2499382
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322205091",
+  "properties": {
+    "timestamp": "2015-01-15T10:26:37Z",
+    "version": 1,
+    "changeset": 28157338,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "marketplace",
+    "id": "way/322205091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5052066,
+      33.255798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322208261",
+  "properties": {
+    "timestamp": "2015-01-15T10:57:14Z",
+    "version": 1,
+    "changeset": 28157338,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "marketplace",
+    "id": "way/322208261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4996637,
+      33.2341052
+    ]
+  }
+}
+]
+}

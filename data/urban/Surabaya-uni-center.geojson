@@ -1,0 +1,3067 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/6635355",
+  "properties": {
+    "timestamp": "2017-02-08T12:24:31Z",
+    "version": 3,
+    "changeset": 45914864,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "university",
+    "name": "Universitas Hang Tuah",
+    "type": "multipolygon",
+    "id": "relation/6635355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7368142,
+      -7.3110504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6651774",
+  "properties": {
+    "timestamp": "2016-10-17T09:13:21Z",
+    "version": 1,
+    "changeset": 42954744,
+    "user": "Anjar Akrimullah",
+    "uid": 4159996,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Universitas Katolik Darma Cendika",
+    "type": "multipolygon",
+    "id": "relation/6651774"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7812152,
+      -7.2915766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6655811",
+  "properties": {
+    "timestamp": "2016-10-19T09:29:43Z",
+    "version": 1,
+    "changeset": 43003895,
+    "user": "Anjar Akrimullah",
+    "uid": 4159996,
+    "alt_name": "Kampus Ngagel Universitas Surabaya",
+    "amenity": "university",
+    "name": "Universitas Surabaya",
+    "type": "multipolygon",
+    "id": "relation/6655811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7613302,
+      -7.2931149
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6681257",
+  "properties": {
+    "timestamp": "2017-01-19T04:44:38Z",
+    "version": 2,
+    "changeset": 45288145,
+    "user": "Anjar Akrimullah",
+    "uid": 4159996,
+    "addr:full": "Jalan Arief Rachman Hakim 103",
+    "addr:housenumber": "150",
+    "addr:street": "Jl. Arief Rahman Hakim",
+    "amenity": "university",
+    "name": "Universitas Hang Tuah",
+    "operator:type": "private",
+    "phone": "031-5945964",
+    "type": "multipolygon",
+    "website": "www.hangtuah.ac.id",
+    "id": "relation/6681257"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7935303,
+      -7.2933234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6690216",
+  "properties": {
+    "timestamp": "2016-11-04T06:32:11Z",
+    "version": 1,
+    "changeset": 43395495,
+    "user": "Fadlilaa",
+    "uid": 4706334,
+    "addr:full": "Jalan Cokroaminoto 12 A",
+    "amenity": "university",
+    "name": "Magister Manajemen Teknologi ITS",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6690216"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7389761,
+      -7.2778306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6695045",
+  "properties": {
+    "timestamp": "2016-11-07T06:03:56Z",
+    "version": 1,
+    "changeset": 43457315,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "university",
+    "name": "Universitas Merdeka Surabaya",
+    "type": "multipolygon",
+    "id": "relation/6695045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7182466,
+      -7.320424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6717067",
+  "properties": {
+    "timestamp": "2016-11-17T08:53:28Z",
+    "version": 1,
+    "changeset": 43721813,
+    "user": "endang_p",
+    "uid": 4706330,
+    "addr:full": "Jalan Hangtuah No.5",
+    "amenity": "university",
+    "name": "Kementrian Perhubungan Politeknik Pelayaran Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6717067"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7402344,
+      -7.2239408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6747797",
+  "properties": {
+    "timestamp": "2017-02-10T02:33:03Z",
+    "version": 2,
+    "changeset": 45962206,
+    "user": "gafuri",
+    "uid": 1588993,
+    "amenity": "university",
+    "name": "Universitas 45 Surabaya",
+    "type": "multipolygon",
+    "id": "relation/6747797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7209964,
+      -7.2909392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6755269",
+  "properties": {
+    "timestamp": "2016-12-06T08:07:29Z",
+    "version": 2,
+    "changeset": 44202374,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Parang Kusumo No. 1",
+    "amenity": "university",
+    "name": "Politeknik Kementrian Kesehatan Surabaya",
+    "type": "multipolygon",
+    "id": "relation/6755269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7293595,
+      -7.2403824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6833862",
+  "properties": {
+    "timestamp": "2016-12-30T07:11:43Z",
+    "version": 1,
+    "changeset": 44776782,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Smea 57 Surabaya",
+    "amenity": "university",
+    "name": "Kampus B Universitas Nahdlatul Ulama Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6833862"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7338047,
+      -7.3044453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6852768",
+  "properties": {
+    "timestamp": "2017-01-06T09:05:13Z",
+    "version": 1,
+    "changeset": 44947341,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "addr:street": "Jl. Nginden II/137",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Administrasi Panglima Sudirman",
+    "phone": "031-5947528",
+    "type": "multipolygon",
+    "id": "relation/6852768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.766234,
+      -7.3006613
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6861680",
+  "properties": {
+    "timestamp": "2017-01-09T04:09:29Z",
+    "version": 1,
+    "changeset": 45017203,
+    "user": "Anjar Akrimullah",
+    "uid": 4159996,
+    "addr:full": "Jalan Arief Rachman Hakim",
+    "amenity": "university",
+    "name": "Universitas Putra Bangsa",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6861680"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7821609,
+      -7.2888726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6868040",
+  "properties": {
+    "timestamp": "2017-01-11T02:42:41Z",
+    "version": 1,
+    "changeset": 45066849,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "addr:full": "Jalan Wonorejo Timur Nomor 16",
+    "amenity": "university",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Perbanas Kampus II",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6868040"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7953183,
+      -7.3091879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6868065",
+  "properties": {
+    "timestamp": "2017-01-11T03:27:50Z",
+    "version": 1,
+    "changeset": 45067281,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "amenity": "university",
+    "name": "Sekolah Tinggi Kesenian Wilwatikta",
+    "type": "multipolygon",
+    "id": "relation/6868065"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7776552,
+      -7.2947179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6873601",
+  "properties": {
+    "timestamp": "2017-01-12T07:15:19Z",
+    "version": 1,
+    "changeset": 45096468,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "addr:full": "Jalan Prof Dr Moestopo Nomor 8C",
+    "amenity": "university",
+    "name": "Politeknik Kesehatan Kementerian Kesehatan Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6873601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7602433,
+      -7.2663465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6884310",
+  "properties": {
+    "timestamp": "2017-01-16T03:40:22Z",
+    "version": 1,
+    "changeset": 45205866,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "university",
+    "name": "Kampus A Universitas Airlangga",
+    "type": "multipolygon",
+    "id": "relation/6884310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7585415,
+      -7.2647041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6884341",
+  "properties": {
+    "timestamp": "2017-01-16T04:38:58Z",
+    "version": 1,
+    "changeset": 45206447,
+    "user": "hehe1234",
+    "uid": 1981984,
+    "addr:full": "Jalan Gunung Anyar Indah V",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Sidoarjo",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6884341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7828975,
+      -7.333281
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6884435",
+  "properties": {
+    "timestamp": "2017-01-31T14:46:26Z",
+    "version": 3,
+    "changeset": 45683519,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Sutprejo no 59",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6884435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7887476,
+      -7.2603218
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6884436",
+  "properties": {
+    "timestamp": "2017-01-16T06:59:53Z",
+    "version": 1,
+    "changeset": 45208063,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Sutorejo Prima Utara II No 1",
+    "amenity": "university",
+    "name": "Universitas Widya Kartika",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6884436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7943525,
+      -7.2605933
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6886906",
+  "properties": {
+    "timestamp": "2017-01-17T03:19:14Z",
+    "version": 1,
+    "changeset": 45232651,
+    "user": "IwanHr",
+    "uid": 4706325,
+    "amenity": "university",
+    "name": "Politeknik Pelayaran Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6886906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.795767,
+      -7.3444647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6889935",
+  "properties": {
+    "timestamp": "2017-01-18T07:31:29Z",
+    "version": 1,
+    "changeset": 45263375,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "addr:full": "Jalan Raya Kalirungkut",
+    "amenity": "university",
+    "name": "Universitas Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6889935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7678581,
+      -7.3203969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6892161",
+  "properties": {
+    "timestamp": "2017-01-19T03:15:49Z",
+    "version": 1,
+    "changeset": 45287358,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "university",
+    "name": "Kampus B Universitas Airlangga",
+    "type": "multipolygon",
+    "id": "relation/6892161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7588228,
+      -7.2722977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6892162",
+  "properties": {
+    "timestamp": "2017-01-19T03:15:50Z",
+    "version": 1,
+    "changeset": 45287358,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:city": "Surabaya",
+    "amenity": "university",
+    "name": "Fakultas Vokasi",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6892162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7586208,
+      -7.27374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6894861",
+  "properties": {
+    "timestamp": "2017-01-20T03:00:42Z",
+    "version": 1,
+    "changeset": 45316348,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Teratai",
+    "amenity": "university",
+    "name": "FIP Universitas Negeri Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6894861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7558422,
+      -7.2557551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6911653",
+  "properties": {
+    "timestamp": "2017-01-26T04:52:58Z",
+    "version": 1,
+    "changeset": 45499053,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Raya Rungkut Madya Nomer 1",
+    "amenity": "university",
+    "name": "Universitas Pembangunan Nasional Veteran Jawa Timur",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6911653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7888055,
+      -7.3336092
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6924171",
+  "properties": {
+    "timestamp": "2017-01-28T18:46:40Z",
+    "version": 1,
+    "changeset": 45600984,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "addr:full": "Jalan Siwalankerto Utara II",
+    "amenity": "university",
+    "name": "BRI Corporate University",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6924171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.732825,
+      -7.3335674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6927275",
+  "properties": {
+    "timestamp": "2017-01-30T03:51:18Z",
+    "version": 1,
+    "changeset": 45638683,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "access:roof": "no",
+    "amenity": "university",
+    "level": "2",
+    "name": "Universitas Islam Negeri Sunan Ampel Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6927275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7344217,
+      -7.3223128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6930332",
+  "properties": {
+    "timestamp": "2017-01-31T02:13:37Z",
+    "version": 1,
+    "changeset": 45670933,
+    "user": "IwanHr",
+    "uid": 4706325,
+    "addr:full": "Jalan Raya Menganti Kramat Nomer 133",
+    "amenity": "university",
+    "name": "Universitas Wijaya Putra Kampus Wiyung",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6930332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7008177,
+      -7.3141844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6934678",
+  "properties": {
+    "timestamp": "2017-02-01T02:58:41Z",
+    "version": 1,
+    "changeset": 45704359,
+    "user": "hehe1234",
+    "uid": 1981984,
+    "addr:city": "Surabaya",
+    "addr:full": "Jalan Raya Menur",
+    "amenity": "university",
+    "name": "Diploma Teknik Sipil ITS",
+    "operator:type": "government",
+    "type": "multipolygon",
+    "id": "relation/6934678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7638288,
+      -7.2867455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6961807",
+  "properties": {
+    "timestamp": "2017-02-09T03:17:34Z",
+    "version": 1,
+    "changeset": 45935641,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Ngagel Dadi III",
+    "amenity": "university",
+    "name": "Gedung B Universitas Adi Buana",
+    "operator:type": "private",
+    "type": "multipolygon",
+    "id": "relation/6961807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7487662,
+      -7.2934269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119487702",
+  "properties": {
+    "timestamp": "2016-10-25T13:09:59Z",
+    "version": 3,
+    "changeset": 43157709,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "government",
+    "building:walls": "brick",
+    "name": "Puskom",
+    "id": "way/119487702"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7949027,
+      -7.2830006
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119488176",
+  "properties": {
+    "timestamp": "2014-10-27T02:56:36Z",
+    "version": 7,
+    "changeset": 26354784,
+    "user": "raniedwianugrah",
+    "uid": 617220,
+    "addr:city": "Surabaya",
+    "addr:housename": "Gedung Teknik Informatika",
+    "addr:postcode": "60111",
+    "addr:street": "Jalan Teknik Kimia",
+    "alt_name": "TC",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "int_name": "Informatics Department of ITS",
+    "name": "Teknik Informatika",
+    "operator": "Institut Teknologi Sepuluh Nopember",
+    "website": "http://if.it.ac.id/",
+    "id": "way/119488176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7972841,
+      -7.2795736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119489995",
+  "properties": {
+    "timestamp": "2013-11-17T10:39:26Z",
+    "version": 3,
+    "changeset": 18949516,
+    "user": "Dzulfikar Luthfi",
+    "uid": 1808712,
+    "addr:postcode": "60111",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "residential",
+    "building:walls": "brick",
+    "name": "Despro",
+    "operator": "Institut Teknologi Sepuluh Nopember",
+    "id": "way/119489995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7964292,
+      -7.2788702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398824",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:59Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "300",
+    "name": "Laboratorium Dasar",
+    "id": "way/265398824"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7221538,
+      -7.127125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398825",
+  "properties": {
+    "timestamp": "2014-10-18T07:05:46Z",
+    "version": 2,
+    "changeset": 26164815,
+    "user": "Neng Massila",
+    "uid": 2406861,
+    "access:roof": "yes",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "300",
+    "name": "Ruang Kuliah Bersama A",
+    "id": "way/265398825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7232264,
+      -7.1297963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398830",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:04Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "Fakultas Hukum",
+    "id": "way/265398830"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7238353,
+      -7.1278926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398832",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:05Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "Gedung fakultas Teknik",
+    "id": "way/265398832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7233443,
+      -7.1285581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398833",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:05Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "unreinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "3 bus",
+    "name": "Parkir Bus Kampus",
+    "id": "way/265398833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.72367,
+      -7.1268647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398835",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:58Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "Fakultas Ilmu Sosial dan Budaya",
+    "id": "way/265398835"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7227411,
+      -7.1267959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398836",
+  "properties": {
+    "timestamp": "2014-10-18T06:38:00Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "50",
+    "name": "sosiologi",
+    "id": "way/265398836"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7227514,
+      -7.1264524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398837",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:59Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "Laboratorium Komputer dan KWU",
+    "id": "way/265398837"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7219188,
+      -7.1274307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398840",
+  "properties": {
+    "timestamp": "2014-10-18T06:38:00Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "auditorium",
+    "id": "way/265398840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7226374,
+      -7.1259658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398841",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:04Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "Gedung Sekber UKM",
+    "id": "way/265398841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7238557,
+      -7.126016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398842",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:05Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "Masjid Nurur Rahman",
+    "id": "way/265398842"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7234871,
+      -7.1264272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398843",
+  "properties": {
+    "timestamp": "2014-10-18T06:38:00Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "fakultas ilmu sosial dan budaya",
+    "id": "way/265398843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.722786,
+      -7.1266291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398845",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:59Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tin",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "Fakultas Pertanian dan Ruang Dosen",
+    "id": "way/265398845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7224498,
+      -7.1274424
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398846",
+  "properties": {
+    "timestamp": "2014-10-18T06:43:07Z",
+    "version": 2,
+    "changeset": 26164529,
+    "user": "Meta Nurjiyanto_ucill",
+    "uid": 2406871,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "40",
+    "name": "Ruang Baca Fakultas ekonomi",
+    "id": "way/265398846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7229748,
+      -7.1282232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398850",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:04Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "GSC",
+    "id": "way/265398850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7236679,
+      -7.1273229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398851",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:59Z",
+    "version": 2,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "Laboratorium Ilmu Kelautan dan TIP",
+    "id": "way/265398851"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7223195,
+      -7.1277106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398855",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:59Z",
+    "version": 4,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "Perpustakaan Lama",
+    "id": "way/265398855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7231001,
+      -7.1272892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398877",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:04Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "Gedung Soft Skill",
+    "id": "way/265398877"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7235621,
+      -7.1259641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398882",
+  "properties": {
+    "timestamp": "2014-10-18T06:51:03Z",
+    "version": 2,
+    "changeset": 26164670,
+    "user": "nehru",
+    "uid": 2406841,
+    "access:roof": "no",
+    "addr:full": "Jln raya telang",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "450",
+    "name": "Ruang Kuliah Bersama B",
+    "id": "way/265398882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7237387,
+      -7.1298358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/265398885",
+  "properties": {
+    "timestamp": "2014-10-18T06:41:04Z",
+    "version": 2,
+    "changeset": 26164566,
+    "user": "R P Faisal Firmansyah",
+    "uid": 2406849,
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "Gedung RKB - C",
+    "id": "way/265398885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7238724,
+      -7.1286417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/279576575",
+  "properties": {
+    "timestamp": "2017-01-27T03:59:06Z",
+    "version": 7,
+    "changeset": 45541104,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "access:roof": "no",
+    "addr:city": "Keputran, Tegal Sari, Surabaya",
+    "addr:full": "Jalan Dinoyo",
+    "addr:postcode": "60261",
+    "addr:street": "Jl. Dinoyo 42-44",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "6",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "name": "Universitas Katolik Widya Mandala Surabaya",
+    "operator:type": "private",
+    "id": "way/279576575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7448934,
+      -7.2814634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307095748",
+  "properties": {
+    "timestamp": "2014-10-12T04:30:01Z",
+    "version": 4,
+    "changeset": 26017643,
+    "user": "Adityo",
+    "uid": 455164,
+    "access:roof": "no",
+    "addr:full": "ITS Surabaya",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Gedung Laboratorium Energi",
+    "id": "way/307095748"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.796004,
+      -7.2806517
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307095885",
+  "properties": {
+    "timestamp": "2014-10-11T03:54:17Z",
+    "version": 2,
+    "changeset": 25995939,
+    "user": "Yugieodet_Pranata",
+    "uid": 2389713,
+    "access:roof": "no",
+    "addr:full": "ITS SUrabaya",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "LPPM ITS",
+    "id": "way/307095885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7961835,
+      -7.2808741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308341955",
+  "properties": {
+    "timestamp": "2014-10-18T06:37:58Z",
+    "version": 1,
+    "changeset": 26164538,
+    "user": "Irfan28",
+    "uid": 2406862,
+    "access:roof": "no",
+    "amenity": "university",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "50",
+    "name": "LPPM",
+    "id": "way/308341955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7217759,
+      -7.1258674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314745210",
+  "properties": {
+    "timestamp": "2016-10-19T10:28:08Z",
+    "version": 5,
+    "changeset": 43005174,
+    "user": "IceEgg",
+    "uid": 4677911,
+    "addr:city": "Surabaya",
+    "addr:street": "Jalan Raya Kertajaya Indah",
+    "amenity": "university",
+    "name": "Institut Teknologi Sepuluh Nopember",
+    "operator": "Kementerian Riset, Teknologi, dan Pendidikan Tinggi",
+    "id": "way/314745210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7954279,
+      -7.2830346
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/344100871",
+  "properties": {
+    "timestamp": "2015-05-10T14:41:11Z",
+    "version": 1,
+    "changeset": 30965345,
+    "user": "Farras",
+    "uid": 136807,
+    "amenity": "university",
+    "name": "Universitas Ciputra",
+    "id": "way/344100871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6315302,
+      -7.2854029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/344100879",
+  "properties": {
+    "timestamp": "2016-11-11T03:12:19Z",
+    "version": 2,
+    "changeset": 43549491,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "access:roof": "yes",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "8",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "Universitas Ciputra",
+    "operator:type": "private",
+    "id": "way/344100879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6313947,
+      -7.2856721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/344131999",
+  "properties": {
+    "timestamp": "2016-12-28T08:21:46Z",
+    "version": 4,
+    "changeset": 44724394,
+    "user": "Thibaut75011",
+    "uid": 1556219,
+    "amenity": "university",
+    "name": "Universitas Negeri Surabaya",
+    "website": "https://www.unesa.ac.id/",
+    "id": "way/344131999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6703569,
+      -7.3016931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/429077898",
+  "properties": {
+    "timestamp": "2016-07-04T14:05:40Z",
+    "version": 2,
+    "changeset": 40479557,
+    "user": "Farras",
+    "uid": 136807,
+    "addr:street": "Jl. Sulawesi No.1",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Universitas Al-Falah",
+    "phone": "031-5031401",
+    "website": "www.alfalahsby.com",
+    "id": "way/429077898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7453299,
+      -7.2763193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/429077945",
+  "properties": {
+    "timestamp": "2016-07-04T14:05:40Z",
+    "version": 2,
+    "changeset": 40479557,
+    "user": "Farras",
+    "uid": 136807,
+    "addr:street": "Jl. Sulawesi No.1",
+    "amenity": "university",
+    "building": "yes",
+    "name": "Universitas Al-Falah Surabaya",
+    "phone": "031-5031401",
+    "website": "www.alfalahsby.com",
+    "id": "way/429077945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.745692,
+      -7.2762601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/432849700",
+  "properties": {
+    "timestamp": "2016-10-25T02:42:49Z",
+    "version": 2,
+    "changeset": 43146890,
+    "user": "gafuri",
+    "uid": 1588993,
+    "amenity": "university",
+    "name": "Universitas Katolik Widya Mandala",
+    "id": "way/432849700"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7731325,
+      -7.259936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/447347929",
+  "properties": {
+    "timestamp": "2017-02-23T08:36:49Z",
+    "version": 3,
+    "changeset": 46330200,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "addr:full": "Jalan Raya Nginden 19 - 23",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity": "100-250",
+    "name": "Universitas Kartini Surabaya",
+    "operator:type": "private",
+    "id": "way/447347929"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7624796,
+      -7.3007603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448097625",
+  "properties": {
+    "timestamp": "2016-12-02T02:46:09Z",
+    "version": 3,
+    "changeset": 44102871,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "access:roof": "no",
+    "addr:full": "Jalan Arief Rachman Hakim No.14",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Universitas WR Supratman",
+    "operator:type": "private",
+    "id": "way/448097625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7840513,
+      -7.2902883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448243907",
+  "properties": {
+    "timestamp": "2016-11-03T14:32:53Z",
+    "version": 3,
+    "changeset": 43380118,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "access:roof": "no",
+    "addr:full": "Jalan Sutprejo no 73-73",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "school",
+    "building:condition": "good",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Gedung Dakwah Universitas Muhammadiyah Surabaya",
+    "operator:type": "private",
+    "id": "way/448243907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7895429,
+      -7.2605847
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448480234",
+  "properties": {
+    "timestamp": "2017-02-17T03:08:34Z",
+    "version": 2,
+    "changeset": 46153500,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "addr:street": "Jl. Mawar 31 – 33",
+    "amenity": "university",
+    "building": "yes",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Teknologi Dan Kejuruan (STIK)",
+    "phone": "031-5342917",
+    "id": "way/448480234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7356161,
+      -7.2692371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449322778",
+  "properties": {
+    "timestamp": "2016-10-28T14:51:31Z",
+    "version": 2,
+    "changeset": 43248013,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:street": "Jl. Raya Nginden 19-23",
+    "amenity": "university",
+    "building": "yes",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Kartini",
+    "phone": "031-5944462",
+    "id": "way/449322778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7624207,
+      -7.2999412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449624586",
+  "properties": {
+    "timestamp": "2017-02-14T08:02:59Z",
+    "version": 2,
+    "changeset": 46071347,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "jalan mayjen prof.Dr.Moestopo no 4",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Pusat Bahasa Mandarin UNESA",
+    "operator:type": "government",
+    "id": "way/449624586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7555967,
+      -7.2659273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450537998",
+  "properties": {
+    "timestamp": "2016-11-01T07:39:17Z",
+    "version": 1,
+    "changeset": 43320168,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:street": "Jl. Menur No.2",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Pariwisata Satya Widya",
+    "phone": "031-5030975",
+    "id": "way/450537998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7620187,
+      -7.2801799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451295392",
+  "properties": {
+    "timestamp": "2017-02-23T06:30:43Z",
+    "version": 2,
+    "changeset": 46327682,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Urip Sumoharjo",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "STIE Urip Sumoharjo",
+    "operator:type": "private",
+    "id": "way/451295392"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7423389,
+      -7.2738947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451656294",
+  "properties": {
+    "timestamp": "2016-11-25T09:06:03Z",
+    "version": 3,
+    "changeset": 43939596,
+    "user": "gafuri",
+    "uid": 1588993,
+    "access:roof": "no",
+    "addr:full": "jalan raya kupang",
+    "amenity": "university",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "IMBT School Management",
+    "operator:type": "private",
+    "id": "way/451656294"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7050525,
+      -7.2767222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451664230",
+  "properties": {
+    "timestamp": "2017-02-23T02:55:12Z",
+    "version": 4,
+    "changeset": 46325035,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang XXV",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "Fakultas Kedokteran Hewan Universitas Wijaya Kusuma",
+    "operator:type": "private",
+    "id": "way/451664230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7109452,
+      -7.2820483
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451664239",
+  "properties": {
+    "timestamp": "2017-02-23T02:55:13Z",
+    "version": 4,
+    "changeset": 46325035,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang XXV No. 54",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "7",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Fakultas Kedokteran Universitas Wijaya Kusuma",
+    "operator:type": "private",
+    "id": "way/451664239"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7108637,
+      -7.282658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451664278",
+  "properties": {
+    "timestamp": "2017-02-23T02:55:14Z",
+    "version": 4,
+    "changeset": 46325035,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang XXV No. 54",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Fakultas Pertanian UWK",
+    "operator:type": "private",
+    "id": "way/451664278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7105517,
+      -7.2824338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451670387",
+  "properties": {
+    "timestamp": "2017-02-23T02:55:14Z",
+    "version": 4,
+    "changeset": 46325035,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang XXV",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity": "250-500",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Wijaya Kusuma",
+    "operator:type": "private",
+    "phone": "031-5677477",
+    "website": "http://www.wijayakusumasby.ac.id",
+    "id": "way/451670387"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7121312,
+      -7.2822041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452033377",
+  "properties": {
+    "timestamp": "2016-11-11T03:25:49Z",
+    "version": 2,
+    "changeset": 43549761,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "access:roof": "yes",
+    "addr:full": "Jalan Jambi 12 - 18",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "college",
+    "building:levels": "7",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Stikes Katolik St. Vincentius A Paulo ( RKZ )",
+    "operator:type": "private",
+    "id": "way/452033377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7347295,
+      -7.2929151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453446719",
+  "properties": {
+    "timestamp": "2017-01-12T04:53:35Z",
+    "version": 2,
+    "changeset": 45094683,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "addr:street": "Jl. Dukuh Kupang Barat I/216-218",
+    "amenity": "university",
+    "building": "yes",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Yos Soedarso",
+    "phone": "031-5689806",
+    "website": "www.uniyos.ac.id",
+    "id": "way/453446719"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7088054,
+      -7.2877459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453446786",
+  "properties": {
+    "timestamp": "2017-02-23T00:43:37Z",
+    "version": 3,
+    "changeset": 46323271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Mayjend Sungkono",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "The Sages Institute",
+    "operator:type": "private",
+    "id": "way/453446786"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.708297,
+      -7.2883182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453936574",
+  "properties": {
+    "timestamp": "2017-02-23T03:10:31Z",
+    "version": 3,
+    "changeset": 46325274,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Menanggal XII",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity": "100-250",
+    "name": "Universitas PGRI Adibuana",
+    "operator:type": "private",
+    "id": "way/453936574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7225223,
+      -7.3442156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455039563",
+  "properties": {
+    "timestamp": "2016-11-25T09:06:05Z",
+    "version": 3,
+    "changeset": 43939596,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "Jalan Patimura",
+    "amenity": "university",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "6",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Institute IKAIDO",
+    "operator:type": "private",
+    "id": "way/455039563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6977828,
+      -7.2750761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456524776",
+  "properties": {
+    "timestamp": "2016-12-21T03:57:35Z",
+    "version": 2,
+    "changeset": 44556008,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "access:roof": "no",
+    "addr:full": "Jalan Raya Kendangsari 109",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "<50",
+    "name": "Politeknik Surabaya",
+    "operator:type": "private",
+    "id": "way/456524776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7475215,
+      -7.3207701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/457123354",
+  "properties": {
+    "timestamp": "2017-03-22T05:14:20Z",
+    "version": 3,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalam Parang Kusumo",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Akademi Akupuntur Surabaya",
+    "operator:type": "private",
+    "id": "way/457123354"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7295592,
+      -7.2397043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459976942",
+  "properties": {
+    "timestamp": "2017-02-23T00:43:48Z",
+    "version": 3,
+    "changeset": 46323271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang Barat I No 216-218",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Universitas Yos Sudarso",
+    "operator:type": "private",
+    "id": "way/459976942"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.709335,
+      -7.2853665
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/467392300",
+  "properties": {
+    "timestamp": "2017-01-30T04:09:18Z",
+    "version": 4,
+    "changeset": 45638986,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "access:roof": "yes",
+    "amenity": "university",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "9",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity": ">500",
+    "name": "Universitas Nadhlatul Ulama surabaya",
+    "id": "way/467392300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7388515,
+      -7.3228679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/469290623",
+  "properties": {
+    "timestamp": "2017-01-30T04:09:18Z",
+    "version": 2,
+    "changeset": 45638986,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "addr:full": "Jalan RayaJemursari",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "Universitas Nadhlatul Ulama Surabaya Kampus B",
+    "id": "way/469290623"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7395886,
+      -7.3222493
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1555143638",
+  "properties": {
+    "timestamp": "2012-01-09T17:23:54Z",
+    "version": 4,
+    "changeset": 10343854,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jalan Somelowaru No 45",
+    "amenity": "university",
+    "description": "Salah satu universitas terkenal didaerah Surabaya yang memiliki visit until mewujudkan PT unggulan.",
+    "name": "Universitas 17 Augustus Surabaya",
+    "phone": "03134560101",
+    "website": "http://untag-sby.ac.id",
+    "id": "node/1555143638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7664614,
+      -7.2980387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1582488438",
+  "properties": {
+    "timestamp": "2016-10-28T09:19:16Z",
+    "version": 7,
+    "changeset": 43241525,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "addr:street": "Jl. Semolowaru 84 Surabaya",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Dr.Soetomo",
+    "phone": "031-5924452",
+    "website": "http://www.unitomo.ac.id",
+    "id": "node/1582488438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7657299,
+      -7.2987533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1582736253",
+  "properties": {
+    "timestamp": "2015-10-04T09:57:07Z",
+    "version": 2,
+    "changeset": 34423376,
+    "user": "maggot27",
+    "uid": 118021,
+    "addr:street": "Jl. Brigjen Katamso II Waru",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Sunan Giri",
+    "phone": "031-8532477",
+    "id": "node/1582736253"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7466992,
+      -7.346253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583612462",
+  "properties": {
+    "timestamp": "2017-01-19T06:41:36Z",
+    "version": 4,
+    "changeset": 45289394,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "addr:street": "Jl. Arief Rachman Hakim 51",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Narotama",
+    "phone": "031-5946404",
+    "website": "http://www.narotama.ac.id",
+    "id": "node/1583612462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7764714,
+      -7.2882596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583642061",
+  "properties": {
+    "timestamp": "2012-01-09T11:13:08Z",
+    "version": 1,
+    "changeset": 10340701,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Jend. A. Yani 114 – Wonocolo",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Bhayangkara",
+    "phone": "031-8285602",
+    "id": "node/1583642061"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7314961,
+      -7.324321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583774356",
+  "properties": {
+    "timestamp": "2012-01-09T14:55:16Z",
+    "version": 1,
+    "changeset": 10342468,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jln. Kalijudan No 34-B",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Universitas Tritunggal",
+    "phone": "031-3810792",
+    "website": "universitastritunggalsurabaya.com",
+    "id": "node/1583774356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7778029,
+      -7.2553248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583809008",
+  "properties": {
+    "timestamp": "2016-05-17T03:47:42Z",
+    "version": 2,
+    "changeset": 39366957,
+    "user": "bleutaxi",
+    "uid": 3873184,
+    "addr:city": "Sukolio, East Java, Surabaya",
+    "addr:housenumber": "100",
+    "addr:postcode": "60117",
+    "addr:street": "Jl. Arief Rachman Hakim",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Institut Teknologi Adhi Tama Surabaya",
+    "phone": "031-5946331",
+    "website": "www.itats.ac.id",
+    "id": "node/1583809008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7792069,
+      -7.290803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583812543",
+  "properties": {
+    "timestamp": "2015-10-04T09:57:00Z",
+    "version": 2,
+    "changeset": 34423376,
+    "user": "maggot27",
+    "uid": 118021,
+    "addr:street": "Jl. Ketintang No.147",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "IKIP Widya Dharma",
+    "phone": "031-8288141",
+    "id": "node/1583812543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7266295,
+      -7.3156467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583823671",
+  "properties": {
+    "timestamp": "2012-01-09T16:43:45Z",
+    "version": 2,
+    "changeset": 10343475,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Menur Pumpungan No. 30",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Indonesia",
+    "phone": "031-5947840",
+    "website": "www.stiesiaedu.com",
+    "id": "node/1583823671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7635547,
+      -7.2930264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583828318",
+  "properties": {
+    "timestamp": "2012-01-09T21:18:10Z",
+    "version": 2,
+    "changeset": 10346289,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Nginden Semolo No. 34-36",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Perbanas",
+    "phone": "031-5938151",
+    "website": "www.perbanas.ac.id",
+    "id": "node/1583828318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7642977,
+      -7.3000873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583840759",
+  "properties": {
+    "timestamp": "2015-10-04T09:57:05Z",
+    "version": 2,
+    "changeset": 34423376,
+    "user": "maggot27",
+    "uid": 118021,
+    "addr:street": "Jl. Klampis Anom II",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Kesenian Wilwatikta",
+    "phone": "031-5949945",
+    "id": "node/1583840759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7773392,
+      -7.2913084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583856426",
+  "properties": {
+    "timestamp": "2012-01-09T16:55:25Z",
+    "version": 1,
+    "changeset": 10343583,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. A.Yani No.88 Gedung Graha Pena Lantai X",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Mahardhika",
+    "phone": "031-8294629",
+    "website": "www.stiemahardhika.ac.id",
+    "id": "node/1583856426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7314842,
+      -7.3190857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583877145",
+  "properties": {
+    "timestamp": "2012-01-09T17:23:54Z",
+    "version": 1,
+    "changeset": 10343854,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Menur Pumpungan III/29",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Artha Bodhi Iswara",
+    "phone": "031-5938850",
+    "website": "www.stie-abi.ac.id",
+    "id": "node/1583877145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7627683,
+      -7.2963291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583947297",
+  "properties": {
+    "timestamp": "2012-01-09T19:04:12Z",
+    "version": 1,
+    "changeset": 10344812,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Nginden Intan Timur No.1",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Komunikasi Almamater Wartawan",
+    "phone": "031-5922018",
+    "website": "www.stikosa-aws.ac.id",
+    "id": "node/1583947297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7709217,
+      -7.3058395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584019887",
+  "properties": {
+    "timestamp": "2012-01-09T20:25:33Z",
+    "version": 1,
+    "changeset": 10345749,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl.Bendul Merisi Rejo Aman II/23",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Bahasa Dan Sastra Asing (STIBA) Satya Widya",
+    "phone": "031-8494369",
+    "website": "www.stiba-satyawidya.ac.id",
+    "id": "node/1584019887"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7453087,
+      -7.3054341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584052512",
+  "properties": {
+    "timestamp": "2015-10-04T09:57:05Z",
+    "version": 2,
+    "changeset": 34423376,
+    "user": "maggot27",
+    "uid": 118021,
+    "addr:street": "Jl. Klampis Anom II/2",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Wilwatika",
+    "phone": "031-5949643",
+    "id": "node/1584052512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7773236,
+      -7.2929487
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584071694",
+  "properties": {
+    "timestamp": "2015-07-15T03:10:20Z",
+    "version": 2,
+    "changeset": 32641981,
+    "user": "Bayu Adi Styawan",
+    "uid": 1705820,
+    "addr:street": "Jl. Gubeng Pojok 15",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi IEU",
+    "phone": "031-5450051",
+    "website": "ieu.ac.id",
+    "id": "node/1584071694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7512854,
+      -7.2650668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584101507",
+  "properties": {
+    "timestamp": "2012-10-07T14:40:24Z",
+    "version": 4,
+    "changeset": 13399018,
+    "user": "emirhartato",
+    "uid": 452826,
+    "addr:street": "J l . Basuki Rachmad 129-137",
+    "amenity": "university",
+    "description": "salah satu kampus swasta di surabaya",
+    "name": "Sekolah Tinggi Ilmu Ekonomi Prima Visi",
+    "phone": "031-5316770",
+    "website": "www.stieprimavisi.ac.id",
+    "id": "node/1584101507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7407067,
+      -7.2672997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1584119406",
+  "properties": {
+    "timestamp": "2012-01-09T22:17:11Z",
+    "version": 1,
+    "changeset": 10346828,
+    "user": "Muhammad Zaenal Arifin",
+    "uid": 582052,
+    "addr:street": "Jl. Klampis Jaya 102-120 Lt. III",
+    "amenity": "university",
+    "description": "salah satu politeknik swasta di surabaya",
+    "name": "Politeknik Surabaya",
+    "phone": "031-5911192",
+    "website": "www.polteksurabaya.ac.id",
+    "id": "node/1584119406"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7761659,
+      -7.2816671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1609173011",
+  "properties": {
+    "timestamp": "2014-10-10T03:43:41Z",
+    "version": 4,
+    "changeset": 25974120,
+    "user": "anisahputri",
+    "uid": 2389706,
+    "amenity": "university",
+    "name": "Geomatika",
+    "id": "node/1609173011"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.794968,
+      -7.2803079
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1609652772",
+  "properties": {
+    "timestamp": "2014-09-05T16:50:23Z",
+    "version": 4,
+    "changeset": 25252436,
+    "user": "Gary Almas",
+    "uid": 2314024,
+    "amenity": "university",
+    "name": "Statiska Matematika",
+    "id": "node/1609652772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7946824,
+      -7.2853705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3061260104",
+  "properties": {
+    "timestamp": "2014-09-05T16:50:22Z",
+    "version": 1,
+    "changeset": 25252436,
+    "user": "Gary Almas",
+    "uid": 2314024,
+    "amenity": "university",
+    "name": "Teknik Multimedia dan Jaringan",
+    "website": "http://telematics.its.ac.id",
+    "id": "node/3061260104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7965192,
+      -7.2850089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3061260105",
+  "properties": {
+    "timestamp": "2017-03-07T10:35:09Z",
+    "version": 2,
+    "changeset": 46647731,
+    "user": "bagustris",
+    "uid": 888577,
+    "amenity": "university",
+    "internet_access": "yes",
+    "name": "Taman Teknik Fisika",
+    "operator": "ITS",
+    "id": "node/3061260105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7960745,
+      -7.2840497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4188541097",
+  "properties": {
+    "timestamp": "2016-05-16T02:52:07Z",
+    "version": 1,
+    "changeset": 39342358,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Kota SBY, Jawa Timur, Indonesia",
+    "addr:postcode": "60111",
+    "addr:street": "Jl. ITS Raya, Sukolilo,",
+    "amenity": "university",
+    "name": "Jurusan Arsitektur ITS",
+    "id": "node/4188541097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.793506,
+      -7.2815031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4188569479",
+  "properties": {
+    "timestamp": "2016-05-16T02:57:43Z",
+    "version": 2,
+    "changeset": 39342399,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Surabaya",
+    "addr:postcode": "60111",
+    "addr:street": "Jalan Teknik Kimia",
+    "amenity": "university",
+    "name": "Jurusan Teknik Perkapalan",
+    "id": "node/4188569479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7975044,
+      -7.2819816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4188571509",
+  "properties": {
+    "timestamp": "2016-05-16T03:01:03Z",
+    "version": 1,
+    "changeset": 39342426,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Kota SBY, Jawa Timur, Indonesia",
+    "addr:postcode": "60111",
+    "addr:street": "Jl. Teknik Mesin",
+    "amenity": "university",
+    "name": "Jurusan Teknik Sipil",
+    "id": "node/4188571509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7925242,
+      -7.2803897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4191008958",
+  "properties": {
+    "timestamp": "2016-05-17T03:36:46Z",
+    "version": 1,
+    "changeset": 39366897,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Keputih, Sukolilo, Kota SBY, Jawa Timur, Indonesia",
+    "addr:postcode": "60111",
+    "addr:street": "Jl. Raya ITS,",
+    "amenity": "university",
+    "name": "Teknik Informatika ITS",
+    "id": "node/4191008958"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7976584,
+      -7.2795678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4461394304",
+  "properties": {
+    "timestamp": "2016-10-24T08:52:29Z",
+    "version": 1,
+    "changeset": 43117335,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "access:roof": "no",
+    "addr:full": "Jalan Dr. Ir. H. Soekarno No.201",
+    "amenity": "university",
+    "backup_generator": "no",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "6",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "100-250",
+    "name": "Universitas Katolik Darma Cendika",
+    "operator:type": "private",
+    "id": "node/4461394304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7815003,
+      -7.2915517
+    ]
+  }
+}
+]
+}

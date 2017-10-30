@@ -1,0 +1,70 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1859401417,
+  "lat": 36.4422037,
+  "lon": 10.7286532,
+  "timestamp": "2012-08-09T21:10:54Z",
+  "version": 1,
+  "changeset": 12673543,
+  "user": "MichaelUbuntu",
+  "uid": 781415,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 1863745769,
+  "lat": 36.4491043,
+  "lon": 10.7380952,
+  "timestamp": "2012-08-13T00:22:21Z",
+  "version": 1,
+  "changeset": 12708365,
+  "user": "MichaelUbuntu",
+  "uid": 781415,
+  "tags": {
+    "amenity": "townhall"
+  }
+},
+{
+  "type": "node",
+  "id": 1864323914,
+  "lat": 36.4695462,
+  "lon": 10.7814920,
+  "timestamp": "2014-04-01T21:41:53Z",
+  "version": 2,
+  "changeset": 21447711,
+  "user": "Amir-BD",
+  "uid": 2012674,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie de Béni Khiar"
+  }
+},
+{
+  "type": "node",
+  "id": 1865620936,
+  "lat": 36.4663025,
+  "lon": 10.8090998,
+  "timestamp": "2012-08-14T12:24:27Z",
+  "version": 1,
+  "changeset": 12726240,
+  "user": "Hedi_B",
+  "uid": 799200,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Municipalité"
+  }
+}
+
+  ]
+}

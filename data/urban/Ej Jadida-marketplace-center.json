@@ -1,0 +1,149 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 322208261,
+  "timestamp": "2015-01-15T10:57:14Z",
+  "version": 1,
+  "changeset": 28157338,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2341052,
+    "lon": -8.4996637
+  },
+  "nodes": [
+    3289787898,
+    3289787997,
+    3289788053,
+    3289787870,
+    3289787898
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 320936323,
+  "timestamp": "2015-01-08T09:17:11Z",
+  "version": 2,
+  "changeset": 27992210,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2542122,
+    "lon": -8.5137244
+  },
+  "nodes": [
+    3276416240,
+    3276416508,
+    3276416469,
+    3276416512,
+    3276416509,
+    3276416259,
+    3276416243,
+    3276416530,
+    3276416241,
+    3276416523,
+    3276416545,
+    3276416535,
+    3276416234,
+    3276416240
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Lalla Zahra"
+  }
+},
+{
+  "type": "way",
+  "id": 322202372,
+  "timestamp": "2015-01-15T09:51:18Z",
+  "version": 1,
+  "changeset": 28155695,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2499382,
+    "lon": -8.5054600
+  },
+  "nodes": [
+    3289717560,
+    3289717552,
+    3289719470,
+    3289719463,
+    3289717560
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 322205091,
+  "timestamp": "2015-01-15T10:26:37Z",
+  "version": 1,
+  "changeset": 28157338,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2557980,
+    "lon": -8.5052066
+  },
+  "nodes": [
+    3289743741,
+    3289743734,
+    3289745566,
+    3289743703,
+    1202076630,
+    3289743706,
+    1421682976,
+    1421682977,
+    3289743740,
+    3289743723,
+    3289743739,
+    3289743745,
+    3289743741
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 320778533,
+  "timestamp": "2015-01-07T09:49:01Z",
+  "version": 1,
+  "changeset": 27972857,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2358771,
+    "lon": -8.4811042
+  },
+  "nodes": [
+    3274239419,
+    3274239431,
+    3274239466,
+    3274239470,
+    3274239373,
+    3274239376,
+    3274239311,
+    3274239419
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de gros pour fruits et légumes"
+  }
+}
+
+  ]
+}

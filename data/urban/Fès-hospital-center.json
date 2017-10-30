@@ -1,0 +1,155 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2133975409,
+  "lat": 34.0635348,
+  "lon": -4.9904739,
+  "timestamp": "2013-01-29T18:03:38Z",
+  "version": 1,
+  "changeset": 14837892,
+  "user": "bstegmaier",
+  "uid": 118863,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Ibn Alkhatib"
+  }
+},
+{
+  "type": "node",
+  "id": 2157394170,
+  "lat": 34.0449702,
+  "lon": -4.9849267,
+  "timestamp": "2013-02-16T13:56:48Z",
+  "version": 1,
+  "changeset": 15051139,
+  "user": "alain2003",
+  "uid": 578772,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2952714570,
+  "lat": 34.0578021,
+  "lon": -4.9820346,
+  "timestamp": "2014-07-07T16:36:37Z",
+  "version": 1,
+  "changeset": 24006658,
+  "user": "Monsidi",
+  "uid": 2170766,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Hopital Bab Lahdid"
+  }
+},
+{
+  "type": "node",
+  "id": 3899915428,
+  "lat": 34.0036766,
+  "lon": -4.9637961,
+  "timestamp": "2015-12-19T14:34:47Z",
+  "version": 1,
+  "changeset": 36046896,
+  "user": "amd1976",
+  "uid": 473058,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre hospitalier universitaire Hassan II"
+  }
+},
+{
+  "type": "node",
+  "id": 4499322590,
+  "lat": 34.0143151,
+  "lon": -4.9997233,
+  "timestamp": "2017-03-28T13:20:19Z",
+  "version": 2,
+  "changeset": 47229863,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "الكوثر"
+  }
+},
+{
+  "type": "node",
+  "id": 4711503889,
+  "lat": 34.0174320,
+  "lon": -5.0135807,
+  "timestamp": "2017-03-02T18:39:34Z",
+  "version": 2,
+  "changeset": 46529905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé adarissa المركز الصحي الادارسة",
+    "name:ar": "المركز الصحي الادارسة",
+    "name:fr": "Centre de santé adarissa"
+  }
+},
+{
+  "type": "node",
+  "id": 4725737195,
+  "lat": 34.0335270,
+  "lon": -5.0060922,
+  "timestamp": "2017-03-16T16:27:06Z",
+  "version": 3,
+  "changeset": 46903036,
+  "user": "commune de Fes",
+  "uid": 3811485,
+  "tags": {
+    "addr:city": "Fes",
+    "addr:housenumber": "16",
+    "addr:street": "Avenue Allal Ben Abdallah",
+    "amenity": "hospital",
+    "name": "Clinique RAIS"
+  }
+},
+{
+  "type": "way",
+  "id": 150786744,
+  "timestamp": "2014-09-05T15:34:16Z",
+  "version": 4,
+  "changeset": 25250997,
+  "user": "kamal fmpf",
+  "uid": 2313919,
+  "center": {
+    "lat": 34.0043481,
+    "lon": -4.9622857
+  },
+  "nodes": [
+    1636635111,
+    1636635090,
+    1636652380,
+    864594800,
+    1636635067,
+    864594801,
+    864594802,
+    1636635113,
+    1636635078,
+    1636635139,
+    1636635104,
+    1636635111
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "University hospital Hassan II",
+    "note": "Fix french and arabic name"
+  }
+}
+
+  ]
+}

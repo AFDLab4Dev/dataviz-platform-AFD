@@ -1,0 +1,572 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/230089937",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:19Z",
+    "version": 3,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché New Deïdo",
+    "id": "way/230089937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7156619,
+      4.0571379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/230105347",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:19Z",
+    "version": 4,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "alt_name": "Marché Lagos",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Central de Douala",
+    "id": "way/230105347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.705583,
+      4.035814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/230105349",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:19Z",
+    "version": 3,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Nkololoun",
+    "id": "way/230105349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7117104,
+      4.0364676
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/303167259",
+  "properties": {
+    "timestamp": "2014-09-13T12:49:23Z",
+    "version": 1,
+    "changeset": 25410791,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/303167259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6645193,
+      4.070446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/335380660",
+  "properties": {
+    "timestamp": "2015-03-29T16:18:20Z",
+    "version": 1,
+    "changeset": 29831006,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "id": "way/335380660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7462229,
+      4.0155277
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/369080798",
+  "properties": {
+    "timestamp": "2015-09-04T10:44:21Z",
+    "version": 1,
+    "changeset": 33790627,
+    "user": "snapping",
+    "uid": 1895849,
+    "amenity": "marketplace",
+    "name": "Marche de Dibombari-Centre",
+    "id": "way/369080798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6502513,
+      4.1770236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449371638",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:25Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Bonaberi",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Tanko",
+    "id": "way/449371638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6527903,
+      4.0970263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449433298",
+  "properties": {
+    "timestamp": "2016-12-18T20:16:23Z",
+    "version": 3,
+    "changeset": 44500000,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Ndogpassi",
+    "id": "way/449433298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7576035,
+      4.0038671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450614579",
+  "properties": {
+    "timestamp": "2016-12-03T13:45:06Z",
+    "version": 3,
+    "changeset": 44137270,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Bonamoussadi",
+    "id": "way/450614579"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7378966,
+      4.0933329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451411193",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:27Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Sandaga",
+    "id": "way/451411193"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.702547,
+      4.0615389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454390361",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:29Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Grand Hangar",
+    "id": "way/454390361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.66106,
+      4.0834715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454405514",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:30Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Madagascar",
+    "id": "way/454405514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.734242,
+      4.0275348
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454505941",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:30Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Bonassama",
+    "id": "way/454505941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6870095,
+      4.0719488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454516520",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:31Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Mboppi",
+    "id": "way/454516520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7148621,
+      4.0467959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454527118",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:31Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Monkam de Ndokoti",
+    "id": "way/454527118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7442102,
+      4.0446197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454557578",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:32Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Cité des Palmiers",
+    "id": "way/454557578"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7641123,
+      4.0523887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455805288",
+  "properties": {
+    "timestamp": "2016-11-25T20:25:06Z",
+    "version": 1,
+    "changeset": 43952595,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Oignon",
+    "id": "way/455805288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7177059,
+      4.0310264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455844761",
+  "properties": {
+    "timestamp": "2016-11-28T23:50:35Z",
+    "version": 2,
+    "changeset": 44022324,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Congo",
+    "note": "Le marché occupe la rue de manière provisoire suite à un incendie en juillet 2012",
+    "id": "way/455844761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7036576,
+      4.0405134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456102684",
+  "properties": {
+    "timestamp": "2016-11-26T20:04:21Z",
+    "version": 2,
+    "changeset": 43970639,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché du rail Ngwele",
+    "source": "Plan polyvalent Douala",
+    "id": "way/456102684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6471293,
+      4.0944553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456185279",
+  "properties": {
+    "timestamp": "2016-11-27T12:48:15Z",
+    "version": 1,
+    "changeset": 43982731,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Ancien Dalip",
+    "id": "way/456185279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6980795,
+      4.045765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/457411419",
+  "properties": {
+    "timestamp": "2016-12-03T13:16:32Z",
+    "version": 2,
+    "changeset": 44136684,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Logpom",
+    "id": "way/457411419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7649594,
+      4.0853807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4393873431",
+  "properties": {
+    "timestamp": "2016-12-02T18:40:32Z",
+    "version": 3,
+    "changeset": 44121033,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "name": "Petit Marché Akwa Nord",
+    "id": "node/4393873431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.718884,
+      4.0825175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4413360071",
+  "properties": {
+    "timestamp": "2016-10-25T21:00:34Z",
+    "version": 2,
+    "changeset": 43175585,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "name": "Marché pk10",
+    "id": "node/4413360071"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7729887,
+      4.0490184
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4413360079",
+  "properties": {
+    "timestamp": "2016-10-25T21:00:34Z",
+    "version": 2,
+    "changeset": 43175585,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "name": "Marché pk12",
+    "id": "node/4413360079"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7862998,
+      4.0627582
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4447581364",
+  "properties": {
+    "timestamp": "2016-10-14T12:32:24Z",
+    "version": 1,
+    "changeset": 42895130,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "marketplace",
+    "name": "petit marché nyalla",
+    "id": "node/4447581364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7888874,
+      4.0321646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4540317364",
+  "properties": {
+    "timestamp": "2016-12-05T21:49:58Z",
+    "version": 1,
+    "changeset": 44193477,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "name": "Petit marché Logbaba",
+    "id": "node/4540317364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7588885,
+      4.0372655
+    ]
+  }
+}
+]
+}

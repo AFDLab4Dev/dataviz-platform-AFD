@@ -1,0 +1,161 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/250948989",
+  "properties": {
+    "timestamp": "2013-12-09T11:53:45Z",
+    "version": 1,
+    "changeset": 19357525,
+    "user": "jamesks",
+    "uid": 2500,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/250948989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8118097,
+      35.7832573
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250948990",
+  "properties": {
+    "timestamp": "2015-07-05T20:09:15Z",
+    "version": 2,
+    "changeset": 32434411,
+    "user": "malta-dinger",
+    "uid": 96382,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/250948990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8121772,
+      35.7846152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/277666424",
+  "properties": {
+    "timestamp": "2015-07-05T20:09:15Z",
+    "version": 3,
+    "changeset": 32434411,
+    "user": "malta-dinger",
+    "uid": 96382,
+    "amenity": "marketplace",
+    "name": "Souk Al-Hout",
+    "name:fr": "Marché Central De Poissons",
+    "id": "way/277666424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8115987,
+      35.7840007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/331931772",
+  "properties": {
+    "timestamp": "2017-03-13T08:07:37Z",
+    "version": 7,
+    "changeset": 46804545,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq al-Jumla سوق الجملة",
+    "name:ar": "سوق الجملة",
+    "name:fr": "Souq al-Jumla",
+    "shop": "greengrocer",
+    "wholesale": "yes",
+    "id": "way/331931772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.796335,
+      35.7485401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/475605229",
+  "properties": {
+    "timestamp": "2017-02-19T11:45:08Z",
+    "version": 2,
+    "changeset": 46213095,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Souani",
+    "id": "way/475605229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8244377,
+      35.7713379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2849419569",
+  "properties": {
+    "timestamp": "2014-05-10T23:00:00Z",
+    "version": 1,
+    "changeset": 22260522,
+    "user": "Jlux",
+    "uid": 2067123,
+    "amenity": "marketplace",
+    "fixme": "resurvey",
+    "name": "Place Jedida",
+    "id": "node/2849419569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8138939,
+      35.7784944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2849419583",
+  "properties": {
+    "timestamp": "2016-02-24T09:56:03Z",
+    "version": 2,
+    "changeset": 37408501,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Fish Sellers",
+    "produce": "fish",
+    "id": "node/2849419583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8044744,
+      35.7862786
+    ]
+  }
+}
+]
+}

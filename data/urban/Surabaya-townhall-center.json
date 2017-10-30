@@ -1,0 +1,302 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1609173014,
+  "lat": -7.2816462,
+  "lon": 112.7946781,
+  "timestamp": "2014-10-10T08:04:55Z",
+  "version": 4,
+  "changeset": 25977338,
+  "user": "anisahputri",
+  "uid": 2389706,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Rektorat"
+  }
+},
+{
+  "type": "way",
+  "id": 472305195,
+  "timestamp": "2017-02-05T12:06:41Z",
+  "version": 1,
+  "changeset": 45827153,
+  "user": "hatnowiyanto",
+  "uid": 5249822,
+  "center": {
+    "lat": -7.3923147,
+    "lon": 112.7337218
+  },
+  "nodes": [
+    4665209576,
+    4665209577,
+    4665209578,
+    4665209579,
+    4665209580,
+    4665209581,
+    4665209582,
+    4665209583,
+    4665209576
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 466870408,
+  "timestamp": "2017-02-16T10:42:11Z",
+  "version": 3,
+  "changeset": 46133458,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3272909,
+    "lon": 112.7762911
+  },
+  "nodes": [
+    4615845401,
+    4615845400,
+    4615845399,
+    4615845398,
+    4615845401
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "village_office",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "<50",
+    "name": "Kantor Kelurahan Rungkut Kidul"
+  }
+},
+{
+  "type": "way",
+  "id": 459262749,
+  "timestamp": "2017-01-25T04:20:26Z",
+  "version": 2,
+  "changeset": 45460563,
+  "user": "adiatmad",
+  "uid": 2901733,
+  "center": {
+    "lat": -7.3236797,
+    "lon": 112.7952898
+  },
+  "nodes": [
+    4551627726,
+    4551627725,
+    4551627724,
+    4551627723,
+    4551627726
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Medokan Ayu Utara VII",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Gedung Serba Guna Medokan Ayu"
+  }
+},
+{
+  "type": "way",
+  "id": 422089746,
+  "timestamp": "2017-02-10T02:33:02Z",
+  "version": 3,
+  "changeset": 45962206,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2914000,
+    "lon": 112.7212401
+  },
+  "nodes": [
+    4218199003,
+    4218199011,
+    4218199008,
+    4218199001,
+    4218198998,
+    4218198868,
+    4218198873,
+    4218198867,
+    4218198869,
+    4218198859,
+    4218198861,
+    4218198871,
+    4218198872,
+    4218198875,
+    4218198877,
+    4218199007,
+    4218199003
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "townhall",
+    "name": "Gedung Juang 45"
+  }
+},
+{
+  "type": "way",
+  "id": 155884166,
+  "timestamp": "2017-03-13T15:24:15Z",
+  "version": 5,
+  "changeset": 46815946,
+  "user": "everyone_sinks_starco",
+  "uid": 165040,
+  "center": {
+    "lat": -7.2592138,
+    "lon": 112.7470974
+  },
+  "nodes": [
+    1682372844,
+    4732351397,
+    4732351395,
+    4732351396,
+    4732351394,
+    4732351398,
+    4732351400,
+    4732351401,
+    4732351399,
+    4732351402,
+    4732351403,
+    4732351404,
+    4732351405,
+    1682372859,
+    1682372903,
+    1682372857,
+    1682372844
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "jalan sedap malam",
+    "addr:street": "Jalan Sedap Malam",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Balai Kota Surabaya",
+    "office": "government",
+    "official_name": "Kantor Pemerintah Kota Surabaya"
+  }
+},
+{
+  "type": "way",
+  "id": 155884101,
+  "timestamp": "2017-02-23T07:52:17Z",
+  "version": 7,
+  "changeset": 46329105,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2576937,
+    "lon": 112.7474810
+  },
+  "nodes": [
+    1682372537,
+    1682372547,
+    1682372579,
+    1682372550,
+    1682372537
+  ],
+  "tags": {
+    "addr:full": "j merto",
+    "addr:housename": "Jalan Jimerto",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Kantor Bappeko Surabaya",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 448176177,
+  "timestamp": "2016-10-18T16:48:20Z",
+  "version": 2,
+  "changeset": 42988598,
+  "user": "Desta Fauzan Arif",
+  "uid": 4706378,
+  "center": {
+    "lat": -7.2489520,
+    "lon": 112.7936924
+  },
+  "nodes": [
+    4452119895,
+    4452119925,
+    4452119923,
+    4452119938,
+    4452119941,
+    4452119967,
+    4452119976,
+    4452119920,
+    4452119921,
+    4452119900,
+    4452119895
+  ],
+  "tags": {
+    "addr:full": "Jalan Wiratno",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Pusdiklat Hanudnas"
+  }
+},
+{
+  "type": "way",
+  "id": 307391957,
+  "timestamp": "2016-10-18T09:50:05Z",
+  "version": 2,
+  "changeset": 42979450,
+  "user": "Desta Fauzan Arif",
+  "uid": 4706378,
+  "center": {
+    "lat": -7.2416060,
+    "lon": 112.7937057
+  },
+  "nodes": [
+    3125143258,
+    3125143257,
+    3125143237,
+    3125143238,
+    3125143258
+  ],
+  "tags": {
+    "addr:full": "Jalan Abdul Latif Nomor 1",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Graha Persatuan Purnawirawan Angkatan Laut"
+  }
+}
+
+  ]
+}

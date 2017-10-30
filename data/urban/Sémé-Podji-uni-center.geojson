@@ -1,0 +1,232 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/342128420",
+  "properties": {
+    "timestamp": "2016-11-10T10:24:49Z",
+    "version": 2,
+    "changeset": 43530454,
+    "user": "NielsB125",
+    "uid": 4832730,
+    "amenity": "university",
+    "name": "ERSUMA",
+    "id": "way/342128420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6079277,
+      6.5112294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2432223441",
+  "properties": {
+    "timestamp": "2013-08-26T11:53:40Z",
+    "version": 1,
+    "changeset": 17515591,
+    "user": "paulbanon",
+    "uid": 1717089,
+    "amenity": "university",
+    "name": "Houdegbe North American University",
+    "source": "bing;survey",
+    "id": "node/2432223441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5208533,
+      6.3663177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3491563059",
+  "properties": {
+    "timestamp": "2015-05-01T18:02:19Z",
+    "version": 1,
+    "changeset": 30699311,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "amenity": "university",
+    "name": "ERSUMA",
+    "operator": "OHADA",
+    "operator:type": "government",
+    "source": "GPS;survey",
+    "id": "node/3491563059"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6078596,
+      6.5115098
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3501350701",
+  "properties": {
+    "timestamp": "2016-05-06T15:04:50Z",
+    "version": 3,
+    "changeset": 39146136,
+    "user": "Johannes S1V",
+    "uid": 3890173,
+    "amenity": "university",
+    "building": "university",
+    "name": "Irgib Africa University",
+    "id": "node/3501350701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4520836,
+      6.3656234
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4054382540",
+  "properties": {
+    "timestamp": "2016-03-11T11:14:05Z",
+    "version": 1,
+    "changeset": 37756850,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "amenity": "university",
+    "name": "UNIVERSITÉ DE DÉVELOPPEMENT COOPERATIF",
+    "id": "node/4054382540"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4620683,
+      6.36263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4210160433",
+  "properties": {
+    "timestamp": "2016-05-27T04:29:22Z",
+    "version": 1,
+    "changeset": 39594816,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "university",
+    "id": "node/4210160433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.451464,
+      6.3716326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4234176384",
+  "properties": {
+    "timestamp": "2016-06-09T17:12:31Z",
+    "version": 1,
+    "changeset": 39913136,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "university",
+    "name": "HILL University",
+    "id": "node/4234176384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4632254,
+      6.3718105
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4235638567",
+  "properties": {
+    "timestamp": "2016-11-08T10:51:47Z",
+    "version": 5,
+    "changeset": 43484260,
+    "user": "projet_carteinnov",
+    "uid": 4786719,
+    "addr:full": "40 lot 413 bis domaine Universitaire de Kpondéhou situé à côté du Lycée Technique de Kpondehou, Akpakpa, Cotonou, Bénin",
+    "amenity": "university",
+    "contact:phone": "+229 21336011",
+    "contact:website": "ustbenin.org",
+    "description": "L'université des sciences et technologies du Bénin (USTB) est une université privée d'Afrique de l'Ouest dont le siège est situé sur le domaine universitaire de Kpondehou à Cotonou, la capitale économique du Bénin.",
+    "id:uuid": "urn:fonderie_ile-de-france_pnt_id:universite-des-sciences-et-technologie-du-benin",
+    "name": "Université des Sciences et Technologies du Bénin",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "USTB",
+    "source": "local_knowledge;oif-dfen_carteinnov;fonderie_ile-de-france",
+    "source:date": "2016-09-08",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2002",
+    "id": "node/4235638567"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.456703,
+      6.3827909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4431339020",
+  "properties": {
+    "timestamp": "2016-10-04T18:43:41Z",
+    "version": 1,
+    "changeset": 42639276,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "university",
+    "name": "Université protestante de l’Afrique de l’oest",
+    "id": "node/4431339020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6293516,
+      6.4804143
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4721823158",
+  "properties": {
+    "timestamp": "2017-03-07T10:49:20Z",
+    "version": 1,
+    "changeset": 46648086,
+    "user": "toundoh2050",
+    "uid": 3573186,
+    "amenity": "university",
+    "description": "centre universitaire Flash d'Adjarra",
+    "name": "Flash / Adjarra",
+    "id": "node/4721823158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.676535,
+      6.5161483
+    ]
+  }
+}
+]
+}

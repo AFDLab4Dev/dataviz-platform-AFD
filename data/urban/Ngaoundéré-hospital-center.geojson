@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/332260292",
+  "properties": {
+    "timestamp": "2016-03-30T01:55:46Z",
+    "version": 3,
+    "changeset": 38156213,
+    "user": "Sébastien Demanou",
+    "uid": 1819881,
+    "amenity": "hospital",
+    "name": "Centre médico-social",
+    "id": "way/332260292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5487829,
+      7.4159543
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4391694825",
+  "properties": {
+    "timestamp": "2016-09-08T11:55:41Z",
+    "version": 1,
+    "changeset": 42002261,
+    "user": "ongolaboy",
+    "uid": 547829,
+    "amenity": "hospital",
+    "name": "Hôpital régional de Ngaoundéré",
+    "id": "node/4391694825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.584119,
+      7.3151335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4453234586",
+  "properties": {
+    "timestamp": "2017-03-02T04:41:29Z",
+    "version": 3,
+    "changeset": 46512505,
+    "user": "nyuriks",
+    "uid": 339581,
+    "amenity": "hospital",
+    "name": "Protestant Hospital of Ngaoundéré",
+    "operator": "EELC",
+    "url": "http://www.oseelc.org/",
+    "wikidata": "Q7251608",
+    "wikipedia": "en:Protestant Hospital of Ngaoundéré",
+    "id": "node/4453234586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5961226,
+      7.3100248
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,160 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/349869565",
+  "properties": {
+    "timestamp": "2016-10-24T22:41:14Z",
+    "version": 5,
+    "changeset": 43144577,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "university",
+    "name": "Université de Douala campus principal",
+    "name:en": "University of Douala main campus",
+    "website": "http://www.univ-douala.com",
+    "id": "way/349869565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7344224,
+      4.0557375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/349873426",
+  "properties": {
+    "timestamp": "2016-10-23T18:58:43Z",
+    "version": 2,
+    "changeset": 43106814,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "university",
+    "name": "Université de Douala campus Ndog-Bong",
+    "name:en": "University of Douala Ndog-Bong campus",
+    "website": "http://www.univ-douala.com",
+    "id": "way/349873426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7435512,
+      4.0563575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374542439",
+  "properties": {
+    "timestamp": "2016-10-24T19:36:04Z",
+    "version": 4,
+    "changeset": 43134877,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "university",
+    "name": "ESG ISTA",
+    "id": "way/374542439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7540229,
+      4.0418164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455163944",
+  "properties": {
+    "timestamp": "2016-11-22T21:57:47Z",
+    "version": 2,
+    "changeset": 43881785,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "Université de Douala Campus de Logbessou",
+    "id": "way/455163944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8036517,
+      4.0918428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456015283",
+  "properties": {
+    "timestamp": "2016-11-26T14:33:03Z",
+    "version": 1,
+    "changeset": 43964706,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut Universitaire de la Côte",
+    "short_name": "IUC",
+    "id": "way/456015283"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7026759,
+      4.0591797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4516055380",
+  "properties": {
+    "timestamp": "2016-11-22T21:57:47Z",
+    "version": 1,
+    "changeset": 43881785,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "Faculté de Médecine et des Sciences Pharmaceutiques",
+    "short_name": "FMSP",
+    "id": "node/4516055380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8019431,
+      4.0902857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4516055381",
+  "properties": {
+    "timestamp": "2016-11-22T21:57:47Z",
+    "version": 1,
+    "changeset": 43881785,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "Faculté de Génie Industriel",
+    "short_name": "FGI",
+    "id": "node/4516055381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8040057,
+      4.0907298
+    ]
+  }
+}
+]
+}

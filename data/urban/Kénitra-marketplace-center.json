@@ -1,0 +1,221 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4499158196,
+  "lat": 34.2666536,
+  "lon": -6.6562289,
+  "timestamp": "2016-11-28T23:14:38Z",
+  "version": 2,
+  "changeset": 44021782,
+  "user": "osm10005",
+  "uid": 4816089,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "سوق سمك بتقسيط ميناء مهدية"
+  }
+},
+{
+  "type": "node",
+  "id": 4499239679,
+  "lat": 34.2621459,
+  "lon": -6.5934849,
+  "timestamp": "2016-11-13T22:10:39Z",
+  "version": 1,
+  "changeset": 43616852,
+  "user": "osm10005",
+  "uid": 4816089,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souq"
+  }
+},
+{
+  "type": "node",
+  "id": 4499242133,
+  "lat": 34.2540804,
+  "lon": -6.6241840,
+  "timestamp": "2016-11-13T22:13:16Z",
+  "version": 1,
+  "changeset": 43616898,
+  "user": "osm10005",
+  "uid": 4816089,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souq"
+  }
+},
+{
+  "type": "node",
+  "id": 4659781226,
+  "lat": 34.2642335,
+  "lon": -6.5647024,
+  "timestamp": "2017-02-03T15:46:08Z",
+  "version": 4,
+  "changeset": 45782103,
+  "user": "osm10005",
+  "uid": 4816089,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souq Sebta"
+  }
+},
+{
+  "type": "node",
+  "id": 4661014857,
+  "lat": 34.2635987,
+  "lon": -6.5850566,
+  "timestamp": "2017-03-12T15:42:58Z",
+  "version": 3,
+  "changeset": 46787909,
+  "user": "nasa1949",
+  "uid": 5435048,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Centrale",
+    "name:fr": "Marché central."
+  }
+},
+{
+  "type": "way",
+  "id": 454568426,
+  "timestamp": "2016-11-25T23:11:11Z",
+  "version": 3,
+  "changeset": 43955250,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2586194,
+    "lon": -6.6133727
+  },
+  "nodes": [
+    4511156579,
+    4511156580,
+    4511156581,
+    4511156583,
+    4511156579
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Tidass"
+  }
+},
+{
+  "type": "way",
+  "id": 300706381,
+  "timestamp": "2014-08-28T21:00:35Z",
+  "version": 1,
+  "changeset": 25083489,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.2263558,
+    "lon": -6.5185647
+  },
+  "nodes": [
+    3048142046,
+    3048141700,
+    3048141788,
+    3048141799,
+    3048141545,
+    3048142018,
+    3048141948,
+    3048141550,
+    3048142082,
+    3048141981,
+    3048142046
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 479567926,
+  "timestamp": "2017-03-09T18:33:23Z",
+  "version": 1,
+  "changeset": 46717965,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2605132,
+    "lon": -6.5643710
+  },
+  "nodes": [
+    4726444554,
+    4726444555,
+    4726444556,
+    4726444557,
+    4726444558,
+    4726444554
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 455837599,
+  "timestamp": "2016-11-25T22:56:23Z",
+  "version": 3,
+  "changeset": 43955015,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2603978,
+    "lon": -6.5649017
+  },
+  "nodes": [
+    4522151588,
+    4522152389,
+    4522152390,
+    4522152391,
+    4522152392,
+    4522152393,
+    4522151588
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Al Houria",
+    "name:ar": "سوق الحرية"
+  }
+},
+{
+  "type": "way",
+  "id": 455838335,
+  "timestamp": "2017-03-08T12:21:04Z",
+  "version": 3,
+  "changeset": 46679102,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2663670,
+    "lon": -6.5579337
+  },
+  "nodes": [
+    4522160384,
+    4522160385,
+    4522160386,
+    4522160387,
+    4522160499,
+    4522160384
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Al Hofra"
+  }
+}
+
+  ]
+}

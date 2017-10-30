@@ -1,0 +1,795 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4404298342,
+  "lat": 5.4347125,
+  "lon": 10.4190031,
+  "timestamp": "2016-09-16T14:34:57Z",
+  "version": 1,
+  "changeset": 42204628,
+  "user": "hassanchris",
+  "uid": 703186,
+  "tags": {
+    "addr:city": "Mbouo, Bandjoun, Bafoussam",
+    "amenity": "hospital",
+    "name": "Hôpital Protestant de Mbouo"
+  }
+},
+{
+  "type": "way",
+  "id": 377856655,
+  "timestamp": "2015-11-01T14:30:58Z",
+  "version": 1,
+  "changeset": 35012447,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.3889070,
+    "lon": 10.3291239
+  },
+  "nodes": [
+    3812606366,
+    3812606368,
+    3812606367,
+    2329678995,
+    2329678986,
+    2329678981,
+    3812606365,
+    3812606366
+  ],
+  "tags": {
+    "addr:city": "Bamendjou",
+    "amenity": "hospital",
+    "name": "Hôptial de District"
+  }
+},
+{
+  "type": "way",
+  "id": 425149114,
+  "timestamp": "2016-06-15T15:55:21Z",
+  "version": 1,
+  "changeset": 40041513,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4531401,
+    "lon": 10.4094767
+  },
+  "nodes": [
+    4244624920,
+    4244624919,
+    4244624915,
+    4244624916,
+    4244624912,
+    4244624911,
+    4244624909,
+    4244624910,
+    4244624914,
+    4244624913,
+    4244624917,
+    4244624918,
+    4244624920
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré"
+  }
+},
+{
+  "type": "way",
+  "id": 425149110,
+  "timestamp": "2016-07-01T11:03:15Z",
+  "version": 3,
+  "changeset": 40413994,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.4566776,
+    "lon": 10.4232129
+  },
+  "nodes": [
+    4244624938,
+    4244624936,
+    4244624929,
+    4244624922,
+    4244624921,
+    4244624924,
+    4244624925,
+    4244624938
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Acha Annex"
+  }
+},
+{
+  "type": "way",
+  "id": 425149115,
+  "timestamp": "2016-06-15T15:55:21Z",
+  "version": 1,
+  "changeset": 40041513,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4572948,
+    "lon": 10.4306680
+  },
+  "nodes": [
+    4244626395,
+    4244626394,
+    4244626390,
+    4244624982,
+    4244624966,
+    4244624960,
+    4244624956,
+    4244624946,
+    4244624943,
+    4244624945,
+    4244624948,
+    4244624967,
+    4244624975,
+    4244626395
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de la Police"
+  }
+},
+{
+  "type": "way",
+  "id": 424078895,
+  "timestamp": "2016-06-17T16:47:19Z",
+  "version": 2,
+  "changeset": 40098998,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4683886,
+    "lon": 10.4275515
+  },
+  "nodes": [
+    4235520875,
+    4235520876,
+    3234419567,
+    4235520877,
+    3234419587,
+    4248802479,
+    4235520875
+  ],
+  "tags": {
+    "addr:city": "B",
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Hopital king place"
+  }
+},
+{
+  "type": "way",
+  "id": 425149113,
+  "timestamp": "2016-06-15T15:55:21Z",
+  "version": 1,
+  "changeset": 40041513,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4405521,
+    "lon": 10.4512608
+  },
+  "nodes": [
+    4244624908,
+    4244624907,
+    4244624905,
+    4244624897,
+    4244624893,
+    4244624894,
+    4244624898,
+    4244624904,
+    4244624908
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Ndiembou-Kam"
+  }
+},
+{
+  "type": "way",
+  "id": 385233868,
+  "timestamp": "2016-06-15T09:48:19Z",
+  "version": 2,
+  "changeset": 40035007,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.4579663,
+    "lon": 10.4381250
+  },
+  "nodes": [
+    3885888406,
+    3885888418,
+    3885888424,
+    3885888415,
+    3885888406
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé la Prudence"
+  }
+},
+{
+  "type": "way",
+  "id": 425149111,
+  "timestamp": "2016-06-15T15:55:21Z",
+  "version": 1,
+  "changeset": 40041513,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4566196,
+    "lon": 10.4359175
+  },
+  "nodes": [
+    4244624927,
+    4244624932,
+    4244624933,
+    4244624931,
+    4244624927
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de Soins Agapé"
+  }
+},
+{
+  "type": "way",
+  "id": 282972539,
+  "timestamp": "2014-05-19T18:27:01Z",
+  "version": 1,
+  "changeset": 22430312,
+  "user": "beranger_gilles",
+  "uid": 1834779,
+  "center": {
+    "lat": 5.4814750,
+    "lon": 10.3096889
+  },
+  "nodes": [
+    2869011656,
+    2869011660,
+    2869011620,
+    2869011612,
+    2869011624,
+    2869011625,
+    2869011656
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Banegang"
+  }
+},
+{
+  "type": "way",
+  "id": 317206196,
+  "timestamp": "2014-12-14T15:12:51Z",
+  "version": 1,
+  "changeset": 27460311,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.4898280,
+    "lon": 10.4078902
+  },
+  "nodes": [
+    3234462802,
+    3234462801,
+    3234462800,
+    3234462794,
+    3234462754,
+    3234462717,
+    3234462697,
+    3234462693,
+    3234462687,
+    3234462683,
+    3234462750,
+    3234462802
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital régional de Bafoussam"
+  }
+},
+{
+  "type": "way",
+  "id": 425152132,
+  "timestamp": "2016-06-15T16:04:28Z",
+  "version": 1,
+  "changeset": 40041684,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4743875,
+    "lon": 10.4200276
+  },
+  "nodes": [
+    4244650900,
+    4244650902,
+    4244650901,
+    4244650899,
+    4244650900
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "short_name": "CIRMI"
+  }
+},
+{
+  "type": "way",
+  "id": 424738511,
+  "timestamp": "2016-06-14T21:50:32Z",
+  "version": 2,
+  "changeset": 40027478,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.4770605,
+    "lon": 10.4199882
+  },
+  "nodes": [
+    4241239347,
+    4243507982,
+    4241239363,
+    4241239000,
+    4241238358,
+    4241239347
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Famla"
+  }
+},
+{
+  "type": "way",
+  "id": 372730708,
+  "timestamp": "2015-09-28T16:59:29Z",
+  "version": 1,
+  "changeset": 34308386,
+  "user": "snapping",
+  "uid": 1895849,
+  "center": {
+    "lat": 5.4815271,
+    "lon": 10.4168332
+  },
+  "nodes": [
+    3762801422,
+    3762801405,
+    3762801393,
+    3762801413,
+    3762801422
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 425155465,
+  "timestamp": "2016-06-15T16:09:57Z",
+  "version": 1,
+  "changeset": 40041781,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4723748,
+    "lon": 10.4268625
+  },
+  "nodes": [
+    4244652093,
+    4244652091,
+    4244652090,
+    4244652092,
+    4244652093
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Ngom Passam"
+  }
+},
+{
+  "type": "way",
+  "id": 425155467,
+  "timestamp": "2016-06-15T16:09:57Z",
+  "version": 1,
+  "changeset": 40041781,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4821879,
+    "lon": 10.4208209
+  },
+  "nodes": [
+    4244652154,
+    4244652153,
+    4244652156,
+    4244652158,
+    4244652152,
+    4244652138,
+    4244652130,
+    4244652127,
+    4244652126,
+    4244652117,
+    4244652114,
+    4244652115,
+    4244652118,
+    4244652121,
+    4244652125,
+    4244652134,
+    4244652147,
+    4244652154
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Protestant Petit Mbouo"
+  }
+},
+{
+  "type": "way",
+  "id": 395447479,
+  "timestamp": "2016-06-15T15:01:54Z",
+  "version": 2,
+  "changeset": 40040547,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.4877804,
+    "lon": 10.4091506
+  },
+  "nodes": [
+    3983040918,
+    3983040913,
+    3983040898,
+    3983040899,
+    3983040918
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medical de TYO-Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 425308951,
+  "timestamp": "2016-06-16T10:51:55Z",
+  "version": 1,
+  "changeset": 40063456,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.5079275,
+    "lon": 10.3938107
+  },
+  "nodes": [
+    4246209231,
+    4246209232,
+    4246209233,
+    4246209234,
+    4246209235,
+    4246209236,
+    4246209237,
+    4246209238,
+    4246209231
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medical d'Arrondissement de Lafe Baleng"
+  }
+},
+{
+  "type": "way",
+  "id": 425328363,
+  "timestamp": "2016-06-16T13:03:34Z",
+  "version": 1,
+  "changeset": 40066263,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.5016800,
+    "lon": 10.3921784
+  },
+  "nodes": [
+    4246591136,
+    4246591137,
+    4246591138,
+    4246591139,
+    4246591140,
+    4246591141,
+    4246591136
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medical la Trinite"
+  }
+},
+{
+  "type": "way",
+  "id": 394596554,
+  "timestamp": "2016-06-16T10:49:17Z",
+  "version": 2,
+  "changeset": 40063374,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.5104474,
+    "lon": 10.3912276
+  },
+  "nodes": [
+    3975794946,
+    3975799138,
+    3975798687,
+    3975799263,
+    3975794946
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Soigne Paleatifs et de maladies de Lafe"
+  }
+},
+{
+  "type": "way",
+  "id": 425159778,
+  "timestamp": "2016-06-15T16:21:09Z",
+  "version": 1,
+  "changeset": 40041971,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4781766,
+    "lon": 10.4346322
+  },
+  "nodes": [
+    4244683412,
+    4244683415,
+    4244683410,
+    4244683404,
+    4244683402,
+    4244683412
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bingo Baptist Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 425160351,
+  "timestamp": "2016-06-15T16:26:45Z",
+  "version": 1,
+  "changeset": 40042074,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4725594,
+    "lon": 10.4519477
+  },
+  "nodes": [
+    4244688717,
+    4244688719,
+    4244688718,
+    4244688716,
+    4244688717
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Demgoug"
+  }
+},
+{
+  "type": "way",
+  "id": 425160352,
+  "timestamp": "2016-06-15T16:26:45Z",
+  "version": 1,
+  "changeset": 40042074,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4801528,
+    "lon": 10.4493514
+  },
+  "nodes": [
+    4244688738,
+    4244688739,
+    4244688733,
+    4244688734,
+    4244688721,
+    4244688720,
+    4244688724,
+    4244688738
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "SOS Santé"
+  }
+},
+{
+  "type": "way",
+  "id": 385490934,
+  "timestamp": "2016-06-15T16:26:46Z",
+  "version": 4,
+  "changeset": 40042074,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4802684,
+    "lon": 10.4574825
+  },
+  "nodes": [
+    3888373402,
+    3888373401,
+    3888373377,
+    3888373375,
+    3888373398,
+    3888373396,
+    3888373334,
+    3888373337,
+    3888373354,
+    3888373358,
+    3888373338,
+    3888373342,
+    3888373402
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré de Bamendzi III"
+  }
+},
+{
+  "type": "way",
+  "id": 425159780,
+  "timestamp": "2016-06-15T16:21:09Z",
+  "version": 1,
+  "changeset": 40041971,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4832983,
+    "lon": 10.4393807
+  },
+  "nodes": [
+    4244683463,
+    4244683465,
+    4244683464,
+    4244683462,
+    4244683463
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Islamique"
+  }
+},
+{
+  "type": "way",
+  "id": 425510250,
+  "timestamp": "2016-06-17T09:21:55Z",
+  "version": 1,
+  "changeset": 40087338,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.4831858,
+    "lon": 10.4393869
+  },
+  "nodes": [
+    4248090185,
+    4248090186,
+    4248090187,
+    4248090188,
+    4248092389,
+    4248092390,
+    4248090185
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Sante Islamique"
+  }
+},
+{
+  "type": "way",
+  "id": 385279814,
+  "timestamp": "2016-06-15T16:26:46Z",
+  "version": 4,
+  "changeset": 40042074,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4743212,
+    "lon": 10.4765092
+  },
+  "nodes": [
+    3886311959,
+    3886311849,
+    3886311833,
+    3886311839,
+    3886311959
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé humanitaire de Batoukop"
+  }
+},
+{
+  "type": "way",
+  "id": 385565926,
+  "timestamp": "2016-06-15T16:26:46Z",
+  "version": 4,
+  "changeset": 40042074,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4816759,
+    "lon": 10.4843025
+  },
+  "nodes": [
+    3889068956,
+    3889068960,
+    3889068892,
+    3889068844,
+    3889068839,
+    3889068872,
+    3889068885,
+    3889068956
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Batoukop"
+  }
+},
+{
+  "type": "way",
+  "id": 425160414,
+  "timestamp": "2016-06-15T16:27:31Z",
+  "version": 1,
+  "changeset": 40042098,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4879746,
+    "lon": 10.5121023
+  },
+  "nodes": [
+    4244689299,
+    4244689300,
+    4244689298,
+    4244689297,
+    4244689293,
+    4244689294,
+    4244689290,
+    4244689289,
+    4244689291,
+    4244689292,
+    4244689296,
+    4244689295,
+    4244689299
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré de Tomdjo"
+  }
+}
+
+  ]
+}

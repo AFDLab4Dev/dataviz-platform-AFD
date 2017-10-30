@@ -1,0 +1,3847 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 419588091,
+  "lat": 3.8570887,
+  "lon": 11.5175217,
+  "timestamp": "2013-05-05T15:29:08Z",
+  "version": 3,
+  "changeset": 15985821,
+  "user": "AlkalIn",
+  "uid": 597179,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Médico Social français",
+    "short_name": "CMS"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272297,
+  "lat": 3.9296841,
+  "lon": 11.4441959,
+  "timestamp": "2013-05-20T13:50:15Z",
+  "version": 3,
+  "changeset": 16208890,
+  "user": "Manu1400",
+  "uid": 181135,
+  "tags": {
+    "Consultation de Paludisme": "14",
+    "Laboratoire": "1",
+    "Nombre de Lits": "7",
+    "Nombre de consultation": "23",
+    "Nombre de docteurs": "1",
+    "amenity": "hospital",
+    "name": "Centre de sante de Leboudi I",
+    "pharmacy": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272364,
+  "lat": 3.9214731,
+  "lon": 11.4458178,
+  "timestamp": "2010-12-27T06:35:13Z",
+  "version": 1,
+  "changeset": 6774522,
+  "user": "Ernest Gwanvoma",
+  "uid": 331593,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de sante et formation Ave Maria de Leboudi I"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272474,
+  "lat": 3.9623980,
+  "lon": 11.4520951,
+  "timestamp": "2010-12-27T06:35:16Z",
+  "version": 1,
+  "changeset": 6774522,
+  "user": "Ernest Gwanvoma",
+  "uid": 331593,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de sante de Ngoya I"
+  }
+},
+{
+  "type": "node",
+  "id": 1067272497,
+  "lat": 3.9937291,
+  "lon": 11.4683830,
+  "timestamp": "2013-05-20T13:50:15Z",
+  "version": 3,
+  "changeset": 16208890,
+  "user": "Manu1400",
+  "uid": 181135,
+  "tags": {
+    "Consultation de Paludisme": "17",
+    "Consultation de VIH/SIDA": "0",
+    "Laboratoire": "1",
+    "Nombre de Consultation": "50",
+    "Nombre de Lits": "10",
+    "Nombre de docteurs": "1 infimier",
+    "Pediatrie": "0",
+    "amenity": "hospital",
+    "name": "Centre de sante Integre de Yegassi",
+    "pharmacy": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 1067289788,
+  "lat": 3.9632157,
+  "lon": 11.3608778,
+  "timestamp": "2013-03-22T23:24:38Z",
+  "version": 3,
+  "changeset": 15460494,
+  "user": "AlkalIn",
+  "uid": 597179,
+  "tags": {
+    "Infomation": "No data sheet fllled",
+    "amenity": "hospital",
+    "name": "Centre de Sante Integre de Nkoldjobe"
+  }
+},
+{
+  "type": "node",
+  "id": 2263245273,
+  "lat": 3.8324013,
+  "lon": 11.4858898,
+  "timestamp": "2015-03-07T08:24:14Z",
+  "version": 3,
+  "changeset": 29303535,
+  "user": "wheelmap_visitor",
+  "uid": 290680,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Cabinet de soins CINSOL",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2283555316,
+  "lat": 3.8343137,
+  "lon": 11.5060201,
+  "timestamp": "2013-04-27T21:50:21Z",
+  "version": 1,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital d'EFOULAN"
+  }
+},
+{
+  "type": "node",
+  "id": 4576672190,
+  "lat": 3.8002482,
+  "lon": 11.4800621,
+  "timestamp": "2016-12-28T05:36:49Z",
+  "version": 1,
+  "changeset": 44722314,
+  "user": "Enyang Martin",
+  "uid": 5034845,
+  "tags": {
+    "addr:street": "Rue Ntolo Josephine",
+    "amenity": "hospital",
+    "email": "weccarefoundation@yahoo.com",
+    "name": "Hadassah Medical Center( HMC)",
+    "name:en": "Hadassah Medical Center( HMC)",
+    "website": "http://www.weccarefoundation.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4649504695,
+  "lat": 3.9830860,
+  "lon": 11.4491173,
+  "timestamp": "2017-01-31T20:35:26Z",
+  "version": 1,
+  "changeset": 45697087,
+  "user": "Steve le seul S",
+  "uid": 5236710,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Magrabi ico eyes hospital",
+    "name:en": "Magrabi ico eyes hospital",
+    "name:fr": "Hôpital des yeux de magrabi ico"
+  }
+},
+{
+  "type": "node",
+  "id": 4676337189,
+  "lat": 3.8367182,
+  "lon": 11.4729424,
+  "timestamp": "2017-02-09T10:23:37Z",
+  "version": 1,
+  "changeset": 45943194,
+  "user": "Aime Noutsa",
+  "uid": 3995436,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé \"Le Polyvalent\"",
+    "name:fr": "Centre de Santé \"Le Polyvalent\""
+  }
+},
+{
+  "type": "node",
+  "id": 4757488823,
+  "lat": 3.8341433,
+  "lon": 11.4786407,
+  "timestamp": "2017-03-27T07:34:23Z",
+  "version": 1,
+  "changeset": 47193489,
+  "user": "Aime Noutsa",
+  "uid": 3995436,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique St Christine",
+    "name:fr": "Clinique St Christine"
+  }
+},
+{
+  "type": "way",
+  "id": 193599902,
+  "timestamp": "2013-04-27T21:50:42Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7224116,
+    "lon": 11.4506542
+  },
+  "nodes": [
+    2041115837,
+    2041115841,
+    2041115839,
+    2041115835,
+    2041115833,
+    2041115829,
+    2041115831,
+    2041115827,
+    2041115837
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intègre de Ntouessong I",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193591484,
+  "timestamp": "2014-04-08T20:39:11Z",
+  "version": 3,
+  "changeset": 21578451,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7569775,
+    "lon": 11.4547279
+  },
+  "nodes": [
+    2041035815,
+    2041035860,
+    2041035883,
+    2041035851,
+    2041035903,
+    2041035922,
+    2041035932,
+    2041035885,
+    2041035861,
+    2041035879,
+    2041035839,
+    2041035830,
+    2041035815
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intégré d'Afanoya IV",
+    "short_name": "CSI",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193598250,
+  "timestamp": "2013-04-27T21:50:45Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7430071,
+    "lon": 11.4716693
+  },
+  "nodes": [
+    2041097062,
+    2041097064,
+    2041097063,
+    2041097057,
+    2041097058,
+    2041097062
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Traditionnelle",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193591660,
+  "timestamp": "2013-04-27T21:50:40Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7622546,
+    "lon": 11.4743138
+  },
+  "nodes": [
+    2041037561,
+    2041037560,
+    2041037688,
+    2041037719,
+    2041037681,
+    2041037682,
+    2041037584,
+    2041037561
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219157314,
+  "timestamp": "2013-04-27T21:50:23Z",
+  "version": 1,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7837303,
+    "lon": 11.4781055
+  },
+  "nodes": [
+    2283555327,
+    2283555326,
+    2283555325,
+    2283555323,
+    2283555321,
+    2283555324,
+    2283555327
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical d'Arrondissement Étoa"
+  }
+},
+{
+  "type": "way",
+  "id": 193517221,
+  "timestamp": "2013-05-14T22:30:02Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8251146,
+    "lon": 11.4691086
+  },
+  "nodes": [
+    2040335940,
+    2040335847,
+    2040335842,
+    2040335942,
+    2040336194,
+    2040336426,
+    2040336452,
+    2040336503,
+    2040336515,
+    2040336261,
+    2040336255,
+    2040335970,
+    2040335940
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé les merveilles",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 193518106,
+  "timestamp": "2013-05-14T22:30:02Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8264996,
+    "lon": 11.4714385
+  },
+  "nodes": [
+    2040340752,
+    2040340539,
+    2040340358,
+    2040340570,
+    2040340752
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé communal",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 193527428,
+  "timestamp": "2013-04-27T21:50:31Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8269820,
+    "lon": 11.4779374
+  },
+  "nodes": [
+    2040395873,
+    2040395547,
+    2040395901,
+    2040393981,
+    2040391466,
+    2040391416,
+    2040393731,
+    2040395873
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical Assisté",
+    "short_name": "CMAM",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 217735026,
+  "timestamp": "2013-05-14T22:30:01Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8356626,
+    "lon": 11.4572550
+  },
+  "nodes": [
+    2270367637,
+    2270367653,
+    2270367647,
+    2270367697,
+    2270367787,
+    2270367754,
+    2270367769,
+    2270367753,
+    2270367839,
+    2270367827,
+    2270367743,
+    2270367742,
+    2270367731,
+    2270367637
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Shlam humanitarian center for global services",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 193517452,
+  "timestamp": "2013-05-14T22:30:03Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8334200,
+    "lon": 11.4665735
+  },
+  "nodes": [
+    2040359220,
+    2040359381,
+    2040359487,
+    2040359637,
+    2040359980,
+    2040359791,
+    2040359868,
+    2040359925,
+    2040360140,
+    2040360069,
+    2040359851,
+    2040359806,
+    2040360028,
+    2040360010,
+    2040359847,
+    2040359807,
+    2040359772,
+    2040359673,
+    2040359220
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gic de santé Espoir",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192857277,
+  "timestamp": "2013-05-14T22:30:05Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8385848,
+    "lon": 11.4603536
+  },
+  "nodes": [
+    2034035690,
+    2034036062,
+    2034035547,
+    2034035725,
+    2034036220,
+    2034037204,
+    2034038051,
+    2034037330,
+    2034036955,
+    2034036843,
+    2034037150,
+    2034036689,
+    2034036782,
+    2034037224,
+    2034037906,
+    2034037092,
+    2034036640,
+    2034036930,
+    2034036736,
+    2034036809,
+    2034036617,
+    2034036276,
+    2034035641,
+    2034035690
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "ONG Nofowop CEMEST",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192860585,
+  "timestamp": "2013-05-14T22:29:58Z",
+  "version": 3,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8433043,
+    "lon": 11.4624231
+  },
+  "nodes": [
+    2034117766,
+    2034117838,
+    2034117625,
+    2034118136,
+    2033965655,
+    2033965817,
+    2033967076,
+    2033965600,
+    2034118167,
+    2034118151,
+    2033965755,
+    2034117766
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre d'accueil AGOJFIDA",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 217006245,
+  "timestamp": "2013-05-14T22:30:03Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8310693,
+    "lon": 11.4718449
+  },
+  "nodes": [
+    2263150106,
+    2263150054,
+    2263149567,
+    2263149643,
+    2263149818,
+    2263149814,
+    2263149975,
+    2263149982,
+    2263150106
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de santé le polyvalent",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192857883,
+  "timestamp": "2013-05-14T22:29:59Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8412181,
+    "lon": 11.4769464
+  },
+  "nodes": [
+    2034079781,
+    2034082914,
+    2034084366,
+    2034082185,
+    2034082424,
+    2034082782,
+    2034083110,
+    2034083163,
+    2034084733,
+    2034086976,
+    2034084645,
+    2034088166,
+    2034089095,
+    2034087337,
+    2034087884,
+    2034089285,
+    2034091444,
+    2034090986,
+    2034089411,
+    2034088138,
+    2034088202,
+    2034089844,
+    2034089282,
+    2034087006,
+    2034086870,
+    2034084364,
+    2034084260,
+    2034083913,
+    2034083884,
+    2034083482,
+    2034083748,
+    2034084001,
+    2034084031,
+    2034083798,
+    2034084000,
+    2034082860,
+    2034081544,
+    2034079781
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 193574953,
+  "timestamp": "2013-04-27T21:50:31Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8006838,
+    "lon": 11.5044678
+  },
+  "nodes": [
+    2040863081,
+    2040862702,
+    2040863205,
+    2040864111,
+    2040863988,
+    2040864085,
+    2040863081
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical d'Arrondissement",
+    "short_name": "CMA",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193577452,
+  "timestamp": "2013-04-27T21:51:03Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.7948539,
+    "lon": 11.5203739
+  },
+  "nodes": [
+    2040910479,
+    2040910483,
+    2040911221,
+    2040911210,
+    2040911288,
+    2040911278,
+    2040911387,
+    2040911382,
+    2040911205,
+    2040911200,
+    2040910481,
+    2040910485,
+    2040910814,
+    2040910817,
+    2040910501,
+    2040910509,
+    2040909596,
+    2040909607,
+    2040910479
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193567080,
+  "timestamp": "2016-04-13T11:29:41Z",
+  "version": 3,
+  "changeset": 38522409,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8047278,
+    "lon": 11.5311174
+  },
+  "nodes": [
+    2040826454,
+    2040826601,
+    2040826865,
+    2040826787,
+    2040826645,
+    2040826631,
+    2040826524,
+    2040826556,
+    2040826454
+  ],
+  "tags": {
+    "addr:postcode": "0207 Yde",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CENTRE DE SANTE",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193510991,
+  "timestamp": "2013-04-27T21:50:32Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8292375,
+    "lon": 11.4988685
+  },
+  "nodes": [
+    2040245387,
+    2040245410,
+    2040245431,
+    2040246027,
+    2040245998,
+    2040246057,
+    2040246045,
+    2040246029,
+    2040245997,
+    2040245403,
+    2040245406,
+    2040245388,
+    2040245409,
+    2040245370,
+    2040245387
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Neurologique et Médical",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193523781,
+  "timestamp": "2013-04-27T21:51:03Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8242257,
+    "lon": 11.5038083
+  },
+  "nodes": [
+    2040346965,
+    2040349379,
+    2040349918,
+    2040347482,
+    2040346965
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192856501,
+  "timestamp": "2013-05-14T22:30:03Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8368686,
+    "lon": 11.4859222
+  },
+  "nodes": [
+    2034009545,
+    2034010459,
+    2034012166,
+    2034011679,
+    2034011439,
+    2034010598,
+    2034010972,
+    2034009915,
+    2034008407,
+    2034009202,
+    2034009332,
+    2034009545
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Fondation médecine d'Afrique",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192860947,
+  "timestamp": "2013-05-14T22:30:01Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8364588,
+    "lon": 11.4857642
+  },
+  "nodes": [
+    2034001842,
+    2034001487,
+    2034002836,
+    2034003153,
+    2034003578,
+    2034005411,
+    2034003782,
+    2034001842
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Lumiére",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 221409784,
+  "timestamp": "2013-05-14T22:29:57Z",
+  "version": 1,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8328592,
+    "lon": 11.4847833
+  },
+  "nodes": [
+    2304321916,
+    2263248920,
+    2263248202,
+    2263248268,
+    2263248457,
+    2304321916
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de soins ORL (Oto-Rhino-Laryngologie)",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 191166264,
+  "timestamp": "2016-04-13T15:00:20Z",
+  "version": 4,
+  "changeset": 38527852,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8340856,
+    "lon": 11.4850163
+  },
+  "nodes": [
+    2017626964,
+    2017626981,
+    4119186766,
+    2017626970,
+    2017626956,
+    2017626954,
+    2017626964
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de District de Biyem-Assi"
+  }
+},
+{
+  "type": "way",
+  "id": 217002872,
+  "timestamp": "2013-05-14T22:30:01Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8337217,
+    "lon": 11.4841617
+  },
+  "nodes": [
+    2263254867,
+    2263254596,
+    2263254653,
+    2263254839,
+    2263254863,
+    2263255713,
+    2263255595,
+    2263254582,
+    2263254647,
+    2263254842,
+    2263254867
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Saint Etienne",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192857898,
+  "timestamp": "2013-05-14T22:29:58Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8363911,
+    "lon": 11.4888717
+  },
+  "nodes": [
+    2033997065,
+    2033997307,
+    2033998069,
+    2033998071,
+    2034000593,
+    2034000566,
+    2034003338,
+    2034003353,
+    2034006612,
+    2034006480,
+    2034006620,
+    2034006485,
+    2034005729,
+    2034005714,
+    2034004048,
+    2034004045,
+    2034003264,
+    2034003402,
+    2034002894,
+    2034002850,
+    2034000005,
+    2034000107,
+    2034000584,
+    2034000603,
+    2034003252,
+    2034003047,
+    2034001732,
+    2034001735,
+    2034000386,
+    2034000339,
+    2033999694,
+    2033999669,
+    2034000001,
+    2033999866,
+    2033997176,
+    2033997277,
+    2033997518,
+    2033997560,
+    2033997065
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre d'imagerie medical",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192857419,
+  "timestamp": "2013-05-14T22:29:59Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8386073,
+    "lon": 11.4844612
+  },
+  "nodes": [
+    2034035689,
+    2034036896,
+    2034036797,
+    2034037600,
+    2034037730,
+    2034037881,
+    2034038674,
+    2034036842,
+    2034037477,
+    2034037319,
+    2034038733,
+    2034039290,
+    2034039625,
+    2034040440,
+    2034039311,
+    2034038875,
+    2034038754,
+    2034037990,
+    2034037830,
+    2034036308,
+    2034036753,
+    2034036162,
+    2034034617,
+    2034033246,
+    2034034440,
+    2034035435,
+    2034035804,
+    2034035447,
+    2034035689
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 219157313,
+  "timestamp": "2013-04-27T21:50:23Z",
+  "version": 1,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8388724,
+    "lon": 11.5042469
+  },
+  "nodes": [
+    2283555347,
+    2283555344,
+    1987584156,
+    1987584155,
+    1967552192,
+    2283555346,
+    2283555347
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Benoit Menni",
+    "source": "GPS Openstreetmap Cameroun 2013"
+  }
+},
+{
+  "type": "way",
+  "id": 192877588,
+  "timestamp": "2013-05-14T22:30:02Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8443583,
+    "lon": 11.4638576
+  },
+  "nodes": [
+    2033986429,
+    2033986065,
+    2033984229,
+    2033984460,
+    2033984730,
+    2033984848,
+    2033986429
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé maman Diana",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192870558,
+  "timestamp": "2013-05-14T22:29:59Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8466177,
+    "lon": 11.4813921
+  },
+  "nodes": [
+    2034064477,
+    2034062797,
+    2034064402,
+    2034066461,
+    2034064477
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192874798,
+  "timestamp": "2013-05-14T22:29:59Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8449232,
+    "lon": 11.4777016
+  },
+  "nodes": [
+    2033991949,
+    2033991851,
+    2033991995,
+    2033992159,
+    2033991983,
+    2033992169,
+    2033992301,
+    2033992730,
+    2033993471,
+    2033993539,
+    2033996009,
+    2033995855,
+    2033998807,
+    2033996511,
+    2033998291,
+    2033998709,
+    2033999893,
+    2034002141,
+    2034001572,
+    2034006602,
+    2034005789,
+    2034000612,
+    2034000740,
+    2033999867,
+    2033999723,
+    2034006171,
+    2034005445,
+    2033999132,
+    2033998270,
+    2033997583,
+    2034004891,
+    2034003970,
+    2034000985,
+    2034000891,
+    2034004003,
+    2034002876,
+    2033995833,
+    2033997283,
+    2033996786,
+    2033997144,
+    2033996480,
+    2033995408,
+    2033991563,
+    2033991949
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192877443,
+  "timestamp": "2013-05-14T22:30:00Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8448161,
+    "lon": 11.4779029
+  },
+  "nodes": [
+    2033992003,
+    2033992223,
+    2033992017,
+    2033992383,
+    2033994096,
+    2033993415,
+    2033992003
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192877847,
+  "timestamp": "2013-05-14T22:30:03Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8501593,
+    "lon": 11.4765099
+  },
+  "nodes": [
+    2034168553,
+    2034168382,
+    2034170892,
+    2034175732,
+    2034172957,
+    2034166705,
+    2034168553
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gic santé la sécurité 8 cemest",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192881054,
+  "timestamp": "2013-05-14T22:30:00Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8454014,
+    "lon": 11.4794626
+  },
+  "nodes": [
+    2034015757,
+    2034016488,
+    2034017628,
+    2034017489,
+    2034019536,
+    2034019355,
+    2034020140,
+    2034019423,
+    2034015271,
+    2034015757
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 219157317,
+  "timestamp": "2016-07-27T11:08:15Z",
+  "version": 4,
+  "changeset": 41059996,
+  "user": "ongolaboy",
+  "uid": 547829,
+  "center": {
+    "lat": 3.8506204,
+    "lon": 11.4780796
+  },
+  "nodes": [
+    2033840467,
+    2283555374,
+    2283555375,
+    2188551560,
+    2188551566,
+    2188551553,
+    2188551557,
+    2188551555,
+    2188551552,
+    2283555365,
+    2283555364,
+    2283555362,
+    2283555359,
+    2034150814,
+    2034149162,
+    2034147020,
+    2034146199,
+    2034144406,
+    2283555357,
+    2283555358,
+    2283555360,
+    2283555363,
+    2283555366,
+    2283555367,
+    2283555368,
+    2283555369,
+    2283555370,
+    2283555371,
+    2283555372,
+    2033831999,
+    2033833759,
+    2033833890,
+    2033835131,
+    2033836949,
+    2033838293,
+    2033839151,
+    2033839768,
+    2033840467
+  ],
+  "tags": {
+    "addr:postcode": "1686 Ydé",
+    "amenity": "hospital",
+    "contact:email": "cnrhyaounde@yahoo.fr",
+    "contact:phone": "222310579",
+    "contact:website": "www.cnrh.info",
+    "emergency": "no",
+    "name": "Centre national de réhabilitation des personnes handicapées",
+    "short_name": "CNRPH"
+  }
+},
+{
+  "type": "way",
+  "id": 192843875,
+  "timestamp": "2013-05-14T22:29:58Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8525300,
+    "lon": 11.4781448
+  },
+  "nodes": [
+    2033849231,
+    2033850035,
+    2033851032,
+    2033850806,
+    2033851415,
+    2033851280,
+    2033851747,
+    2033851378,
+    2033850851,
+    2033850594,
+    2033849686,
+    2033849971,
+    2033849231
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet des soins des professionnels sans frontiéres",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192844469,
+  "timestamp": "2013-05-14T22:29:57Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8523495,
+    "lon": 11.4791640
+  },
+  "nodes": [
+    2033845092,
+    2033845327,
+    2033849030,
+    2033848850,
+    2033848663,
+    2033847756,
+    2033847464,
+    2033847527,
+    2033846523,
+    2033847116,
+    2033845601,
+    2033845517,
+    2033845065,
+    2033845186,
+    2033845092
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de soins bon secours plus",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192848713,
+  "timestamp": "2013-05-14T22:30:04Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8539065,
+    "lon": 11.4791638
+  },
+  "nodes": [
+    2033883503,
+    2033879627,
+    2033879751,
+    2033881979,
+    2033881989,
+    2033883900,
+    2033883503
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Haward la Patience Ahead",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192837976,
+  "timestamp": "2013-05-14T22:30:00Z",
+  "version": 3,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8610900,
+    "lon": 11.4788366
+  },
+  "nodes": [
+    2033798344,
+    2033798314,
+    2033798677,
+    2033798694,
+    2033798936,
+    2033799008,
+    2033800556,
+    2033800494,
+    2033798959,
+    2033798993,
+    2033798551,
+    2033798344
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Communal",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192838105,
+  "timestamp": "2013-05-14T22:30:01Z",
+  "version": 3,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8607328,
+    "lon": 11.4781390
+  },
+  "nodes": [
+    2033793743,
+    2033795524,
+    2033795550,
+    2033795990,
+    2033796094,
+    2033795482,
+    2033795488,
+    2033794848,
+    2033794845,
+    2033794490,
+    2033794482,
+    2033793909,
+    2033793743
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Développé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192839326,
+  "timestamp": "2016-04-13T17:08:21Z",
+  "version": 3,
+  "changeset": 38531223,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8602812,
+    "lon": 11.4769037
+  },
+  "nodes": [
+    2033791160,
+    4119374978,
+    2033793869,
+    2033791441,
+    2033790387,
+    2033789675,
+    4119374973,
+    2033791160
+  ],
+  "tags": {
+    "addr:postcode": "185 Ydï¿½",
+    "amenity": "hospital",
+    "building": "yes",
+    "contact:email": "chdsmp@yahoo.fr",
+    "contact:phone": "222129014",
+    "name": "Centre Hospitalier Dominicain",
+    "short_name": "CHDSMP",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192865785,
+  "timestamp": "2013-05-14T22:30:01Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8462829,
+    "lon": 11.4863245
+  },
+  "nodes": [
+    2034051073,
+    2034051056,
+    2034051379,
+    2034051266,
+    2034052782,
+    2034052753,
+    2034054765,
+    2034055102,
+    2034052842,
+    2034052806,
+    2034051155,
+    2034051073
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Médicalisé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192870461,
+  "timestamp": "2013-05-14T22:29:59Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8452493,
+    "lon": 11.4828674
+  },
+  "nodes": [
+    2034008477,
+    2034013359,
+    2034014876,
+    2034009761,
+    2034008477
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192876114,
+  "timestamp": "2013-05-14T22:30:00Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8475944,
+    "lon": 11.4820328
+  },
+  "nodes": [
+    2034095654,
+    2034094856,
+    2034097811,
+    2034099119,
+    2034095910,
+    2034095654
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192876603,
+  "timestamp": "2013-05-14T22:30:00Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8464418,
+    "lon": 11.4863145
+  },
+  "nodes": [
+    2034055283,
+    2034058220,
+    2034058180,
+    2034060919,
+    2034061504,
+    2034055677,
+    2034055283
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Ambulatoire",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192844359,
+  "timestamp": "2013-04-27T21:50:30Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8633230,
+    "lon": 11.4868460
+  },
+  "nodes": [
+    2033843942,
+    2033841058,
+    2033841440,
+    2033844255,
+    2033844115,
+    2033844303,
+    2033843942
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Medical d'Arrondissement",
+    "short_name": "CMA",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 230560444,
+  "timestamp": "2016-04-14T11:01:51Z",
+  "version": 3,
+  "changeset": 38552862,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8627065,
+    "lon": 11.4961416
+  },
+  "nodes": [
+    2017537738,
+    2308238473,
+    2308238505,
+    2308238653,
+    2308239212,
+    2308239347,
+    2308239647,
+    2308239802,
+    2308240011,
+    2308240211,
+    2308240408,
+    2017537755,
+    2390533197,
+    2017537757,
+    2017537767,
+    2307929140,
+    2308240728,
+    2308240739,
+    2308240766,
+    2308240899,
+    2308241014,
+    2017537780,
+    2390533198,
+    2308241719,
+    2308241741,
+    2308241746,
+    2308241751,
+    2308241833,
+    2308241842,
+    2308241863,
+    2308241882,
+    2308241906,
+    2308241938,
+    2308241971,
+    2308241997,
+    2308242028,
+    2308242073,
+    2308242103,
+    2308242144,
+    2308242158,
+    2308242167,
+    2308242174,
+    2017537795,
+    2308242213,
+    2308242236,
+    2308242280,
+    2308242301,
+    2307929562,
+    2308242335,
+    2308242312,
+    2308242295,
+    2308242273,
+    2308242238,
+    2308242209,
+    2308242186,
+    2308242183,
+    2308242169,
+    2308242168,
+    2308242148,
+    2308242132,
+    2308242089,
+    2308242056,
+    2308242015,
+    2308241978,
+    2308241939,
+    2308241905,
+    2308241884,
+    2308241815,
+    2308241706,
+    2308241527,
+    2308241169,
+    2308241086,
+    2308241066,
+    2308241023,
+    2308240905,
+    2308240840,
+    2017537769,
+    2308240692,
+    2308240642,
+    2308240533,
+    2308240430,
+    2308240413,
+    2308240255,
+    2308240078,
+    2308239950,
+    2308239776,
+    2308239774,
+    2308239515,
+    2308239079,
+    2308238976,
+    2308238638,
+    2308238428,
+    2308238286,
+    2308238201,
+    2308238153,
+    2308238115,
+    2390533144,
+    2017537734,
+    2017537741,
+    2017537747,
+    2390533161,
+    2308238596,
+    2308238533,
+    2308238397,
+    2308238307,
+    2390533146,
+    2017537735,
+    2017537738
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "contact:phone": "222312565",
+    "name": "Centre Hospitalier Universitaire",
+    "short_name": "CHU"
+  }
+},
+{
+  "type": "way",
+  "id": 192842641,
+  "timestamp": "2013-05-14T22:30:04Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8628325,
+    "lon": 11.5041705
+  },
+  "nodes": [
+    2033827823,
+    2033830599,
+    2033831880,
+    2033833398,
+    2033831468,
+    2033827823
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "LM St Mary medical",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192837934,
+  "timestamp": "2014-02-03T15:35:15Z",
+  "version": 4,
+  "changeset": 20354467,
+  "user": "Gilbert_Armand_OSM-CM",
+  "uid": 1269691,
+  "center": {
+    "lat": 3.8635465,
+    "lon": 11.4977682
+  },
+  "nodes": [
+    2033845685,
+    2033845398,
+    2033846877,
+    2033846660,
+    2033850982,
+    2033852040,
+    2033849582,
+    2033849853,
+    2033847566,
+    2033847366,
+    2033845834,
+    2033845685
+  ],
+  "tags": {
+    "alt_name": "Chantal Biya Research Center",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre International De Référence “Chantal Biya”",
+    "operator": "Centre International De Référence “Chantal Biya”  Pour La Recherche Sur La Prévention Et La Prise En Charge Du VIH/SIDA",
+    "short_name": "CIRCB",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192830714,
+  "timestamp": "2013-05-14T22:30:05Z",
+  "version": 2,
+  "changeset": 16132298,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8649974,
+    "lon": 11.5039433
+  },
+  "nodes": [
+    2033552241,
+    2033552362,
+    2033552782,
+    2033552815,
+    2033553216,
+    2033553181,
+    2033553882,
+    2033553738,
+    2033552241
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Pavillon NGANTAHA",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 192865173,
+  "timestamp": "2013-04-27T21:51:06Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8473312,
+    "lon": 11.5181955
+  },
+  "nodes": [
+    2034083199,
+    2034084784,
+    2034084631,
+    2034088345,
+    2034092135,
+    2034091931,
+    2034092704,
+    2034088684,
+    2034090306,
+    2034089124,
+    2034088441,
+    2034088153,
+    2034083199
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Polyclinique Mbarga",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192853125,
+  "timestamp": "2013-04-27T21:51:04Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8540871,
+    "lon": 11.5173674
+  },
+  "nodes": [
+    2033917054,
+    2033916433,
+    2033915820,
+    2033918342,
+    2033918609,
+    2033919143,
+    2033918527,
+    2033917667,
+    2033917853,
+    2033918784,
+    2033919008,
+    2033924474,
+    2033924678,
+    2033924323,
+    2033926037,
+    2033927040,
+    2033928078,
+    2033929559,
+    2033930154,
+    2033930454,
+    2033930867,
+    2033930501,
+    2033930658,
+    2033930813,
+    2033930720,
+    2033929860,
+    2033928796,
+    2033928738,
+    2033930289,
+    2033929348,
+    2033929464,
+    2033924444,
+    2033924719,
+    2033919430,
+    2033918230,
+    2033919072,
+    2033919020,
+    2033918034,
+    2033916917,
+    2033917443,
+    2033917054
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital Militaire",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192853910,
+  "timestamp": "2016-08-22T13:48:47Z",
+  "version": 3,
+  "changeset": 41615143,
+  "user": "Annick France",
+  "uid": 4263370,
+  "center": {
+    "lat": 3.8542865,
+    "lon": 11.5170317
+  },
+  "nodes": [
+    2033924474,
+    2033926418,
+    2033926688,
+    2033927932,
+    2033929558,
+    2033926219,
+    2033924474
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Garnison militaire",
+    "source": "GeoCameroun"
+  }
+},
+{
+  "type": "way",
+  "id": 192881376,
+  "timestamp": "2013-04-27T21:50:44Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8461780,
+    "lon": 11.5218197
+  },
+  "nodes": [
+    2034045997,
+    2034047825,
+    2034047569,
+    2034049278,
+    2034052244,
+    2034051070,
+    2034050114,
+    2034049322,
+    2034048117,
+    2034045997
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192821630,
+  "timestamp": "2013-04-27T21:50:59Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8688553,
+    "lon": 11.5128335
+  },
+  "nodes": [
+    2033604928,
+    2033603867,
+    2033605395,
+    2033606950,
+    2033607379,
+    2033607922,
+    2033609225,
+    2033608607,
+    2033609472,
+    2033611298,
+    2033614004,
+    2033615332,
+    2033615668,
+    2033616783,
+    2033617710,
+    2033618282,
+    2033618633,
+    2033617650,
+    2033617761,
+    2033616896,
+    2033615482,
+    2033612367,
+    2033610284,
+    2033610010,
+    2033608750,
+    2033610619,
+    2033611511,
+    2033610011,
+    2033610424,
+    2033608956,
+    2033608609,
+    2033608207,
+    2033605772,
+    2033605241,
+    2033604170,
+    2033605105,
+    2033604792,
+    2033605078,
+    2033604928
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Croix Rouge Camerounaise",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192839032,
+  "timestamp": "2013-04-27T21:50:44Z",
+  "version": 4,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8618705,
+    "lon": 11.5303389
+  },
+  "nodes": [
+    2033808492,
+    2033808106,
+    2033808746,
+    2280079756,
+    2033809393,
+    2033810365,
+    2033810417,
+    2033811421,
+    2033810924,
+    2033810763,
+    2033810253,
+    2033811194,
+    2033812003,
+    2033811639,
+    2033812158,
+    2033811676,
+    2033811721,
+    2033808876,
+    2033808492
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192846908,
+  "timestamp": "2013-04-27T21:51:04Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8609766,
+    "lon": 11.5319911
+  },
+  "nodes": [
+    2033799235,
+    2033797888,
+    2033797679,
+    2033797083,
+    2033796967,
+    2033797550,
+    2033797368,
+    2033798606,
+    2033799235
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital de District de Nkolndongo",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192829924,
+  "timestamp": "2015-06-19T07:09:29Z",
+  "version": 3,
+  "changeset": 32067846,
+  "user": "ongolaboy",
+  "uid": 547829,
+  "center": {
+    "lat": 3.8699901,
+    "lon": 11.5246096
+  },
+  "nodes": [
+    2033639979,
+    2033641545,
+    2033641038,
+    2033641564,
+    2033641823,
+    2033643047,
+    2033644209,
+    2033640803,
+    2033639979
+  ],
+  "tags": {
+    "addr:street": "Rue Monseigneur Graffin",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "phone": "+237 222 22 09 84",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192821580,
+  "timestamp": "2013-04-27T21:50:45Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8693217,
+    "lon": 11.5317101
+  },
+  "nodes": [
+    2033619004,
+    2033619478,
+    2033620063,
+    2033620203,
+    2033619694,
+    2033620310,
+    2033620734,
+    2033620586,
+    2033621007,
+    2033620956,
+    2033621383,
+    2033621531,
+    2033620521,
+    2033621155,
+    2033621501,
+    2033621752,
+    2033625595,
+    2033625269,
+    2033623264,
+    2033623220,
+    2033625232,
+    2033624712,
+    2033624481,
+    2033624090,
+    2033622891,
+    2033622814,
+    2033622093,
+    2033622211,
+    2033621105,
+    2033621013,
+    2033619746,
+    2033619798,
+    2033619004
+  ],
+  "tags": {
+    "alt_name": "Clinic and Maternity",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique et Maternité",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 236844355,
+  "timestamp": "2013-09-06T13:48:04Z",
+  "version": 1,
+  "changeset": 17703565,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8760932,
+    "lon": 11.4899297
+  },
+  "nodes": [
+    2033470041,
+    2308163620,
+    2308163785,
+    2308163797,
+    2308163900,
+    2308163894,
+    2033477430,
+    2033477104,
+    2033477214,
+    2033476670,
+    2033477163,
+    2033476477,
+    2308163799,
+    2308163789,
+    2308163711,
+    2033469755,
+    2033469657,
+    2033469237,
+    2033469346,
+    2033469011,
+    2033470041
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de la Cité Verte"
+  }
+},
+{
+  "type": "way",
+  "id": 192780695,
+  "timestamp": "2016-04-15T07:20:31Z",
+  "version": 2,
+  "changeset": 38579384,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8847088,
+    "lon": 11.5028058
+  },
+  "nodes": [
+    2033176479,
+    2033174732,
+    2033178324,
+    2033180470,
+    2033176479
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "contact:phone": "696920031",
+    "name": "G.T LABO",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203279,
+  "timestamp": "2016-04-15T08:46:48Z",
+  "version": 2,
+  "changeset": 38581419,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8841810,
+    "lon": 11.5079475
+  },
+  "nodes": [
+    2283988981,
+    2283988982,
+    2283988984,
+    2283988983,
+    2033171082,
+    2033169090,
+    2033167592,
+    2033165561,
+    2283988980,
+    2283988974,
+    2283988973,
+    2283988975,
+    2283988978,
+    2283988981
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "HOPITAL BETHESDA"
+  }
+},
+{
+  "type": "way",
+  "id": 215363594,
+  "timestamp": "2014-04-09T14:12:18Z",
+  "version": 3,
+  "changeset": 21590051,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8712928,
+    "lon": 11.5102476
+  },
+  "nodes": [
+    2247783412,
+    2285765199,
+    2285765197,
+    2285765198,
+    2285765196,
+    2285765200,
+    2247783384,
+    2247783391,
+    2247783416,
+    2247783433,
+    2779552450,
+    2247783427,
+    2247783424,
+    2779552452,
+    2247783421,
+    2247783430,
+    2247783418,
+    2247783381,
+    2247783412
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Central de Yaoundé"
+  }
+},
+{
+  "type": "way",
+  "id": 192810183,
+  "timestamp": "2013-04-27T21:50:59Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8753132,
+    "lon": 11.5175034
+  },
+  "nodes": [
+    2033462973,
+    2033462824,
+    2033463230,
+    2033463456,
+    2033464467,
+    2033464965,
+    2033464094,
+    2033464689,
+    2033464092,
+    2033463801,
+    2033464708,
+    2033463767,
+    2033463226,
+    2033462945,
+    2033462622,
+    2033462973
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Croix Rouge Camerounaise",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203272,
+  "timestamp": "2013-04-28T09:52:15Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8827715,
+    "lon": 11.5170277
+  },
+  "nodes": [
+    2283988971,
+    2033120630,
+    2033120939,
+    2033132597,
+    2033136081,
+    2033134686,
+    2033134084,
+    2033132530,
+    2033132763,
+    2033124027,
+    2033122156,
+    2033116062,
+    2033113884,
+    2283988970,
+    2283988971
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de la Mère et de l'Enfant"
+  }
+},
+{
+  "type": "way",
+  "id": 192812391,
+  "timestamp": "2013-11-28T22:15:27Z",
+  "version": 3,
+  "changeset": 19168946,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8770891,
+    "lon": 11.5200834
+  },
+  "nodes": [
+    2033486068,
+    2033489768,
+    2033491233,
+    2033488789,
+    2033488748,
+    2033487502,
+    2033486068
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Ze Meka",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192813980,
+  "timestamp": "2013-04-27T21:50:44Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8722425,
+    "lon": 11.5307382
+  },
+  "nodes": [
+    2033471424,
+    2033471130,
+    2033470424,
+    2033470163,
+    2033469628,
+    2033470429,
+    2033470504,
+    2033471155,
+    2033471357,
+    2033471606,
+    2033472824,
+    2033472427,
+    2033472194,
+    2033471918,
+    2033471666,
+    2033471746,
+    2033471424
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Médicale Enfants Malades",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 222060240,
+  "timestamp": "2016-04-14T15:21:11Z",
+  "version": 2,
+  "changeset": 38557821,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8714219,
+    "lon": 11.5324173
+  },
+  "nodes": [
+    2310379993,
+    2310380302,
+    2310380341,
+    2310380355,
+    2310380359,
+    2310380364,
+    2310380366,
+    2310380368,
+    2310380365,
+    2310380361,
+    2310380356,
+    2310380354,
+    2310380350,
+    2310380349,
+    2310380347,
+    2310380324,
+    2310380158,
+    2310379975,
+    2310379829,
+    2308307502,
+    2308307017,
+    2308306682,
+    2310379391,
+    2310379209,
+    2290854970,
+    2310379290,
+    2310379334,
+    2310379396,
+    2310379482,
+    2310379709,
+    4121397672,
+    2310379993
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CENTRE HOSPITALIER D'ESSOS"
+  }
+},
+{
+  "type": "way",
+  "id": 192786640,
+  "timestamp": "2013-04-27T21:50:45Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8801095,
+    "lon": 11.5264439
+  },
+  "nodes": [
+    2033007294,
+    2033007282,
+    2033014628,
+    2033014638,
+    2033013477,
+    2033013509,
+    2033005337,
+    2033005325,
+    2033007294
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Sainte-Maithe",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 191158128,
+  "timestamp": "2013-05-19T21:14:01Z",
+  "version": 5,
+  "changeset": 16200062,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.8841912,
+    "lon": 11.5208736
+  },
+  "nodes": [
+    2017395787,
+    2017395783,
+    2017395775,
+    2017395763,
+    2017395761,
+    2017395749,
+    2017395753,
+    2017395757,
+    2017395765,
+    2311978713,
+    2017395771,
+    2017395773,
+    2017395777,
+    2017395781,
+    2017395785,
+    2017395787
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Protestant de Djoungolo"
+  }
+},
+{
+  "type": "way",
+  "id": 193961608,
+  "timestamp": "2016-04-15T10:14:20Z",
+  "version": 2,
+  "changeset": 38583663,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8930246,
+    "lon": 11.5206887
+  },
+  "nodes": [
+    2044721727,
+    2044722587,
+    2044722557,
+    2044723154,
+    2044722879,
+    2044724188,
+    2044724202,
+    2044724468,
+    2044724742,
+    2044722002,
+    2044721871,
+    2044721353,
+    2044721195,
+    2044721700,
+    2044721727
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "WELLSTAR 1",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 221819365,
+  "timestamp": "2016-10-24T01:07:42Z",
+  "version": 3,
+  "changeset": 43112210,
+  "user": "Johnwhelan",
+  "uid": 186592,
+  "center": {
+    "lat": 3.8925958,
+    "lon": 11.5172149
+  },
+  "nodes": [
+    2044712322,
+    4123406811,
+    4123406816,
+    2308151814,
+    2308151560,
+    2308151519,
+    2044712322
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "WELLSTAR 2",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 218244467,
+  "timestamp": "2016-04-15T10:27:23Z",
+  "version": 3,
+  "changeset": 38583984,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.9014034,
+    "lon": 11.5202134
+  },
+  "nodes": [
+    2275142401,
+    2275142385,
+    2275142371,
+    2275142361,
+    2275142368,
+    2275142360,
+    2275142352,
+    2275142335,
+    2275142300,
+    2275142139,
+    2275142125,
+    4123427471,
+    4123427469,
+    4123427468,
+    4123427467,
+    2275142049,
+    2275142051,
+    4123427470,
+    2275142078,
+    2275142098,
+    2275142117,
+    2275142137,
+    2275142172,
+    2275142073,
+    2275142148,
+    2275142272,
+    2275142257,
+    2275142349,
+    2275142359,
+    2275142380,
+    2275142375,
+    2275142401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "HOPITAL JAMO"
+  }
+},
+{
+  "type": "way",
+  "id": 192696313,
+  "timestamp": "2013-04-28T09:52:18Z",
+  "version": 2,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.9003694,
+    "lon": 11.5223352
+  },
+  "nodes": [
+    2032302995,
+    2032305033,
+    2032305340,
+    2032306142,
+    2032307167,
+    2032306376,
+    2032312893,
+    2032310539,
+    2032302995
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Jamot",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 191996250,
+  "timestamp": "2013-04-28T09:52:25Z",
+  "version": 2,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.9187398,
+    "lon": 11.5275136
+  },
+  "nodes": [
+    2025577013,
+    2025577234,
+    2025577638,
+    2025576766,
+    2025576526,
+    2025577082,
+    2025577013
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Maternité Marie Étoudi",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203280,
+  "timestamp": "2013-04-28T09:52:16Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.9238880,
+    "lon": 11.5049263
+  },
+  "nodes": [
+    2283988995,
+    2283988993,
+    2283988992,
+    2264958209,
+    2264958216,
+    2264958219,
+    2283988994,
+    2023867726,
+    2023867735,
+    2283988995
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Catholique Deo Gratias Afrique Future"
+  }
+},
+{
+  "type": "way",
+  "id": 219203270,
+  "timestamp": "2013-05-15T21:32:15Z",
+  "version": 2,
+  "changeset": 16145118,
+  "user": "GeoCameroun",
+  "uid": 1366199,
+  "center": {
+    "lat": 3.9463755,
+    "lon": 11.5221115
+  },
+  "nodes": [
+    2022250233,
+    2022250120,
+    2305660926,
+    2305660924,
+    2022249992,
+    2022249889,
+    2022249663,
+    2022250025,
+    2022250233
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMA Yaoundé I Olembe",
+    "short_name": "CMA"
+  }
+},
+{
+  "type": "way",
+  "id": 219203277,
+  "timestamp": "2013-04-28T09:52:16Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.9521428,
+    "lon": 11.5298241
+  },
+  "nodes": [
+    2022196851,
+    2022196738,
+    2022196692,
+    2283989010,
+    2022195928,
+    2283989006,
+    2283989005,
+    2283989004,
+    2022195478,
+    2022195602,
+    2022195612,
+    2022195622,
+    2022196851
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Groupement d'Investissement Communautaire Santé le Sonline",
+    "short_name": "GIC"
+  }
+},
+{
+  "type": "way",
+  "id": 193535179,
+  "timestamp": "2013-04-27T21:51:03Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8243756,
+    "lon": 11.5526624
+  },
+  "nodes": [
+    2040474137,
+    2040474075,
+    2040474150,
+    2040474066,
+    2040474564,
+    2040474734,
+    2040474137
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Groupement d'Initiative Commune Santé",
+    "short_name": "GIC",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219157320,
+  "timestamp": "2013-04-27T21:50:24Z",
+  "version": 1,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8318128,
+    "lon": 11.5356075
+  },
+  "nodes": [
+    2283555338,
+    2283555335,
+    2283555332,
+    2040407427,
+    2283555333,
+    2040408325,
+    2283555334,
+    2283555336,
+    2283555338
+  ],
+  "tags": {
+    "alt_name": "GIC",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "GIC Santé",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 193510070,
+  "timestamp": "2013-04-27T21:51:06Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8430366,
+    "lon": 11.5417477
+  },
+  "nodes": [
+    2040274238,
+    2040274285,
+    2040275569,
+    2040275566,
+    2040274243,
+    2040274238
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Polyclinique Médicale Chinoise",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 191248672,
+  "timestamp": "2013-04-27T21:50:32Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8436298,
+    "lon": 11.5512815
+  },
+  "nodes": [
+    2018349487,
+    2018349478,
+    2018349471,
+    2018349480,
+    2018349487
+  ],
+  "tags": {
+    "alt_name": "CMA",
+    "amenity": "hospital",
+    "name": "Centre Médical d'Arrondissement de Nkomo"
+  }
+},
+{
+  "type": "way",
+  "id": 410236396,
+  "timestamp": "2016-04-14T09:31:54Z",
+  "version": 1,
+  "changeset": 38551036,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8582118,
+    "lon": 11.5360960
+  },
+  "nodes": [
+    4120774260,
+    4120774262,
+    4120774254,
+    4120774248,
+    4120774246,
+    4120774260
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "contact:phone": "222220403",
+    "name": "HOPITAL DE LA CASS"
+  }
+},
+{
+  "type": "way",
+  "id": 192841273,
+  "timestamp": "2013-04-27T21:51:02Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8629545,
+    "lon": 11.5453566
+  },
+  "nodes": [
+    2033836215,
+    2033833948,
+    2033831744,
+    2033834433,
+    2033836215
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Groupement d'Initiative Commune Santé",
+    "short_name": "GIC",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192831590,
+  "timestamp": "2013-04-27T21:50:31Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8648430,
+    "lon": 11.5409759
+  },
+  "nodes": [
+    2033604216,
+    2033604633,
+    2033603874,
+    2033604311,
+    2033606105,
+    2033605280,
+    2033604216
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203275,
+  "timestamp": "2013-04-28T09:52:15Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8697890,
+    "lon": 11.5602646
+  },
+  "nodes": [
+    2283988965,
+    2283988967,
+    2283988966,
+    2283988964,
+    1785983855,
+    2283988965
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Mimboman"
+  }
+},
+{
+  "type": "way",
+  "id": 204121310,
+  "timestamp": "2013-04-27T21:51:00Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8591415,
+    "lon": 11.5649760
+  },
+  "nodes": [
+    2141342445,
+    2141342432,
+    2141342691,
+    2141342575,
+    2141341834,
+    2141342167,
+    2141342507,
+    2141342374,
+    2141342475,
+    2141342445
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Dispensaire Maternité",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 192816584,
+  "timestamp": "2013-04-27T21:50:33Z",
+  "version": 2,
+  "changeset": 15889156,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8739941,
+    "lon": 11.5380023
+  },
+  "nodes": [
+    2033491453,
+    2033492549,
+    2033493471,
+    2033494451,
+    2033493538,
+    2033493595,
+    2033493525,
+    2033493767,
+    2033493596,
+    2033494512,
+    2033494471,
+    2033494671,
+    2033494631,
+    2033493871,
+    2033493769,
+    2033493536,
+    2033493351,
+    2033494335,
+    2033494274,
+    2033493917,
+    2033492915,
+    2033493903,
+    2033494848,
+    2033495855,
+    2033495623,
+    2033495696,
+    2033495881,
+    2033495920,
+    2033497912,
+    2033498263,
+    2033496347,
+    2033496456,
+    2033496405,
+    2033497135,
+    2033496826,
+    2033496471,
+    2033496425,
+    2033496730,
+    2033495689,
+    2033494816,
+    2033495726,
+    2033495698,
+    2033494586,
+    2033494619,
+    2033494755,
+    2033495637,
+    2033493759,
+    2033492799,
+    2033493975,
+    2033492564,
+    2033491903,
+    2033492035,
+    2033491453
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Santé",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203274,
+  "timestamp": "2016-04-14T17:25:55Z",
+  "version": 2,
+  "changeset": 38562382,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.8837825,
+    "lon": 11.5346606
+  },
+  "nodes": [
+    4121589792,
+    2283988979,
+    2283988976,
+    2033156768,
+    2033152379,
+    4121588386,
+    4121589789,
+    4121589792
+  ],
+  "tags": {
+    "addr:postcode": "8192 Ydï¿½",
+    "amenity": "hospital",
+    "contact:email": "accueil@centremedicalelacathedrale.com",
+    "contact:phone": "222203678",
+    "name": "CENTRE MEDICALE LA CATHEDRALE"
+  }
+},
+{
+  "type": "way",
+  "id": 219203282,
+  "timestamp": "2013-04-28T09:52:17Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8880806,
+    "lon": 11.5521924
+  },
+  "nodes": [
+    2032622341,
+    2032619081,
+    2255619129,
+    1784953222,
+    1784953248,
+    2032624640,
+    2032623647,
+    2032623226,
+    2032622341
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Sende"
+  }
+},
+{
+  "type": "way",
+  "id": 219203278,
+  "timestamp": "2013-04-28T09:52:16Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8736716,
+    "lon": 11.5626121
+  },
+  "nodes": [
+    2033492277,
+    2033492217,
+    2033489059,
+    2283988969,
+    2283988968,
+    2033488898,
+    2033489353,
+    2033489516,
+    2033492277
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital"
+  }
+},
+{
+  "type": "way",
+  "id": 219203271,
+  "timestamp": "2013-04-28T09:52:15Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8896097,
+    "lon": 11.5637636
+  },
+  "nodes": [
+    1785009869,
+    2283988986,
+    2032640119,
+    2032636114,
+    1967320273,
+    1967320278,
+    1967320281,
+    1967320289,
+    1785009869
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de Soins Santa Teresa",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 219203281,
+  "timestamp": "2014-04-01T16:39:31Z",
+  "version": 4,
+  "changeset": 21442842,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.9066740,
+    "lon": 11.5403612
+  },
+  "nodes": [
+    2290855037,
+    2290855038,
+    2290855039,
+    2290855041,
+    2290855042,
+    2290855043,
+    2290855044,
+    2290855045,
+    2003431466,
+    2003431473,
+    2003431492,
+    2003431566,
+    2003431580,
+    2758638757,
+    2003431584,
+    2003431582,
+    2003431576,
+    2003431568,
+    2003431564,
+    2086535616,
+    2003431547,
+    2003431494,
+    2003431475,
+    2003104234,
+    2003431461,
+    2003431449,
+    2003431445,
+    2003431434,
+    2290855037
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 192022914,
+  "timestamp": "2017-03-22T15:22:32Z",
+  "version": 6,
+  "changeset": 47071445,
+  "user": "camlefort",
+  "uid": 5401583,
+  "center": {
+    "lat": 3.9077898,
+    "lon": 11.5393848
+  },
+  "nodes": [
+    2025889631,
+    2025889686,
+    2025889445,
+    2025889453,
+    2025889333,
+    2025889505,
+    2025888901,
+    2025888892,
+    2025888849,
+    2025888859,
+    2025889238,
+    2025766757,
+    2025766929,
+    2025767017,
+    2025767042,
+    2025767079,
+    2025767154,
+    2025767082,
+    2025767089,
+    2025766751,
+    2025766756,
+    2025766778,
+    2025766755,
+    2025889125,
+    2025888710,
+    2025888689,
+    2025888632,
+    2025888682,
+    2025888769,
+    2025888944,
+    2025888788,
+    2025888855,
+    2025887755,
+    2025887734,
+    2025887194,
+    2025887123,
+    2025886472,
+    2025886309,
+    2025886478,
+    2025886460,
+    2025887565,
+    2025887586,
+    2025887938,
+    2025887836,
+    2025887988,
+    2025887801,
+    2025888007,
+    2025886346,
+    2025885883,
+    2025885890,
+    2025886077,
+    2025886139,
+    2025886225,
+    2025886235,
+    2025886432,
+    2025886702,
+    2025886251,
+    2025886260,
+    2025886189,
+    2025886230,
+    2025883567,
+    2025883553,
+    2025883066,
+    2025882941,
+    2025885112,
+    2025885123,
+    2025885393,
+    2025885326,
+    2025885432,
+    2025885381,
+    2025885163,
+    2025885235,
+    2025883984,
+    2025883003,
+    2025882930,
+    2025884703,
+    2025884967,
+    2025885263,
+    2025884710,
+    2025885426,
+    2025885486,
+    2025886356,
+    2025886417,
+    2025886498,
+    2025886471,
+    2025888582,
+    2025888386,
+    2025889092,
+    2025889264,
+    2025888976,
+    2025888984,
+    2025889008,
+    2025889229,
+    2025889345,
+    2025889354,
+    2025889609,
+    2025889631
+  ],
+  "tags": {
+    "addr:postcode": "4362 Ydï¿½",
+    "amenity": "hospital",
+    "building": "hospital",
+    "contact:email": "hgopy@hotmail.com",
+    "contact:fax": "222212430",
+    "contact:phone": "242059294",
+    "name": "HGOPY : Hôpital Gynéco Obstétrique et Pédiatrique de Yaoundé",
+    "source": "sobzeros"
+  }
+},
+{
+  "type": "way",
+  "id": 188761593,
+  "timestamp": "2016-04-15T10:45:32Z",
+  "version": 6,
+  "changeset": 38584369,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 3.9066077,
+    "lon": 11.5415828
+  },
+  "nodes": [
+    1993801439,
+    1993801687,
+    1993801703,
+    1993801941,
+    1993801898,
+    1993802319,
+    1993802432,
+    1993802798,
+    1993803109,
+    1993802811,
+    1993802942,
+    1993803154,
+    1993803266,
+    1993803525,
+    1993803510,
+    1993803961,
+    1993804107,
+    1993804191,
+    1993804214,
+    1993804347,
+    1993804795,
+    1993804961,
+    1993805072,
+    1993805237,
+    1993806719,
+    1993806348,
+    1993805207,
+    1993805021,
+    1993805096,
+    1993804968,
+    1993804916,
+    1993804852,
+    1993805711,
+    1993805505,
+    1993805534,
+    1993805387,
+    1993805299,
+    1993805220,
+    1993805414,
+    1993805215,
+    1993805235,
+    1993804940,
+    1993804986,
+    1993804711,
+    1993804368,
+    1993803816,
+    1993803783,
+    1993803230,
+    1993803197,
+    1993802963,
+    1993802511,
+    1993802982,
+    1993802645,
+    1993802724,
+    1993802684,
+    1993803219,
+    1993802283,
+    1993801811,
+    1993801745,
+    1993802585,
+    1993802478,
+    1993802961,
+    1993801766,
+    1993802160,
+    1993801439
+  ],
+  "tags": {
+    "addr:postcode": "5408 Ydï¿½",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "HOPITAL GENERAL",
+    "source": "Willy"
+  }
+},
+{
+  "type": "way",
+  "id": 219203273,
+  "timestamp": "2013-04-28T09:52:15Z",
+  "version": 1,
+  "changeset": 15893183,
+  "user": "SOGEFI",
+  "uid": 302972,
+  "center": {
+    "lat": 3.8973905,
+    "lon": 11.5481361
+  },
+  "nodes": [
+    2283988990,
+    2032223242,
+    2032221758,
+    2032220442,
+    2032218712,
+    2283988989,
+    2032219166,
+    2032222488,
+    2032222850,
+    2032223388,
+    2032225157,
+    1785010182,
+    2283988990
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Médico-Chirurgicale Sainte-Marie"
+  }
+},
+{
+  "type": "way",
+  "id": 293030814,
+  "timestamp": "2016-07-23T10:31:10Z",
+  "version": 3,
+  "changeset": 40968494,
+  "user": "FANIVE",
+  "uid": 2315574,
+  "center": {
+    "lat": 3.9739514,
+    "lon": 11.5923374
+  },
+  "nodes": [
+    2965837956,
+    2965837961,
+    2965838026,
+    2965837988,
+    2997313774,
+    2997313772,
+    2965837956
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de santé de District de Soa",
+    "opening_hours": "24/7",
+    "source": "Survey TSF Cameroun 2014"
+  }
+},
+{
+  "type": "way",
+  "id": 293073197,
+  "timestamp": "2016-07-28T09:04:11Z",
+  "version": 6,
+  "changeset": 41081057,
+  "user": "FANIVE",
+  "uid": 2315574,
+  "center": {
+    "lat": 3.9795502,
+    "lon": 11.6005990
+  },
+  "nodes": [
+    2966237566,
+    2966237569,
+    2966237575,
+    2966237574,
+    2966237566
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "public",
+    "name": "Cabinet Medical La Rose",
+    "source": "Survey TSF Cameroun 2014"
+  }
+},
+{
+  "type": "way",
+  "id": 293073430,
+  "timestamp": "2016-07-28T09:04:11Z",
+  "version": 6,
+  "changeset": 41081057,
+  "user": "FANIVE",
+  "uid": 2315574,
+  "center": {
+    "lat": 3.9789853,
+    "lon": 11.6001617
+  },
+  "nodes": [
+    2966237382,
+    2966237371,
+    2966237348,
+    2966237351,
+    2966237357,
+    2966237359,
+    2966237382
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé LAP",
+    "phone": "77969407/99265249",
+    "short_name": "Clinique",
+    "source": "survey TSF Cameroun 2014"
+  }
+}
+
+  ]
+}

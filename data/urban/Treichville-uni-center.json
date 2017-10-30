@@ -1,0 +1,558 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2443106746,
+  "lat": 5.4272612,
+  "lon": -4.0130662,
+  "timestamp": "2016-06-16T17:05:05Z",
+  "version": 4,
+  "changeset": 40072015,
+  "user": "Anebo Philippe",
+  "uid": 2231043,
+  "tags": {
+    "amenity": "university",
+    "name": "Annexe1 Université Nangui Abrogoua"
+  }
+},
+{
+  "type": "node",
+  "id": 3143709995,
+  "lat": 5.3495009,
+  "lon": -4.0104819,
+  "timestamp": "2014-10-22T12:48:35Z",
+  "version": 1,
+  "changeset": 26255066,
+  "user": "BALLO LASSINAN",
+  "uid": 2399720,
+  "tags": {
+    "amenity": "university",
+    "name": "DEPS"
+  }
+},
+{
+  "type": "node",
+  "id": 3283752496,
+  "lat": 5.3313756,
+  "lon": -3.9966317,
+  "timestamp": "2015-05-09T11:13:05Z",
+  "version": 2,
+  "changeset": 30933921,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Catholique de l'Afrique de l'Ouest (UCAO)",
+    "operator": "Conférence épiscopale régionale de l'Afrique de l'Ouest (CERAO)"
+  }
+},
+{
+  "type": "node",
+  "id": 3319181792,
+  "lat": 5.3707728,
+  "lon": -3.9946092,
+  "timestamp": "2015-02-27T00:06:09Z",
+  "version": 2,
+  "changeset": 29125784,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "university",
+    "name": "Université de l'Atlantique"
+  }
+},
+{
+  "type": "node",
+  "id": 3406198872,
+  "lat": 5.3620957,
+  "lon": -3.9950326,
+  "timestamp": "2015-03-18T22:02:53Z",
+  "version": 2,
+  "changeset": 29580962,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housenumber": "181",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue J36",
+    "addr:suburb": "Deux Plateaux",
+    "amenity": "university",
+    "building": "yes",
+    "name": "IPMC - College of Technology",
+    "office": "it",
+    "phone": "+225-04.87.65.66",
+    "website": "http://www.ipmctraining.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3536491427,
+  "lat": 5.2557335,
+  "lon": -3.9798412,
+  "timestamp": "2015-05-24T00:40:14Z",
+  "version": 2,
+  "changeset": 31409901,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Université Nord-Sud"
+  }
+},
+{
+  "type": "node",
+  "id": 3556430505,
+  "lat": 5.3474465,
+  "lon": -4.0572892,
+  "timestamp": "2016-03-08T11:31:13Z",
+  "version": 2,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "name": "GECOS FORMATION"
+  }
+},
+{
+  "type": "node",
+  "id": 4411477987,
+  "lat": 5.3576524,
+  "lon": -3.9662984,
+  "timestamp": "2016-11-05T15:43:09Z",
+  "version": 2,
+  "changeset": 43424234,
+  "user": "projet_carteinnov",
+  "uid": 4786719,
+  "tags": {
+    "addr:full": "Boulevard François Mitterrand, Rivera 3, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "info@ucasm.org",
+    "contact:phone": "+225 22476316",
+    "contact:website": "http://ucasm.org",
+    "description": "L'Université Canadienne offre en plus des formations continues et des certificats divers, des programmes de bachelor en administration des affaires, en droit, un programme de DESS en gestion de projet et un programme de MBA pour cadres.",
+    "name": "Université Canadienne des Arts, des Sciences et du Management",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UC-ASM",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-20",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1998"
+  }
+},
+{
+  "type": "node",
+  "id": 4411583886,
+  "lat": 5.3475404,
+  "lon": -3.9932453,
+  "timestamp": "2016-11-05T15:25:04Z",
+  "version": 2,
+  "changeset": 43423882,
+  "user": "projet_carteinnov",
+  "uid": 4786719,
+  "tags": {
+    "addr:full": "Non loin de l'Université Félix Houphouet Boigny, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "info@umeci.org.ci",
+    "contact:phone": "+225 22446668",
+    "contact:website": "http://umeci.org.ci",
+    "description": "L'UMECI forme les étudiants aux niveaux suivants: BTS, Licence Professionnelle et aussi des UFR Sciences juridique, UFR Sciences économique et de gestion, UFR lettre, langue et civilisation.",
+    "name": "Université Méthodiste de Côte d'Ivoire",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UMECI",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-20",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2006"
+  }
+},
+{
+  "type": "node",
+  "id": 4436461938,
+  "lat": 5.3443352,
+  "lon": -3.9870160,
+  "timestamp": "2016-11-06T10:09:31Z",
+  "version": 3,
+  "changeset": 43437743,
+  "user": "aurelien kouame",
+  "uid": 1730363,
+  "tags": {
+    "addr:full": "Boulevard de l'Université, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "courrier@univ-fhb.edu.ci",
+    "contact:facebook": "www.facebook.com/univfhb",
+    "contact:twitter": "http://twitter.com/univfhb",
+    "contact:website": "http://univ-fhb.edu.ci",
+    "description": "L'UFHB assure des missions d'enseignement et de recherche au sein de zeize (16) structures dont 13 unités de formation et de recherche (UFR) et 2 centres de recherche autonomes, une école de formation continue et des instituts.",
+    "name": "Université Felix Houphouet Boigny",
+    "operator": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UFHB",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-10-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1958"
+  }
+},
+{
+  "type": "node",
+  "id": 4459066851,
+  "lat": 5.3196799,
+  "lon": -4.1562116,
+  "timestamp": "2016-10-22T12:42:21Z",
+  "version": 2,
+  "changeset": 43080466,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "university",
+    "name": "Grand Seminaire Saint Paul d’Abadjin-Kouté"
+  }
+},
+{
+  "type": "way",
+  "id": 243412169,
+  "timestamp": "2016-03-08T11:29:46Z",
+  "version": 8,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3163273,
+    "lon": -4.1182000
+  },
+  "nodes": [
+    24271692,
+    1602536064,
+    2507603198,
+    2508265007,
+    2508265242,
+    1602536079,
+    2508265013,
+    2508265012,
+    2508265011,
+    2508265010,
+    2508265008,
+    2508265005,
+    2508265006,
+    1602536080,
+    2508265009,
+    24271658,
+    24271659,
+    24271661,
+    24271662,
+    24271664,
+    24271666,
+    2510105826,
+    24271674,
+    24271675,
+    2510105825,
+    2510105824,
+    2510105823,
+    2510105822,
+    2510105821,
+    24271692
+  ],
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "name": "Académie régionale des sciences et techniques de la mer (ARSTM)",
+    "source": "raw guess",
+    "url": "http://www.arstm.org",
+    "website": "http://www.arstm.org"
+  }
+},
+{
+  "type": "way",
+  "id": 171060498,
+  "timestamp": "2012-07-11T17:11:14Z",
+  "version": 2,
+  "changeset": 12188140,
+  "user": "Skiper",
+  "uid": 306409,
+  "center": {
+    "lat": 5.3585360,
+    "lon": -4.0777268
+  },
+  "nodes": [
+    1821604691,
+    1821604695,
+    1821604690,
+    1821604688,
+    1821604689,
+    1821604692,
+    1821604693,
+    1821604694,
+    1821604691
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Lycée professionnel commercial de Yopougon",
+    "source": "formation.gouv.ci"
+  }
+},
+{
+  "type": "way",
+  "id": 315643220,
+  "timestamp": "2016-03-08T11:30:50Z",
+  "version": 7,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3399648,
+    "lon": -3.9953798
+  },
+  "nodes": [
+    3217732866,
+    3326201365,
+    3217732862,
+    3217732865,
+    3217732864,
+    3217732866
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "building": "school",
+    "name": "Université Charles-Louis-de-Montesquieux"
+  }
+},
+{
+  "type": "way",
+  "id": 243448897,
+  "timestamp": "2016-03-05T09:26:17Z",
+  "version": 7,
+  "changeset": 37623725,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3613474,
+    "lon": -3.9971217
+  },
+  "nodes": [
+    2508537833,
+    2508537831,
+    2508537842,
+    2508537839,
+    2508537836,
+    2508537840,
+    2508537841,
+    2508537826,
+    2508537834,
+    2508537829,
+    3305468575,
+    3305468573,
+    3305468566,
+    3305467390,
+    2508537835,
+    2508537827,
+    2508537832,
+    2508537838,
+    3305467225,
+    2508537830,
+    3305466149,
+    4029236857,
+    3305466150,
+    3305466151,
+    2508537843,
+    2508537837,
+    2508537833
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housename": "l'École nationale d'administration (ENA)",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue J32",
+    "addr:suburb": "Deux Plateaux",
+    "amenity": "university",
+    "barrier": "fence",
+    "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "École nationale d'administration (ENA)",
+    "operator": "Ministère de la fonction publique et de l'emploi"
+  }
+},
+{
+  "type": "way",
+  "id": 229640215,
+  "timestamp": "2013-07-12T08:02:06Z",
+  "version": 1,
+  "changeset": 16922721,
+  "user": "desmanois",
+  "uid": 1634648,
+  "center": {
+    "lat": 5.3677270,
+    "lon": -4.0241195
+  },
+  "nodes": [
+    2382084671,
+    2382084672,
+    2382084673,
+    2382084674,
+    2382084671
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Cité Universitaire",
+    "operator": "Université"
+  }
+},
+{
+  "type": "way",
+  "id": 229641347,
+  "timestamp": "2013-07-12T08:31:51Z",
+  "version": 1,
+  "changeset": 16922988,
+  "user": "desmanois",
+  "uid": 1634648,
+  "center": {
+    "lat": 5.3669833,
+    "lon": -4.0241382
+  },
+  "nodes": [
+    2382097471,
+    2382097472,
+    2382097473,
+    2382097474,
+    2382097475,
+    2382097471
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Cite Universitaire",
+    "operator": "Universite"
+  }
+},
+{
+  "type": "way",
+  "id": 238216693,
+  "timestamp": "2017-03-22T09:43:00Z",
+  "version": 13,
+  "changeset": 47063120,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3891765,
+    "lon": -4.0149973
+  },
+  "nodes": [
+    3612974162,
+    3612974163,
+    3612974147,
+    3641080768,
+    3618205245,
+    3989012999,
+    3613052096,
+    3613052199,
+    3613052200,
+    3613052198,
+    3613052195,
+    3064115519,
+    3064115520,
+    3613049663,
+    2460643143,
+    3613049659,
+    3613049658,
+    3613049657,
+    3613049656,
+    3613049655,
+    3613049654,
+    3613049651,
+    3613049649,
+    3613049646,
+    3613049647,
+    3613049645,
+    3613049648,
+    3613049640,
+    3613049639,
+    1075869084,
+    3613049650,
+    3613049652,
+    3613049653,
+    3613049660,
+    3613052193,
+    3064115523,
+    3607455603,
+    3613052310,
+    3064115521,
+    3613052218,
+    3613052221,
+    3613052231,
+    3613052234,
+    3612974160,
+    3612974161,
+    2460643144,
+    3613045861,
+    3612974162
+  ],
+  "tags": {
+    "addr:city": "Abobo",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "alt_name": "Université d’Abobo-Adjamé",
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Université Nangui Abrogoua",
+    "note": "L'université Nangui Abrogoua est, avec l'université Félix Houphouët-Boigny, l'une des deux universités publiques d'Abidjan, la capitale économique de la Côte d'Ivoire. Son actuel président est le professeur Tano Yao et le vice-président est Laciné Couliba",
+    "source": "https://secure.wikimedia.org/wikipedia/fr/wiki/Universit%C3%A9_Nangui_Abrogoua",
+    "website": "http://www.univ-na.edu.ci/",
+    "wheelchair": "yes",
+    "wikidata": "Q3551460",
+    "wikipedia": "fr:Université Nangui Abrogoua"
+  }
+},
+{
+  "type": "way",
+  "id": 94849536,
+  "timestamp": "2015-02-13T21:43:29Z",
+  "version": 6,
+  "changeset": 28831065,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3271796,
+    "lon": -3.9437850
+  },
+  "nodes": [
+    1101274949,
+    1101275256,
+    3348266847,
+    3348265881,
+    3348697666,
+    1101274980,
+    3348265875,
+    1101275428,
+    1101274971,
+    3348267086,
+    1101274949
+  ],
+  "tags": {
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Faculté de théologie évangélique de l'alliance chrétienne (FATEAC)"
+  }
+}
+
+  ]
+}

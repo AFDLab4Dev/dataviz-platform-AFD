@@ -1,0 +1,525 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1661646889,
+  "lat": 18.4988389,
+  "lon": -69.8478950,
+  "timestamp": "2013-08-11T19:10:53Z",
+  "version": 4,
+  "changeset": 17307625,
+  "user": "Irvingh30",
+  "uid": 1711225,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Colmado Nieves"
+  }
+},
+{
+  "type": "node",
+  "id": 1851606326,
+  "lat": 18.4577946,
+  "lon": -69.9097263,
+  "timestamp": "2012-08-04T14:15:18Z",
+  "version": 1,
+  "changeset": 12609464,
+  "user": "fqueliz",
+  "uid": 234222,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Plaza Malecon Center"
+  }
+},
+{
+  "type": "node",
+  "id": 2386467070,
+  "lat": 18.4842619,
+  "lon": -69.9289788,
+  "timestamp": "2013-07-16T13:48:16Z",
+  "version": 1,
+  "changeset": 16975290,
+  "user": "Jose Espinal",
+  "uid": 1444971,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "INESPRE"
+  }
+},
+{
+  "type": "node",
+  "id": 3493437574,
+  "lat": 18.5549010,
+  "lon": -70.0391651,
+  "timestamp": "2015-05-02T16:48:19Z",
+  "version": 1,
+  "changeset": 30725994,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Parador Ejecutivo"
+  }
+},
+{
+  "type": "way",
+  "id": 411476137,
+  "timestamp": "2016-05-11T21:06:09Z",
+  "version": 2,
+  "changeset": 39252887,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4537108,
+    "lon": -69.9726818
+  },
+  "nodes": [
+    4131346343,
+    4131346344,
+    4131346345,
+    4131346346,
+    4131346347,
+    4131346348,
+    4131346349,
+    4131346350,
+    4131346343
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:housename": "Ferquido",
+    "addr:housenumber": "Avenida Luperon",
+    "addr:street": "Avenida Gregorio Luperón",
+    "amenity": "marketplace",
+    "area": "yes",
+    "building": "yes",
+    "name": "FERQUIDO",
+    "phone": "809-530-5598",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 412550192,
+  "timestamp": "2016-05-11T13:54:11Z",
+  "version": 2,
+  "changeset": 39242625,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4835443,
+    "lon": -69.9802463
+  },
+  "nodes": [
+    4139519405,
+    4139519406,
+    4139519407,
+    4139519408,
+    4139519405
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza Isabel",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 412554853,
+  "timestamp": "2016-05-11T13:54:07Z",
+  "version": 2,
+  "changeset": 39242625,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4839888,
+    "lon": -69.9818292
+  },
+  "nodes": [
+    4139562634,
+    4139562635,
+    4139562636,
+    4139562637,
+    4139562634
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza Caina",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 214171437,
+  "timestamp": "2016-05-11T13:54:10Z",
+  "version": 3,
+  "changeset": 39242625,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4757944,
+    "lon": -69.9711702
+  },
+  "nodes": [
+    2237669301,
+    2237669297,
+    2237669307,
+    2237669310,
+    2237669303,
+    2237669305,
+    2237669308,
+    2237669298,
+    2237669301
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza Isabel Aguiar",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 214171438,
+  "timestamp": "2016-05-11T13:54:12Z",
+  "version": 3,
+  "changeset": 39242625,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4752023,
+    "lon": -69.9711622
+  },
+  "nodes": [
+    2237669309,
+    2237669299,
+    2237669294,
+    2237669296,
+    2237669309
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza Lama",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 412505987,
+  "timestamp": "2016-05-11T13:54:14Z",
+  "version": 2,
+  "changeset": 39242625,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4764316,
+    "lon": -69.9724045
+  },
+  "nodes": [
+    4139163452,
+    4139163449,
+    4139163453,
+    4139163454,
+    4139163455,
+    4139163452
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza Pony",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 309620499,
+  "timestamp": "2016-05-11T14:43:42Z",
+  "version": 3,
+  "changeset": 39243879,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5668043,
+    "lon": -70.0227129
+  },
+  "nodes": [
+    3149552443,
+    3149552444,
+    3149552445,
+    3149552446,
+    3149552447,
+    3149552448,
+    3149552443
+  ],
+  "tags": {
+    "addr:city": "Pedro Brand",
+    "addr:street": "Carretera a Merca Santo Domingo",
+    "amenity": "marketplace",
+    "name": "Merca Santo Domingo",
+    "operator": "Promefrim",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 371199517,
+  "timestamp": "2015-09-17T14:40:54Z",
+  "version": 1,
+  "changeset": 34085438,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4843231,
+    "lon": -69.8902081
+  },
+  "nodes": [
+    3747885539,
+    3747885540,
+    3747885541,
+    3747885542,
+    3747885543,
+    3747885544,
+    3747885545,
+    3747885546,
+    3747885547,
+    3747885548,
+    3747885549,
+    3747885550,
+    3747885551,
+    3747885552,
+    3747885539
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371199516,
+  "timestamp": "2015-09-17T14:40:54Z",
+  "version": 1,
+  "changeset": 34085438,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4840524,
+    "lon": -69.8905966
+  },
+  "nodes": [
+    3747885525,
+    3747885526,
+    3747885527,
+    3747885528,
+    3747885529,
+    3747885530,
+    3747885531,
+    3747885532,
+    3747885533,
+    3747885534,
+    3747885535,
+    3747885536,
+    3747885537,
+    3747885538,
+    3747885525
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 371199518,
+  "timestamp": "2017-03-08T03:03:52Z",
+  "version": 2,
+  "changeset": 46669083,
+  "user": "Abel Paulino",
+  "uid": 5447741,
+  "center": {
+    "lat": 18.4839646,
+    "lon": -69.8902529
+  },
+  "nodes": [
+    3747885553,
+    3747885554,
+    3747885555,
+    3747885556,
+    3747885553
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Plaza de buhoneros Josè Martí",
+    "name:es": "Plaza de buhoneros Josè Martí"
+  }
+},
+{
+  "type": "way",
+  "id": 305181834,
+  "timestamp": "2014-09-26T19:14:04Z",
+  "version": 1,
+  "changeset": 25693302,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4874021,
+    "lon": -69.8985738
+  },
+  "nodes": [
+    3097642847,
+    3097642848,
+    3097642849,
+    3097642850,
+    3097642847
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Mercado Villa Consuelo"
+  }
+},
+{
+  "type": "way",
+  "id": 196942859,
+  "timestamp": "2012-12-18T00:54:55Z",
+  "version": 1,
+  "changeset": 14313321,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.5007833,
+    "lon": -69.9258004
+  },
+  "nodes": [
+    2072382770,
+    2072382769,
+    2072382771,
+    2072382772,
+    2072382770
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mercado Cristo Rey"
+  }
+},
+{
+  "type": "way",
+  "id": 347617635,
+  "timestamp": "2016-05-10T22:24:24Z",
+  "version": 5,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5042268,
+    "lon": -69.8923958
+  },
+  "nodes": [
+    3538562698,
+    3579647886,
+    3538562699,
+    3538562700,
+    3538562701,
+    3538562698
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mercado Quita y pon",
+    "name_1": "Mercado Calle 10",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 224105026,
+  "timestamp": "2015-03-12T14:56:28Z",
+  "version": 2,
+  "changeset": 29428067,
+  "user": "osplace",
+  "uid": 1303553,
+  "center": {
+    "lat": 18.5033218,
+    "lon": -69.8654585
+  },
+  "nodes": [
+    2329370088,
+    2329370086,
+    2329370084,
+    2329370089,
+    2329370085,
+    2329370087,
+    2329370090,
+    2329370088
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mercado de Los Mina"
+  }
+},
+{
+  "type": "way",
+  "id": 408644548,
+  "timestamp": "2016-05-10T22:24:23Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5297490,
+    "lon": -69.9056771
+  },
+  "nodes": [
+    4105421545,
+    4105421546,
+    4105421547,
+    4105421548,
+    4105421545
+  ],
+  "tags": {
+    "addr:street": "Avenida Penetración",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Mercadito Wendy",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 344112802,
+  "timestamp": "2017-02-21T05:43:32Z",
+  "version": 5,
+  "changeset": 46263815,
+  "user": "Shaun Austin",
+  "uid": 4803525,
+  "center": {
+    "lat": 18.5321068,
+    "lon": -69.8148676
+  },
+  "nodes": [
+    3506296003,
+    3508696882,
+    3508696883,
+    3508696884,
+    3508696885,
+    3506296004,
+    3506296003
+  ],
+  "tags": {
+    "addr:street": "Avenida La Pista",
+    "amenity": "marketplace",
+    "name": "Mercado El Almirante, Los Productores",
+    "name:es": "Mercado Municipal El Almirante, Los Productores"
+  }
+}
+
+  ]
+}

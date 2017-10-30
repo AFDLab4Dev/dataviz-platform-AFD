@@ -1,0 +1,111 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 72065966,
+  "timestamp": "2016-02-24T10:28:11Z",
+  "version": 4,
+  "changeset": 37409087,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 6.8203697,
+    "lon": -5.2770894
+  },
+  "nodes": [
+    856723981,
+    856725691,
+    856724126,
+    856723196,
+    856723981
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de l'Habitat"
+  }
+},
+{
+  "type": "way",
+  "id": 399614113,
+  "timestamp": "2016-02-24T10:28:11Z",
+  "version": 2,
+  "changeset": 37409087,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 6.8218401,
+    "lon": -5.2775374
+  },
+  "nodes": [
+    4023318919,
+    4023318926,
+    4023318925,
+    4023318923,
+    4023318919
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Kossou"
+  }
+},
+{
+  "type": "way",
+  "id": 454387695,
+  "timestamp": "2016-11-18T22:55:34Z",
+  "version": 1,
+  "changeset": 43782718,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 6.8127828,
+    "lon": -5.2634362
+  },
+  "nodes": [
+    3556436436,
+    3556436457,
+    3556436486,
+    3556436500,
+    3556436514,
+    3556436533,
+    3556436536,
+    3556436556,
+    3556436559,
+    3556436577,
+    3556436584,
+    3556436604,
+    3556436592,
+    3556436589,
+    3556436555,
+    3556436508,
+    3556436491,
+    3556436485,
+    3556436453,
+    3556436447,
+    3556436428,
+    3556436418,
+    3556436400,
+    3556436365,
+    3556436353,
+    3556436345,
+    4509389289,
+    3556436297,
+    3556436293,
+    3556436420,
+    3556436436
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+}
+
+  ]
+}

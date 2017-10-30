@@ -1,0 +1,118 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/7115627",
+  "properties": {
+    "timestamp": "2017-03-28T14:20:31Z",
+    "version": 1,
+    "changeset": 47231294,
+    "user": "Aurimas Fišeras",
+    "uid": 651869,
+    "amenity": "hospital",
+    "name": "CHU Tambohobe",
+    "note": "CHU",
+    "type": "multipolygon",
+    "id": "relation/7115627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0860273,
+      -21.4446371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3689722151",
+  "properties": {
+    "timestamp": "2015-09-15T04:52:21Z",
+    "version": 3,
+    "changeset": 34033103,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "hospital",
+    "name": "CDS",
+    "operator": "EKAR",
+    "id": "node/3689722151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0847588,
+      -21.4496069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3689722153",
+  "properties": {
+    "timestamp": "2016-01-24T11:38:21Z",
+    "version": 3,
+    "changeset": 36774216,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "hospital",
+    "name": "SALFA",
+    "operator": "FLM",
+    "source": "Bing",
+    "id": "node/3689722153"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0932267,
+      -21.4514126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3713925175",
+  "properties": {
+    "timestamp": "2015-09-20T06:24:05Z",
+    "version": 2,
+    "changeset": 34133671,
+    "user": "user_5359",
+    "uid": 5359,
+    "amenity": "hospital",
+    "name": "Hôpital Universitaire Andrainjato",
+    "source": "Bing",
+    "id": "node/3713925175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1099383,
+      -21.4618694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3997287446",
+  "properties": {
+    "timestamp": "2016-02-09T11:45:35Z",
+    "version": 1,
+    "changeset": 37099552,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "hospital",
+    "name": "CDS Ambalakilonga",
+    "operator": "EKAR",
+    "source": "Bing",
+    "id": "node/3997287446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.1240654,
+      -21.4190855
+    ]
+  }
+}
+]
+}

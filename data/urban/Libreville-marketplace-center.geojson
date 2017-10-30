@@ -1,0 +1,70 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/174085435",
+  "properties": {
+    "timestamp": "2015-01-04T15:32:00Z",
+    "version": 2,
+    "changeset": 27912370,
+    "user": "msdess",
+    "uid": 593205,
+    "amenity": "marketplace",
+    "name": "Village Artisanal",
+    "shop": "gift",
+    "id": "way/174085435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.446569,
+      0.3868617
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/270078850",
+  "properties": {
+    "timestamp": "2014-03-29T11:59:40Z",
+    "version": 1,
+    "changeset": 21381661,
+    "user": "yaho",
+    "uid": 385987,
+    "amenity": "marketplace",
+    "name": "N'kembo Market",
+    "id": "way/270078850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.454796,
+      0.4118577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/272049512",
+  "properties": {
+    "timestamp": "2014-04-05T14:44:07Z",
+    "version": 1,
+    "changeset": 21515196,
+    "user": "fetch_1999",
+    "uid": 2006479,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Village Artisanal mini",
+    "id": "way/272049512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4467089,
+      0.3855745
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,304 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2136139092,
+  "lat": 11.1730187,
+  "lon": -4.2810853,
+  "timestamp": "2015-11-07T15:04:41Z",
+  "version": 3,
+  "changeset": 35151176,
+  "user": "wheelmap_visitor",
+  "uid": 290680,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité Guimbi Ouattara",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2897440871,
+  "lat": 11.1770129,
+  "lon": -4.3190594,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 3,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Colsama"
+  }
+},
+{
+  "type": "node",
+  "id": 3447272008,
+  "lat": 11.2011627,
+  "lon": -4.3089736,
+  "timestamp": "2015-09-11T20:47:38Z",
+  "version": 2,
+  "changeset": 33969347,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire Islamique",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3459759166,
+  "lat": 11.1885806,
+  "lon": -4.3109165,
+  "timestamp": "2016-06-10T19:00:42Z",
+  "version": 2,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "field_hospital",
+    "name": "CSPS ACCART-VILLE",
+    "operator:type": "public",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3631358131,
+  "lat": 11.1581626,
+  "lon": -4.2533894,
+  "timestamp": "2015-07-02T11:55:52Z",
+  "version": 1,
+  "changeset": 32352663,
+  "user": "Pooda Sié Hermann",
+  "uid": 3026168,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Saint Joseph"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296808,
+  "lat": 11.1609147,
+  "lon": -4.2903286,
+  "timestamp": "2016-06-10T19:00:40Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Bolomakoté"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296809,
+  "lat": 11.1522600,
+  "lon": -4.3236884,
+  "timestamp": "2016-06-10T19:00:40Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Lafiabougou"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296810,
+  "lat": 11.1733969,
+  "lon": -4.3655568,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Belle Ville"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296812,
+  "lat": 11.2149662,
+  "lon": -4.2968418,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Colma"
+  }
+},
+{
+  "type": "node",
+  "id": 4236296813,
+  "lat": 11.2095424,
+  "lon": -4.2874118,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Sakaby"
+  }
+},
+{
+  "type": "way",
+  "id": 342937156,
+  "timestamp": "2015-05-05T10:34:18Z",
+  "version": 1,
+  "changeset": 30802144,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 11.1704942,
+    "lon": -4.3012550
+  },
+  "nodes": [
+    3498833071,
+    3498833067,
+    3498833069,
+    3498833070,
+    3498833066,
+    3498833068,
+    3498833071
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "emergency": "yes",
+    "name": "Hôpital Sanousouro"
+  }
+},
+{
+  "type": "way",
+  "id": 343160686,
+  "timestamp": "2015-09-11T20:47:36Z",
+  "version": 2,
+  "changeset": 33969347,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.2024861,
+    "lon": -4.3198260
+  },
+  "nodes": [
+    3500544668,
+    3500544690,
+    3500544673,
+    3500545593,
+    3500544674,
+    3500544663,
+    3500544672,
+    3500545602,
+    3500544685,
+    3500544668
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Médical avec Antenne chirurgicale du sect22",
+    "short_name": "CMA du 22"
+  }
+},
+{
+  "type": "way",
+  "id": 358441576,
+  "timestamp": "2015-07-03T22:47:37Z",
+  "version": 1,
+  "changeset": 32400413,
+  "user": "JOCK7",
+  "uid": 3025735,
+  "center": {
+    "lat": 11.2049345,
+    "lon": -4.3024823
+  },
+  "nodes": [
+    3633583482,
+    3633583481,
+    3633583479,
+    3633583480,
+    3633583482
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Siloe",
+    "operator": "Eglise des Assemblées de Dieu de Colma"
+  }
+},
+{
+  "type": "way",
+  "id": 424160016,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "center": {
+    "lat": 11.1603132,
+    "lon": -4.2693372
+  },
+  "nodes": [
+    4236295387,
+    4236295388,
+    4236296789,
+    4236296790,
+    4236296791,
+    4236295387
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Sarfalao"
+  }
+},
+{
+  "type": "way",
+  "id": 424160018,
+  "timestamp": "2016-06-10T19:00:41Z",
+  "version": 1,
+  "changeset": 39938262,
+  "user": "Do Edmond",
+  "uid": 3768332,
+  "center": {
+    "lat": 11.1734637,
+    "lon": -4.2483110
+  },
+  "nodes": [
+    4236296800,
+    4236296801,
+    4236296802,
+    4236296803,
+    4236296804,
+    4236296805,
+    4236296800
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CSPS de Kua"
+  }
+}
+
+  ]
+}

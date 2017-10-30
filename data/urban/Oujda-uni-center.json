@@ -1,0 +1,212 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 251532785,
+  "timestamp": "2014-10-03T15:05:07Z",
+  "version": 2,
+  "changeset": 25833762,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 34.6584698,
+    "lon": -1.9106320
+  },
+  "nodes": [
+    2577415516,
+    2577415518,
+    3109468170,
+    2577415515,
+    3109468169,
+    2577415522,
+    2577415516
+  ],
+  "tags": {
+    "amenity": "university",
+    "area": "yes",
+    "contact:website": "http://www.ump.ma/",
+    "name": "Université Mohammed Premier Oujda - Faculté de Médecine et de Pharmacie",
+    "name:fr": "Université Mohammed Premier Oujda - Faculté de Médecine et de Pharmacie"
+  }
+},
+{
+  "type": "way",
+  "id": 326554025,
+  "timestamp": "2015-02-05T16:32:10Z",
+  "version": 1,
+  "changeset": 28633814,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6529310,
+    "lon": -1.9024865
+  },
+  "nodes": [
+    3332196224,
+    2965762232,
+    2965762231,
+    3332196222,
+    2965762253,
+    3332196228,
+    3332196226,
+    3332196223,
+    3332196224
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté Des Sciences Juridiques, Economiques et Sociales"
+  }
+},
+{
+  "type": "way",
+  "id": 293020624,
+  "timestamp": "2015-06-24T13:00:03Z",
+  "version": 8,
+  "changeset": 32182983,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6518334,
+    "lon": -1.9034570
+  },
+  "nodes": [
+    2965762243,
+    2965762242,
+    3615167233,
+    3615165855,
+    3615165854,
+    3615165853,
+    3615165852,
+    3109475644,
+    3615165851,
+    3615165850,
+    3109475640,
+    2965762233,
+    2965762232,
+    2965762231,
+    3332196222,
+    2965762253,
+    3332196228,
+    2965762254,
+    2965762255,
+    2965762256,
+    3332196225,
+    3332196227,
+    2965762257,
+    2965762258,
+    3330946342,
+    3330944271,
+    3330944972,
+    2965762259,
+    2965762260,
+    2965762252,
+    2965762251,
+    2965762250,
+    2965762249,
+    2965762248,
+    2965762247,
+    2965762246,
+    2965762245,
+    2965762244,
+    2965762243
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université Mohammed Premier"
+  }
+},
+{
+  "type": "way",
+  "id": 326554023,
+  "timestamp": "2015-02-05T16:32:09Z",
+  "version": 1,
+  "changeset": 28633814,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6485961,
+    "lon": -1.8947254
+  },
+  "nodes": [
+    3332196221,
+    2965762258,
+    2965762257,
+    3332196227,
+    3332196225,
+    2965762256,
+    3332196229,
+    3332196221
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ISTA Sidi Maafa"
+  }
+},
+{
+  "type": "way",
+  "id": 383615249,
+  "timestamp": "2016-10-06T14:05:04Z",
+  "version": 4,
+  "changeset": 42685547,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7679691,
+    "lon": -1.9458702
+  },
+  "nodes": [
+    3869101884,
+    3869101885,
+    3869101886,
+    3869101887,
+    3869101889,
+    3869101888,
+    4434388180,
+    4434388179,
+    3869101884
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Campus Du Savoir",
+    "website": "http://www.ump.ma/?page_id=1090"
+  }
+},
+{
+  "type": "way",
+  "id": 294491988,
+  "timestamp": "2016-01-22T20:08:42Z",
+  "version": 5,
+  "changeset": 36747180,
+  "user": "Yazid Ringo",
+  "uid": 2554696,
+  "center": {
+    "lat": 34.6945113,
+    "lon": -1.8798440
+  },
+  "nodes": [
+    2980876018,
+    2980876019,
+    3263636667,
+    3263636699,
+    2980876020,
+    3264101102,
+    2980876021,
+    2980876018
+  ],
+  "tags": {
+    "amenity": "university",
+    "area": "yes",
+    "name": "المعهد المتخصص للتكنولوجيا التطبيقية العونية",
+    "name:fr": "Institut Spécialisé de Technologie Appliquée (ISTA) El Aounia"
+  }
+}
+
+  ]
+}

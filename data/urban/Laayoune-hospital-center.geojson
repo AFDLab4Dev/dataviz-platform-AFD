@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/311290860",
+  "properties": {
+    "timestamp": "2015-04-13T14:15:37Z",
+    "version": 3,
+    "changeset": 30188782,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "id": "way/311290860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1892818,
+      27.1566843
+    ]
+  }
+}
+]
+}

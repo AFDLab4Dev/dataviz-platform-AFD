@@ -1,0 +1,303 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:44:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3537301588,
+  "lat": 6.1646274,
+  "lon": 1.2145105,
+  "timestamp": "2016-11-08T12:00:44Z",
+  "version": 6,
+  "changeset": 43485494,
+  "user": "projet_carteinnov",
+  "uid": 4786719,
+  "tags": {
+    "addr:full": "Doumassessé, Lomé, Togo",
+    "amenity": "university",
+    "contact:phone": "+228 22514419",
+    "description": "IAET est une école supérieure spécialisée dans la formation des TIC",
+    "name": "Institut Africain d’Administration et d’Etudes Technologiques",
+    "operator": "BK Université",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "IAET",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-23",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1986"
+  }
+},
+{
+  "type": "node",
+  "id": 3767548830,
+  "lat": 6.1710179,
+  "lon": 1.2150047,
+  "timestamp": "2015-10-01T16:45:49Z",
+  "version": 1,
+  "changeset": 34372348,
+  "user": "ilasolthah",
+  "uid": 1857950,
+  "tags": {
+    "amenity": "university",
+    "name": "Université de Lomé"
+  }
+},
+{
+  "type": "node",
+  "id": 3779983557,
+  "lat": 6.1332602,
+  "lon": 1.2158516,
+  "timestamp": "2015-10-09T19:28:16Z",
+  "version": 1,
+  "changeset": 34537028,
+  "user": "P'tit g",
+  "uid": 462223,
+  "tags": {
+    "amenity": "university",
+    "name": "langcenter international"
+  }
+},
+{
+  "type": "node",
+  "id": 3860728666,
+  "lat": 6.1913859,
+  "lon": 1.2514832,
+  "timestamp": "2015-11-26T13:01:55Z",
+  "version": 1,
+  "changeset": 35590488,
+  "user": "Richard Folly",
+  "uid": 1218199,
+  "tags": {
+    "amenity": "university",
+    "name": "DEFITECH II CAMPUS AWOUDJA"
+  }
+},
+{
+  "type": "node",
+  "id": 4405257894,
+  "lat": 6.2087622,
+  "lon": 1.1899510,
+  "timestamp": "2016-11-08T13:46:54Z",
+  "version": 5,
+  "changeset": 43487521,
+  "user": "projet_carteinnov",
+  "uid": 4786719,
+  "tags": {
+    "addr:full": "01 BP 3518, Agoè Anomé, Lomé, Togo",
+    "amenity": "university",
+    "contact:email": "esiba-iua@esiba-iua.tg",
+    "contact:phone": "+228 22511787;+228 90814178",
+    "contact:website": "www.rsiba-iua.tg",
+    "description": "Etablissement d'enseignement supérieur (licences professionnelles, master)",
+    "name": "Business School Institut Supérieur",
+    "office": "ngo",
+    "operator": "KUEVIAKOE ASSIONGBON Vovomé",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "ESIBA",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-16",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1990"
+  }
+},
+{
+  "type": "node",
+  "id": 4620831287,
+  "lat": 6.1700116,
+  "lon": 1.2123510,
+  "timestamp": "2017-01-20T15:24:45Z",
+  "version": 1,
+  "changeset": 45329154,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "university",
+    "disused": "no",
+    "name": "Institut Confucius",
+    "operator:type": "private",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4621166438,
+  "lat": 6.1776567,
+  "lon": 1.2130237,
+  "timestamp": "2017-01-20T19:44:20Z",
+  "version": 2,
+  "changeset": 45335679,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "university",
+    "name": "École Supérieure de Technologie Biologique et Alimentaire",
+    "operator:type": "public",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4621166439,
+  "lat": 6.1773543,
+  "lon": 1.2124268,
+  "timestamp": "2017-01-20T19:44:20Z",
+  "version": 2,
+  "changeset": 45335679,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "university",
+    "name": "École des Assistants Médicaux",
+    "short_name": "EAM",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4621192540,
+  "lat": 6.1771101,
+  "lon": 1.2130138,
+  "timestamp": "2017-01-20T19:44:17Z",
+  "version": 1,
+  "changeset": 45335679,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "university",
+    "disused": "no",
+    "name": "Faculté des Sciences de la Santé",
+    "operator:type": "public",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "way",
+  "id": 339716095,
+  "timestamp": "2015-11-12T17:12:04Z",
+  "version": 3,
+  "changeset": 35265296,
+  "user": "sev_osm",
+  "uid": 219668,
+  "center": {
+    "lat": 6.1595273,
+    "lon": 1.2201749
+  },
+  "nodes": [
+    3469211676,
+    3469211677,
+    3469211673,
+    3469211671,
+    3469211676
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Université Adonai",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 235835174,
+  "timestamp": "2016-10-10T16:30:56Z",
+  "version": 4,
+  "changeset": 42780862,
+  "user": "Verdy_p",
+  "uid": 90780,
+  "center": {
+    "lat": 6.1697086,
+    "lon": 1.2184031
+  },
+  "nodes": [
+    2439121092,
+    3807044753,
+    3807030694,
+    3807046706,
+    3807030718,
+    3807030715,
+    3807047269,
+    3807047360,
+    3807047367,
+    3807047378,
+    3807045542,
+    3807047465,
+    3807047478,
+    3807047483,
+    3807047485,
+    3807045551,
+    2439121092
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Cirel du Village du Bénin"
+  }
+},
+{
+  "type": "way",
+  "id": 478527871,
+  "timestamp": "2017-03-05T00:44:45Z",
+  "version": 1,
+  "changeset": 46585347,
+  "user": "Wim L",
+  "uid": 223681,
+  "center": {
+    "lat": 6.2308095,
+    "lon": 1.1016878
+  },
+  "nodes": [
+    4717549216,
+    4717549215,
+    4717549214,
+    4717549213,
+    4717549216
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UCAO-UUT",
+    "operator": "Université Catholique de l’Afrique de l’Ouest"
+  }
+},
+{
+  "type": "way",
+  "id": 307894650,
+  "timestamp": "2017-04-01T18:42:54Z",
+  "version": 2,
+  "changeset": 47364163,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.1474659,
+    "lon": 1.2672670
+  },
+  "nodes": [
+    3131215656,
+    3131215655,
+    3131215657,
+    3131215654,
+    3131215656
+  ],
+  "tags": {
+    "addr:city": "Akodessewa - Port (Lomé)",
+    "addr:housename": "ISPSH",
+    "addr:postcode": "9141",
+    "addr:street": "Avenue Mobutu Sese Seko",
+    "alt_name": "Institut Supérieur de Philosophie et de Sciences Humaines \"Don Bosco\"",
+    "amenity": "university",
+    "fixme": "is it really Don Bosco area or the plot next to the north?",
+    "int_name": "ISPSH Don Bosco",
+    "name": "ISPSH Don Bosco",
+    "source": "GPS"
+  }
+}
+
+  ]
+}

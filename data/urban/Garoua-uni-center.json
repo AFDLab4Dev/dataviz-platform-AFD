@@ -1,0 +1,37 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 307484459,
+  "timestamp": "2014-10-13T06:24:53Z",
+  "version": 2,
+  "changeset": 26040314,
+  "user": "Habdoul",
+  "uid": 1800149,
+  "center": {
+    "lat": 9.3597761,
+    "lon": 13.3849548
+  },
+  "nodes": [
+    3126542506,
+    3126542507,
+    3126542508,
+    3126542509,
+    3126542506
+  ],
+  "tags": {
+    "addr:city": "Garoua",
+    "amenity": "university",
+    "name": "Institut Superieur Yerima Dewa"
+  }
+}
+
+  ]
+}

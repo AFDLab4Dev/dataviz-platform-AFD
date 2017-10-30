@@ -1,0 +1,130 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/457969329",
+  "properties": {
+    "timestamp": "2016-12-11T10:32:39Z",
+    "version": 3,
+    "changeset": 44319481,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hôpital Hassan 2",
+    "id": "way/457969329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.612642,
+      32.9929474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/458067627",
+  "properties": {
+    "timestamp": "2016-12-06T12:08:36Z",
+    "version": 2,
+    "changeset": 44207714,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "hospital",
+    "name": "Disponsaire Smaâla",
+    "id": "way/458067627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.622462,
+      32.9994945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/458238398",
+  "properties": {
+    "timestamp": "2016-12-07T08:56:02Z",
+    "version": 1,
+    "changeset": 44229644,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "hospital",
+    "name": "Dispensaire ElKheir",
+    "id": "way/458238398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6080169,
+      32.9888331
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/461876205",
+  "properties": {
+    "timestamp": "2016-12-26T12:17:49Z",
+    "version": 1,
+    "changeset": 44681163,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "hospital",
+    "id": "way/461876205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6079152,
+      33.0078532
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4540974861",
+  "properties": {
+    "timestamp": "2016-12-06T10:23:33Z",
+    "version": 1,
+    "changeset": 44205328,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "hospital",
+    "name": "مستوصف ميمونة",
+    "id": "node/4540974861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6260116,
+      33.0027835
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4542033085",
+  "properties": {
+    "timestamp": "2016-12-06T21:39:06Z",
+    "version": 1,
+    "changeset": 44220645,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "hospital",
+    "name": "Al Azzouzi",
+    "id": "node/4542033085"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6187673,
+      32.9980669
+    ]
+  }
+}
+]
+}

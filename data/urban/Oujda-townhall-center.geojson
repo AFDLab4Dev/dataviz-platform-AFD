@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/306080865",
+  "properties": {
+    "timestamp": "2015-01-19T10:46:43Z",
+    "version": 3,
+    "changeset": 28249577,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "townhall",
+    "name": "Siège de la Commune Urbaine Oujda",
+    "name:fr": "Siège de la Commune Urbaine Oujda",
+    "id": "way/306080865"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9150609,
+      34.6836147
+    ]
+  }
+}
+]
+}

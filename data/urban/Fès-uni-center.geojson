@@ -1,0 +1,150 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/72852389",
+  "properties": {
+    "timestamp": "2014-09-05T15:34:16Z",
+    "version": 4,
+    "changeset": 25250997,
+    "user": "kamal fmpf",
+    "uid": 2313919,
+    "addr:city": "Fès فاس",
+    "addr:postcode": "30000",
+    "addr:street": "Km 2.200 Route de sidi hrazem",
+    "amenity": "university",
+    "area": "yes",
+    "name": "Faculté de Medecine et de Pharmacie de Fès",
+    "id": "way/72852389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9636028,
+      34.0066545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/95233220",
+  "properties": {
+    "timestamp": "2011-01-15T16:10:55Z",
+    "version": 1,
+    "changeset": 6978699,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "university",
+    "name": "Université Sidi Mohammed Ben Abdellah",
+    "id": "way/95233220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9805136,
+      34.0330668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/167605627",
+  "properties": {
+    "timestamp": "2016-02-16T15:20:29Z",
+    "version": 2,
+    "changeset": 37247905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:housename": "ISMOTICA",
+    "addr:postcode": "30000",
+    "addr:street": "ZONE FES-SHORE",
+    "amenity": "university",
+    "building": "school",
+    "designation": "INSTITUT SPECIALISE DANS LES METIERS DE L'OFFSHORING DES TIC ET L'AUDIOVISUEL",
+    "name": "Ismotica",
+    "id": "way/167605627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9573098,
+      34.0049334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292591097",
+  "properties": {
+    "timestamp": "2015-08-16T07:07:43Z",
+    "version": 8,
+    "changeset": 33363730,
+    "user": "Jotam",
+    "uid": 768145,
+    "addr:city": "Fès فاس",
+    "addr:housename": "Faculté des Lettres et des Sciences humaines - Saïs - Fès",
+    "addr:pobox": "BP 59",
+    "addr:postcode": "30000",
+    "addr:street": "Route Immouzer",
+    "amenity": "university",
+    "area": "yes",
+    "designation": "university",
+    "name": "Faculté des Lettres et des Sciences humaines - Saïs - Fès",
+    "name:ar": "كلية الآداب والعلوم الإنسانية سايس – فاس",
+    "website": "http://www.fls-usmba.ac.ma/",
+    "wikipedia": "fr:Université Sidi Mohamed Ben Abdellah",
+    "id": "way/292591097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9878092,
+      33.9902836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/330553945",
+  "properties": {
+    "timestamp": "2015-04-06T16:29:45Z",
+    "version": 2,
+    "changeset": 30019800,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Cité Universitaire",
+    "id": "way/330553945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9902516,
+      33.9896238
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4592138828",
+  "properties": {
+    "timestamp": "2017-01-06T07:39:29Z",
+    "version": 1,
+    "changeset": 44945868,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "ENCG",
+    "id": "node/4592138828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.002645,
+      34.0465012
+    ]
+  }
+}
+]
+}

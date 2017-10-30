@@ -1,0 +1,596 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/152610307",
+  "properties": {
+    "timestamp": "2012-03-01T10:09:46Z",
+    "version": 1,
+    "changeset": 10836057,
+    "user": "Esperanza36",
+    "uid": 83557,
+    "amenity": "hospital",
+    "name": "CHU Ibn Sina (Souissi)",
+    "id": "way/152610307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8511169,
+      33.9834808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152610310",
+  "properties": {
+    "timestamp": "2013-02-12T01:08:41Z",
+    "version": 2,
+    "changeset": 15001368,
+    "user": "Mohamed Ben Osmane",
+    "uid": 1226306,
+    "amenity": "hospital",
+    "name": "Hopital militaire d'instruction Mohammed V",
+    "id": "way/152610310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8703074,
+      33.9697303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/176276373",
+  "properties": {
+    "timestamp": "2012-08-16T05:37:45Z",
+    "version": 1,
+    "changeset": 12746463,
+    "user": "BELATAR",
+    "uid": 498538,
+    "amenity": "hospital",
+    "emergency": "no",
+    "id": "way/176276373"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7462419,
+      33.997628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221101263",
+  "properties": {
+    "timestamp": "2013-05-12T18:43:42Z",
+    "version": 1,
+    "changeset": 16100619,
+    "user": "karaytanto",
+    "uid": 905180,
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre de santé",
+    "id": "way/221101263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7972527,
+      34.0457237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250293101",
+  "properties": {
+    "timestamp": "2013-12-06T11:50:47Z",
+    "version": 1,
+    "changeset": 19304830,
+    "user": "ennabbadi reda",
+    "uid": 1644161,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Nouveau Hopital My Abdellah",
+    "id": "way/250293101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7536171,
+      34.0261906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250293879",
+  "properties": {
+    "timestamp": "2016-04-01T14:40:25Z",
+    "version": 2,
+    "changeset": 38227699,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital d'El Karia",
+    "id": "way/250293879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.766881,
+      34.0232931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/278585583",
+  "properties": {
+    "timestamp": "2016-02-01T21:05:13Z",
+    "version": 3,
+    "changeset": 36945804,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "La capitale",
+    "id": "way/278585583"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8281984,
+      34.0167546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/289025339",
+  "properties": {
+    "timestamp": "2014-06-21T10:31:45Z",
+    "version": 1,
+    "changeset": 23059190,
+    "user": "abde01",
+    "uid": 702180,
+    "amenity": "hospital",
+    "name": "Hôpital Cheikh Zaid",
+    "id": "way/289025339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8696998,
+      33.9774971
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/395408474",
+  "properties": {
+    "timestamp": "2017-03-25T22:00:25Z",
+    "version": 2,
+    "changeset": 47163670,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique El Amal",
+    "id": "way/395408474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8226153,
+      34.0130329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/414130094",
+  "properties": {
+    "timestamp": "2015-08-17T13:23:37Z",
+    "version": 2,
+    "changeset": 33390629,
+    "user": "Avenger007",
+    "uid": 3155831,
+    "addr:street": "Avenue Ibn Sina",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinique Agdal",
+    "id": "node/414130094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8510957,
+      33.995735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/414132094",
+  "properties": {
+    "timestamp": "2017-03-25T22:00:24Z",
+    "version": 3,
+    "changeset": 47163670,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Clinique des Nations Unies",
+    "id": "node/414132094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.848904,
+      33.9894639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482745706",
+  "properties": {
+    "timestamp": "2017-03-25T22:00:18Z",
+    "version": 1,
+    "changeset": 47163670,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "id": "way/482745706"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8490542,
+      33.9893333
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1824603678",
+  "properties": {
+    "timestamp": "2012-07-13T18:23:08Z",
+    "version": 1,
+    "changeset": 12208959,
+    "user": "chefchaouni",
+    "uid": 731917,
+    "amenity": "hospital",
+    "designation": "Specialized hospital Head and neck",
+    "emergency": "yes",
+    "name": "Hopital Des Spécialités / HCU Ibn Sina",
+    "id": "node/1824603678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8579501,
+      33.981993
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1824603685",
+  "properties": {
+    "timestamp": "2012-07-13T18:23:08Z",
+    "version": 1,
+    "changeset": 12208959,
+    "user": "chefchaouni",
+    "uid": 731917,
+    "amenity": "hospital",
+    "designation": "Gynecology & obstetrics hospital",
+    "emergency": "yes",
+    "name": "Maternite du Souissi / CHU Ibn SIna",
+    "id": "node/1824603685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8553644,
+      33.9870994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1824603903",
+  "properties": {
+    "timestamp": "2012-07-13T18:23:13Z",
+    "version": 1,
+    "changeset": 12208959,
+    "user": "chefchaouni",
+    "uid": 731917,
+    "amenity": "hospital",
+    "designation": "Ibn sina General hospital for adults",
+    "emergency": "yes",
+    "name": "Hopital Ibn Sina /CHU Ibn SIna",
+    "id": "node/1824603903"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8504077,
+      33.9838968
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1824603916",
+  "properties": {
+    "timestamp": "2012-07-13T18:23:13Z",
+    "version": 1,
+    "changeset": 12208959,
+    "user": "chefchaouni",
+    "uid": 731917,
+    "amenity": "hospital",
+    "designation": "Pediatric hospital",
+    "emergency": "yes",
+    "name": "Hopital Des Enfants/ CHU Ibn Sina",
+    "id": "node/1824603916"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8544525,
+      33.9866013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2423301745",
+  "properties": {
+    "timestamp": "2016-02-16T15:08:31Z",
+    "version": 2,
+    "changeset": 37247417,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Clinique Belvedere Centre De Cardiologie",
+    "id": "node/2423301745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.841568,
+      34.0107124
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2429147955",
+  "properties": {
+    "timestamp": "2013-08-23T12:53:38Z",
+    "version": 1,
+    "changeset": 17469176,
+    "user": "Veomap",
+    "uid": 1711238,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Laboratoire analyse médicale Latifa Ouali",
+    "id": "node/2429147955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8468038,
+      33.9934691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2448051288",
+  "properties": {
+    "timestamp": "2013-09-06T12:22:38Z",
+    "version": 1,
+    "changeset": 17702231,
+    "user": "Veomap",
+    "uid": 1711238,
+    "amenity": "hospital",
+    "name": "Polyclinique",
+    "id": "node/2448051288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.920307,
+      33.9371786
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2569037645",
+  "properties": {
+    "timestamp": "2013-12-06T23:13:28Z",
+    "version": 1,
+    "changeset": 19313983,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Hopital Moulay Youssef",
+    "id": "node/2569037645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8614686,
+      34.0104102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3394023015",
+  "properties": {
+    "timestamp": "2016-02-01T20:56:14Z",
+    "version": 2,
+    "changeset": 36945804,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Clinique Benjelloum",
+    "id": "node/3394023015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.823899,
+      34.0151419
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4324602015",
+  "properties": {
+    "timestamp": "2016-07-28T02:03:00Z",
+    "version": 1,
+    "changeset": 41075644,
+    "user": "AIT EL HAJ",
+    "uid": 4329425,
+    "addr:city": "TEMARA",
+    "addr:postcode": "12000",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Hospital Fath El Kheir",
+    "operator": "Public",
+    "id": "node/4324602015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9206094,
+      33.9063777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4326891379",
+  "properties": {
+    "timestamp": "2016-07-31T13:03:59Z",
+    "version": 2,
+    "changeset": 41144563,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Témara تمارة",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Sidi Lahcen",
+    "operator": "Public",
+    "id": "node/4326891379"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9384961,
+      33.9045718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4496682558",
+  "properties": {
+    "timestamp": "2016-11-12T12:06:59Z",
+    "version": 1,
+    "changeset": 43579892,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hopital Moulay Abdallah",
+    "id": "node/4496682558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8124525,
+      34.0376263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499267989",
+  "properties": {
+    "timestamp": "2016-11-13T22:25:53Z",
+    "version": 1,
+    "changeset": 43617086,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hopital AYACHI",
+    "id": "node/4499267989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8257727,
+      34.034496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499294017",
+  "properties": {
+    "timestamp": "2016-11-13T22:36:14Z",
+    "version": 1,
+    "changeset": 43617311,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Croix rouge",
+    "id": "node/4499294017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8242426,
+      34.035256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4528979489",
+  "properties": {
+    "timestamp": "2016-11-29T19:18:37Z",
+    "version": 1,
+    "changeset": 44042217,
+    "user": "Salem Ahmed",
+    "uid": 4900027,
+    "amenity": "hospital",
+    "name": "مستشفي الشيخ زايد بالرباط",
+    "name:ar": "مستشفي الشيخ زايد بالرباط",
+    "id": "node/4528979489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.868179,
+      33.97765
+    ]
+  }
+}
+]
+}

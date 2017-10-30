@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/482002691",
+  "properties": {
+    "timestamp": "2017-03-22T12:03:23Z",
+    "version": 1,
+    "changeset": 47066258,
+    "user": "ongolaboy",
+    "uid": 547829,
+    "addr:city": "Ngaoundéré I",
+    "amenity": "townhall",
+    "building": "yes",
+    "ele": "1133 m",
+    "name": "Mairie de Ngaoundéré 1er",
+    "id": "way/482002691"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5792245,
+      7.3151972
+    ]
+  }
+}
+]
+}

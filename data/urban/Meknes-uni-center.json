@@ -1,0 +1,234 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3124687004,
+  "lat": 33.8884317,
+  "lon": -5.5973436,
+  "timestamp": "2014-10-11T20:59:15Z",
+  "version": 1,
+  "changeset": 26013522,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole Normale Supérieure (ENS)"
+  }
+},
+{
+  "type": "node",
+  "id": 4769773274,
+  "lat": 33.8677659,
+  "lon": -5.5442172,
+  "timestamp": "2017-04-01T16:44:37Z",
+  "version": 1,
+  "changeset": 47361245,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Faculté des sciences (UMI)",
+    "name:ar": "كلية العلوم - جامعة مولاي اسماعيل"
+  }
+},
+{
+  "type": "node",
+  "id": 4769778321,
+  "lat": 33.8699378,
+  "lon": -5.5408616,
+  "timestamp": "2017-04-01T16:45:58Z",
+  "version": 1,
+  "changeset": 47361274,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Faculté des Lettres et des sciences humaines",
+    "name:ar": "كلية الأداب والعلوم الانسانية"
+  }
+},
+{
+  "type": "way",
+  "id": 307418363,
+  "timestamp": "2016-02-16T15:20:26Z",
+  "version": 4,
+  "changeset": 37247905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.8569349,
+    "lon": -5.5719918
+  },
+  "nodes": [
+    3125521568,
+    3125521569,
+    3125521570,
+    3125521571,
+    3125521574,
+    3125521573,
+    3125521572,
+    3125521568
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ensam - Ecole Nationale Supérieure d'Arts et Métiers",
+    "name:ar": "المدرسة الوطنية للفنون والمهن"
+  }
+},
+{
+  "type": "way",
+  "id": 307417838,
+  "timestamp": "2014-10-13T19:00:38Z",
+  "version": 2,
+  "changeset": 26056111,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.8573981,
+    "lon": -5.5796974
+  },
+  "nodes": [
+    3125589047,
+    3125589048,
+    3125589049,
+    3125589050,
+    3125589051,
+    3125589047
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole supérieure de Technologie - EST"
+  }
+},
+{
+  "type": "way",
+  "id": 307418410,
+  "timestamp": "2014-10-13T19:00:11Z",
+  "version": 2,
+  "changeset": 26056111,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.8560658,
+    "lon": -5.5738528
+  },
+  "nodes": [
+    3125597229,
+    3125597230,
+    3125597231,
+    3125597233,
+    3125597232,
+    3125597229
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Présidence de l'Université Moulay Ismail"
+  }
+},
+{
+  "type": "way",
+  "id": 292598821,
+  "timestamp": "2016-03-19T20:10:02Z",
+  "version": 4,
+  "changeset": 37943993,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.8843503,
+    "lon": -5.5853671
+  },
+  "nodes": [
+    2961306162,
+    2961306163,
+    2961306164,
+    3142523662,
+    3142523663,
+    3142523661,
+    2961306165,
+    3142523660,
+    2961306166,
+    2961306162
+  ],
+  "tags": {
+    "addr:city": "Meknès مكناس",
+    "addr:pobox": "BP 3102",
+    "addr:postcode": "50000",
+    "addr:street": "Toulal",
+    "amenity": "university",
+    "area": "yes",
+    "designation": "University",
+    "name": "Faculté des Sciences Juridiques, Economiques et Sociales",
+    "name:ar": "كلية العلوم القانونية والاقتصادية والاجتماعية",
+    "phone": "+212 5 35 45 20 96",
+    "website": "http://www.fsjes-umi.ac.ma"
+  }
+},
+{
+  "type": "way",
+  "id": 292597797,
+  "timestamp": "2016-03-19T20:10:01Z",
+  "version": 5,
+  "changeset": 37943993,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.8883812,
+    "lon": -5.5974688
+  },
+  "nodes": [
+    3232686448,
+    3232686447,
+    2961298403,
+    3232686442,
+    3232686445,
+    3232686446,
+    3232686448
+  ],
+  "tags": {
+    "addr:city": "Meknès مكناس",
+    "addr:pobox": "BP 3104",
+    "addr:postcode": "50000",
+    "addr:street": "Toulal",
+    "amenity": "university",
+    "name": "Ecole Normale Supérieure (ENS) - Meknès",
+    "name:ar": "المدرسة العليا للأساتذة",
+    "note": "école normale supérieure de Meknès - université My Ismaël - Meknès",
+    "phone": "+212 535533885",
+    "website": "http://www.ens-meknes.ma"
+  }
+},
+{
+  "type": "way",
+  "id": 308237140,
+  "timestamp": "2014-10-17T14:58:06Z",
+  "version": 1,
+  "changeset": 26147340,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.9031452,
+    "lon": -5.5459813
+  },
+  "nodes": [
+    3135263653,
+    3135263654,
+    3135263655,
+    3135263653
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "CPGE - EC"
+  }
+}
+
+  ]
+}

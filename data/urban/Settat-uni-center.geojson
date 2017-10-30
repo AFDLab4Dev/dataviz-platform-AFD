@@ -1,0 +1,89 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/292378419",
+  "properties": {
+    "timestamp": "2016-12-05T23:20:29Z",
+    "version": 5,
+    "changeset": 44195182,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "university",
+    "name": "ENCG de Settat",
+    "id": "way/292378419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6165042,
+      33.033165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292378428",
+  "properties": {
+    "timestamp": "2016-11-04T21:39:15Z",
+    "version": 3,
+    "changeset": 43410701,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "university",
+    "name": "FSJES de Settat",
+    "id": "way/292378428"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6153145,
+      33.0254503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450191118",
+  "properties": {
+    "timestamp": "2016-12-04T22:53:41Z",
+    "version": 3,
+    "changeset": 44168451,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "university",
+    "name": "FST de Settat",
+    "id": "way/450191118"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6161946,
+      33.0306535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450191119",
+  "properties": {
+    "timestamp": "2016-12-04T22:53:42Z",
+    "version": 4,
+    "changeset": 44168451,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "university",
+    "name": "Cité universitaire de Settat",
+    "id": "way/450191119"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6158594,
+      33.0282677
+    ]
+  }
+}
+]
+}

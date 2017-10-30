@@ -1,0 +1,49 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 90358424,
+  "timestamp": "2014-06-22T22:47:09Z",
+  "version": 4,
+  "changeset": 23091031,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "center": {
+    "lat": 6.8358444,
+    "lon": -5.2665499
+  },
+  "nodes": [
+    1048394897,
+    1048397880,
+    1048394210,
+    1048395169,
+    1048396255,
+    1048398366,
+    1048394611,
+    1048395569,
+    1048396873,
+    1048398769,
+    1048395059,
+    1048396130,
+    1048397279,
+    1048394486,
+    1048395442,
+    1048396777,
+    1048394897
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville de Yamoussoukro"
+  }
+}
+
+  ]
+}

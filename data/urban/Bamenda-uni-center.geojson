@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/401878863",
+  "properties": {
+    "timestamp": "2016-03-06T02:05:00Z",
+    "version": 1,
+    "changeset": 37637987,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "The University of Bamenda",
+    "name:fr": "Université de Bamenda",
+    "id": "way/401878863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2583043,
+      6.0122435
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479474890",
+  "properties": {
+    "timestamp": "2017-03-09T09:58:51Z",
+    "version": 1,
+    "changeset": 46704776,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "St Louis University Institute of Health and Biomedical Sciences",
+    "short_name": "UNIHEBS",
+    "id": "way/479474890"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1789343,
+      5.9814898
+    ]
+  }
+}
+]
+}

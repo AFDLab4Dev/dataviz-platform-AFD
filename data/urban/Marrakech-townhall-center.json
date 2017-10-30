@@ -1,0 +1,93 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 288220062,
+  "timestamp": "2016-06-16T18:47:33Z",
+  "version": 3,
+  "changeset": 40074358,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 31.6264788,
+    "lon": -8.0151885
+  },
+  "nodes": [
+    2917742096,
+    2917742097,
+    2917742098,
+    2917742099,
+    2917742100,
+    2917742301,
+    2917742302,
+    2917742303,
+    2917742304,
+    2917742305,
+    2917742306,
+    3320049682,
+    2917742307,
+    3320049675,
+    2917742308,
+    2917742309,
+    2917742310,
+    2917742311,
+    2917742312,
+    2917742313,
+    2917742314,
+    2917742315,
+    2917742316,
+    2917742317,
+    2917742318,
+    2917742319,
+    2917742320,
+    2917742321,
+    2917742096
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Annexe Hotel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 34286463,
+  "timestamp": "2015-09-07T12:15:36Z",
+  "version": 3,
+  "changeset": 33854894,
+  "user": "Eebie",
+  "uid": 715684,
+  "center": {
+    "lat": 31.6285016,
+    "lon": -7.9980018
+  },
+  "nodes": [
+    393135380,
+    393135381,
+    393135382,
+    393135383,
+    393135384,
+    1400457057,
+    393135385,
+    1400457303,
+    393135386,
+    393135387,
+    1400457543,
+    393135380
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville"
+  }
+}
+
+  ]
+}

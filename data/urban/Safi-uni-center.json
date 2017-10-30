@@ -1,0 +1,339 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 122266671,
+  "timestamp": "2011-07-19T16:03:51Z",
+  "version": 1,
+  "changeset": 8769374,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2865652,
+    "lon": -9.2368280
+  },
+  "nodes": [
+    1366773022,
+    1366773030,
+    1366773051,
+    1366773029,
+    1366773022
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut de formation aux carrière de santé (poly .sage femme) safi"
+  }
+},
+{
+  "type": "way",
+  "id": 122266679,
+  "timestamp": "2011-07-19T16:03:52Z",
+  "version": 1,
+  "changeset": 8769374,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2857963,
+    "lon": -9.2366859
+  },
+  "nodes": [
+    1366773021,
+    1366773019,
+    1366773015,
+    1366773050,
+    1366773021
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ecole des infirmies d etat (poly. sage femme) safi"
+  }
+},
+{
+  "type": "way",
+  "id": 120290747,
+  "timestamp": "2013-01-14T06:38:46Z",
+  "version": 2,
+  "changeset": 14644395,
+  "user": "BELATAR",
+  "uid": 498538,
+  "center": {
+    "lat": 32.2830045,
+    "lon": -9.2307915
+  },
+  "nodes": [
+    1349118104,
+    1349118099,
+    1349118105,
+    1349118100,
+    1349118104
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "l'Ecole Supperieur du Comerce et de Gestion"
+  }
+},
+{
+  "type": "way",
+  "id": 324749591,
+  "timestamp": "2015-07-21T15:02:54Z",
+  "version": 2,
+  "changeset": 32779723,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2824786,
+    "lon": -9.2007966
+  },
+  "nodes": [
+    3314275627,
+    3314276020,
+    3314275524,
+    3314275952,
+    3314275627
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole d'ingenieur"
+  }
+},
+{
+  "type": "way",
+  "id": 121252611,
+  "timestamp": "2016-01-07T16:17:44Z",
+  "version": 2,
+  "changeset": 36427889,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2988620,
+    "lon": -9.2185668
+  },
+  "nodes": [
+    1357893477,
+    1357893469,
+    1357893482,
+    1357893471,
+    1357893472,
+    1357893470,
+    1357893475,
+    1357893474,
+    1357893484,
+    1357893477
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Office de la Formation Professionnelle et de la Promotion du Travail de Safi"
+  }
+},
+{
+  "type": "way",
+  "id": 119935026,
+  "timestamp": "2016-03-22T13:28:48Z",
+  "version": 2,
+  "changeset": 37999067,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2937213,
+    "lon": -9.2258106
+  },
+  "nodes": [
+    1345954432,
+    1345954407,
+    1345954416,
+    1345954430,
+    1345954357,
+    1345954450,
+    1345954351,
+    1345954399,
+    1345954432
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Centre Pédagogique Régionale Mohamed V"
+  }
+},
+{
+  "type": "way",
+  "id": 122048438,
+  "timestamp": "2015-07-29T16:02:58Z",
+  "version": 4,
+  "changeset": 32959827,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.3057627,
+    "lon": -9.2149737
+  },
+  "nodes": [
+    1364687213,
+    1364687211,
+    1364687210,
+    1364687212,
+    1364687213
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ISTA - Institut Spécialisé de Technologie Appliquée المعهد المتخصص للتكنولوجيا التطبيقية",
+    "name:ar": "المعهد المتخصص للتكنولوجيا التطبيقية",
+    "name:fr": "ISTA - Institut Spécialisé de Technologie Appliquée"
+  }
+},
+{
+  "type": "way",
+  "id": 119922892,
+  "timestamp": "2015-03-19T11:53:46Z",
+  "version": 4,
+  "changeset": 29590448,
+  "user": "R0bst3r",
+  "uid": 1783785,
+  "center": {
+    "lat": 32.3111024,
+    "lon": -9.2247724
+  },
+  "nodes": [
+    1345863051,
+    1345863059,
+    3313844554,
+    1345863058,
+    1345863070,
+    1345863060,
+    1345863069,
+    1345863061,
+    1345863051
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Centre de formation des instituteurs",
+    "name:ar": "مركز تكوين المعلمين آسفي"
+  }
+},
+{
+  "type": "way",
+  "id": 120851570,
+  "timestamp": "2015-07-24T06:49:03Z",
+  "version": 4,
+  "changeset": 32842294,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.3074804,
+    "lon": -9.2161860
+  },
+  "nodes": [
+    1354026574,
+    1354026579,
+    1354026564,
+    1354026592,
+    1354026571,
+    1354026575,
+    1354026599,
+    1354026578,
+    1354026584,
+    1354026567,
+    1354026588,
+    1354026580,
+    1354026589,
+    1354026600,
+    1354026581,
+    1354026574
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole Supérieure de Technologie Safi - Université Cadi Ayyad"
+  }
+},
+{
+  "type": "way",
+  "id": 323033278,
+  "timestamp": "2015-07-21T15:03:00Z",
+  "version": 2,
+  "changeset": 32779723,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.3264923,
+    "lon": -9.2637508
+  },
+  "nodes": [
+    3298319045,
+    3298319170,
+    3298319178,
+    3298319043,
+    3298319164,
+    3298316767,
+    3298316772,
+    3298319054,
+    3298316777,
+    3298316806,
+    3298318976,
+    3298316769,
+    3298316819,
+    3298316817,
+    3298319026,
+    3298316851,
+    3298318999,
+    3298319204,
+    3298319213,
+    3298319214,
+    3298318977,
+    3298319002,
+    3298319209,
+    3298319045
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ENSA Safi"
+  }
+},
+{
+  "type": "way",
+  "id": 323033248,
+  "timestamp": "2015-07-21T15:02:59Z",
+  "version": 2,
+  "changeset": 32779723,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.3286524,
+    "lon": -9.2678799
+  },
+  "nodes": [
+    3298319037,
+    3298318972,
+    3298316796,
+    3298319025,
+    3298319197,
+    3298316813,
+    3298319039,
+    3298318967,
+    3298316829,
+    3298316823,
+    3298318993,
+    3298316832,
+    3298318998,
+    3298319044,
+    3298316779,
+    3298316835,
+    3298319202,
+    3298318962,
+    3298319217,
+    3298316768,
+    3298316839,
+    3298319037
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université Qadi Ayad"
+  }
+}
+
+  ]
+}

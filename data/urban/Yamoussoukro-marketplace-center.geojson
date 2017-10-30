@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/72065966",
+  "properties": {
+    "timestamp": "2016-02-24T10:28:11Z",
+    "version": 4,
+    "changeset": 37409087,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de l'Habitat",
+    "id": "way/72065966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2770894,
+      6.8203697
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399614113",
+  "properties": {
+    "timestamp": "2016-02-24T10:28:11Z",
+    "version": 2,
+    "changeset": 37409087,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Kossou",
+    "id": "way/399614113"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2775374,
+      6.8218401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454387695",
+  "properties": {
+    "timestamp": "2016-11-18T22:55:34Z",
+    "version": 1,
+    "changeset": 43782718,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/454387695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2634362,
+      6.8127828
+    ]
+  }
+}
+]
+}

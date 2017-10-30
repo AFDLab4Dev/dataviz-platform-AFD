@@ -1,0 +1,667 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2926448727,
+  "lat": 34.6806950,
+  "lon": -1.9084975,
+  "timestamp": "2014-06-21T19:25:47Z",
+  "version": 1,
+  "changeset": 23068735,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk Al Qods"
+  }
+},
+{
+  "type": "node",
+  "id": 2951545280,
+  "lat": 34.7002352,
+  "lon": -1.9187711,
+  "timestamp": "2014-07-06T21:56:23Z",
+  "version": 1,
+  "changeset": 23993831,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Al Massira"
+  }
+},
+{
+  "type": "node",
+  "id": 3269757414,
+  "lat": 34.6807916,
+  "lon": -1.9142511,
+  "timestamp": "2015-01-04T23:38:38Z",
+  "version": 1,
+  "changeset": 27923125,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk Des Bijoux"
+  }
+},
+{
+  "type": "node",
+  "id": 3269780654,
+  "lat": 34.6798740,
+  "lon": -1.9105684,
+  "timestamp": "2015-01-04T23:53:50Z",
+  "version": 1,
+  "changeset": 27923306,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk De Dattes",
+    "name:en": "Marketplace of Dates",
+    "name:fr": "Souk De Dattes"
+  }
+},
+{
+  "type": "way",
+  "id": 320730271,
+  "timestamp": "2016-10-03T06:42:00Z",
+  "version": 5,
+  "changeset": 42597336,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6614866,
+    "lon": -1.8924818
+  },
+  "nodes": [
+    3273672261,
+    3273656977,
+    3273656976,
+    3273672263,
+    3273672264,
+    3273672261
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Al Hidaya",
+    "opening_hours": "8:00 to 18:00"
+  }
+},
+{
+  "type": "way",
+  "id": 354090768,
+  "timestamp": "2015-06-16T14:33:46Z",
+  "version": 1,
+  "changeset": 32007956,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6757308,
+    "lon": -1.9319711
+  },
+  "nodes": [
+    3598676238,
+    3598676239,
+    3598676240,
+    3598676241,
+    3598676242,
+    3598676243,
+    3598676268,
+    3598676238
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 293305514,
+  "timestamp": "2014-07-18T14:10:33Z",
+  "version": 1,
+  "changeset": 24221976,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6810805,
+    "lon": -1.9096752
+  },
+  "nodes": [
+    2968877207,
+    2968877208,
+    2968877209,
+    2968877210,
+    2968877211,
+    2968877212,
+    2968877207
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Sidi Abdelwahab"
+  }
+},
+{
+  "type": "way",
+  "id": 289100462,
+  "timestamp": "2015-01-25T15:14:17Z",
+  "version": 2,
+  "changeset": 28397963,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6818105,
+    "lon": -1.9099119
+  },
+  "nodes": [
+    2926507093,
+    2926507094,
+    3309810859,
+    3309810821,
+    3309811280,
+    3309811555,
+    3309811718,
+    3309811341,
+    2926507095,
+    3309810769,
+    3309810820,
+    2926507096,
+    2926507097,
+    2926507093
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Aswak Al Maghreb Al Arabi"
+  }
+},
+{
+  "type": "way",
+  "id": 356919793,
+  "timestamp": "2015-06-28T11:56:34Z",
+  "version": 1,
+  "changeset": 32261124,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6808876,
+    "lon": -1.9046821
+  },
+  "nodes": [
+    3623176592,
+    3623180993,
+    3623180994,
+    3623180995,
+    3623180996,
+    3623180997,
+    3623180998,
+    3623181000,
+    3623180999,
+    3623176592
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Al Fallah"
+  }
+},
+{
+  "type": "way",
+  "id": 465342137,
+  "timestamp": "2017-01-12T06:24:01Z",
+  "version": 1,
+  "changeset": 45095687,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6832888,
+    "lon": -1.9043372
+  },
+  "nodes": [
+    4603198355,
+    4603198356,
+    4603198357,
+    4603198358,
+    4603198359,
+    4603198360,
+    4603198361,
+    4603198362,
+    4603198355
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 317589132,
+  "timestamp": "2014-12-16T22:52:40Z",
+  "version": 1,
+  "changeset": 27518276,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6795542,
+    "lon": -1.8875844
+  },
+  "nodes": [
+    3238743033,
+    3238743034,
+    3238743035,
+    3238743036,
+    3238743033
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché De Poisson"
+  }
+},
+{
+  "type": "way",
+  "id": 356924544,
+  "timestamp": "2015-06-28T12:40:35Z",
+  "version": 2,
+  "changeset": 32261809,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6799093,
+    "lon": -1.8997394
+  },
+  "nodes": [
+    3623232299,
+    3623232300,
+    3623232301,
+    3623232302,
+    3623232299
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Allil",
+    "name:ar": "سوق الليل"
+  }
+},
+{
+  "type": "way",
+  "id": 305940443,
+  "timestamp": "2014-10-02T06:17:28Z",
+  "version": 1,
+  "changeset": 25803020,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 34.7020598,
+    "lon": -1.9153089
+  },
+  "nodes": [
+    3106391243,
+    3106391230,
+    3106391284,
+    3106391239,
+    3106391243
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Gros aux Poissons",
+    "name:fr": "Marché de Gros aux Poissons"
+  }
+},
+{
+  "type": "way",
+  "id": 319649666,
+  "timestamp": "2015-02-18T13:14:46Z",
+  "version": 2,
+  "changeset": 28932528,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7018483,
+    "lon": -1.9185519
+  },
+  "nodes": [
+    3260903340,
+    3260903354,
+    3260903348,
+    3260903351,
+    3260903340
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché aux Legumes"
+  }
+},
+{
+  "type": "way",
+  "id": 442593383,
+  "timestamp": "2016-09-15T14:15:48Z",
+  "version": 2,
+  "changeset": 42174181,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7122164,
+    "lon": -1.9163518
+  },
+  "nodes": [
+    4402700279,
+    4402700280,
+    4402700281,
+    4402700282,
+    4402701809,
+    4402700283,
+    4402700284,
+    4402700285,
+    4402700279
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk El Khoudra",
+    "opening_hours": "Dimanche"
+  }
+},
+{
+  "type": "way",
+  "id": 442593385,
+  "timestamp": "2016-09-15T14:12:17Z",
+  "version": 1,
+  "changeset": 42174090,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7120130,
+    "lon": -1.9129668
+  },
+  "nodes": [
+    4402700288,
+    4402700289,
+    4402700290,
+    4402700291,
+    4402700292,
+    4402700293,
+    4402700294,
+    4402700295,
+    4402700288
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk El Had",
+    "opening_hours": "Dimanche"
+  }
+},
+{
+  "type": "way",
+  "id": 442593384,
+  "timestamp": "2016-09-15T14:15:48Z",
+  "version": 2,
+  "changeset": 42174181,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7127935,
+    "lon": -1.9138304
+  },
+  "nodes": [
+    4402700280,
+    4402700286,
+    4402700287,
+    4402701802,
+    4402700281,
+    4402700280
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché des Moutons"
+  }
+},
+{
+  "type": "way",
+  "id": 319868868,
+  "timestamp": "2016-11-17T13:55:54Z",
+  "version": 2,
+  "changeset": 43730256,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7004383,
+    "lon": -1.8880214
+  },
+  "nodes": [
+    3263403390,
+    3263401789,
+    3263401768,
+    3263403353,
+    3263401129,
+    3263403390
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 328371830,
+  "timestamp": "2015-02-15T13:52:48Z",
+  "version": 1,
+  "changeset": 28863681,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.7129329,
+    "lon": -1.8871586
+  },
+  "nodes": [
+    3351938770,
+    3351938771,
+    3351938772,
+    3351934103,
+    3351934104,
+    3351934105,
+    3351938770
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Souk Ennasr"
+  }
+},
+{
+  "type": "way",
+  "id": 320731253,
+  "timestamp": "2015-03-18T13:07:24Z",
+  "version": 2,
+  "changeset": 29568531,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6655242,
+    "lon": -1.8853563
+  },
+  "nodes": [
+    3273683348,
+    3273683349,
+    3273683350,
+    3273683351,
+    3273683348
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kissariat Al Firdaws"
+  }
+},
+{
+  "type": "way",
+  "id": 293728153,
+  "timestamp": "2014-07-21T14:58:03Z",
+  "version": 1,
+  "changeset": 24275187,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6617025,
+    "lon": -1.8675055
+  },
+  "nodes": [
+    2973182122,
+    2973182123,
+    2973182124,
+    2973182125,
+    2973182122
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Sidi Yahya"
+  }
+},
+{
+  "type": "way",
+  "id": 360313923,
+  "timestamp": "2015-07-13T11:28:22Z",
+  "version": 2,
+  "changeset": 32600129,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6702382,
+    "lon": -1.8635795
+  },
+  "nodes": [
+    3648809412,
+    3648809413,
+    3648809414,
+    3648809415,
+    3648809416,
+    3648809417,
+    3648809418,
+    3648809412
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché De Légumes",
+    "name:ar": "سوق الخضر"
+  }
+},
+{
+  "type": "way",
+  "id": 316627000,
+  "timestamp": "2014-12-10T06:37:38Z",
+  "version": 1,
+  "changeset": 27370811,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6806162,
+    "lon": -1.8829321
+  },
+  "nodes": [
+    3227686346,
+    3227686347,
+    3227686348,
+    3227686349,
+    3227686350,
+    3227686351,
+    3227686346
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Lazaret"
+  }
+},
+{
+  "type": "relation",
+  "id": 6711808,
+  "timestamp": "2016-11-15T07:32:32Z",
+  "version": 1,
+  "changeset": 43662968,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6741322,
+    "lon": -1.9322278
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 319651259,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 319651243,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 319651326,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 319651276,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 319651303,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Kissariat Bienfaisance",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 4459538,
+  "timestamp": "2015-01-05T00:45:31Z",
+  "version": 2,
+  "changeset": 27923856,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6794858,
+    "lon": -1.9109299
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 320462888,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 320462887,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Al Gazzara",
+    "name:en": "Butchers",
+    "name:fr": "Boucheries",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

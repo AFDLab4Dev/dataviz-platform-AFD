@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/307484459",
+  "properties": {
+    "timestamp": "2014-10-13T06:24:53Z",
+    "version": 2,
+    "changeset": 26040314,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "addr:city": "Garoua",
+    "amenity": "university",
+    "name": "Institut Superieur Yerima Dewa",
+    "id": "way/307484459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3849548,
+      9.3597761
+    ]
+  }
+}
+]
+}

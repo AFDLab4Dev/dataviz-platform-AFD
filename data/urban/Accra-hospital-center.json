@@ -1,0 +1,887 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:43:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 105457855,
+  "lat": 5.5627012,
+  "lon": -0.1820774,
+  "timestamp": "2013-11-01T10:47:48Z",
+  "version": 8,
+  "changeset": 18649320,
+  "user": "africanway",
+  "uid": 681674,
+  "tags": {
+    "amenity": "hospital",
+    "name": "SSNIT"
+  }
+},
+{
+  "type": "node",
+  "id": 107552545,
+  "lat": 5.5882767,
+  "lon": -0.1833756,
+  "timestamp": "2012-07-30T12:44:33Z",
+  "version": 5,
+  "changeset": 12547597,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "37 Military Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1251736952,
+  "lat": 5.6150814,
+  "lon": -0.1980820,
+  "timestamp": "2011-04-19T21:01:07Z",
+  "version": 1,
+  "changeset": 7911073,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Valley View Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1405374096,
+  "lat": 5.5627373,
+  "lon": -0.2049878,
+  "timestamp": "2011-08-20T08:55:15Z",
+  "version": 1,
+  "changeset": 9072273,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Accra Psychiatric Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1574153164,
+  "lat": 5.6124124,
+  "lon": -0.2143020,
+  "timestamp": "2013-04-29T10:11:06Z",
+  "version": 2,
+  "changeset": 15906373,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "German Egon Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 1590950043,
+  "lat": 5.5733758,
+  "lon": -0.1125237,
+  "timestamp": "2012-01-15T15:29:11Z",
+  "version": 1,
+  "changeset": 10399175,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Family Health Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1590950091,
+  "lat": 5.6029471,
+  "lon": -0.1200350,
+  "timestamp": "2015-01-27T22:21:27Z",
+  "version": 2,
+  "changeset": 28454180,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lekma Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1590950115,
+  "lat": 5.6194939,
+  "lon": -0.1460652,
+  "timestamp": "2012-01-16T17:23:50Z",
+  "version": 2,
+  "changeset": 10410089,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Lister Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1601716616,
+  "lat": 5.5649373,
+  "lon": -0.2904221,
+  "timestamp": "2012-01-22T21:19:59Z",
+  "version": 1,
+  "changeset": 10470020,
+  "user": "YOz",
+  "uid": 251445,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ga South Municipal Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1801870288,
+  "lat": 5.5538992,
+  "lon": -0.1807934,
+  "timestamp": "2016-11-11T18:19:03Z",
+  "version": 2,
+  "changeset": 43565050,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "tags": {
+    "amenity": "hospital",
+    "name": "VRA Hospital & Pharmacy"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020755,
+  "lat": 5.5615681,
+  "lon": -0.2046342,
+  "timestamp": "2013-02-09T18:04:46Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Adabraka Polyclinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020822,
+  "lat": 5.7184825,
+  "lon": -0.1741432,
+  "timestamp": "2013-02-09T18:04:47Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Greater Grace Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020834,
+  "lat": 5.5864145,
+  "lon": -0.2351065,
+  "timestamp": "2013-02-09T18:04:47Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Holy Trinity Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 2154259317,
+  "lat": 5.7173175,
+  "lon": -0.1890739,
+  "timestamp": "2013-02-14T10:24:56Z",
+  "version": 1,
+  "changeset": 15027564,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pantang Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3039439316,
+  "lat": 5.6310501,
+  "lon": -0.1686563,
+  "timestamp": "2014-08-24T14:59:19Z",
+  "version": 1,
+  "changeset": 24980964,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Obaatan Pa Womens Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3073583822,
+  "lat": 5.5718826,
+  "lon": -0.2359563,
+  "timestamp": "2014-09-12T15:43:58Z",
+  "version": 1,
+  "changeset": 25393338,
+  "user": "sylverhawk",
+  "uid": 726142,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Cocoa Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 3621871511,
+  "lat": 5.6691313,
+  "lon": -0.1822897,
+  "timestamp": "2015-06-27T14:53:09Z",
+  "version": 1,
+  "changeset": 32244412,
+  "user": "Adams Agalic",
+  "uid": 2999452,
+  "tags": {
+    "amenity": "hospital",
+    "name": "North Legon Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3740288017,
+  "lat": 5.5493681,
+  "lon": -0.2411218,
+  "timestamp": "2015-09-12T15:16:55Z",
+  "version": 1,
+  "changeset": 33982202,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Barnor Hospital",
+    "source": "locals knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3961469675,
+  "lat": 5.5936808,
+  "lon": -0.2113957,
+  "timestamp": "2016-01-23T13:35:45Z",
+  "version": 1,
+  "changeset": 36758061,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Anthon Memorial Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4104600479,
+  "lat": 5.5686748,
+  "lon": -0.1860572,
+  "timestamp": "2016-04-07T09:43:51Z",
+  "version": 1,
+  "changeset": 38375595,
+  "user": "sylverhawk",
+  "uid": 726142,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Accra Medical Centre",
+    "operator": "Accra Medical Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4311879592,
+  "lat": 5.6240883,
+  "lon": -0.0696843,
+  "timestamp": "2016-07-19T22:18:54Z",
+  "version": 1,
+  "changeset": 40883408,
+  "user": "Joshua Amudzi",
+  "uid": 3988353,
+  "tags": {
+    "amenity": "hospital",
+    "name": "C & J Medicare"
+  }
+},
+{
+  "type": "node",
+  "id": 4311941089,
+  "lat": 5.6223697,
+  "lon": -0.0628674,
+  "timestamp": "2016-07-19T22:19:02Z",
+  "version": 1,
+  "changeset": 40883408,
+  "user": "Joshua Amudzi",
+  "uid": 3988353,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Sakumono Community Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4366728290,
+  "lat": 5.6853523,
+  "lon": -0.2315804,
+  "timestamp": "2016-08-25T19:12:35Z",
+  "version": 1,
+  "changeset": 41697678,
+  "user": "john mensah",
+  "uid": 4123353,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The community hospital ashongman"
+  }
+},
+{
+  "type": "node",
+  "id": 4369634545,
+  "lat": 5.5613800,
+  "lon": -0.1987446,
+  "timestamp": "2016-08-27T12:03:41Z",
+  "version": 1,
+  "changeset": 41734474,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "tags": {
+    "amenity": "hospital",
+    "name": "The Greater Accra Regional Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4400510890,
+  "lat": 5.7104424,
+  "lon": -0.0507497,
+  "timestamp": "2016-09-14T00:13:55Z",
+  "version": 1,
+  "changeset": 42138410,
+  "user": "Joshua Amudzi",
+  "uid": 3988353,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Mother of God"
+  }
+},
+{
+  "type": "way",
+  "id": 192082879,
+  "timestamp": "2012-11-22T14:13:42Z",
+  "version": 1,
+  "changeset": 13986039,
+  "user": "Merhawi",
+  "uid": 1017914,
+  "center": {
+    "lat": 5.5285769,
+    "lon": -0.2638744
+  },
+  "nodes": [
+    2026403696,
+    2026403695,
+    2026403693,
+    2026403694,
+    2026403696
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Zaclex Maternity Home"
+  }
+},
+{
+  "type": "way",
+  "id": 192082873,
+  "timestamp": "2012-11-22T14:13:41Z",
+  "version": 1,
+  "changeset": 13986039,
+  "user": "Merhawi",
+  "uid": 1017914,
+  "center": {
+    "lat": 5.5311243,
+    "lon": -0.2616266
+  },
+  "nodes": [
+    2026403711,
+    2026403710,
+    2026403716,
+    2026403720,
+    2026403711
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Karikari Brobbey Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 298258033,
+  "timestamp": "2014-09-13T12:03:36Z",
+  "version": 2,
+  "changeset": 25410100,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5378670,
+    "lon": -0.2234721
+  },
+  "nodes": [
+    3021673456,
+    3021673457,
+    3021673458,
+    3021673459,
+    3021673460,
+    3021673461,
+    3021673462,
+    3021673456
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Korle Bu Policlinic"
+  }
+},
+{
+  "type": "way",
+  "id": 303162760,
+  "timestamp": "2016-04-02T20:15:14Z",
+  "version": 2,
+  "changeset": 38255166,
+  "user": "Wikidata",
+  "uid": 3537321,
+  "center": {
+    "lat": 5.5381024,
+    "lon": -0.2270257
+  },
+  "nodes": [
+    3074848548,
+    3074848571,
+    3074848582,
+    3074849671,
+    3074849389,
+    3074848567,
+    3074848548
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Korlebu Teaching Hospital",
+    "wikidata": "Q6432357"
+  }
+},
+{
+  "type": "way",
+  "id": 316141751,
+  "timestamp": "2016-08-14T16:43:01Z",
+  "version": 2,
+  "changeset": 41450209,
+  "user": "Joshua Amudzi",
+  "uid": 3988353,
+  "center": {
+    "lat": 5.5446829,
+    "lon": -0.2132290
+  },
+  "nodes": [
+    3222494788,
+    3222494789,
+    3222494790,
+    3222494791,
+    3222494792,
+    3222494788
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Princess Marie Louie Children's Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 455565143,
+  "timestamp": "2016-11-30T04:03:18Z",
+  "version": 3,
+  "changeset": 44050300,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 5.6080307,
+    "lon": -0.2787828
+  },
+  "nodes": [
+    4519566245,
+    4519566246,
+    4519566247,
+    4519566248,
+    4519566249,
+    4519566250,
+    4519566251,
+    4519566245
+  ],
+  "tags": {
+    "addr:city": "Antie-Aku Sowutuom",
+    "addr:street": "Deseret Road",
+    "amenity": "hospital",
+    "name": "North Deseret Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 356767423,
+  "timestamp": "2015-06-27T13:14:03Z",
+  "version": 1,
+  "changeset": 32242755,
+  "user": "Sylvester Adjapong",
+  "uid": 2721029,
+  "center": {
+    "lat": 5.5746166,
+    "lon": -0.2308019
+  },
+  "nodes": [
+    3621727940,
+    3621727941,
+    3621727942,
+    3621727943,
+    3621727940
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Kaneshie Polyclinic",
+    "operator": "Government"
+  }
+},
+{
+  "type": "way",
+  "id": 277028141,
+  "timestamp": "2014-10-11T12:01:25Z",
+  "version": 2,
+  "changeset": 26002407,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6013089,
+    "lon": -0.2568056
+  },
+  "nodes": [
+    2815804289,
+    2815804284,
+    2815804291,
+    2815804286,
+    2815804289
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "MBA Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 310088363,
+  "timestamp": "2014-10-28T15:42:39Z",
+  "version": 1,
+  "changeset": 26387565,
+  "user": "sylverhawk",
+  "uid": 726142,
+  "center": {
+    "lat": 5.6089811,
+    "lon": -0.2536846
+  },
+  "nodes": [
+    3154409149,
+    3154409153,
+    3154409150,
+    3154409151,
+    3154409152,
+    3154409149
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Community Hospital",
+    "emergency": "yes",
+    "name": "Lapaz Community Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 437380195,
+  "timestamp": "2016-08-15T22:45:10Z",
+  "version": 1,
+  "changeset": 41478453,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6298307,
+    "lon": -0.2171964
+  },
+  "nodes": [
+    4351837964,
+    4351837959,
+    4351837912,
+    4351837924,
+    4351837964
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Achimota Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 439346942,
+  "timestamp": "2016-08-27T12:03:42Z",
+  "version": 1,
+  "changeset": 41734474,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5510399,
+    "lon": -0.1960103
+  },
+  "nodes": [
+    4369643090,
+    4369643089,
+    4369634585,
+    4369634588,
+    4369634583,
+    4369634586,
+    4369643090
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Civil Service Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 298260306,
+  "timestamp": "2014-09-10T09:55:38Z",
+  "version": 2,
+  "changeset": 25345090,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5623081,
+    "lon": -0.1993621
+  },
+  "nodes": [
+    3069907462,
+    3069906810,
+    3069906809,
+    3069906808,
+    1442872041,
+    3069907434,
+    3069907460,
+    3021715352,
+    3021715356,
+    3021715358,
+    3069907490,
+    3069907462
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Ridge Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 255511063,
+  "timestamp": "2014-01-06T08:39:11Z",
+  "version": 1,
+  "changeset": 19839547,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5684386,
+    "lon": -0.1817110
+  },
+  "nodes": [
+    2611938376,
+    2611938377,
+    2611938375,
+    2611938378,
+    2611938379,
+    2611938384,
+    2611938382,
+    2611938386,
+    2611938381,
+    2611938385,
+    2611938383,
+    2611938380,
+    2611938376
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Police Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 391750854,
+  "timestamp": "2016-01-16T14:39:01Z",
+  "version": 1,
+  "changeset": 36616335,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5913638,
+    "lon": -0.1990858
+  },
+  "nodes": [
+    3950017312,
+    3950017311,
+    3950017309,
+    3950017310,
+    3950017312
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maamobi General Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 299668118,
+  "timestamp": "2014-08-23T13:54:56Z",
+  "version": 1,
+  "changeset": 24956350,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6145561,
+    "lon": -0.1849937
+  },
+  "nodes": [
+    3037049052,
+    3037048815,
+    3037048791,
+    3037048810,
+    3037049038,
+    3037049046,
+    3037049052
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nyaho Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 205221630,
+  "timestamp": "2015-06-16T01:59:13Z",
+  "version": 2,
+  "changeset": 31996373,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 5.6059721,
+    "lon": -0.1086759
+  },
+  "nodes": [
+    2151945300,
+    2151945299,
+    2151945303,
+    2151945305,
+    2151945300
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Manna Mission",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 464683570,
+  "timestamp": "2017-01-09T08:59:28Z",
+  "version": 1,
+  "changeset": 45020914,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6326743,
+    "lon": -0.1858583
+  },
+  "nodes": [
+    4597669633,
+    4597669631,
+    4597669630,
+    4597669632,
+    4597669633
+  ],
+  "tags": {
+    "addr:city": "Legon, Accra",
+    "addr:housenumber": "P.O. Box lg 25",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "University of Ghana Teaching Hospital",
+    "operator": "University of Ghana"
+  }
+},
+{
+  "type": "way",
+  "id": 278268702,
+  "timestamp": "2014-12-23T21:03:11Z",
+  "version": 2,
+  "changeset": 27659878,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 5.6517246,
+    "lon": -0.1781069
+  },
+  "nodes": [
+    2826655093,
+    2826655090,
+    2826655091,
+    2826655094,
+    2826655093
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "University of Ghana Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 481195130,
+  "timestamp": "2017-03-18T11:10:55Z",
+  "version": 1,
+  "changeset": 46953121,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6458791,
+    "lon": -0.1567972
+  },
+  "nodes": [
+    4741326754,
+    4741326757,
+    4741326756,
+    4741326755,
+    4741326754
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bemuah Royal Hospital"
+  }
+}
+
+  ]
+}

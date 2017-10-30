@@ -1,0 +1,225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4592138828,
+  "lat": 34.0465012,
+  "lon": -5.0026450,
+  "timestamp": "2017-01-06T07:39:29Z",
+  "version": 1,
+  "changeset": 44945868,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "university",
+    "name": "ENCG"
+  }
+},
+{
+  "type": "way",
+  "id": 330553945,
+  "timestamp": "2015-04-06T16:29:45Z",
+  "version": 2,
+  "changeset": 30019800,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.9896238,
+    "lon": -4.9902516
+  },
+  "nodes": [
+    3375194193,
+    3375194194,
+    3375194195,
+    3375194196,
+    3375194193
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Cité Universitaire"
+  }
+},
+{
+  "type": "way",
+  "id": 292591097,
+  "timestamp": "2015-08-16T07:07:43Z",
+  "version": 8,
+  "changeset": 33363730,
+  "user": "Jotam",
+  "uid": 768145,
+  "center": {
+    "lat": 33.9902836,
+    "lon": -4.9878092
+  },
+  "nodes": [
+    2961244945,
+    2961244946,
+    3375201095,
+    2961244949,
+    2961244948,
+    2924900140,
+    3375201093,
+    3375201094,
+    2961244945
+  ],
+  "tags": {
+    "addr:city": "Fès فاس",
+    "addr:housename": "Faculté des Lettres et des Sciences humaines - Saïs - Fès",
+    "addr:pobox": "BP 59",
+    "addr:postcode": "30000",
+    "addr:street": "Route Immouzer",
+    "amenity": "university",
+    "area": "yes",
+    "designation": "university",
+    "name": "Faculté des Lettres et des Sciences humaines - Saïs - Fès",
+    "name:ar": "كلية الآداب والعلوم الإنسانية سايس – فاس",
+    "website": "http://www.fls-usmba.ac.ma/",
+    "wikipedia": "fr:Université Sidi Mohamed Ben Abdellah"
+  }
+},
+{
+  "type": "way",
+  "id": 95233220,
+  "timestamp": "2011-01-15T16:10:55Z",
+  "version": 1,
+  "changeset": 6978699,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 34.0330668,
+    "lon": -4.9805136
+  },
+  "nodes": [
+    1104662743,
+    1104663022,
+    1104663216,
+    1104663359,
+    1104663556,
+    1104662907,
+    1104663139,
+    1104663248,
+    1104663481,
+    1104662835,
+    1104663055,
+    1104663558,
+    1104662839,
+    1104663143,
+    1104663363,
+    1104663485,
+    1104662767,
+    1104663059,
+    1104663253,
+    1104663400,
+    1104663581,
+    1104662936,
+    1104663162,
+    1104663295,
+    1104663509,
+    1104662858,
+    1104663086,
+    1104663184,
+    1104663431,
+    1104662792,
+    1104662973,
+    1104663111,
+    1104663325,
+    1104663598,
+    1104662876,
+    1104663015,
+    1104663533,
+    1104662811,
+    1104662902,
+    1104663133,
+    1104663462,
+    1104662733,
+    1104663379,
+    1104663061,
+    1104662841,
+    1104663494,
+    1104663269,
+    1104663144,
+    1104662921,
+    1104663562,
+    1104663364,
+    1104663232,
+    1104663027,
+    1104662743
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université Sidi Mohammed Ben Abdellah"
+  }
+},
+{
+  "type": "way",
+  "id": 72852389,
+  "timestamp": "2014-09-05T15:34:16Z",
+  "version": 4,
+  "changeset": 25250997,
+  "user": "kamal fmpf",
+  "uid": 2313919,
+  "center": {
+    "lat": 34.0066545,
+    "lon": -4.9636028
+  },
+  "nodes": [
+    864594799,
+    864594800,
+    1636635067,
+    864594801,
+    864594802,
+    864594803,
+    864594804,
+    864594805,
+    864594806,
+    864594807,
+    864594799
+  ],
+  "tags": {
+    "addr:city": "Fès فاس",
+    "addr:postcode": "30000",
+    "addr:street": "Km 2.200 Route de sidi hrazem",
+    "amenity": "university",
+    "area": "yes",
+    "name": "Faculté de Medecine et de Pharmacie de Fès"
+  }
+},
+{
+  "type": "way",
+  "id": 167605627,
+  "timestamp": "2016-02-16T15:20:29Z",
+  "version": 2,
+  "changeset": 37247905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.0049334,
+    "lon": -4.9573098
+  },
+  "nodes": [
+    1789915772,
+    1789915770,
+    1789915769,
+    1789915773,
+    1789915772
+  ],
+  "tags": {
+    "addr:housename": "ISMOTICA",
+    "addr:postcode": "30000",
+    "addr:street": "ZONE FES-SHORE",
+    "amenity": "university",
+    "building": "school",
+    "designation": "INSTITUT SPECIALISE DANS LES METIERS DE L'OFFSHORING DES TIC ET L'AUDIOVISUEL",
+    "name": "Ismotica"
+  }
+}
+
+  ]
+}

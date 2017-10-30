@@ -1,0 +1,207 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/306089485",
+  "properties": {
+    "timestamp": "2015-07-27T08:07:21Z",
+    "version": 3,
+    "changeset": 32903370,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Hôpital El Farabi",
+    "name:fr": "Hôpital El Farabi",
+    "id": "way/306089485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.914488,
+      34.6755048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306127863",
+  "properties": {
+    "timestamp": "2014-10-03T15:07:35Z",
+    "version": 1,
+    "changeset": 25833762,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Centre Hospitalier Universitaire (CHU) Mohammed VI",
+    "name:fr": "Centre Hospitalier Universitaire (CHU) Mohammed VI",
+    "id": "way/306127863"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.910779,
+      34.6562437
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319795112",
+  "properties": {
+    "timestamp": "2015-01-01T00:45:32Z",
+    "version": 1,
+    "changeset": 27831415,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Centre de Santé Lamharchi",
+    "id": "way/319795112"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9356027,
+      34.6778842
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322172160",
+  "properties": {
+    "timestamp": "2015-01-15T04:14:30Z",
+    "version": 1,
+    "changeset": 28152848,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Polyclinique CNSS",
+    "id": "way/322172160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9113664,
+      34.6700246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322579233",
+  "properties": {
+    "timestamp": "2015-02-12T18:34:48Z",
+    "version": 3,
+    "changeset": 28802001,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Oujda",
+    "addr:housenumber": "12",
+    "addr:street": "Rue Abdelaziz Taalibi",
+    "amenity": "hospital",
+    "name": "Clinique Isly",
+    "phone": "+212 536700701",
+    "id": "way/322579233"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.925882,
+      34.6729664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/323165500",
+  "properties": {
+    "timestamp": "2015-01-20T01:26:43Z",
+    "version": 1,
+    "changeset": 28266992,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "L'Hôpital des Maladies Psychiatriques",
+    "id": "way/323165500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.8906515,
+      34.6800227
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/324065524",
+  "properties": {
+    "timestamp": "2015-01-24T20:21:39Z",
+    "version": 2,
+    "changeset": 28381650,
+    "user": "Yazid Ringo",
+    "uid": 2554696,
+    "amenity": "hospital",
+    "health_facility_type": "health_center",
+    "name": "Centre Mehdi Ibn Toumart",
+    "name:ar": "مركز المهدي ابن تومرت",
+    "id": "way/324065524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9020136,
+      34.7913823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/391290733",
+  "properties": {
+    "timestamp": "2016-11-24T14:22:25Z",
+    "version": 3,
+    "changeset": 43921801,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dispensaire El Aounia مستوصف العونية",
+    "name:ar": "مستوصف العونية",
+    "name:fr": "Dispensaire El Aounia",
+    "id": "way/391290733"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9007217,
+      34.6883068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/412853238",
+  "properties": {
+    "timestamp": "2016-04-22T23:14:56Z",
+    "version": 2,
+    "changeset": 38802377,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Hopital de Oncologie",
+    "id": "way/412853238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9839779,
+      34.6250716
+    ]
+  }
+}
+]
+}

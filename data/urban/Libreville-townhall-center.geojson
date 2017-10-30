@@ -1,0 +1,72 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/2804205",
+  "properties": {
+    "timestamp": "2014-03-25T15:25:46Z",
+    "version": 2,
+    "changeset": 21306835,
+    "user": "Baloss",
+    "uid": 1709247,
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Hotel de Ville",
+    "source": "bing",
+    "type": "multipolygon",
+    "id": "relation/2804205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4444889,
+      0.4104625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/249526244",
+  "properties": {
+    "timestamp": "2013-12-02T12:21:13Z",
+    "version": 1,
+    "changeset": 19232286,
+    "user": "johanemilsson",
+    "uid": 559500,
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Govt1",
+    "id": "way/249526244"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4391878,
+      0.4079906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4321193219",
+  "properties": {
+    "timestamp": "2016-07-26T13:28:42Z",
+    "version": 1,
+    "changeset": 41038176,
+    "user": "askywhale",
+    "uid": 740301,
+    "amenity": "townhall",
+    "name": "Mairie d'Owendo",
+    "id": "node/4321193219"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.482213,
+      0.3394468
+    ]
+  }
+}
+]
+}

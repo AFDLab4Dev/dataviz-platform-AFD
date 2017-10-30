@@ -1,0 +1,44 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 321997047,
+  "timestamp": "2015-01-14T14:23:52Z",
+  "version": 1,
+  "changeset": 28137636,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 4.9257790,
+    "lon": 9.8925528
+  },
+  "nodes": [
+    3287638892,
+    3287638899,
+    3287638920,
+    3287638933,
+    3287638944,
+    3287638957,
+    3287638952,
+    3287638903,
+    3287638893,
+    3287638889,
+    3287638887,
+    3287638888,
+    3287638892
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut Protestant de Theologie de Ndoungue"
+  }
+}
+
+  ]
+}

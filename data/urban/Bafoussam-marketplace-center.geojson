@@ -1,0 +1,485 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/209563533",
+  "properties": {
+    "timestamp": "2015-11-01T22:33:50Z",
+    "version": 7,
+    "changeset": 35023109,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/209563533"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3326583,
+      5.3898219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/212290338",
+  "properties": {
+    "timestamp": "2013-03-25T08:26:11Z",
+    "version": 1,
+    "changeset": 15488104,
+    "user": "Gilbert_Armand_OSM-CM",
+    "uid": 1269691,
+    "amenity": "marketplace",
+    "id": "way/212290338"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3682346,
+      5.3336148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222431556",
+  "properties": {
+    "timestamp": "2016-06-14T15:44:29Z",
+    "version": 2,
+    "changeset": 40020144,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "building": "yes",
+    "landuse": "retail",
+    "name": "Marché de Banefo",
+    "id": "way/222431556"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5005902,
+      5.4847294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/231100109",
+  "properties": {
+    "timestamp": "2013-07-24T14:01:02Z",
+    "version": 1,
+    "changeset": 17075913,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "way/231100109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.321027,
+      5.6007414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/231100110",
+  "properties": {
+    "timestamp": "2013-07-24T14:01:02Z",
+    "version": 1,
+    "changeset": 17075913,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "marketplace",
+    "name": "Marché de Nkuitso'o",
+    "id": "way/231100110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3363368,
+      5.6209413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/317354502",
+  "properties": {
+    "timestamp": "2015-11-01T17:46:16Z",
+    "version": 2,
+    "changeset": 35017478,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Casablanca",
+    "id": "way/317354502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3981272,
+      5.4922989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377154402",
+  "properties": {
+    "timestamp": "2015-10-27T15:33:32Z",
+    "version": 1,
+    "changeset": 34906057,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/377154402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3127554,
+      5.4387983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377878326",
+  "properties": {
+    "timestamp": "2016-06-11T13:22:41Z",
+    "version": 2,
+    "changeset": 39952563,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marche B",
+    "id": "way/377878326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4101018,
+      5.4875434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/389512298",
+  "properties": {
+    "timestamp": "2016-06-14T15:22:29Z",
+    "version": 4,
+    "changeset": 40019692,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marche A",
+    "id": "way/389512298"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4166558,
+      5.479082
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424940909",
+  "properties": {
+    "timestamp": "2016-06-14T14:46:53Z",
+    "version": 1,
+    "changeset": 40018985,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché SOCADA",
+    "id": "way/424940909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.407666,
+      5.4655453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424940910",
+  "properties": {
+    "timestamp": "2016-06-14T14:46:54Z",
+    "version": 1,
+    "changeset": 40018985,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Ndiembou-Kam",
+    "id": "way/424940910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.451302,
+      5.4385877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424940912",
+  "properties": {
+    "timestamp": "2016-06-14T14:46:54Z",
+    "version": 1,
+    "changeset": 40018985,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Petit Marché de Ndiandam",
+    "id": "way/424940912"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4283497,
+      5.4596956
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424942892",
+  "properties": {
+    "timestamp": "2016-06-15T15:36:24Z",
+    "version": 2,
+    "changeset": 40041128,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché des Fruits",
+    "id": "way/424942892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4192145,
+      5.4779969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424945862",
+  "properties": {
+    "timestamp": "2016-06-14T15:42:28Z",
+    "version": 1,
+    "changeset": 40020101,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Famleng",
+    "id": "way/424945862"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4675825,
+      5.4897591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424945864",
+  "properties": {
+    "timestamp": "2016-06-15T09:40:10Z",
+    "version": 2,
+    "changeset": 40034872,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/424945864"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4759879,
+      5.472519
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424946315",
+  "properties": {
+    "timestamp": "2016-06-14T15:44:29Z",
+    "version": 1,
+    "changeset": 40020144,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Tomdjo",
+    "id": "way/424946315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5247269,
+      5.4880798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425585870",
+  "properties": {
+    "timestamp": "2016-06-17T16:24:45Z",
+    "version": 1,
+    "changeset": 40098576,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché C",
+    "id": "way/425585870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4187068,
+      5.4827132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448047021",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:24Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/448047021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2980325,
+      5.5789035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454755819",
+  "properties": {
+    "timestamp": "2016-11-20T21:57:49Z",
+    "version": 1,
+    "changeset": 43833366,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/454755819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4149197,
+      5.3727326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/480380127",
+  "properties": {
+    "timestamp": "2017-03-14T11:20:57Z",
+    "version": 1,
+    "changeset": 46837512,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "id": "way/480380127"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.280556,
+      5.5561695
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/481369126",
+  "properties": {
+    "timestamp": "2017-03-19T13:21:24Z",
+    "version": 1,
+    "changeset": 46982219,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Big Mop",
+    "id": "way/481369126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4326021,
+      5.4845671
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4237480466",
+  "properties": {
+    "timestamp": "2016-06-11T13:45:31Z",
+    "version": 1,
+    "changeset": 39952966,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "marketplace",
+    "name": "Marché Oinion",
+    "id": "node/4237480466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4149776,
+      5.4804902
+    ]
+  }
+}
+]
+}

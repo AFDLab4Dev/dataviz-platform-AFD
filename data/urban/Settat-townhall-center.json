@@ -1,0 +1,51 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 449104045,
+  "timestamp": "2016-10-25T12:50:28Z",
+  "version": 5,
+  "changeset": 43157270,
+  "user": "ZakariaMKL",
+  "uid": 3870359,
+  "center": {
+    "lat": 33.0001740,
+    "lon": -7.6193198
+  },
+  "nodes": [
+    4460694664,
+    4460694663,
+    4460694673,
+    4460694674,
+    4460694645,
+    4460694644,
+    4460694676,
+    4460694677,
+    4460694683,
+    4460694685,
+    4460694687,
+    4460694686,
+    4460694684,
+    4460694680,
+    4460694682,
+    4460694681,
+    4460694679,
+    4460694678,
+    4460694664
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Palais Municipal de Settat"
+  }
+}
+
+  ]
+}

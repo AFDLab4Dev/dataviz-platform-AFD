@@ -1,0 +1,115 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/274100058",
+  "properties": {
+    "timestamp": "2016-02-06T11:42:36Z",
+    "version": 3,
+    "changeset": 37039180,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "building": "school",
+    "name": "Extension de la FST de Tanger",
+    "id": "way/274100058"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8958564,
+      35.7365551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/274100247",
+  "properties": {
+    "timestamp": "2016-10-22T10:56:46Z",
+    "version": 3,
+    "changeset": 43078642,
+    "user": "A_ Azyat",
+    "uid": 2429951,
+    "amenity": "university",
+    "building": "school",
+    "name": "ENSA de Tanger",
+    "id": "way/274100247"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.894977,
+      35.7369901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292666270",
+  "properties": {
+    "timestamp": "2014-07-14T01:47:07Z",
+    "version": 1,
+    "changeset": 24131447,
+    "user": "FablabTanger",
+    "uid": 2184439,
+    "amenity": "university",
+    "building": "public",
+    "name": "Atelier génie mécanique",
+    "id": "way/292666270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8921781,
+      35.7348539
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292666306",
+  "properties": {
+    "timestamp": "2016-02-06T11:42:36Z",
+    "version": 3,
+    "changeset": 37039180,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "building": "manufacture",
+    "designation": "FabLab",
+    "name": "FabLabTanger",
+    "id": "way/292666306"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8955695,
+      35.7365491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/763245718",
+  "properties": {
+    "timestamp": "2016-02-16T15:10:30Z",
+    "version": 3,
+    "changeset": 37247417,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "University Abdelmalek Essaadi",
+    "id": "node/763245718"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8918,
+      35.7344162
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,46 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/175819663",
+  "properties": {
+    "timestamp": "2013-11-04T09:37:52Z",
+    "version": 2,
+    "changeset": 18708623,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/175819663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.730239,
+      36.4510068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/244653126",
+  "properties": {
+    "timestamp": "2013-11-04T06:48:02Z",
+    "version": 1,
+    "changeset": 18706940,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/244653126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7401328,
+      36.4582255
+    ]
+  }
+}
+]
+}

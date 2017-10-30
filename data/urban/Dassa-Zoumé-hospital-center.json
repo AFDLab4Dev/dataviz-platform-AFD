@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 435464203,
+  "timestamp": "2016-08-03T13:09:10Z",
+  "version": 1,
+  "changeset": 41214364,
+  "user": "CMailly",
+  "uid": 3741436,
+  "center": {
+    "lat": 7.9154528,
+    "lon": 2.2722857
+  },
+  "nodes": [
+    4333807618,
+    4333807619,
+    4333807620,
+    4333807621,
+    4333807622,
+    4333807623,
+    4333807624,
+    4333807625,
+    4333807626,
+    4333807627,
+    4333807618
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Public Health Center"
+  }
+}
+
+  ]
+}

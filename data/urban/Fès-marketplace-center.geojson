@@ -1,0 +1,217 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/156534713",
+  "properties": {
+    "timestamp": "2012-03-23T21:16:54Z",
+    "version": 1,
+    "changeset": 11078605,
+    "user": "Rumpeltux",
+    "uid": 23451,
+    "amenity": "marketplace",
+    "name:en": "Fruit & Vegetable market",
+    "id": "way/156534713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9853467,
+      34.0617959
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1360122234",
+  "properties": {
+    "timestamp": "2016-03-31T07:13:29Z",
+    "version": 3,
+    "changeset": 38189108,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Kessaria",
+    "id": "node/1360122234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9743144,
+      34.0650207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1866538017",
+  "properties": {
+    "timestamp": "2012-08-14T22:47:45Z",
+    "version": 1,
+    "changeset": 12732963,
+    "user": "nono de codo",
+    "uid": 805747,
+    "amenity": "marketplace",
+    "name": "marché central",
+    "id": "node/1866538017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9982624,
+      34.0395164
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2001342005",
+  "properties": {
+    "timestamp": "2012-11-07T14:50:23Z",
+    "version": 1,
+    "changeset": 13786241,
+    "user": "Pavelsh",
+    "uid": 1031618,
+    "amenity": "marketplace",
+    "id": "node/2001342005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9951313,
+      34.0292175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2312523152",
+  "properties": {
+    "timestamp": "2013-05-20T07:54:38Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "amenity": "marketplace",
+    "name": "Quaat Smen Fondouk",
+    "id": "node/2312523152"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9807334,
+      34.0648188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2312523170",
+  "properties": {
+    "timestamp": "2013-05-20T07:54:39Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "amenity": "marketplace",
+    "name": "Fondouk Tazi",
+    "id": "node/2312523170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9800146,
+      34.06409
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2312523280",
+  "properties": {
+    "timestamp": "2013-05-20T07:54:40Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "amenity": "marketplace",
+    "name": "Souk el Henna",
+    "id": "node/2312523280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9750793,
+      34.0654854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2312523437",
+  "properties": {
+    "timestamp": "2016-03-31T07:17:37Z",
+    "version": 2,
+    "changeset": 38190042,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Place Seffarine",
+    "id": "node/2312523437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9727941,
+      34.0641478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2312523588",
+  "properties": {
+    "timestamp": "2013-05-20T07:54:52Z",
+    "version": 1,
+    "changeset": 16203915,
+    "user": "obitus",
+    "uid": 510390,
+    "amenity": "marketplace",
+    "name": "Tannerie Ain Azliten",
+    "id": "node/2312523588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.9804437,
+      34.0656009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4552318205",
+  "properties": {
+    "timestamp": "2016-12-16T17:43:40Z",
+    "version": 2,
+    "changeset": 44452495,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Marché de légumes سوق خضراوات",
+    "name:ar": "سوق خضراوات",
+    "name:en": "Vegetable Market",
+    "name:fr": "Marché de légumes",
+    "id": "node/4552318205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.0083665,
+      34.0060034
+    ]
+  }
+}
+]
+}

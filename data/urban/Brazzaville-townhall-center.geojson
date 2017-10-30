@@ -1,0 +1,266 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/64044252",
+  "properties": {
+    "timestamp": "2010-06-25T14:34:50Z",
+    "version": 2,
+    "changeset": 5074131,
+    "user": "Männedorf",
+    "uid": 105050,
+    "addr:street": "Avenue Kianza",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Commune de Ngaba",
+    "id": "way/64044252"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3189093,
+      -4.3750152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/67371794",
+  "properties": {
+    "timestamp": "2010-07-12T16:37:29Z",
+    "version": 1,
+    "changeset": 5200517,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Bureau de Quartier Yolo Nord",
+    "id": "way/67371794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3231226,
+      -4.3548501
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/341027474",
+  "properties": {
+    "timestamp": "2015-04-27T20:15:58Z",
+    "version": 1,
+    "changeset": 30558774,
+    "user": "Männedorf",
+    "uid": 105050,
+    "addr:city": "Kasa-Vubu",
+    "addr:street": "Avenue des Sports",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Maison communale",
+    "office": "administrative",
+    "id": "way/341027474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3024669,
+      -4.3422907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/370986947",
+  "properties": {
+    "timestamp": "2015-09-16T21:36:20Z",
+    "version": 1,
+    "changeset": 34071758,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville - Mairie de Brazzaville",
+    "id": "way/370986947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2784422,
+      -4.2789606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440012908",
+  "properties": {
+    "timestamp": "2009-07-11T09:22:25Z",
+    "version": 1,
+    "changeset": 1795054,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "townhall",
+    "name": "Maison communale de Masina",
+    "id": "node/440012908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3922286,
+      -4.3965806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1368355243",
+  "properties": {
+    "timestamp": "2011-07-20T21:24:31Z",
+    "version": 1,
+    "changeset": 8783256,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "townhall",
+    "is_in": "Ngiri Ngiri",
+    "name": "Maison communale",
+    "id": "node/1368355243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2981127,
+      -4.3592402
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2273811594",
+  "properties": {
+    "timestamp": "2017-04-01T15:39:04Z",
+    "version": 2,
+    "changeset": 47359408,
+    "user": "hebolz",
+    "uid": 2249513,
+    "amenity": "townhall",
+    "name": "Maison Communale de N'djili",
+    "source": "MSF survey 2016",
+    "id": "node/2273811594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3715427,
+      -4.4002594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2299738133",
+  "properties": {
+    "timestamp": "2013-05-11T15:06:24Z",
+    "version": 1,
+    "changeset": 16081400,
+    "user": "kadima_mbuyi",
+    "uid": 1232037,
+    "amenity": "townhall",
+    "name": "Maison communale Bandalungwa",
+    "id": "node/2299738133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2823616,
+      -4.3484958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291519892",
+  "properties": {
+    "timestamp": "2015-01-16T00:57:53Z",
+    "version": 1,
+    "changeset": 28176899,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "townhall",
+    "name": "Mairie de Poto-Poto",
+    "id": "node/3291519892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2846793,
+      -4.2666469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291519937",
+  "properties": {
+    "timestamp": "2015-01-16T00:57:54Z",
+    "version": 1,
+    "changeset": 28176899,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "townhall",
+    "name": "Mairie de Brazzaville (Annexe Léon)",
+    "id": "node/3291519937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.277617,
+      -4.2796172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4562373899",
+  "properties": {
+    "timestamp": "2016-12-19T20:55:03Z",
+    "version": 1,
+    "changeset": 44525754,
+    "user": "iamspartacus",
+    "uid": 4846421,
+    "amenity": "townhall",
+    "id": "node/4562373899"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3680845,
+      -4.3967777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4701499749",
+  "properties": {
+    "timestamp": "2017-02-23T14:11:44Z",
+    "version": 1,
+    "changeset": 46339658,
+    "user": "Don MADIKANI",
+    "uid": 5346162,
+    "amenity": "townhall",
+    "name": "Hotel de ville de Kinshasa",
+    "id": "node/4701499749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3084719,
+      -4.3061362
+    ]
+  }
+}
+]
+}

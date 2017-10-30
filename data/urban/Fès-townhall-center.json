@@ -1,0 +1,84 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2952750627,
+  "lat": 34.0360135,
+  "lon": -5.0026876,
+  "timestamp": "2017-01-22T17:51:00Z",
+  "version": 3,
+  "changeset": 45374941,
+  "user": "alain2003",
+  "uid": 578772,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Siége de la Région de Fès Meknes"
+  }
+},
+{
+  "type": "node",
+  "id": 4614900032,
+  "lat": 34.0362592,
+  "lon": -5.0025307,
+  "timestamp": "2017-01-17T21:11:31Z",
+  "version": 1,
+  "changeset": 45254854,
+  "user": "commune de Fes",
+  "uid": 3811485,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Siège de la wilaya de Fès"
+  }
+},
+{
+  "type": "way",
+  "id": 394171829,
+  "timestamp": "2016-12-21T07:05:28Z",
+  "version": 5,
+  "changeset": 44557952,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.0344907,
+    "lon": -5.0162787
+  },
+  "nodes": [
+    3971855325,
+    3971855307,
+    3971866637,
+    3971866276,
+    3971865761,
+    3971866557,
+    3971866333,
+    3971866589,
+    3971865979,
+    3971866024,
+    3971866563,
+    3971866897,
+    3971866633,
+    3971866597,
+    3971855325
+  ],
+  "tags": {
+    "addr:city": "Fès فاس",
+    "addr:postcode": "30000",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "wlan",
+    "name": "Commune de Fès جماعة فاس",
+    "name:ar": "جماعة فاس",
+    "name:fr": "Commune de Fès",
+    "website": "http://www.fes.ma"
+  }
+}
+
+  ]
+}

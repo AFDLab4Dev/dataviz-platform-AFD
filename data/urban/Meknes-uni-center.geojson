@@ -1,0 +1,216 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/292597797",
+  "properties": {
+    "timestamp": "2016-03-19T20:10:01Z",
+    "version": 5,
+    "changeset": 37943993,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Meknès مكناس",
+    "addr:pobox": "BP 3104",
+    "addr:postcode": "50000",
+    "addr:street": "Toulal",
+    "amenity": "university",
+    "name": "Ecole Normale Supérieure (ENS) - Meknès",
+    "name:ar": "المدرسة العليا للأساتذة",
+    "note": "école normale supérieure de Meknès - université My Ismaël - Meknès",
+    "phone": "+212 535533885",
+    "website": "http://www.ens-meknes.ma",
+    "id": "way/292597797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5974688,
+      33.8883812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/292598821",
+  "properties": {
+    "timestamp": "2016-03-19T20:10:02Z",
+    "version": 4,
+    "changeset": 37943993,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Meknès مكناس",
+    "addr:pobox": "BP 3102",
+    "addr:postcode": "50000",
+    "addr:street": "Toulal",
+    "amenity": "university",
+    "area": "yes",
+    "designation": "University",
+    "name": "Faculté des Sciences Juridiques, Economiques et Sociales",
+    "name:ar": "كلية العلوم القانونية والاقتصادية والاجتماعية",
+    "phone": "+212 5 35 45 20 96",
+    "website": "http://www.fsjes-umi.ac.ma",
+    "id": "way/292598821"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5853671,
+      33.8843503
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307417838",
+  "properties": {
+    "timestamp": "2014-10-13T19:00:38Z",
+    "version": 2,
+    "changeset": 26056111,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "Ecole supérieure de Technologie - EST",
+    "id": "way/307417838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5796974,
+      33.8573981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307418363",
+  "properties": {
+    "timestamp": "2016-02-16T15:20:26Z",
+    "version": 4,
+    "changeset": 37247905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Ensam - Ecole Nationale Supérieure d'Arts et Métiers",
+    "name:ar": "المدرسة الوطنية للفنون والمهن",
+    "id": "way/307418363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5719918,
+      33.8569349
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307418410",
+  "properties": {
+    "timestamp": "2014-10-13T19:00:11Z",
+    "version": 2,
+    "changeset": 26056111,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "Présidence de l'Université Moulay Ismail",
+    "id": "way/307418410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5738528,
+      33.8560658
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308237140",
+  "properties": {
+    "timestamp": "2014-10-17T14:58:06Z",
+    "version": 1,
+    "changeset": 26147340,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "CPGE - EC",
+    "id": "way/308237140"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5459813,
+      33.9031452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3124687004",
+  "properties": {
+    "timestamp": "2014-10-11T20:59:15Z",
+    "version": 1,
+    "changeset": 26013522,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "Ecole Normale Supérieure (ENS)",
+    "id": "node/3124687004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5973436,
+      33.8884317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4769773274",
+  "properties": {
+    "timestamp": "2017-04-01T16:44:37Z",
+    "version": 1,
+    "changeset": 47361245,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "building": "university",
+    "name": "Faculté des sciences (UMI)",
+    "name:ar": "كلية العلوم - جامعة مولاي اسماعيل",
+    "id": "node/4769773274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5442172,
+      33.8677659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4769778321",
+  "properties": {
+    "timestamp": "2017-04-01T16:45:58Z",
+    "version": 1,
+    "changeset": 47361274,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "building": "university",
+    "name": "Faculté des Lettres et des sciences humaines",
+    "name:ar": "كلية الأداب والعلوم الانسانية",
+    "id": "node/4769778321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5408616,
+      33.8699378
+    ]
+  }
+}
+]
+}

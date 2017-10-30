@@ -1,0 +1,153 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/122398955",
+  "properties": {
+    "timestamp": "2017-02-19T13:35:06Z",
+    "version": 3,
+    "changeset": 46215918,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hopital Mohammed V",
+    "id": "way/122398955"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8282592,
+      35.7781906
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/411183375",
+  "properties": {
+    "timestamp": "2016-04-17T23:08:18Z",
+    "version": 1,
+    "changeset": 38653993,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "id": "way/411183375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.9218168,
+      35.6830718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/475665966",
+  "properties": {
+    "timestamp": "2017-02-19T18:05:13Z",
+    "version": 1,
+    "changeset": 46222782,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "hospital",
+    "name": "Hôpital Mohammed VI",
+    "id": "way/475665966"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.828373,
+      35.7509463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/616475031",
+  "properties": {
+    "timestamp": "2010-01-18T22:13:22Z",
+    "version": 1,
+    "changeset": 3654729,
+    "user": "icherifm",
+    "uid": 220727,
+    "amenity": "hospital",
+    "name": "Hopital Italien",
+    "id": "node/616475031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8212234,
+      35.7844639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1892224172",
+  "properties": {
+    "timestamp": "2012-08-31T20:25:37Z",
+    "version": 1,
+    "changeset": 12935748,
+    "user": "Ouad Bob",
+    "uid": 848948,
+    "amenity": "hospital",
+    "name": "Croissant Rouge",
+    "id": "node/1892224172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8098756,
+      35.7777611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2849460569",
+  "properties": {
+    "timestamp": "2014-05-10T23:17:41Z",
+    "version": 1,
+    "changeset": 22260744,
+    "user": "Jlux",
+    "uid": 2067123,
+    "alt_name": "Sbitar Spanyol",
+    "amenity": "hospital",
+    "name": "Hopital Español",
+    "id": "node/2849460569"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.821808,
+      35.7780655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3447148812",
+  "properties": {
+    "timestamp": "2015-07-05T19:56:24Z",
+    "version": 2,
+    "changeset": 32434144,
+    "user": "malta-dinger",
+    "uid": 96382,
+    "amenity": "hospital",
+    "name": "hôpital al kortobi",
+    "id": "node/3447148812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.8183775,
+      35.7895028
+    ]
+  }
+}
+]
+}

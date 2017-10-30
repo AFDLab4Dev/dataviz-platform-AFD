@@ -1,0 +1,461 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/203192242",
+  "properties": {
+    "timestamp": "2016-05-12T14:47:48Z",
+    "version": 5,
+    "changeset": 39269295,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Central",
+    "name:en": "Central Market",
+    "id": "way/203192242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.331184,
+      10.6041447
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/203192401",
+  "properties": {
+    "timestamp": "2016-05-13T13:38:37Z",
+    "version": 4,
+    "changeset": 39291812,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Abatoir",
+    "id": "way/203192401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3305127,
+      10.606831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/273385539",
+  "properties": {
+    "timestamp": "2016-05-10T10:37:36Z",
+    "version": 2,
+    "changeset": 39212646,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "marché à bétail de Maroua",
+    "id": "way/273385539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3217887,
+      10.5859581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416900254",
+  "properties": {
+    "timestamp": "2016-05-10T09:05:12Z",
+    "version": 1,
+    "changeset": 39210333,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "MINADER/PARFA marché de bétail",
+    "id": "way/416900254"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2408709,
+      10.4616109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416900256",
+  "properties": {
+    "timestamp": "2016-05-10T09:05:13Z",
+    "version": 1,
+    "changeset": 39210333,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Carrefour GAKLE",
+    "id": "way/416900256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2642602,
+      10.5227735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416900259",
+  "properties": {
+    "timestamp": "2016-05-10T09:05:14Z",
+    "version": 1,
+    "changeset": 39210333,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Meskine",
+    "id": "way/416900259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2526865,
+      10.5555326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416900263",
+  "properties": {
+    "timestamp": "2016-05-10T09:05:15Z",
+    "version": 1,
+    "changeset": 39210333,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Salak",
+    "id": "way/416900263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.24065,
+      10.4576276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416900266",
+  "properties": {
+    "timestamp": "2016-05-10T09:05:15Z",
+    "version": 1,
+    "changeset": 39210333,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Petit marché de l'hopital de Meskine",
+    "id": "way/416900266"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2525735,
+      10.5598358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416908080",
+  "properties": {
+    "timestamp": "2016-05-10T09:32:32Z",
+    "version": 1,
+    "changeset": 39211023,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Petit marché du pont",
+    "id": "way/416908080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2814734,
+      10.5765296
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416933633",
+  "properties": {
+    "timestamp": "2016-05-10T10:37:13Z",
+    "version": 1,
+    "changeset": 39212646,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Poisson",
+    "id": "way/416933633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3180915,
+      10.5887357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416933643",
+  "properties": {
+    "timestamp": "2016-05-10T10:37:14Z",
+    "version": 1,
+    "changeset": 39212646,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "id": "way/416933643"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2890781,
+      10.6022426
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416941675",
+  "properties": {
+    "timestamp": "2016-05-10T10:57:44Z",
+    "version": 1,
+    "changeset": 39213121,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché comice",
+    "id": "way/416941675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3217283,
+      10.5903032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416948027",
+  "properties": {
+    "timestamp": "2016-05-10T11:12:57Z",
+    "version": 1,
+    "changeset": 39213462,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché KOTBAWO",
+    "id": "way/416948027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3111504,
+      10.6019602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417520424",
+  "properties": {
+    "timestamp": "2016-05-12T09:14:46Z",
+    "version": 1,
+    "changeset": 39261418,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "petit marché pont-vert",
+    "id": "way/417520424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3378498,
+      10.5991227
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417527994",
+  "properties": {
+    "timestamp": "2016-05-12T09:49:29Z",
+    "version": 1,
+    "changeset": 39262437,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché ZOKOK",
+    "id": "way/417527994"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3170303,
+      10.6026504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417617515",
+  "properties": {
+    "timestamp": "2016-05-12T14:47:25Z",
+    "version": 1,
+    "changeset": 39269295,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "name": "Marché Noir",
+    "id": "way/417617515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3352263,
+      10.6023872
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417622124",
+  "properties": {
+    "timestamp": "2016-05-12T15:17:41Z",
+    "version": 1,
+    "changeset": 39270247,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de kodek",
+    "id": "way/417622124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4104553,
+      10.6543276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417853530",
+  "properties": {
+    "timestamp": "2016-05-13T11:21:57Z",
+    "version": 1,
+    "changeset": 39289384,
+    "user": "Atangana Jacques Landry",
+    "uid": 1281635,
+    "amenity": "marketplace",
+    "name": "Complexe Artisanale de Maroua",
+    "id": "way/417853530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2914705,
+      10.5881663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417853532",
+  "properties": {
+    "timestamp": "2016-05-13T11:21:57Z",
+    "version": 1,
+    "changeset": 39289384,
+    "user": "Atangana Jacques Landry",
+    "uid": 1281635,
+    "amenity": "marketplace",
+    "name": "Complexe artisanale",
+    "id": "way/417853532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2829651,
+      10.5802445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417893839",
+  "properties": {
+    "timestamp": "2016-05-13T14:19:47Z",
+    "version": 1,
+    "changeset": 39292049,
+    "user": "Atangana Jacques Landry",
+    "uid": 1281635,
+    "amenity": "marketplace",
+    "name": "Programme d'appui au développement des filières Agricoles",
+    "id": "way/417893839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2908336,
+      10.5922185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2294901959",
+  "properties": {
+    "timestamp": "2013-05-07T17:01:07Z",
+    "version": 1,
+    "changeset": 16014508,
+    "user": "Jorieke V",
+    "uid": 378610,
+    "amenity": "marketplace",
+    "id": "node/2294901959"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3165436,
+      10.6022235
+    ]
+  }
+}
+]
+}

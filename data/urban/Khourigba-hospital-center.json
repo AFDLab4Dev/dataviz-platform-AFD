@@ -1,0 +1,73 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 400838908,
+  "timestamp": "2016-02-29T19:01:30Z",
+  "version": 1,
+  "changeset": 37527991,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 32.8814293,
+    "lon": -6.9073889
+  },
+  "nodes": [
+    4033451042,
+    4033451320,
+    4033451650,
+    4033451678,
+    4033451080,
+    4033451071,
+    4033451592,
+    4033451328,
+    4033451082,
+    4033451075,
+    4033451670,
+    4033451668,
+    4033451652,
+    4033451057,
+    4033451042
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital OCP"
+  }
+},
+{
+  "type": "way",
+  "id": 312980511,
+  "timestamp": "2014-11-15T19:54:49Z",
+  "version": 1,
+  "changeset": 26806866,
+  "user": "BTH",
+  "uid": 481447,
+  "center": {
+    "lat": 32.8925762,
+    "lon": -6.9060318
+  },
+  "nodes": [
+    3188957455,
+    3188957456,
+    3188957457,
+    3188957458,
+    3188957459,
+    3188957460,
+    3188962961,
+    3188957455
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Hassan II"
+  }
+}
+
+  ]
+}

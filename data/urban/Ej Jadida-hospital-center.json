@@ -1,0 +1,268 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1787435914,
+  "lat": 33.2839717,
+  "lon": -8.3538118,
+  "timestamp": "2012-06-14T14:57:46Z",
+  "version": 1,
+  "changeset": 11895493,
+  "user": "meloma",
+  "uid": 557857,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 320954116,
+  "timestamp": "2015-01-08T11:01:13Z",
+  "version": 1,
+  "changeset": 27992210,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2431155,
+    "lon": -8.5305848
+  },
+  "nodes": [
+    3276578725,
+    3276578669,
+    3276578642,
+    3276578681,
+    3276578725
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Essaada"
+  }
+},
+{
+  "type": "way",
+  "id": 320947339,
+  "timestamp": "2015-01-08T10:10:15Z",
+  "version": 1,
+  "changeset": 27992210,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2465700,
+    "lon": -8.5194670
+  },
+  "nodes": [
+    3276516799,
+    3276516815,
+    3276516785,
+    3276516789,
+    3276515857,
+    3276516833,
+    3276515845,
+    3276515847,
+    3276516844,
+    3276516780,
+    3276516799
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique CNSS"
+  }
+},
+{
+  "type": "way",
+  "id": 320947340,
+  "timestamp": "2015-01-08T10:10:16Z",
+  "version": 1,
+  "changeset": 27992210,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2459395,
+    "lon": -8.5119542
+  },
+  "nodes": [
+    3276516838,
+    3276516774,
+    3276515858,
+    3276516828,
+    3276516766,
+    3276516784,
+    3276516838
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Croissant Rouge Marocain"
+  }
+},
+{
+  "type": "way",
+  "id": 322202369,
+  "timestamp": "2015-01-15T09:51:18Z",
+  "version": 1,
+  "changeset": 28155695,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2491755,
+    "lon": -8.5080323
+  },
+  "nodes": [
+    3289719489,
+    3289717553,
+    3289719472,
+    3289719465,
+    3289719484,
+    3289719471,
+    3289719489
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Doukkala"
+  }
+},
+{
+  "type": "way",
+  "id": 322202376,
+  "timestamp": "2015-01-15T09:51:19Z",
+  "version": 1,
+  "changeset": 28155695,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2487606,
+    "lon": -8.5104201
+  },
+  "nodes": [
+    3289719479,
+    3289717550,
+    3289719483,
+    3289717554,
+    3289719473,
+    3289719479
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre d'Hémodialyse Moulay Abdellah"
+  }
+},
+{
+  "type": "way",
+  "id": 320939008,
+  "timestamp": "2015-01-08T09:17:11Z",
+  "version": 1,
+  "changeset": 27992210,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2508557,
+    "lon": -8.5092263
+  },
+  "nodes": [
+    3276440579,
+    3276440586,
+    3276440603,
+    3276440577,
+    3276440587,
+    3276440605,
+    3276440578,
+    3276440579
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Mohamed V"
+  }
+},
+{
+  "type": "way",
+  "id": 320778512,
+  "timestamp": "2015-01-07T09:48:59Z",
+  "version": 1,
+  "changeset": 27972857,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2360803,
+    "lon": -8.4793946
+  },
+  "nodes": [
+    3274239466,
+    3274239431,
+    3274239534,
+    3274238642,
+    3274238631,
+    3274239299,
+    3274239326,
+    3274239329,
+    3274239470,
+    3274239466
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Nouveau Hôpital Provincial d'El Jadida"
+  }
+},
+{
+  "type": "way",
+  "id": 320833372,
+  "timestamp": "2015-01-07T16:50:41Z",
+  "version": 1,
+  "changeset": 27979847,
+  "user": "asatue",
+  "uid": 2511305,
+  "center": {
+    "lat": 33.2437360,
+    "lon": -8.4926917
+  },
+  "nodes": [
+    3274781767,
+    3274781766,
+    3274781797,
+    3274781857,
+    3274781776,
+    3274781829,
+    3274781796,
+    3274781890,
+    3274781893,
+    3274781767
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Les Palmiers"
+  }
+},
+{
+  "type": "way",
+  "id": 167316961,
+  "timestamp": "2012-06-14T12:39:17Z",
+  "version": 1,
+  "changeset": 11894832,
+  "user": "meloma",
+  "uid": 557857,
+  "center": {
+    "lat": 33.2840335,
+    "lon": -8.3539011
+  },
+  "nodes": [
+    1787231815,
+    1787231814,
+    1787231870,
+    1787231872,
+    1787231815
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Polyclinique",
+    "emergency": "yes",
+    "name": "Polyclinique"
+  }
+}
+
+  ]
+}

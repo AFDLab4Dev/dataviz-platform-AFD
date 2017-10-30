@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/90358424",
+  "properties": {
+    "timestamp": "2014-06-22T22:47:09Z",
+    "version": 4,
+    "changeset": 23091031,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville de Yamoussoukro",
+    "id": "way/90358424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2665499,
+      6.8358444
+    ]
+  }
+}
+]
+}

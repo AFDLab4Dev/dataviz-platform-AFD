@@ -1,0 +1,491 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/94849536",
+  "properties": {
+    "timestamp": "2015-02-13T21:43:29Z",
+    "version": 6,
+    "changeset": 28831065,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Faculté de théologie évangélique de l'alliance chrétienne (FATEAC)",
+    "id": "way/94849536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.943785,
+      5.3271796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171060498",
+  "properties": {
+    "timestamp": "2012-07-11T17:11:14Z",
+    "version": 2,
+    "changeset": 12188140,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "university",
+    "name": "Lycée professionnel commercial de Yopougon",
+    "source": "formation.gouv.ci",
+    "id": "way/171060498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0777268,
+      5.358536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/229640215",
+  "properties": {
+    "timestamp": "2013-07-12T08:02:06Z",
+    "version": 1,
+    "changeset": 16922721,
+    "user": "desmanois",
+    "uid": 1634648,
+    "amenity": "university",
+    "name": "Cité Universitaire",
+    "operator": "Université",
+    "id": "way/229640215"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0241195,
+      5.367727
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/229641347",
+  "properties": {
+    "timestamp": "2013-07-12T08:31:51Z",
+    "version": 1,
+    "changeset": 16922988,
+    "user": "desmanois",
+    "uid": 1634648,
+    "amenity": "university",
+    "name": "Cite Universitaire",
+    "operator": "Universite",
+    "id": "way/229641347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0241382,
+      5.3669833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/238216693",
+  "properties": {
+    "timestamp": "2017-03-22T09:43:00Z",
+    "version": 13,
+    "changeset": 47063120,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Abobo",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "alt_name": "Université d’Abobo-Adjamé",
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Université Nangui Abrogoua",
+    "note": "L'université Nangui Abrogoua est, avec l'université Félix Houphouët-Boigny, l'une des deux universités publiques d'Abidjan, la capitale économique de la Côte d'Ivoire. Son actuel président est le professeur Tano Yao et le vice-président est Laciné Couliba",
+    "source": "https://secure.wikimedia.org/wikipedia/fr/wiki/Universit%C3%A9_Nangui_Abrogoua",
+    "website": "http://www.univ-na.edu.ci/",
+    "wheelchair": "yes",
+    "wikidata": "Q3551460",
+    "wikipedia": "fr:Université Nangui Abrogoua",
+    "id": "way/238216693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0149973,
+      5.3891765
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243412169",
+  "properties": {
+    "timestamp": "2016-03-08T11:29:46Z",
+    "version": 8,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "name": "Académie régionale des sciences et techniques de la mer (ARSTM)",
+    "source": "raw guess",
+    "url": "http://www.arstm.org",
+    "website": "http://www.arstm.org",
+    "id": "way/243412169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.1182,
+      5.3163273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243448897",
+  "properties": {
+    "timestamp": "2016-03-05T09:26:17Z",
+    "version": 7,
+    "changeset": 37623725,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housename": "l'École nationale d'administration (ENA)",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue J32",
+    "addr:suburb": "Deux Plateaux",
+    "amenity": "university",
+    "barrier": "fence",
+    "is_in": "Deux Plateaux;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "École nationale d'administration (ENA)",
+    "operator": "Ministère de la fonction publique et de l'emploi",
+    "id": "way/243448897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9971217,
+      5.3613474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315643220",
+  "properties": {
+    "timestamp": "2016-03-08T11:30:50Z",
+    "version": 7,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "building": "school",
+    "name": "Université Charles-Louis-de-Montesquieux",
+    "id": "way/315643220"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9953798,
+      5.3399648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2443106746",
+  "properties": {
+    "timestamp": "2016-06-16T17:05:05Z",
+    "version": 4,
+    "changeset": 40072015,
+    "user": "Anebo Philippe",
+    "uid": 2231043,
+    "amenity": "university",
+    "name": "Annexe1 Université Nangui Abrogoua",
+    "id": "node/2443106746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0130662,
+      5.4272612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3143709995",
+  "properties": {
+    "timestamp": "2014-10-22T12:48:35Z",
+    "version": 1,
+    "changeset": 26255066,
+    "user": "BALLO LASSINAN",
+    "uid": 2399720,
+    "amenity": "university",
+    "name": "DEPS",
+    "id": "node/3143709995"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0104819,
+      5.3495009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3283752496",
+  "properties": {
+    "timestamp": "2015-05-09T11:13:05Z",
+    "version": 2,
+    "changeset": 30933921,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "Université Catholique de l'Afrique de l'Ouest (UCAO)",
+    "operator": "Conférence épiscopale régionale de l'Afrique de l'Ouest (CERAO)",
+    "id": "node/3283752496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9966317,
+      5.3313756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3319181792",
+  "properties": {
+    "timestamp": "2015-02-27T00:06:09Z",
+    "version": 2,
+    "changeset": 29125784,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "Université de l'Atlantique",
+    "id": "node/3319181792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9946092,
+      5.3707728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3406198872",
+  "properties": {
+    "timestamp": "2015-03-18T22:02:53Z",
+    "version": 2,
+    "changeset": 29580962,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housenumber": "181",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue J36",
+    "addr:suburb": "Deux Plateaux",
+    "amenity": "university",
+    "building": "yes",
+    "name": "IPMC - College of Technology",
+    "office": "it",
+    "phone": "+225-04.87.65.66",
+    "website": "http://www.ipmctraining.com/",
+    "id": "node/3406198872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9950326,
+      5.3620957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3536491427",
+  "properties": {
+    "timestamp": "2015-05-24T00:40:14Z",
+    "version": 2,
+    "changeset": 31409901,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "building": "university",
+    "name": "Université Nord-Sud",
+    "id": "node/3536491427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9798412,
+      5.2557335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3556430505",
+  "properties": {
+    "timestamp": "2016-03-08T11:31:13Z",
+    "version": 2,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "university",
+    "name": "GECOS FORMATION",
+    "id": "node/3556430505"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0572892,
+      5.3474465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4411477987",
+  "properties": {
+    "timestamp": "2016-11-05T15:43:09Z",
+    "version": 2,
+    "changeset": 43424234,
+    "user": "projet_carteinnov",
+    "uid": 4786719,
+    "addr:full": "Boulevard François Mitterrand, Rivera 3, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "info@ucasm.org",
+    "contact:phone": "+225 22476316",
+    "contact:website": "http://ucasm.org",
+    "description": "L'Université Canadienne offre en plus des formations continues et des certificats divers, des programmes de bachelor en administration des affaires, en droit, un programme de DESS en gestion de projet et un programme de MBA pour cadres.",
+    "name": "Université Canadienne des Arts, des Sciences et du Management",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UC-ASM",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-20",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1998",
+    "id": "node/4411477987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9662984,
+      5.3576524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4411583886",
+  "properties": {
+    "timestamp": "2016-11-05T15:25:04Z",
+    "version": 2,
+    "changeset": 43423882,
+    "user": "projet_carteinnov",
+    "uid": 4786719,
+    "addr:full": "Non loin de l'Université Félix Houphouet Boigny, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "info@umeci.org.ci",
+    "contact:phone": "+225 22446668",
+    "contact:website": "http://umeci.org.ci",
+    "description": "L'UMECI forme les étudiants aux niveaux suivants: BTS, Licence Professionnelle et aussi des UFR Sciences juridique, UFR Sciences économique et de gestion, UFR lettre, langue et civilisation.",
+    "name": "Université Méthodiste de Côte d'Ivoire",
+    "operator:type": "private",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UMECI",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-09-20",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "2006",
+    "id": "node/4411583886"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9932453,
+      5.3475404
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4436461938",
+  "properties": {
+    "timestamp": "2016-11-06T10:09:31Z",
+    "version": 3,
+    "changeset": 43437743,
+    "user": "aurelien kouame",
+    "uid": 1730363,
+    "addr:full": "Boulevard de l'Université, Cocody, Abidjan, Côte d'Ivoire",
+    "amenity": "university",
+    "contact:email": "courrier@univ-fhb.edu.ci",
+    "contact:facebook": "www.facebook.com/univfhb",
+    "contact:twitter": "http://twitter.com/univfhb",
+    "contact:website": "http://univ-fhb.edu.ci",
+    "description": "L'UFHB assure des missions d'enseignement et de recherche au sein de zeize (16) structures dont 13 unités de formation et de recherche (UFR) et 2 centres de recherche autonomes, une école de formation continue et des instituts.",
+    "name": "Université Felix Houphouet Boigny",
+    "operator": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique",
+    "operator:type": "public",
+    "project:oif-dfen_carteinnov": "yes",
+    "short_name": "UFHB",
+    "source": "local_knowledge;oif-dfen_carteinnov",
+    "source:date": "2016-10-07",
+    "source:geometry": "survey;oif-dfen_carteinnov",
+    "start_date": "1958",
+    "id": "node/4436461938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.987016,
+      5.3443352
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4459066851",
+  "properties": {
+    "timestamp": "2016-10-22T12:42:21Z",
+    "version": 2,
+    "changeset": 43080466,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "university",
+    "name": "Grand Seminaire Saint Paul d’Abadjin-Kouté",
+    "id": "node/4459066851"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.1562116,
+      5.3196799
+    ]
+  }
+}
+]
+}

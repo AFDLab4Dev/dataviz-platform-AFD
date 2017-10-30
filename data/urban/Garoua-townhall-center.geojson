@@ -1,0 +1,91 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/221970522",
+  "properties": {
+    "timestamp": "2013-05-18T11:59:55Z",
+    "version": 1,
+    "changeset": 16179169,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "townhall",
+    "name": "Hotel de ville",
+    "id": "way/221970522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3942788,
+      9.3069491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222778716",
+  "properties": {
+    "timestamp": "2013-05-24T12:00:49Z",
+    "version": 2,
+    "changeset": 16264684,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Commune urbaine Garoua II",
+    "source": "MEADEN",
+    "id": "way/222778716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3985283,
+      9.3190735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306351",
+  "properties": {
+    "timestamp": "2010-12-27T07:19:29Z",
+    "version": 1,
+    "changeset": 6774668,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "townhall",
+    "name": "Inspection d'arrondissement des ensigngnement premiere",
+    "id": "node/1067306351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5078791,
+      9.3859489
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306380",
+  "properties": {
+    "timestamp": "2010-12-27T07:19:29Z",
+    "version": 1,
+    "changeset": 6774668,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "townhall",
+    "name": "MinaderDelegation d'arrondissement de Pitoa",
+    "id": "node/1067306380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5095058,
+      9.3884739
+    ]
+  }
+}
+]
+}

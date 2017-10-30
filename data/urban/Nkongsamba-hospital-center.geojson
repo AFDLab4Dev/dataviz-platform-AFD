@@ -1,0 +1,48 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/321997046",
+  "properties": {
+    "timestamp": "2016-04-01T21:15:41Z",
+    "version": 2,
+    "changeset": 38237967,
+    "user": "magicgate",
+    "uid": 2155856,
+    "amenity": "hospital",
+    "name": "Hôpital de Ndoungue",
+    "id": "way/321997046"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8944005,
+      4.9212343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/365665302",
+  "properties": {
+    "timestamp": "2017-03-09T19:12:55Z",
+    "version": 2,
+    "changeset": 46719136,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hopital de district de Melong centre",
+    "operator": "MINSANTE",
+    "id": "way/365665302"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.9437129,
+      5.1185833
+    ]
+  }
+}
+]
+}

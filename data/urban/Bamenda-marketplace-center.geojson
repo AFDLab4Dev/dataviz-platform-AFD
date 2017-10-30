@@ -1,0 +1,140 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/163214645",
+  "properties": {
+    "timestamp": "2017-03-16T13:37:01Z",
+    "version": 6,
+    "changeset": 46898537,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bamenda City Main Market",
+    "name:fr": "Marché principal de Bamenda",
+    "id": "way/163214645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1509023,
+      5.9538261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309167327",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:20Z",
+    "version": 3,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Mbon Market",
+    "note": "Purchase meet, clothes, fruits, vegetables, and basic goods.",
+    "id": "way/309167327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.0139289,
+      5.9982908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/403273772",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:22Z",
+    "version": 3,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bamenda food market",
+    "name:fr": "Marché alimentaire de Bamenda",
+    "id": "way/403273772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1475504,
+      5.9576644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/433088255",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:23Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Mile 4 market",
+    "id": "way/433088255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1843645,
+      5.9928625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453057875",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:29Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Market",
+    "id": "way/453057875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.2521109,
+      5.8393257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454567852",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:32Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bafut Central Market",
+    "id": "way/454567852"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1176689,
+      6.0872824
+    ]
+  }
+}
+]
+}

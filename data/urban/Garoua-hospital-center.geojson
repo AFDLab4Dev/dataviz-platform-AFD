@@ -1,0 +1,575 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/221178404",
+  "properties": {
+    "timestamp": "2014-01-03T20:12:39Z",
+    "version": 2,
+    "changeset": 19794280,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Infirmerie",
+    "id": "way/221178404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4038975,
+      9.319093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221488873",
+  "properties": {
+    "timestamp": "2013-05-16T11:39:45Z",
+    "version": 2,
+    "changeset": 16151897,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Hôpital régionale de Garoua",
+    "source": "MEADEN",
+    "id": "way/221488873"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3880241,
+      9.3049217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221598901",
+  "properties": {
+    "timestamp": "2013-05-16T11:39:41Z",
+    "version": 1,
+    "changeset": 16151897,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "description": "Unité de recherche médicale, de santé publique et de formation médicale",
+    "name": "Centre pasteur",
+    "note:date de création": "1985",
+    "id": "way/221598901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3863,
+      9.3061048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221851738",
+  "properties": {
+    "timestamp": "2013-05-17T15:20:10Z",
+    "version": 1,
+    "changeset": 16168817,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "name": "Hôpital de la Garnison",
+    "source": "MEADEN",
+    "id": "way/221851738"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3922405,
+      9.3164782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222757439",
+  "properties": {
+    "timestamp": "2013-05-23T11:33:51Z",
+    "version": 1,
+    "changeset": 16251022,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Centre de santé integré de poumpoumré",
+    "source": "MEADEN",
+    "id": "way/222757439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4109011,
+      9.3333522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226093209",
+  "properties": {
+    "timestamp": "2016-11-05T22:55:53Z",
+    "version": 2,
+    "changeset": 43432100,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Hôpital de la CNPS",
+    "source": "MEADEN",
+    "id": "way/226093209"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.39158,
+      9.3028304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226234145",
+  "properties": {
+    "timestamp": "2013-06-18T10:23:05Z",
+    "version": 1,
+    "changeset": 16601589,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé intégré de Kolléré",
+    "source": "MEADEN",
+    "id": "way/226234145"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3884062,
+      9.3034632
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226401757",
+  "properties": {
+    "timestamp": "2015-02-21T20:50:16Z",
+    "version": 2,
+    "changeset": 29008218,
+    "user": "cdavila",
+    "uid": 26599,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre de santé integré de Roumde-adjia",
+    "source": "MEADEN",
+    "id": "way/226401757"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.393645,
+      9.3279567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226540314",
+  "properties": {
+    "timestamp": "2013-06-20T10:19:19Z",
+    "version": 1,
+    "changeset": 16627897,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Clinique SOUTHIA",
+    "source": "MEADEN",
+    "id": "way/226540314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.403272,
+      9.3344453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226562532",
+  "properties": {
+    "timestamp": "2015-02-21T20:50:16Z",
+    "version": 2,
+    "changeset": 29008218,
+    "user": "cdavila",
+    "uid": 26599,
+    "amenity": "hospital",
+    "name": "Centre de santé integré de foulbéré",
+    "source": "MEADEN",
+    "id": "way/226562532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4026797,
+      9.3077057
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226696084",
+  "properties": {
+    "timestamp": "2013-06-21T10:28:02Z",
+    "version": 1,
+    "changeset": 16641808,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "name": "Hôpital militaire de Région",
+    "id": "way/226696084"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3838615,
+      9.3093046
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/227132759",
+  "properties": {
+    "timestamp": "2013-06-24T12:42:25Z",
+    "version": 1,
+    "changeset": 16683867,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre de Santé Integré de Laindé",
+    "source": "MEADEN",
+    "id": "way/227132759"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4147767,
+      9.3475855
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/227338154",
+  "properties": {
+    "timestamp": "2013-06-25T12:23:51Z",
+    "version": 1,
+    "changeset": 16698678,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre de Santé Integré de Souari",
+    "source": "MEADEN",
+    "id": "way/227338154"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3925347,
+      9.2919332
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307522380",
+  "properties": {
+    "timestamp": "2014-10-13T02:33:50Z",
+    "version": 1,
+    "changeset": 26038281,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "amenity": "hospital",
+    "name": "Centre de Sante Integre de Nassarao",
+    "id": "way/307522380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4437431,
+      9.3686079
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307522403",
+  "properties": {
+    "timestamp": "2014-10-13T02:33:52Z",
+    "version": 1,
+    "changeset": 26038281,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "amenity": "hospital",
+    "name": "Centre de Sante de Takasko",
+    "id": "way/307522403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4220718,
+      9.3526818
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067300988",
+  "properties": {
+    "timestamp": "2010-12-27T07:09:19Z",
+    "version": 1,
+    "changeset": 6774633,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "hospital",
+    "name": "Centr de Sante Integre de Tinguelin",
+    "id": "node/1067300988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3809007,
+      9.3962144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067301136",
+  "properties": {
+    "timestamp": "2010-12-27T07:09:26Z",
+    "version": 1,
+    "changeset": 6774633,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "hospital",
+    "name": "Centr de Sante Integre de Banaye",
+    "id": "node/1067301136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5079377,
+      9.4649345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067304174",
+  "properties": {
+    "timestamp": "2010-12-29T19:49:21Z",
+    "version": 2,
+    "changeset": 6802520,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "State": "Under Construction",
+    "amenity": "hospital",
+    "name": "Centre de Sante Integre de Nguebake",
+    "id": "node/1067304174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5407175,
+      9.3708099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306173",
+  "properties": {
+    "timestamp": "2016-08-19T16:57:31Z",
+    "version": 5,
+    "changeset": 41560481,
+    "user": "Robowolfer",
+    "uid": 2560523,
+    "Malaria": "110/month",
+    "No of Beds": "48",
+    "No of INF": "7",
+    "No of consultations": "300/month",
+    "No.of Doctors": "1",
+    "amenity": "hospital",
+    "disease:AIDS:HIV": "1/month",
+    "facilities": "Laboratory,Phamacy",
+    "name": "Hopital district de Pitoa",
+    "id": "node/1067306173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5078617,
+      9.3886932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306203",
+  "properties": {
+    "timestamp": "2010-12-29T06:26:58Z",
+    "version": 2,
+    "changeset": 6795071,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "Cases of HIV/AIDS": "2/Month",
+    "Cases of Malaria": "15/month",
+    "No.of Consultations": "115/Month",
+    "amenity": "hospital",
+    "name": "Guerriseur Traditionnel",
+    "id": "node/1067306203"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5023772,
+      9.3821932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306299",
+  "properties": {
+    "timestamp": "2013-05-13T23:27:01Z",
+    "version": 4,
+    "changeset": 16118526,
+    "user": "Manu1400",
+    "uid": 181135,
+    "Cases of HIV/AIDS": "36 -2010",
+    "Consultation": "628/month",
+    "Malaria": "213/month",
+    "No of Beds": "7",
+    "No of Nurses": "5",
+    "amenity": "hospital",
+    "facilities": "Laboratory,Phamacy",
+    "name": "Hopital de Seurs de Pitoa",
+    "id": "node/1067306299"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5108598,
+      9.3925156
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067306381",
+  "properties": {
+    "timestamp": "2013-05-13T22:53:41Z",
+    "version": 3,
+    "changeset": 16118323,
+    "user": "Manu1400",
+    "uid": 181135,
+    "amenity": "hospital",
+    "name": "Hopital Moustapha de Pitoa Bounguel",
+    "note:en": "No data sheet filled",
+    "id": "node/1067306381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4987594,
+      9.3839583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2314529178",
+  "properties": {
+    "timestamp": "2013-05-21T13:49:45Z",
+    "version": 1,
+    "changeset": 16224591,
+    "user": "Meaden-asm",
+    "uid": 1207501,
+    "amenity": "hospital",
+    "name": "Hôpital de police",
+    "source": "MEADEN",
+    "id": "node/2314529178"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3954136,
+      9.3091712
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2804356800",
+  "properties": {
+    "timestamp": "2014-04-20T17:56:09Z",
+    "version": 1,
+    "changeset": 21819921,
+    "user": "Georges N",
+    "uid": 2040121,
+    "amenity": "hospital",
+    "name": "Hopital Jésus sauve et guérit Full Gospel Mission",
+    "id": "node/2804356800"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4104681,
+      9.3284475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3114382268",
+  "properties": {
+    "timestamp": "2014-10-06T07:33:43Z",
+    "version": 1,
+    "changeset": 25890828,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "amenity": "hospital",
+    "designation": "CSI Kota-Liddire",
+    "emergency": "no",
+    "name": "Centre Sante Integre Kota-Liddire",
+    "source": "Habdoul",
+    "id": "node/3114382268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4046633,
+      9.3028114
+    ]
+  }
+}
+]
+}

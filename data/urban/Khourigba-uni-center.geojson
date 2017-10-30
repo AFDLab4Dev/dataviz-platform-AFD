@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/400838866",
+  "properties": {
+    "timestamp": "2016-02-29T19:01:28Z",
+    "version": 1,
+    "changeset": 37527991,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "university",
+    "name": "Universite Hassan 1",
+    "id": "way/400838866"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9041351,
+      32.8700845
+    ]
+  }
+}
+]
+}

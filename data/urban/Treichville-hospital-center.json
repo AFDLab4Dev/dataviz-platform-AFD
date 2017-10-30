@@ -1,0 +1,1447 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 452867581,
+  "lat": 5.3536410,
+  "lon": -3.9575180,
+  "timestamp": "2016-02-13T17:27:58Z",
+  "version": 3,
+  "changeset": 37191054,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Le Panthéon Médical"
+  }
+},
+{
+  "type": "node",
+  "id": 454153807,
+  "lat": 5.3573151,
+  "lon": -3.9654195,
+  "timestamp": "2013-01-03T23:34:55Z",
+  "version": 3,
+  "changeset": 14520436,
+  "user": "Skiper",
+  "uid": 306409,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre médical Victoria de la Riviera"
+  }
+},
+{
+  "type": "node",
+  "id": 454166819,
+  "lat": 5.3539965,
+  "lon": -3.9537051,
+  "timestamp": "2009-08-02T10:42:24Z",
+  "version": 1,
+  "changeset": 2011555,
+  "user": "tpiot",
+  "uid": 152016,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médical Joëlle C"
+  }
+},
+{
+  "type": "node",
+  "id": 454167530,
+  "lat": 5.3540375,
+  "lon": -3.9565789,
+  "timestamp": "2016-02-13T17:27:58Z",
+  "version": 3,
+  "changeset": 37191054,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre d'Acumpuncture Chinois"
+  }
+},
+{
+  "type": "node",
+  "id": 775786939,
+  "lat": 5.3633032,
+  "lon": -3.9623644,
+  "timestamp": "2013-12-11T00:09:41Z",
+  "version": 2,
+  "changeset": 19386626,
+  "user": "A KACOU",
+  "uid": 1487267,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé communautaire"
+  }
+},
+{
+  "type": "node",
+  "id": 1225061670,
+  "lat": 5.3808261,
+  "lon": -4.0076459,
+  "timestamp": "2011-03-30T09:29:13Z",
+  "version": 1,
+  "changeset": 7714393,
+  "user": "FredB",
+  "uid": 1626,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Militaire d'Abidjan",
+    "source": "http://www.abidjandirect.net/index2.php?page=actualite&id=797"
+  }
+},
+{
+  "type": "node",
+  "id": 1236320723,
+  "lat": 5.3162000,
+  "lon": -3.9966411,
+  "timestamp": "2011-04-07T17:35:25Z",
+  "version": 1,
+  "changeset": 7796612,
+  "user": "FredB",
+  "uid": 1626,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Avicennes"
+  }
+},
+{
+  "type": "node",
+  "id": 1363721586,
+  "lat": 5.3568479,
+  "lon": -3.9265239,
+  "timestamp": "2011-07-16T18:36:55Z",
+  "version": 1,
+  "changeset": 8741907,
+  "user": "Pierre Drevon",
+  "uid": 463200,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé communautaire d'Akouedo-Attie"
+  }
+},
+{
+  "type": "node",
+  "id": 1951165098,
+  "lat": 5.2623425,
+  "lon": -3.9622511,
+  "timestamp": "2015-05-07T22:29:38Z",
+  "version": 2,
+  "changeset": 30887306,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Port-Bouët"
+  }
+},
+{
+  "type": "node",
+  "id": 1951724361,
+  "lat": 5.2872334,
+  "lon": -3.9694052,
+  "timestamp": "2016-03-03T00:08:09Z",
+  "version": 2,
+  "changeset": 37576713,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital général de Koumassi"
+  }
+},
+{
+  "type": "node",
+  "id": 2381546282,
+  "lat": 5.3632813,
+  "lon": -4.0178162,
+  "timestamp": "2013-07-13T16:33:56Z",
+  "version": 2,
+  "changeset": 16938855,
+  "user": "desmanois",
+  "uid": 1634648,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Croix Bleue"
+  }
+},
+{
+  "type": "node",
+  "id": 2382090539,
+  "lat": 5.3672232,
+  "lon": -4.0232747,
+  "timestamp": "2013-07-12T08:11:26Z",
+  "version": 1,
+  "changeset": 16922803,
+  "user": "desmanois",
+  "uid": 1634648,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Maternité Urbaine de Williamsville"
+  }
+},
+{
+  "type": "node",
+  "id": 2427130119,
+  "lat": 5.3496529,
+  "lon": -4.0332404,
+  "timestamp": "2016-03-08T11:31:22Z",
+  "version": 4,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Attécoubé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "name": "PMI"
+  }
+},
+{
+  "type": "node",
+  "id": 2440400044,
+  "lat": 5.2930608,
+  "lon": -3.9821776,
+  "timestamp": "2014-09-28T13:47:01Z",
+  "version": 2,
+  "changeset": 25725716,
+  "user": "Skiper",
+  "uid": 306409,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Laboratoire du Cmb Fleming"
+  }
+},
+{
+  "type": "node",
+  "id": 2443095363,
+  "lat": 5.4237341,
+  "lon": -4.0165030,
+  "timestamp": "2013-09-02T15:57:02Z",
+  "version": 2,
+  "changeset": 17638626,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hopital general d'Abobo"
+  }
+},
+{
+  "type": "node",
+  "id": 2452125558,
+  "lat": 5.3487426,
+  "lon": -4.0168178,
+  "timestamp": "2013-09-09T19:00:26Z",
+  "version": 1,
+  "changeset": 17755358,
+  "user": "desmanois",
+  "uid": 1634648,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Cabinet dentaire",
+    "phone": "20372431"
+  }
+},
+{
+  "type": "node",
+  "id": 2461273777,
+  "lat": 5.3114387,
+  "lon": -3.9734755,
+  "timestamp": "2016-03-08T02:01:50Z",
+  "version": 7,
+  "changeset": 37677846,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue E 7",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Clinique médicale Koko"
+  }
+},
+{
+  "type": "node",
+  "id": 2463107744,
+  "lat": 5.3419518,
+  "lon": -4.0800624,
+  "timestamp": "2016-03-08T02:01:59Z",
+  "version": 4,
+  "changeset": 37677846,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Marie-Thérèse-Houphouët-Boigny",
+    "amenity": "hospital",
+    "name": "Hôpital général de Yopougon-Attié",
+    "old_name": "PMI de Yopougon",
+    "operator": "Ministère de la Santé et de la lutte contre le sida",
+    "phone": "+225 23454390"
+  }
+},
+{
+  "type": "node",
+  "id": 2489420736,
+  "lat": 5.3987428,
+  "lon": -3.9939118,
+  "timestamp": "2016-03-08T11:31:04Z",
+  "version": 6,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:pobox": "01 BP 1224 Abidjan 01",
+    "addr:postcode": "01",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue L130",
+    "addr:suburb": "Angré",
+    "amenity": "hospital",
+    "name": "Centre Medical Nimatoullah",
+    "operator": "Fondation Dr. Javad Nurbakhsh",
+    "phone": "+225 22427182"
+  }
+},
+{
+  "type": "node",
+  "id": 2493219528,
+  "lat": 5.3412228,
+  "lon": -4.0260969,
+  "timestamp": "2016-03-08T02:01:45Z",
+  "version": 4,
+  "changeset": 37677846,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Adjamé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard Nangui Abrogroua",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre Medico-social",
+    "phone": "+225 20224433"
+  }
+},
+{
+  "type": "node",
+  "id": 2493737349,
+  "lat": 5.2939016,
+  "lon": -3.9558489,
+  "timestamp": "2013-10-12T13:51:49Z",
+  "version": 1,
+  "changeset": 18315378,
+  "user": "kalmis",
+  "uid": 1772669,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Axe optique"
+  }
+},
+{
+  "type": "node",
+  "id": 2604141815,
+  "lat": 5.2981314,
+  "lon": -3.9707658,
+  "timestamp": "2014-01-01T07:25:26Z",
+  "version": 1,
+  "changeset": 19741370,
+  "user": "Guy Maurel KONAN",
+  "uid": 1703949,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Liring"
+  }
+},
+{
+  "type": "node",
+  "id": 2760759391,
+  "lat": 5.3101063,
+  "lon": -3.9477124,
+  "timestamp": "2014-04-02T14:51:00Z",
+  "version": 5,
+  "changeset": 21459865,
+  "user": "israel konan",
+  "uid": 1751022,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médico Social"
+  }
+},
+{
+  "type": "node",
+  "id": 3015620997,
+  "lat": 5.3013838,
+  "lon": -4.0032332,
+  "timestamp": "2016-02-19T16:37:03Z",
+  "version": 3,
+  "changeset": 37312208,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "La Rosette Laboratoire"
+  }
+},
+{
+  "type": "node",
+  "id": 3017000111,
+  "lat": 5.3491924,
+  "lon": -4.0186874,
+  "timestamp": "2014-08-14T19:34:51Z",
+  "version": 1,
+  "changeset": 24753352,
+  "user": "korsaga",
+  "uid": 1703734,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre medical de la cite de l'enfance croix rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 3017000124,
+  "lat": 5.3491343,
+  "lon": -4.0220272,
+  "timestamp": "2016-03-08T11:31:15Z",
+  "version": 3,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:pobox": "08 BP 2450 Abidjan 08",
+    "addr:postcode": "08 BP 2450 Abidjan 08",
+    "amenity": "hospital",
+    "description": "consultation opthamologie orl gynecologie dermatologie fibroendescopie imagerie medicale dentaire ...",
+    "email": "hallmedinri@aviso.ci",
+    "name": "Hall médical INRI de la fraternité",
+    "phone": "20383418 20390065"
+  }
+},
+{
+  "type": "node",
+  "id": 3144241936,
+  "lat": 5.3569692,
+  "lon": -3.9795361,
+  "timestamp": "2015-02-20T00:40:27Z",
+  "version": 2,
+  "changeset": 28968967,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Médicale Sainte-Philomène"
+  }
+},
+{
+  "type": "node",
+  "id": 3149011613,
+  "lat": 5.2916283,
+  "lon": -3.9966532,
+  "timestamp": "2014-10-25T12:31:00Z",
+  "version": 1,
+  "changeset": 26320223,
+  "user": "sev_osm",
+  "uid": 219668,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre National de Transfusion Sanguine"
+  }
+},
+{
+  "type": "node",
+  "id": 3193990990,
+  "lat": 5.3440088,
+  "lon": -4.0248754,
+  "timestamp": "2016-03-01T09:08:38Z",
+  "version": 2,
+  "changeset": 37538074,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "fixme": "nom?? / name??"
+  }
+},
+{
+  "type": "node",
+  "id": 3194527904,
+  "lat": 5.3938983,
+  "lon": -4.0063383,
+  "timestamp": "2014-11-18T20:48:25Z",
+  "version": 1,
+  "changeset": 26873616,
+  "user": "georgiamcmillan",
+  "uid": 2464020,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3194527905,
+  "lat": 5.3915916,
+  "lon": -4.0059563,
+  "timestamp": "2014-11-18T20:48:25Z",
+  "version": 1,
+  "changeset": 26873616,
+  "user": "georgiamcmillan",
+  "uid": 2464020,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282137848,
+  "lat": 5.4162938,
+  "lon": -4.0318186,
+  "timestamp": "2015-01-11T14:56:26Z",
+  "version": 1,
+  "changeset": 28064113,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282170098,
+  "lat": 5.4130137,
+  "lon": -3.9955778,
+  "timestamp": "2015-06-18T18:45:23Z",
+  "version": 2,
+  "changeset": 32058510,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3282322584,
+  "lat": 5.4230333,
+  "lon": -3.9898318,
+  "timestamp": "2015-01-11T15:44:18Z",
+  "version": 1,
+  "changeset": 28065209,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3369247647,
+  "lat": 5.3099955,
+  "lon": -3.9357264,
+  "timestamp": "2015-02-23T22:40:50Z",
+  "version": 1,
+  "changeset": 29056258,
+  "user": "Emmanuel Bama",
+  "uid": 1704472,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre de Santé Communautaire de la Cité Houphouet Boigny"
+  }
+},
+{
+  "type": "node",
+  "id": 3767112013,
+  "lat": 5.3606488,
+  "lon": -3.8841499,
+  "timestamp": "2015-10-01T11:00:51Z",
+  "version": 1,
+  "changeset": 34365119,
+  "user": "Djakaridja",
+  "uid": 3272427,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Mère-Enfant de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 3784306923,
+  "lat": 5.3258684,
+  "lon": -4.0214181,
+  "timestamp": "2015-10-13T08:53:14Z",
+  "version": 1,
+  "changeset": 34606316,
+  "user": "yoannes28",
+  "uid": 3303951,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique externat saint paul"
+  }
+},
+{
+  "type": "node",
+  "id": 3784306925,
+  "lat": 5.3258710,
+  "lon": -4.0203882,
+  "timestamp": "2015-10-13T08:53:14Z",
+  "version": 1,
+  "changeset": 34606316,
+  "user": "yoannes28",
+  "uid": 3303951,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pharmacie des finances"
+  }
+},
+{
+  "type": "node",
+  "id": 3978718027,
+  "lat": 5.4051960,
+  "lon": -3.9846254,
+  "timestamp": "2017-03-20T21:54:57Z",
+  "version": 5,
+  "changeset": 47025058,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:pobox": "28 BP 1138 Abidjan 28",
+    "addr:postcode": "28",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue L237",
+    "addr:suburb": "Angré",
+    "amenity": "hospital",
+    "name": "Centre de santé urbain d'Angré",
+    "phone": "00225 22525542"
+  }
+},
+{
+  "type": "node",
+  "id": 3978739725,
+  "lat": 5.3648561,
+  "lon": -3.9590557,
+  "timestamp": "2016-03-08T02:01:47Z",
+  "version": 3,
+  "changeset": 37677846,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:postcode": "BP 51 Cidex 3 Abidjan",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue I145",
+    "addr:suburb": "Riviera Palmeraie",
+    "amenity": "hospital",
+    "name": "Centre médical Mère Maria Elisa Adreoli",
+    "phone": "+225 22490348"
+  }
+},
+{
+  "type": "node",
+  "id": 3982237902,
+  "lat": 5.3748913,
+  "lon": -4.0060247,
+  "timestamp": "2016-03-07T15:56:25Z",
+  "version": 3,
+  "changeset": 37668416,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue K126",
+    "addr:suburb": "Gendarmerie Agban",
+    "amenity": "hospital",
+    "name": "Centre de Santé"
+  }
+},
+{
+  "type": "node",
+  "id": 4019798767,
+  "lat": 5.3384806,
+  "lon": -4.0190773,
+  "timestamp": "2017-03-02T15:48:56Z",
+  "version": 4,
+  "changeset": 46525445,
+  "user": "vherbreteau",
+  "uid": 2538376,
+  "tags": {
+    "addr:city": "Le Plateau",
+    "addr:housenumber": "4",
+    "addr:street": "Boulevard de L'indénié",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Polyclinique de l'Indenié",
+    "website": "http://www.polycliniqueindenie.ci/"
+  }
+},
+{
+  "type": "node",
+  "id": 4019808596,
+  "lat": 5.3490993,
+  "lon": -4.0253048,
+  "timestamp": "2016-02-22T14:15:44Z",
+  "version": 1,
+  "changeset": 37368239,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital général d'Adjamé"
+  }
+},
+{
+  "type": "node",
+  "id": 4019811761,
+  "lat": 5.2896778,
+  "lon": -3.9695626,
+  "timestamp": "2017-03-22T11:59:48Z",
+  "version": 2,
+  "changeset": 47066144,
+  "user": "ulrichm",
+  "uid": 192829,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centremedical de la mairie"
+  }
+},
+{
+  "type": "node",
+  "id": 4019858299,
+  "lat": 5.3576504,
+  "lon": -4.0895170,
+  "timestamp": "2016-06-27T16:10:58Z",
+  "version": 2,
+  "changeset": 40324895,
+  "user": "Anebo Philippe",
+  "uid": 2231043,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Centre Hospitalier Universitaire de Yopougon",
+    "emergency": "yes",
+    "name": "Centre Hospitalier Universitaire de Yopougon",
+    "short_name": "CHU de Yopougon"
+  }
+},
+{
+  "type": "node",
+  "id": 4019888798,
+  "lat": 5.4042560,
+  "lon": -4.0198537,
+  "timestamp": "2016-02-22T14:56:31Z",
+  "version": 1,
+  "changeset": 37369248,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé El Rapha"
+  }
+},
+{
+  "type": "node",
+  "id": 4019911996,
+  "lat": 5.3310283,
+  "lon": -3.9349913,
+  "timestamp": "2016-06-30T04:30:18Z",
+  "version": 2,
+  "changeset": 40381173,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de M’Badon"
+  }
+},
+{
+  "type": "node",
+  "id": 4019925584,
+  "lat": 5.3597230,
+  "lon": -3.8859607,
+  "timestamp": "2016-02-22T15:18:10Z",
+  "version": 1,
+  "changeset": 37369724,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital général de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 4019925585,
+  "lat": 5.3597809,
+  "lon": -3.8839226,
+  "timestamp": "2016-02-22T15:18:10Z",
+  "version": 1,
+  "changeset": 37369724,
+  "user": "racky",
+  "uid": 1730834,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital psychiatrique de Bingerville"
+  }
+},
+{
+  "type": "node",
+  "id": 4247072824,
+  "lat": 5.3346465,
+  "lon": -4.0735550,
+  "timestamp": "2016-06-16T17:28:59Z",
+  "version": 1,
+  "changeset": 40072491,
+  "user": "Anebo Philippe",
+  "uid": 2231043,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Sante Communautaire Doukoure"
+  }
+},
+{
+  "type": "node",
+  "id": 4249745831,
+  "lat": 5.3572007,
+  "lon": -4.0343327,
+  "timestamp": "2016-06-18T01:54:33Z",
+  "version": 1,
+  "changeset": 40107993,
+  "user": "eriola ezekiel",
+  "uid": 4133911,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Pharmacie Christ Stella"
+  }
+},
+{
+  "type": "node",
+  "id": 4344227839,
+  "lat": 5.3488038,
+  "lon": -3.9958218,
+  "timestamp": "2016-08-10T10:34:08Z",
+  "version": 1,
+  "changeset": 41364489,
+  "user": "GUy Pacome",
+  "uid": 2132030,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Béatitudes"
+  }
+},
+{
+  "type": "node",
+  "id": 4485187391,
+  "lat": 5.3530094,
+  "lon": -4.0347417,
+  "timestamp": "2016-11-09T22:12:43Z",
+  "version": 2,
+  "changeset": 43521338,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "addr:street": "Boulevard Felix Houphouët Boigny",
+    "amenity": "hospital",
+    "name": "Maternité d’Attecoubé"
+  }
+},
+{
+  "type": "way",
+  "id": 91274323,
+  "timestamp": "2016-03-01T00:41:07Z",
+  "version": 9,
+  "changeset": 37533901,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.2915831,
+    "lon": -4.0035691
+  },
+  "nodes": [
+    1059631809,
+    1059631858,
+    1059631851,
+    1059631824,
+    1059631818,
+    1059631802,
+    1059631874,
+    1059631867,
+    1059631861,
+    3419917767,
+    1059631828,
+    3419917680,
+    1059631871,
+    2443073865,
+    1059631865,
+    3137391052,
+    3419828389,
+    1059631845,
+    3419829801,
+    3419829718,
+    3419829726,
+    3419829101,
+    3419829105,
+    3419829581,
+    3419828565,
+    3419828568,
+    1059631821,
+    2908684080,
+    2908684079,
+    2908684078,
+    2908686692,
+    2908686693,
+    2908686694,
+    2908686695,
+    2908686696,
+    2908686697,
+    3419917759,
+    3424767191,
+    3419917758,
+    3419917761,
+    3419917760,
+    3419917773,
+    1059631809
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Centre Hospitalier Universitaire de Treichville",
+    "short_name": "CHU de Treichville"
+  }
+},
+{
+  "type": "way",
+  "id": 123439289,
+  "timestamp": "2016-03-08T01:59:52Z",
+  "version": 5,
+  "changeset": 37677846,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3020571,
+    "lon": -3.9996691
+  },
+  "nodes": [
+    1376553166,
+    1376553181,
+    1376553179,
+    1376553174,
+    1376553171,
+    1376553155,
+    1376553166
+  ],
+  "tags": {
+    "addr:city": "Treichville",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Clouzet",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Hospitalier d'Arras 3"
+  }
+},
+{
+  "type": "way",
+  "id": 447285100,
+  "timestamp": "2016-10-12T19:31:50Z",
+  "version": 1,
+  "changeset": 42838597,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3110434,
+    "lon": -3.9862356
+  },
+  "nodes": [
+    4444501090,
+    4444501094,
+    4444501095,
+    4444501093,
+    3957869708,
+    4444501090
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue des Azobés",
+    "amenity": "hospital",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 447285101,
+  "timestamp": "2016-10-12T19:31:50Z",
+  "version": 1,
+  "changeset": 42838597,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3107226,
+    "lon": -3.9865886
+  },
+  "nodes": [
+    4444501091,
+    4444499888,
+    4444501089,
+    4444501092,
+    3957869705,
+    4444501091
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "landuse": "construction",
+    "name": "Nouvelle Clinique Farah",
+    "phone": "+225-21 26 00 93",
+    "website": "http://www.cliniquefarah.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 426830439,
+  "timestamp": "2017-01-26T19:42:26Z",
+  "version": 2,
+  "changeset": 45525281,
+  "user": "Aleks-Berlin",
+  "uid": 85218,
+  "center": {
+    "lat": 5.3238666,
+    "lon": -4.0159116
+  },
+  "nodes": [
+    4260953810,
+    4260953811,
+    4260953812,
+    4260953813,
+    4260953810
+  ],
+  "tags": {
+    "addr:city": "Plateau",
+    "addr:housenumber": "26",
+    "addr:street": "Avenue Chardy",
+    "amenity": "hospital",
+    "elevator": "2ème étage",
+    "name": "Centre Médical Chardy",
+    "note": "centremedicalchardy@hotmail.fr",
+    "operator": "Dr Hussein Chalhoub",
+    "phone": "+225 20 33 90 00"
+  }
+},
+{
+  "type": "way",
+  "id": 326163566,
+  "timestamp": "2016-10-16T12:54:21Z",
+  "version": 5,
+  "changeset": 42935549,
+  "user": "johanemilsson",
+  "uid": 559500,
+  "center": {
+    "lat": 5.3368409,
+    "lon": -4.0133509
+  },
+  "nodes": [
+    3326391160,
+    3327786774,
+    244519013,
+    3327786775,
+    1229057034,
+    3327788261,
+    3327787105,
+    3327788203,
+    3327786753,
+    3326391661,
+    3327787789,
+    3326389660,
+    3326391143,
+    3326391145,
+    3326391567,
+    3326391569,
+    3326391152,
+    3326391153,
+    3326391160
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:housename": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "addr:state": "Abidjan",
+    "addr:street": "Avenue Joseph Blohorn",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "hospital",
+    "barrier": "wall",
+    "emergency": "yes",
+    "internet_access": "wlan",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Polyclinique Internationale Sainte Anne-Marie (PISAM)",
+    "phone": "+225-22.48.31.31",
+    "short_name": "PISAM",
+    "website": "http://www.pisam.ci/"
+  }
+},
+{
+  "type": "way",
+  "id": 327402561,
+  "timestamp": "2016-08-20T16:22:37Z",
+  "version": 7,
+  "changeset": 41578872,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3423413,
+    "lon": -3.9938504
+  },
+  "nodes": [
+    3342015191,
+    3341886250,
+    3341873284,
+    3332036636,
+    3332039275,
+    3332041007,
+    3332030726,
+    3332030722,
+    3340916830,
+    3340919742,
+    3340919718,
+    1082809658,
+    1082809284,
+    3340918521,
+    3340917965,
+    3340917475,
+    3340917940,
+    3340917734,
+    3315671272,
+    3326025016,
+    3326025019,
+    3326025020,
+    3326025065,
+    3315671284,
+    3315670926,
+    3326025023,
+    3341886245,
+    3342285861,
+    3342286066,
+    3341886247,
+    3341886249,
+    3341898193,
+    3341898197,
+    3341886263,
+    3341898200,
+    3341898199,
+    3341912566,
+    3341886264,
+    3341886261,
+    3341912564,
+    3341898196,
+    3341914296,
+    3341898194,
+    3341886262,
+    3341886260,
+    3341898195,
+    3341914294,
+    3341873285,
+    3341873283,
+    3341873282,
+    3325417256,
+    3341873281,
+    3341886251,
+    3342015185,
+    3342015184,
+    3342015183,
+    3342015182,
+    3342015187,
+    3342015189,
+    3342015191
+  ],
+  "tags": {
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard de l'Université",
+    "addr:suburb": "RTI",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in": "RTI;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Centre hospitalier universitaire de Cocody (CHU de Cocody)",
+    "name:en": "University Hospital of Cocody (CHU de Cocody)",
+    "name:fr": "Centre hospitalier universitaire de Cocody (CHU de Cocody)"
+  }
+},
+{
+  "type": "way",
+  "id": 430269309,
+  "timestamp": "2017-03-21T10:55:31Z",
+  "version": 2,
+  "changeset": 47036606,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3449951,
+    "lon": -3.9844688
+  },
+  "nodes": [
+    4295482660,
+    4295482661,
+    4295482657,
+    4295482650,
+    4295482660
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 355534059,
+  "timestamp": "2017-03-22T09:43:06Z",
+  "version": 3,
+  "changeset": 47063120,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3904096,
+    "lon": -4.0165433
+  },
+  "nodes": [
+    3613052164,
+    3611251599,
+    3607405612,
+    3611251600,
+    3611251601,
+    3611251602,
+    3613052164
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "university",
+    "name": "centre medical social",
+    "operator": "UNA"
+  }
+},
+{
+  "type": "way",
+  "id": 286247735,
+  "timestamp": "2016-02-29T18:53:30Z",
+  "version": 2,
+  "changeset": 37527824,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.2875928,
+    "lon": -3.9778971
+  },
+  "nodes": [
+    2898962943,
+    2898962934,
+    2898962933,
+    2898962930,
+    2898962929,
+    2898962938,
+    2898962943
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique les Grâces"
+  }
+},
+{
+  "type": "way",
+  "id": 185201535,
+  "timestamp": "2016-03-08T11:30:38Z",
+  "version": 3,
+  "changeset": 37684457,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3006843,
+    "lon": -3.9831790
+  },
+  "nodes": [
+    1957618690,
+    1957618622,
+    1957618620,
+    1957618598,
+    1957618664,
+    1957618631,
+    1957618660,
+    1957618752,
+    1957618615,
+    1957618690
+  ],
+  "tags": {
+    "addr:city": "Marcory",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "hospital",
+    "name": "Hôpital général de Marcory(Ex PMI)"
+  }
+},
+{
+  "type": "way",
+  "id": 236144501,
+  "timestamp": "2015-12-19T15:22:18Z",
+  "version": 3,
+  "changeset": 36048017,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.3103925,
+    "lon": -3.9742066
+  },
+  "nodes": [
+    2442031102,
+    2442031103,
+    3900014639,
+    2442031251,
+    2442039461,
+    2442035659,
+    2442035653,
+    2442031102
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "leisure": "garden",
+    "name": "Formation Urbaine d'Anoumabo"
+  }
+},
+{
+  "type": "way",
+  "id": 237862810,
+  "timestamp": "2014-10-14T07:57:03Z",
+  "version": 2,
+  "changeset": 26066283,
+  "user": "Skiper",
+  "uid": 306409,
+  "center": {
+    "lat": 5.3097281,
+    "lon": -3.9671121
+  },
+  "nodes": [
+    2457268435,
+    2457268437,
+    2457268439,
+    2457268441,
+    2457268435
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Centre Asapsu"
+  }
+},
+{
+  "type": "way",
+  "id": 237899323,
+  "timestamp": "2013-09-14T07:50:24Z",
+  "version": 1,
+  "changeset": 17828633,
+  "user": "Emmanuel Bama",
+  "uid": 1704472,
+  "center": {
+    "lat": 5.3097670,
+    "lon": -3.9610028
+  },
+  "nodes": [
+    2457713552,
+    2457713553,
+    2457713554,
+    2457713555,
+    2457713552
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 271270193,
+  "timestamp": "2014-10-14T07:57:02Z",
+  "version": 2,
+  "changeset": 26066283,
+  "user": "Skiper",
+  "uid": 306409,
+  "center": {
+    "lat": 5.3143497,
+    "lon": -3.9425323
+  },
+  "nodes": [
+    2762261999,
+    2762262002,
+    2762262006,
+    2762262009,
+    2762262012,
+    2762261999
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Aklomiabla"
+  }
+},
+{
+  "type": "way",
+  "id": 397380212,
+  "timestamp": "2016-02-12T01:13:12Z",
+  "version": 1,
+  "changeset": 37159525,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 5.4008898,
+    "lon": -3.9575588
+  },
+  "nodes": [
+    4001709748,
+    4001709749,
+    4001709756,
+    4001709757,
+    4001709192,
+    4001709752,
+    4001709751,
+    4001709748
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital Général d'Angré"
+  }
+}
+
+  ]
+}

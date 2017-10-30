@@ -1,0 +1,73 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/307428044",
+  "properties": {
+    "timestamp": "2014-10-12T11:38:18Z",
+    "version": 1,
+    "changeset": 26023868,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Wilaya de Meknès",
+    "name:ar": "الولاية",
+    "id": "way/307428044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5515479,
+      33.9011269
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/332736713",
+  "properties": {
+    "timestamp": "2015-03-14T20:57:01Z",
+    "version": 1,
+    "changeset": 29480423,
+    "user": "عقبة بن نافع",
+    "uid": 1823346,
+    "alt_name": "بلدية حمرية",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "القصر البلدي",
+    "name:fr": "Hôtel de Ville",
+    "id": "way/332736713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5487125,
+      33.8976813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2434591148",
+  "properties": {
+    "timestamp": "2015-02-09T09:09:07Z",
+    "version": 4,
+    "changeset": 28722397,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "townhall",
+    "name": "Baladia",
+    "id": "node/2434591148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5490345,
+      33.8975967
+    ]
+  }
+}
+]
+}

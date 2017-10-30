@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/316630932",
+  "properties": {
+    "timestamp": "2015-04-13T14:00:56Z",
+    "version": 4,
+    "changeset": 30188444,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Marché Municipal",
+    "id": "way/316630932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.2180808,
+      27.1603222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/316764969",
+  "properties": {
+    "timestamp": "2015-07-19T12:36:11Z",
+    "version": 2,
+    "changeset": 32732078,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "area": "yes",
+    "id": "way/316764969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -13.1970406,
+      27.1295263
+    ]
+  }
+}
+]
+}

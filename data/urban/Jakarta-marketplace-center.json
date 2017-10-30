@@ -1,0 +1,6061 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1774686847,
+  "lat": -6.2141752,
+  "lon": 106.8269348,
+  "timestamp": "2012-06-03T13:05:49Z",
+  "version": 1,
+  "changeset": 11786277,
+  "user": "yustian",
+  "uid": 492970,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Alfamart"
+  }
+},
+{
+  "type": "node",
+  "id": 1848639594,
+  "lat": -6.2915177,
+  "lon": 106.9444471,
+  "timestamp": "2012-08-02T16:26:58Z",
+  "version": 1,
+  "changeset": 12587851,
+  "user": "aaziss",
+  "uid": 774532,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2216026792,
+  "lat": -6.1965723,
+  "lon": 106.8827406,
+  "timestamp": "2013-03-23T08:49:38Z",
+  "version": 2,
+  "changeset": 15462876,
+  "user": "prabu88",
+  "uid": 1237250,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Sunan Giri"
+  }
+},
+{
+  "type": "node",
+  "id": 2285199213,
+  "lat": -6.2591674,
+  "lon": 106.9637676,
+  "timestamp": "2013-04-29T04:39:15Z",
+  "version": 1,
+  "changeset": 15903383,
+  "user": "joandi85",
+  "uid": 1260689,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Jamblang"
+  }
+},
+{
+  "type": "node",
+  "id": 2372285201,
+  "lat": -6.2605426,
+  "lon": 106.7093938,
+  "timestamp": "2013-07-07T18:27:43Z",
+  "version": 2,
+  "changeset": 16863887,
+  "user": "@aurizasalim",
+  "uid": 686074,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Tradisional Arinda"
+  }
+},
+{
+  "type": "node",
+  "id": 2479751952,
+  "lat": -6.1095687,
+  "lon": 106.7733011,
+  "timestamp": "2016-06-23T10:39:55Z",
+  "version": 3,
+  "changeset": 40227307,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:full": "Jl.Dermaga Muara Angke",
+    "addr:housenumber": "RT.11/RW.11",
+    "addr:postcode": "14450",
+    "addr:street": "Jl. Muara Angke",
+    "amenity": "marketplace",
+    "building:condition": "good",
+    "building:levels": "2",
+    "name": "Pasar Muara Angke"
+  }
+},
+{
+  "type": "node",
+  "id": 2479752921,
+  "lat": -6.1173756,
+  "lon": 106.7834262,
+  "timestamp": "2013-10-02T07:14:09Z",
+  "version": 1,
+  "changeset": 18138190,
+  "user": "Suryadi Suryanullah",
+  "uid": 1748649,
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Muara Karang Raya",
+    "amenity": "marketplace",
+    "building:condition": "good",
+    "building:levels": "2",
+    "name": "Superindo Swalayan"
+  }
+},
+{
+  "type": "node",
+  "id": 2479753542,
+  "lat": -6.1154573,
+  "lon": 106.7925496,
+  "timestamp": "2015-12-20T20:53:13Z",
+  "version": 2,
+  "changeset": 36073339,
+  "user": "ChrissW-R1",
+  "uid": 251543,
+  "tags": {
+    "addr:full": "Jln Pluit Permai",
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi",
+    "name": "Seven Eleven"
+  }
+},
+{
+  "type": "node",
+  "id": 2479762065,
+  "lat": -6.1212387,
+  "lon": 106.7889894,
+  "timestamp": "2015-12-20T20:53:14Z",
+  "version": 2,
+  "changeset": 36073339,
+  "user": "ChrissW-R1",
+  "uid": 251543,
+  "tags": {
+    "addr:full": "pluit kencana dalam",
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi",
+    "name": "pasar pluit"
+  }
+},
+{
+  "type": "node",
+  "id": 2479767393,
+  "lat": -6.1157999,
+  "lon": 106.7786871,
+  "timestamp": "2013-10-02T07:41:41Z",
+  "version": 1,
+  "changeset": 18138505,
+  "user": "Tarom",
+  "uid": 1749590,
+  "tags": {
+    "addr:full": "Jl Pluit Karang Niaga",
+    "amenity": "marketplace",
+    "building:condition": "good",
+    "building:levels": "4-7",
+    "name": "Pasar Muarakarang"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616165,
+  "lat": -6.1299929,
+  "lon": 106.7943127,
+  "timestamp": "2013-10-10T05:38:56Z",
+  "version": 1,
+  "changeset": 18275252,
+  "user": "Julian Reza",
+  "uid": 1766469,
+  "tags": {
+    "addr:full": "Jl.Tanah Merah",
+    "amenity": "marketplace",
+    "building:condition": "good",
+    "name": "Pasar Tanah Merah"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616272,
+  "lat": -6.1235295,
+  "lon": 106.8039458,
+  "timestamp": "2013-10-10T05:38:58Z",
+  "version": 1,
+  "changeset": 18275254,
+  "user": "VannySVB",
+  "uid": 1767437,
+  "tags": {
+    "addr:full": "jl.muarabaru",
+    "amenity": "marketplace",
+    "building:condition": "good",
+    "name": "pasar muara baru"
+  }
+},
+{
+  "type": "node",
+  "id": 2490616909,
+  "lat": -6.1100928,
+  "lon": 106.8023667,
+  "timestamp": "2013-10-10T05:39:25Z",
+  "version": 1,
+  "changeset": 18275259,
+  "user": "kintaniptr",
+  "uid": 1762637,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "pelelangan ikan"
+  }
+},
+{
+  "type": "node",
+  "id": 2490617754,
+  "lat": -6.1298338,
+  "lon": 106.8010304,
+  "timestamp": "2013-10-10T05:41:47Z",
+  "version": 1,
+  "changeset": 18275278,
+  "user": "Ramdani",
+  "uid": 1762645,
+  "tags": {
+    "addr:full": "Jalan Tanah Pasir",
+    "amenity": "marketplace",
+    "building:condition": "poor",
+    "building:levels": "1",
+    "name": "Pasar Tanah Pasir"
+  }
+},
+{
+  "type": "node",
+  "id": 2511101537,
+  "lat": -6.1027122,
+  "lon": 106.8016981,
+  "timestamp": "2013-10-28T04:12:06Z",
+  "version": 1,
+  "changeset": 18578083,
+  "user": "raniedwianugrah",
+  "uid": 617220,
+  "tags": {
+    "addr:full": "Jalan Cumi Raya",
+    "amenity": "marketplace",
+    "name": "Pasar (Alat Kapal)"
+  }
+},
+{
+  "type": "node",
+  "id": 2511101538,
+  "lat": -6.1005790,
+  "lon": 106.8016341,
+  "timestamp": "2015-12-20T20:53:10Z",
+  "version": 2,
+  "changeset": 36073339,
+  "user": "ChrissW-R1",
+  "uid": 251543,
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi, Dapur Umum, Posko Logistik, Posko Kesehatan",
+    "name": "Pelelangan Ikan"
+  }
+},
+{
+  "type": "node",
+  "id": 2511101539,
+  "lat": -6.1093681,
+  "lon": 106.8013396,
+  "timestamp": "2015-12-20T20:53:10Z",
+  "version": 2,
+  "changeset": 36073339,
+  "user": "ChrissW-R1",
+  "uid": 251543,
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:use": "Tempat Evakuasi, Dapur Umum, Posko Logistik, Posko Kesehatan",
+    "name": "Pelelangan Ikan"
+  }
+},
+{
+  "type": "node",
+  "id": 2640383640,
+  "lat": -6.3060945,
+  "lon": 106.9345044,
+  "timestamp": "2014-01-28T01:54:51Z",
+  "version": 1,
+  "changeset": 20239974,
+  "user": "Fajar_Wisnu_Hardono",
+  "uid": 1902489,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Kecapi"
+  }
+},
+{
+  "type": "node",
+  "id": 2875759448,
+  "lat": -6.1729208,
+  "lon": 106.8626346,
+  "timestamp": "2014-05-23T08:07:24Z",
+  "version": 1,
+  "changeset": 22500231,
+  "user": "Dewi Sulistioningrum",
+  "uid": 615320,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Cempaka Putih"
+  }
+},
+{
+  "type": "node",
+  "id": 3692631819,
+  "lat": -6.1287071,
+  "lon": 106.8566682,
+  "timestamp": "2015-08-12T01:30:41Z",
+  "version": 1,
+  "changeset": 33281394,
+  "user": "mkamil",
+  "uid": 2617471,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Bambu Kuning"
+  }
+},
+{
+  "type": "node",
+  "id": 3692631820,
+  "lat": -6.1284680,
+  "lon": 106.8543756,
+  "timestamp": "2015-08-12T01:30:41Z",
+  "version": 1,
+  "changeset": 33281394,
+  "user": "mkamil",
+  "uid": 2617471,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Belek"
+  }
+},
+{
+  "type": "node",
+  "id": 3692631824,
+  "lat": -6.1292942,
+  "lon": 106.8542299,
+  "timestamp": "2015-08-12T01:30:41Z",
+  "version": 1,
+  "changeset": 33281394,
+  "user": "mkamil",
+  "uid": 2617471,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Waro Kali"
+  }
+},
+{
+  "type": "node",
+  "id": 3801705131,
+  "lat": -6.0952775,
+  "lon": 106.9637902,
+  "timestamp": "2015-11-07T17:56:59Z",
+  "version": 4,
+  "changeset": 35154633,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "tags": {
+    "addr:full": "Jalan Marunda Rusun",
+    "amenity": "marketplace",
+    "name": "Pasar Rusun Marunda"
+  }
+},
+{
+  "type": "node",
+  "id": 4132781137,
+  "lat": -6.1616309,
+  "lon": 106.8502929,
+  "timestamp": "2016-04-19T10:18:24Z",
+  "version": 1,
+  "changeset": 38690917,
+  "user": "paijoid",
+  "uid": 596307,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Indomaret"
+  }
+},
+{
+  "type": "node",
+  "id": 4146438303,
+  "lat": -6.1777040,
+  "lon": 106.7837889,
+  "timestamp": "2016-06-23T10:36:27Z",
+  "version": 3,
+  "changeset": 40227179,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Jakarta Barat",
+    "addr:postcode": "11470",
+    "addr:street": "Tanjung Duren Barat 3",
+    "amenity": "marketplace",
+    "name": "Pasar Tomang Barat (Pasar Kopro)"
+  }
+},
+{
+  "type": "node",
+  "id": 4146445889,
+  "lat": -6.2164506,
+  "lon": 106.8649931,
+  "timestamp": "2017-03-24T03:09:20Z",
+  "version": 3,
+  "changeset": 47113055,
+  "user": "Febrina Dewi",
+  "uid": 617262,
+  "tags": {
+    "addr:city": "jakarta timur",
+    "addr:postcode": "13410",
+    "addr:street": "matraman raya",
+    "amenity": "marketplace",
+    "name": "Pasar Jatinegara"
+  }
+},
+{
+  "type": "node",
+  "id": 4146456982,
+  "lat": -6.2413280,
+  "lon": 106.7910128,
+  "timestamp": "2016-06-23T10:36:30Z",
+  "version": 2,
+  "changeset": 40227181,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "jakarta selatan",
+    "addr:postcode": "12130",
+    "addr:street": "Jalan Tebah 2",
+    "amenity": "marketplace",
+    "name": "Pasar Mayestik"
+  }
+},
+{
+  "type": "node",
+  "id": 4146468727,
+  "lat": -6.2077667,
+  "lon": 106.7961301,
+  "timestamp": "2016-06-23T10:40:17Z",
+  "version": 2,
+  "changeset": 40227329,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Jakarta barat",
+    "addr:postcode": "11480",
+    "addr:street": "Palmerah Utara",
+    "amenity": "marketplace",
+    "name": "Pasar Palmerah"
+  }
+},
+{
+  "type": "node",
+  "id": 4146472843,
+  "lat": -6.1976400,
+  "lon": 106.8580306,
+  "timestamp": "2016-06-23T10:41:28Z",
+  "version": 2,
+  "changeset": 40227373,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "JAKARTA PUSAT",
+    "addr:postcode": "10440",
+    "addr:street": "Jalan Pramuka",
+    "amenity": "marketplace",
+    "name": "-Pasar Pramuka"
+  }
+},
+{
+  "type": "node",
+  "id": 4146483311,
+  "lat": -6.2396827,
+  "lon": 106.8118191,
+  "timestamp": "2016-06-23T10:41:41Z",
+  "version": 2,
+  "changeset": 40227378,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "jakarta selatan",
+    "addr:postcode": "12180",
+    "addr:street": "Cipaku 1",
+    "amenity": "marketplace",
+    "name": "Pasar Santa"
+  }
+},
+{
+  "type": "node",
+  "id": 4146503326,
+  "lat": -6.1768998,
+  "lon": 106.8419740,
+  "timestamp": "2016-06-23T10:41:55Z",
+  "version": 2,
+  "changeset": 40227389,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Jakarta Pusat",
+    "addr:housenumber": "No. 169",
+    "addr:postcode": "10710",
+    "addr:street": "Bungur besar",
+    "amenity": "marketplace",
+    "name": "Pasar Senen"
+  }
+},
+{
+  "type": "node",
+  "id": 4146533407,
+  "lat": -6.1902239,
+  "lon": 106.7957009,
+  "timestamp": "2016-06-23T10:45:06Z",
+  "version": 2,
+  "changeset": 40227516,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "jakarta barat",
+    "addr:postcode": "11480",
+    "addr:street": "Jalan Anggrek Garuda",
+    "amenity": "marketplace",
+    "name": "Pasar Slipi"
+  }
+},
+{
+  "type": "node",
+  "id": 4148448704,
+  "lat": -6.1880206,
+  "lon": 106.8145206,
+  "timestamp": "2016-04-26T06:47:06Z",
+  "version": 1,
+  "changeset": 38877367,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Tanah Abang, Central Jakarta",
+    "addr:housenumber": "No. 78, 80, 82",
+    "addr:postcode": "10220",
+    "addr:street": "Jl. H. Fachrudin",
+    "amenity": "marketplace",
+    "name": "Blok B Tanah Abang"
+  }
+},
+{
+  "type": "node",
+  "id": 4150434858,
+  "lat": -6.1656442,
+  "lon": 106.8347756,
+  "timestamp": "2016-12-24T04:55:22Z",
+  "version": 3,
+  "changeset": 44638576,
+  "user": "Asma Samara",
+  "uid": 5015344,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10710",
+    "addr:street": "Jalan Pasar Baru",
+    "amenity": "marketplace",
+    "name": "Pasar Baru",
+    "name:en": "Pintu Pasar Baru"
+  }
+},
+{
+  "type": "node",
+  "id": 4150471600,
+  "lat": -6.2062082,
+  "lon": 106.7778386,
+  "timestamp": "2016-06-23T10:35:10Z",
+  "version": 2,
+  "changeset": 40227121,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "No. 1",
+    "addr:postcode": "11540",
+    "addr:street": "Jalan Sulaiman",
+    "amenity": "marketplace",
+    "name": "Pasar Bunga Rawa Belong"
+  }
+},
+{
+  "type": "node",
+  "id": 4150557619,
+  "lat": -6.1900604,
+  "lon": 106.7956461,
+  "timestamp": "2016-04-27T07:08:38Z",
+  "version": 1,
+  "changeset": 38911566,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11410",
+    "addr:street": "Jl. Kemanggisan Utama",
+    "amenity": "marketplace",
+    "name": "Pasar Slipi"
+  }
+},
+{
+  "type": "node",
+  "id": 4150570546,
+  "lat": -6.1881778,
+  "lon": 106.8145376,
+  "timestamp": "2016-06-23T10:47:54Z",
+  "version": 4,
+  "changeset": 40227641,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:housenumber": "Blok F.2",
+    "addr:postcode": "10250",
+    "addr:street": "Jl. Kh. Mas Mansyur",
+    "amenity": "marketplace",
+    "name": "Pasar Tanah Abang Blok A - F"
+  }
+},
+{
+  "type": "node",
+  "id": 4198510242,
+  "lat": -6.1799499,
+  "lon": 106.8247042,
+  "timestamp": "2016-05-21T11:32:24Z",
+  "version": 1,
+  "changeset": 39468222,
+  "user": "TwinShadow",
+  "uid": 3350898,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Night market"
+  }
+},
+{
+  "type": "node",
+  "id": 4243951030,
+  "lat": -6.2153127,
+  "lon": 106.8153156,
+  "timestamp": "2016-06-15T07:17:45Z",
+  "version": 1,
+  "changeset": 40032691,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tanah Abang, Central Jakarta",
+    "addr:housenumber": "1",
+    "addr:postcode": "10210",
+    "addr:street": "Jalan Bendungan Hilir Blok A",
+    "amenity": "marketplace",
+    "name": "Pasar Bendungan Hilir"
+  }
+},
+{
+  "type": "node",
+  "id": 4243955092,
+  "lat": -6.2787240,
+  "lon": 106.8079724,
+  "timestamp": "2016-06-15T07:20:38Z",
+  "version": 1,
+  "changeset": 40032734,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cilandak, South Jakarta",
+    "addr:postcode": "12410",
+    "addr:street": "Jalan Pangeran Antasari",
+    "amenity": "marketplace",
+    "name": "Pasar Cipete Selatan"
+  }
+},
+{
+  "type": "node",
+  "id": 4243959676,
+  "lat": -6.1797167,
+  "lon": 106.8607176,
+  "timestamp": "2016-06-15T07:23:12Z",
+  "version": 1,
+  "changeset": 40032777,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cempaka Putih, Central Jakarta",
+    "addr:postcode": "10520",
+    "addr:street": "Jl. Pangkalan Asem",
+    "amenity": "marketplace",
+    "name": "Pasar Gembrong Cempaka Putih"
+  }
+},
+{
+  "type": "node",
+  "id": 4243963464,
+  "lat": -6.1623147,
+  "lon": 106.7971420,
+  "timestamp": "2016-06-15T07:31:38Z",
+  "version": 1,
+  "changeset": 40032907,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Grogol Petamburan, West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jl. DR. Mawardi Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Grogol"
+  }
+},
+{
+  "type": "node",
+  "id": 4243963887,
+  "lat": -6.1405760,
+  "lon": 106.8119471,
+  "timestamp": "2016-06-15T07:33:43Z",
+  "version": 1,
+  "changeset": 40032943,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Pinangsia, West Jakarta",
+    "addr:postcode": "11110",
+    "addr:street": "Jalan Asemka-Petongkangan",
+    "amenity": "marketplace",
+    "name": "Pasar Grosir Asemka"
+  }
+},
+{
+  "type": "node",
+  "id": 4243966683,
+  "lat": -6.1856673,
+  "lon": 106.8721634,
+  "timestamp": "2016-06-15T07:35:54Z",
+  "version": 1,
+  "changeset": 40032980,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cempaka Putih, Central Jakarta",
+    "addr:postcode": "10510",
+    "addr:street": "Jl. Rawasari Selatan",
+    "amenity": "marketplace",
+    "name": "Pasar Rawasari"
+  }
+},
+{
+  "type": "node",
+  "id": 4243966701,
+  "lat": -6.2892907,
+  "lon": 106.7715006,
+  "timestamp": "2016-06-15T07:39:55Z",
+  "version": 1,
+  "changeset": 40033029,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cilandak, South Jakarta",
+    "addr:housenumber": "1",
+    "addr:postcode": "12440",
+    "addr:street": "Jalan Pasar Jumat",
+    "amenity": "marketplace",
+    "name": "Pasar Jumat"
+  }
+},
+{
+  "type": "node",
+  "id": 4243970206,
+  "lat": -6.2401693,
+  "lon": 106.7806307,
+  "timestamp": "2016-06-15T07:45:15Z",
+  "version": 1,
+  "changeset": 40033107,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kebayoran Lama, South Jakarta",
+    "addr:postcode": "12230",
+    "addr:street": "Jalan Ciputat Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Kebayoran Lama"
+  }
+},
+{
+  "type": "node",
+  "id": 4243970642,
+  "lat": -6.1933174,
+  "lon": 106.8136575,
+  "timestamp": "2016-06-15T07:43:20Z",
+  "version": 2,
+  "changeset": 40033077,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tanah Abang, Central Jakarta",
+    "addr:housenumber": "11",
+    "addr:postcode": "10230",
+    "addr:street": "Jl. Sabeni",
+    "amenity": "marketplace",
+    "name": "Pasar Kambing Tanah Abang"
+  }
+},
+{
+  "type": "node",
+  "id": 4243972080,
+  "lat": -6.2681814,
+  "lon": 106.8667229,
+  "timestamp": "2016-06-15T07:47:46Z",
+  "version": 1,
+  "changeset": 40033146,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kramat Jati, East Jakarta",
+    "addr:postcode": "13510",
+    "addr:street": "Jalan Raya Bogor",
+    "amenity": "marketplace",
+    "name": "Pasar Kramat Jati"
+  }
+},
+{
+  "type": "node",
+  "id": 4243975631,
+  "lat": -6.1901440,
+  "lon": 106.8834920,
+  "timestamp": "2016-06-15T08:07:32Z",
+  "version": 1,
+  "changeset": 40033464,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Pulo Gadung, East Jakarta",
+    "addr:postcode": "13220",
+    "addr:street": "Jl. Sunan Giri",
+    "amenity": "marketplace",
+    "name": "Pasar Sunan Giri"
+  }
+},
+{
+  "type": "node",
+  "id": 4243975636,
+  "lat": -6.1888300,
+  "lon": 106.8120002,
+  "timestamp": "2016-06-15T08:09:51Z",
+  "version": 1,
+  "changeset": 40033493,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tanah Abang, Central Jakarta",
+    "addr:postcode": "10250",
+    "addr:street": "Jalan Kebon Jati",
+    "amenity": "marketplace",
+    "name": "Pasar Tanah Abang"
+  }
+},
+{
+  "type": "node",
+  "id": 4243978641,
+  "lat": -6.2139400,
+  "lon": 106.8261137,
+  "timestamp": "2016-06-15T07:52:02Z",
+  "version": 1,
+  "changeset": 40033231,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Setiabudi, Central Jakarta",
+    "addr:postcode": "12920",
+    "addr:street": "Jalan Karet Belakang Barat",
+    "amenity": "marketplace",
+    "name": "Pasar Mencos"
+  }
+},
+{
+  "type": "node",
+  "id": 4243979772,
+  "lat": -6.1610300,
+  "lon": 106.8324024,
+  "timestamp": "2016-06-15T07:54:14Z",
+  "version": 1,
+  "changeset": 40033262,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Sawah Besar, Central Jakarta",
+    "addr:postcode": "10710",
+    "addr:street": "Jalan KH Samanhudi",
+    "amenity": "marketplace",
+    "name": "Pasar Metro"
+  }
+},
+{
+  "type": "node",
+  "id": 4243984103,
+  "lat": -6.1991527,
+  "lon": 106.7611797,
+  "timestamp": "2016-06-15T07:59:05Z",
+  "version": 1,
+  "changeset": 40033343,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kembangan, West Jakarta",
+    "addr:postcode": "11620",
+    "addr:street": "Jalan Meruya Ilir",
+    "amenity": "marketplace",
+    "name": "Pasar Pengampuan"
+  }
+},
+{
+  "type": "node",
+  "id": 4243984835,
+  "lat": -6.1768067,
+  "lon": 106.8419352,
+  "timestamp": "2016-06-15T08:01:20Z",
+  "version": 1,
+  "changeset": 40033377,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Senen, Central Jakarta",
+    "addr:postcode": "10450",
+    "addr:street": "Jl. Let. Jen. Suprapto-Kramat Bunder",
+    "amenity": "marketplace",
+    "name": "Pasar Proyek Senen"
+  }
+},
+{
+  "type": "node",
+  "id": 4243991283,
+  "lat": -6.2155027,
+  "lon": 106.8710028,
+  "timestamp": "2016-06-15T08:03:28Z",
+  "version": 1,
+  "changeset": 40033414,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Jatinegara, East Jakarta",
+    "addr:housenumber": "2",
+    "addr:postcode": "52473",
+    "addr:street": "Jalan Bekasi Barat Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Rawa Bening - Jakarta Gems Center"
+  }
+},
+{
+  "type": "node",
+  "id": 4243992363,
+  "lat": -6.2072413,
+  "lon": 106.8408983,
+  "timestamp": "2016-06-15T08:05:11Z",
+  "version": 1,
+  "changeset": 40033431,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Setiabudi, South Jakarta",
+    "addr:postcode": "12910",
+    "addr:street": "Jalan Sultan Agung",
+    "amenity": "marketplace",
+    "name": "Pasar Rumput"
+  }
+},
+{
+  "type": "node",
+  "id": 4244006457,
+  "lat": -6.1302273,
+  "lon": 106.8946007,
+  "timestamp": "2016-06-15T08:12:07Z",
+  "version": 1,
+  "changeset": 40033522,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Koja, North Jakarta",
+    "addr:postcode": "14230",
+    "addr:street": "Jl. Raya Plumpang Rawa",
+    "amenity": "marketplace",
+    "name": "Pasar Ular"
+  }
+},
+{
+  "type": "node",
+  "id": 4244009966,
+  "lat": -6.2551713,
+  "lon": 106.8248197,
+  "timestamp": "2016-06-15T08:15:14Z",
+  "version": 2,
+  "changeset": 40033570,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Pancoran, South Jakarta",
+    "addr:housenumber": "9",
+    "addr:postcode": "12760",
+    "addr:street": "Jalan Kemang Utara",
+    "amenity": "marketplace",
+    "name": "Pasar Warung Buncit"
+  }
+},
+{
+  "type": "node",
+  "id": 4244016676,
+  "lat": -6.1611207,
+  "lon": 106.8331087,
+  "timestamp": "2016-06-15T08:19:23Z",
+  "version": 1,
+  "changeset": 40033641,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Sawah Besar, Central Jakarta",
+    "addr:postcode": "10210",
+    "addr:street": "Jalan KH Samanhudi",
+    "amenity": "marketplace",
+    "name": "PD Pasar Jaya Pasar Baru Metro Atom"
+  }
+},
+{
+  "type": "node",
+  "id": 4248078330,
+  "lat": -6.3123393,
+  "lon": 106.7935663,
+  "timestamp": "2016-06-17T09:09:01Z",
+  "version": 1,
+  "changeset": 40087021,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Pondok Labu, South Jakarta",
+    "addr:postcode": "12450",
+    "addr:street": "Jl. R.S. Fatmawati",
+    "amenity": "marketplace",
+    "name": "Pasar Pondok Labu"
+  }
+},
+{
+  "type": "node",
+  "id": 4248081888,
+  "lat": -6.2350187,
+  "lon": 106.7845262,
+  "timestamp": "2016-06-17T09:12:59Z",
+  "version": 1,
+  "changeset": 40087109,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kebayoran Lama, South Jakarta",
+    "addr:postcode": "12220",
+    "addr:street": "Jalan Teuku Nyak Arief",
+    "amenity": "marketplace",
+    "name": "Pasar Bata Putih"
+  }
+},
+{
+  "type": "node",
+  "id": 4248114112,
+  "lat": -6.2210400,
+  "lon": 106.7831938,
+  "timestamp": "2016-06-17T09:32:21Z",
+  "version": 1,
+  "changeset": 40087596,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Permata Hijau, South Jakarta",
+    "addr:postcode": "12210",
+    "addr:street": "Jl. Letjen. Supeno",
+    "amenity": "marketplace",
+    "name": "Pasar Mobil Auto Mall senayan"
+  }
+},
+{
+  "type": "node",
+  "id": 4248117055,
+  "lat": -6.2868740,
+  "lon": 106.7954385,
+  "timestamp": "2016-06-17T09:34:25Z",
+  "version": 1,
+  "changeset": 40087662,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cilandak, South Jakarta",
+    "addr:postcode": "12430",
+    "addr:street": "Jalan RS Fatmawati",
+    "amenity": "marketplace",
+    "name": "Pasar Made"
+  }
+},
+{
+  "type": "node",
+  "id": 4248127894,
+  "lat": -6.2409387,
+  "lon": 106.8254953,
+  "timestamp": "2016-06-17T09:43:33Z",
+  "version": 1,
+  "changeset": 40087920,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Mampang Prapatan, South Jakarta",
+    "addr:housenumber": "58",
+    "addr:postcode": "12790",
+    "addr:street": "Jalan Mampang Prapatan",
+    "amenity": "marketplace",
+    "name": "Pasar Mampang"
+  }
+},
+{
+  "type": "node",
+  "id": 4248130259,
+  "lat": -6.1656145,
+  "lon": 106.8346943,
+  "timestamp": "2016-06-17T09:45:25Z",
+  "version": 1,
+  "changeset": 40087969,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10710",
+    "addr:street": "Pasar Baru Selatan",
+    "amenity": "marketplace",
+    "name": "Pasar Baru Selatan"
+  }
+},
+{
+  "type": "node",
+  "id": 4248137508,
+  "lat": -6.1615576,
+  "lon": 106.8375614,
+  "timestamp": "2016-06-17T09:47:39Z",
+  "version": 1,
+  "changeset": 40088016,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10610",
+    "addr:street": "Jalan Pasar Baru Timur",
+    "amenity": "marketplace",
+    "name": "Pasar Baru Timur"
+  }
+},
+{
+  "type": "node",
+  "id": 4248138443,
+  "lat": -6.2379421,
+  "lon": 106.7655365,
+  "timestamp": "2016-06-17T09:55:26Z",
+  "version": 2,
+  "changeset": 40088247,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kebayoran Lama, South Jakarta",
+    "addr:postcode": "12230",
+    "addr:street": "Jalan Ciledug Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Cipulir"
+  }
+},
+{
+  "type": "node",
+  "id": 4248142853,
+  "lat": -6.1619510,
+  "lon": 106.8362437,
+  "timestamp": "2016-06-17T09:50:27Z",
+  "version": 1,
+  "changeset": 40088090,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10610",
+    "addr:street": "Jalan Kelinci Raya",
+    "amenity": "marketplace",
+    "name": "Pasat Baru Timur Dalam"
+  }
+},
+{
+  "type": "node",
+  "id": 4248147129,
+  "lat": -6.1981040,
+  "lon": 106.8579700,
+  "timestamp": "2016-06-17T09:54:24Z",
+  "version": 1,
+  "changeset": 40088208,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Matraman, East Jakarta",
+    "addr:postcode": "13140",
+    "addr:street": "Jalan Gugus Depan",
+    "amenity": "marketplace",
+    "name": "Pasar Burung"
+  }
+},
+{
+  "type": "node",
+  "id": 4248147940,
+  "lat": -6.1265920,
+  "lon": 106.8990853,
+  "timestamp": "2016-06-17T09:57:13Z",
+  "version": 1,
+  "changeset": 40088303,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Koja, North Jakarta",
+    "addr:postcode": "14230",
+    "addr:street": "Jl. Alur Laut",
+    "amenity": "marketplace",
+    "name": "Pasar Walang Baru"
+  }
+},
+{
+  "type": "node",
+  "id": 4248149532,
+  "lat": -6.1856403,
+  "lon": 106.8355734,
+  "timestamp": "2016-06-17T09:56:38Z",
+  "version": 1,
+  "changeset": 40088284,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10340",
+    "addr:street": "Jalan Menteng Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Boplo Menteng"
+  }
+},
+{
+  "type": "node",
+  "id": 4248150754,
+  "lat": -6.1163023,
+  "lon": 106.8785023,
+  "timestamp": "2016-06-17T09:59:38Z",
+  "version": 1,
+  "changeset": 40088371,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tanjung Priok, North Jakarta",
+    "addr:postcode": "14370",
+    "addr:street": "Jl. Warakas 1",
+    "amenity": "marketplace",
+    "name": "Pasar Warakas"
+  }
+},
+{
+  "type": "node",
+  "id": 4248155973,
+  "lat": -6.1155307,
+  "lon": 106.9167764,
+  "timestamp": "2016-06-17T10:02:55Z",
+  "version": 1,
+  "changeset": 40088463,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Koja, North Jakarta",
+    "addr:postcode": "14260",
+    "addr:street": "JL. Kramat Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Tugu"
+  }
+},
+{
+  "type": "node",
+  "id": 4248161335,
+  "lat": -6.1391247,
+  "lon": 106.8702215,
+  "timestamp": "2016-06-17T10:08:40Z",
+  "version": 1,
+  "changeset": 40088621,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Sunter, North Jakarta",
+    "addr:postcode": "14350",
+    "addr:street": "Jl. Sunter Karya Utara II",
+    "amenity": "marketplace",
+    "name": "Pasar Sunter DKI"
+  }
+},
+{
+  "type": "node",
+  "id": 4248163887,
+  "lat": -6.1257413,
+  "lon": 106.8389892,
+  "timestamp": "2016-06-17T10:11:28Z",
+  "version": 2,
+  "changeset": 40088706,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Pademangan, North Jakarta",
+    "addr:housenumber": "93",
+    "addr:postcode": "14430",
+    "addr:street": "Jl. Gerbang Ancol",
+    "amenity": "marketplace",
+    "name": "Pasar Seni Ancol"
+  }
+},
+{
+  "type": "node",
+  "id": 4248172467,
+  "lat": -6.1494750,
+  "lon": 106.8455368,
+  "timestamp": "2016-06-17T10:20:14Z",
+  "version": 1,
+  "changeset": 40088916,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "10620",
+    "addr:street": "Rajawali Selatan Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Jakarta Fair"
+  }
+},
+{
+  "type": "node",
+  "id": 4248172785,
+  "lat": -6.1581827,
+  "lon": 106.8271256,
+  "timestamp": "2016-06-17T10:20:20Z",
+  "version": 1,
+  "changeset": 40088920,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Taman Sari, West Jakarta",
+    "addr:housenumber": "5",
+    "addr:postcode": "11150",
+    "addr:street": "Jalan Taman Sari",
+    "amenity": "marketplace",
+    "name": "Pasar Graha Auto"
+  }
+},
+{
+  "type": "node",
+  "id": 4248177063,
+  "lat": -6.1096280,
+  "lon": 106.8021952,
+  "timestamp": "2016-06-17T10:27:02Z",
+  "version": 1,
+  "changeset": 40089123,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Penjaringan, North Jakarta",
+    "addr:housenumber": "73",
+    "addr:postcode": "14440",
+    "addr:street": "Jl. Muara Baru Ujung",
+    "amenity": "marketplace",
+    "name": "Pasar Ikan Muara Baru"
+  }
+},
+{
+  "type": "node",
+  "id": 4248181832,
+  "lat": -6.1578260,
+  "lon": 106.8404812,
+  "timestamp": "2016-06-17T10:24:32Z",
+  "version": 1,
+  "changeset": 40089044,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Sawah Besar, Central Jakarta",
+    "addr:housenumber": "9",
+    "addr:postcode": "10720",
+    "addr:street": "Jl. Gunung Sahari 7A",
+    "amenity": "marketplace",
+    "name": "Pasar Ikan Kartini Gunung Sahari"
+  }
+},
+{
+  "type": "node",
+  "id": 4248182973,
+  "lat": -6.1486801,
+  "lon": 106.8256211,
+  "timestamp": "2016-06-17T10:25:45Z",
+  "version": 1,
+  "changeset": 40089088,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11170",
+    "addr:street": "Jalan Mangga Besar Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Jembatan Merah"
+  }
+},
+{
+  "type": "node",
+  "id": 4248190179,
+  "lat": -6.1320345,
+  "lon": 106.8565739,
+  "timestamp": "2016-06-17T10:32:59Z",
+  "version": 1,
+  "changeset": 40089273,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tanjung Priok, North Jakarta",
+    "addr:postcode": "14350",
+    "addr:street": "Jl. Ancol Selatan",
+    "amenity": "marketplace",
+    "name": "Pasar Bambu Kuning"
+  }
+},
+{
+  "type": "node",
+  "id": 4248193645,
+  "lat": -6.1677497,
+  "lon": 106.8494057,
+  "timestamp": "2016-06-17T10:34:25Z",
+  "version": 1,
+  "changeset": 40089316,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10630",
+    "addr:street": "Jalan Kali Baru Timur",
+    "amenity": "marketplace",
+    "name": "Pasar Kalibaru"
+  }
+},
+{
+  "type": "node",
+  "id": 4248196827,
+  "lat": -6.1928049,
+  "lon": 106.8484327,
+  "timestamp": "2016-06-17T10:39:21Z",
+  "version": 1,
+  "changeset": 40089486,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Senen, Central Jakarta",
+    "addr:postcode": "10440",
+    "addr:street": "Jalan Salemba Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Kenari Mas"
+  }
+},
+{
+  "type": "node",
+  "id": 4248198928,
+  "lat": -6.1217187,
+  "lon": 106.9165657,
+  "timestamp": "2016-06-17T10:41:28Z",
+  "version": 2,
+  "changeset": 40089554,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14260",
+    "addr:street": "Jalan Bhayangkara",
+    "amenity": "marketplace",
+    "name": "Pasar Koja Baru"
+  }
+},
+{
+  "type": "node",
+  "id": 4248199191,
+  "lat": -6.1416743,
+  "lon": 106.8094655,
+  "timestamp": "2016-06-17T10:41:19Z",
+  "version": 1,
+  "changeset": 40089548,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tambora, West Jakarta",
+    "addr:postcode": "11220",
+    "addr:street": "Jl. Toko Tiga/Perniagaan",
+    "amenity": "marketplace",
+    "name": "Pasar Perniagaan Tambora"
+  }
+},
+{
+  "type": "node",
+  "id": 4248202044,
+  "lat": -6.1823913,
+  "lon": 106.7798583,
+  "timestamp": "2016-06-17T10:43:55Z",
+  "version": 1,
+  "changeset": 40089639,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Duri Kepa, West Jakarta",
+    "addr:postcode": "11470",
+    "addr:street": "Jalan Patra",
+    "amenity": "marketplace",
+    "name": "Pasar Patra"
+  }
+},
+{
+  "type": "node",
+  "id": 4248206303,
+  "lat": -6.1383521,
+  "lon": 106.8093136,
+  "timestamp": "2016-06-17T10:46:06Z",
+  "version": 1,
+  "changeset": 40089710,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tambora, West Jakarta",
+    "addr:postcode": "11230",
+    "addr:street": "Jl. Pintu Kecil",
+    "amenity": "marketplace",
+    "name": "Pasar Pagi Lama"
+  }
+},
+{
+  "type": "node",
+  "id": 4248212168,
+  "lat": -6.1522029,
+  "lon": 106.8440096,
+  "timestamp": "2016-06-17T10:47:36Z",
+  "version": 1,
+  "changeset": 40089754,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "central Jakarta",
+    "addr:postcode": "10720",
+    "addr:street": "Jalan Industri Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Mobil Kemayoran"
+  }
+},
+{
+  "type": "node",
+  "id": 4248215163,
+  "lat": -6.1263047,
+  "lon": 106.7219178,
+  "timestamp": "2016-06-17T10:49:58Z",
+  "version": 1,
+  "changeset": 40089834,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kali Deres, West Jakarta",
+    "addr:postcode": "11820",
+    "addr:street": "Jl. Raya Menceng",
+    "amenity": "marketplace",
+    "name": "Pasar Menceng"
+  }
+},
+{
+  "type": "node",
+  "id": 4248217783,
+  "lat": -6.1528460,
+  "lon": 106.7038298,
+  "timestamp": "2016-06-17T10:51:45Z",
+  "version": 1,
+  "changeset": 40089871,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kalideres, West Jakarta",
+    "addr:postcode": "11840",
+    "addr:street": "Jl. Peta Selatan",
+    "amenity": "marketplace",
+    "name": "Pasar Kalideres"
+  }
+},
+{
+  "type": "node",
+  "id": 4248220532,
+  "lat": -6.1451507,
+  "lon": 106.8067529,
+  "timestamp": "2016-06-17T10:53:17Z",
+  "version": 1,
+  "changeset": 40089924,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tambora, West Jakarta",
+    "addr:postcode": "11250",
+    "addr:street": "Jalan KH Moh. Mansyur",
+    "amenity": "marketplace",
+    "name": "Pasar Jembatan Lima"
+  }
+},
+{
+  "type": "node",
+  "id": 4248226212,
+  "lat": -6.1605133,
+  "lon": 106.7786504,
+  "timestamp": "2016-06-17T10:55:21Z",
+  "version": 1,
+  "changeset": 40089977,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Grogol Petamburan, West Jakarta",
+    "addr:postcode": "11460",
+    "addr:street": "Jl. Pasar Inpres",
+    "amenity": "marketplace",
+    "name": "Pasar Jelambar Polri"
+  }
+},
+{
+  "type": "node",
+  "id": 4248239213,
+  "lat": -6.1432114,
+  "lon": 106.8145794,
+  "timestamp": "2016-06-17T11:06:43Z",
+  "version": 1,
+  "changeset": 40090307,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Taman Sari, West Jakarta",
+    "addr:postcode": "11180",
+    "addr:street": "Jalan Gajah Mada",
+    "amenity": "marketplace",
+    "name": "Pasar Glodok"
+  }
+},
+{
+  "type": "node",
+  "id": 4248244437,
+  "lat": -6.1365358,
+  "lon": 106.7515030,
+  "timestamp": "2016-06-17T11:13:00Z",
+  "version": 1,
+  "changeset": 40090469,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Cengkareng, West Jakarta",
+    "addr:postcode": "11720",
+    "addr:street": "Jl. Kapuk Darurat",
+    "amenity": "marketplace",
+    "name": "Pasar Darurat"
+  }
+},
+{
+  "type": "node",
+  "id": 4248249986,
+  "lat": -6.1646828,
+  "lon": 106.8640906,
+  "timestamp": "2016-06-17T11:20:43Z",
+  "version": 1,
+  "changeset": 40090686,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Kemayoran, Central Jakarta",
+    "addr:postcode": "10640",
+    "addr:street": "Jalan Serdang Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Sumur Batu"
+  }
+},
+{
+  "type": "node",
+  "id": 4248252748,
+  "lat": -6.1973679,
+  "lon": 106.8391188,
+  "timestamp": "2016-06-17T11:34:46Z",
+  "version": 2,
+  "changeset": 40091007,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10340",
+    "addr:street": "Jalan Surabaya",
+    "amenity": "marketplace",
+    "name": "Pasar Barang antik Pasar Surabaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4248285163,
+  "lat": -6.1827740,
+  "lon": 106.9343672,
+  "timestamp": "2016-06-17T11:42:02Z",
+  "version": 1,
+  "changeset": 40091223,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "east jakarta",
+    "addr:postcode": "13910",
+    "addr:street": "Bekasi Raya",
+    "amenity": "marketplace",
+    "name": "Pasar Cakung"
+  }
+},
+{
+  "type": "node",
+  "id": 4248304319,
+  "lat": -6.2361065,
+  "lon": 106.8806763,
+  "timestamp": "2016-06-17T11:54:08Z",
+  "version": 1,
+  "changeset": 40091574,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "east jakarta",
+    "addr:postcode": "13410",
+    "addr:street": "Jalan Raya Kalimalang",
+    "amenity": "marketplace",
+    "name": "Pasar Ciplak"
+  }
+},
+{
+  "type": "node",
+  "id": 4253819272,
+  "lat": -6.1031584,
+  "lon": 106.7411425,
+  "timestamp": "2016-06-20T05:37:02Z",
+  "version": 1,
+  "changeset": 40148774,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14450",
+    "addr:street": "Pantai Indah Kapuk Boulevard",
+    "amenity": "marketplace",
+    "name": "Fresh Market PIK"
+  }
+},
+{
+  "type": "node",
+  "id": 4255917339,
+  "lat": -6.1097378,
+  "lon": 106.7377731,
+  "timestamp": "2016-06-21T08:07:27Z",
+  "version": 1,
+  "changeset": 40174464,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14440",
+    "addr:street": "Pantai Indah Kapuk Boulevard",
+    "amenity": "marketplace",
+    "name": "Hype Market"
+  }
+},
+{
+  "type": "node",
+  "id": 4347149038,
+  "lat": -6.2289631,
+  "lon": 106.8670762,
+  "timestamp": "2016-08-12T10:54:38Z",
+  "version": 1,
+  "changeset": 41408191,
+  "user": "Easby",
+  "uid": 4405384,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Indomaret Bidara Cina"
+  }
+},
+{
+  "type": "way",
+  "id": 160290310,
+  "timestamp": "2016-02-15T22:08:16Z",
+  "version": 4,
+  "changeset": 37235270,
+  "user": "Farras",
+  "uid": 136807,
+  "center": {
+    "lat": -6.3044527,
+    "lon": 106.6847984
+  },
+  "nodes": [
+    1723440517,
+    1723440516,
+    1723440515,
+    1723440514,
+    1723440517
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Modern"
+  }
+},
+{
+  "type": "way",
+  "id": 129912079,
+  "timestamp": "2013-06-28T06:18:53Z",
+  "version": 2,
+  "changeset": 16735206,
+  "user": "karida",
+  "uid": 19528,
+  "center": {
+    "lat": -6.3159595,
+    "lon": 106.7145988
+  },
+  "nodes": [
+    1432492844,
+    1432492843,
+    1432492926,
+    1432492845,
+    1432492862,
+    2364060183,
+    1432492844
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 155812919,
+  "timestamp": "2012-03-19T15:34:16Z",
+  "version": 1,
+  "changeset": 11030912,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -6.3124402,
+    "lon": 106.7936964
+  },
+  "nodes": [
+    1681697318,
+    1681697319,
+    1681697342,
+    1681697340,
+    1681697346,
+    1681697345,
+    1681697323,
+    1681697318
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Pondok Labu"
+  }
+},
+{
+  "type": "way",
+  "id": 314070581,
+  "timestamp": "2014-11-23T07:39:27Z",
+  "version": 1,
+  "changeset": 26966927,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.3123011,
+    "lon": 106.7937600
+  },
+  "nodes": [
+    3201111436,
+    3201111437,
+    3201111439,
+    3201111438,
+    3201111436
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "flood_prone": "no",
+    "name": "PD Pasar Jaya Pondok Labu"
+  }
+},
+{
+  "type": "way",
+  "id": 314070582,
+  "timestamp": "2014-11-23T07:39:27Z",
+  "version": 1,
+  "changeset": 26966927,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.3127056,
+    "lon": 106.7935532
+  },
+  "nodes": [
+    3201111440,
+    3201111441,
+    3201111443,
+    3201111442,
+    3201111440
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "flood_prone": "no",
+    "name": "Pasar Koperasi"
+  }
+},
+{
+  "type": "way",
+  "id": 314070583,
+  "timestamp": "2014-11-23T07:39:27Z",
+  "version": 1,
+  "changeset": 26966927,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.3133433,
+    "lon": 106.7940192
+  },
+  "nodes": [
+    3201111444,
+    3201111446,
+    3201111447,
+    3201111448,
+    3201111449,
+    3201111451,
+    3201111456,
+    3201111455,
+    3201111457,
+    3201111458,
+    3201111459,
+    3201111460,
+    3201111463,
+    3201111464,
+    3201111445,
+    3201111444
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "no",
+    "name": "Pasar Swadaya"
+  }
+},
+{
+  "type": "way",
+  "id": 314070584,
+  "timestamp": "2014-11-23T07:39:27Z",
+  "version": 1,
+  "changeset": 26966927,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.3137276,
+    "lon": 106.7942003
+  },
+  "nodes": [
+    3201111462,
+    3201111461,
+    3201111470,
+    3201111469,
+    3201111462
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "no",
+    "name": "Pasar Taman"
+  }
+},
+{
+  "type": "way",
+  "id": 158820399,
+  "timestamp": "2015-09-02T07:55:10Z",
+  "version": 2,
+  "changeset": 33744984,
+  "user": "cah_bagus",
+  "uid": 3178926,
+  "center": {
+    "lat": -6.2781057,
+    "lon": 106.7521830
+  },
+  "nodes": [
+    1709522667,
+    1709522664,
+    1709522671,
+    1709522684,
+    1709522667
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Bintaro Sektor 2"
+  }
+},
+{
+  "type": "way",
+  "id": 157365895,
+  "timestamp": "2014-06-27T04:44:08Z",
+  "version": 3,
+  "changeset": 23205581,
+  "user": "raniedwianugrah",
+  "uid": 617220,
+  "center": {
+    "lat": -6.2844394,
+    "lon": 106.8433189
+  },
+  "nodes": [
+    1695847349,
+    1695847360,
+    1695847362,
+    1695847351,
+    1695847347,
+    1695847349
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl raya ragunan",
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">5000",
+    "industrial": "factory",
+    "name": "PD Pasar Jaya"
+  }
+},
+{
+  "type": "way",
+  "id": 464500828,
+  "timestamp": "2017-01-08T10:20:22Z",
+  "version": 1,
+  "changeset": 44997136,
+  "user": "yakali ga kuy",
+  "uid": 4697982,
+  "center": {
+    "lat": -6.2759269,
+    "lon": 106.8743143
+  },
+  "nodes": [
+    4595998418,
+    4595998419,
+    4595998420,
+    4595998421,
+    4595998418
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar",
+    "operator": "PD. Pasar Jaya"
+  }
+},
+{
+  "type": "way",
+  "id": 244053498,
+  "timestamp": "2013-10-30T16:04:36Z",
+  "version": 1,
+  "changeset": 18619626,
+  "user": "ilhamdwif",
+  "uid": 1630538,
+  "center": {
+    "lat": -6.3042749,
+    "lon": 106.9325122
+  },
+  "nodes": [
+    2514083119,
+    2514083121,
+    2514083126,
+    2514083125,
+    2514083119
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Alfamart",
+    "opening_hours": "Mo-Fr 08:30-22:00"
+  }
+},
+{
+  "type": "way",
+  "id": 244053511,
+  "timestamp": "2013-10-30T16:04:38Z",
+  "version": 1,
+  "changeset": 18619626,
+  "user": "ilhamdwif",
+  "uid": 1630538,
+  "center": {
+    "lat": -6.3051653,
+    "lon": 106.9336709
+  },
+  "nodes": [
+    2514083147,
+    2514083153,
+    2514083151,
+    2514083150,
+    2514083149,
+    2514083152,
+    2514083154,
+    2514083164,
+    2514083166,
+    2514083168,
+    2514083143,
+    2514083139,
+    2514083148,
+    2514083145,
+    2514083136,
+    2514083135,
+    2514083141,
+    2514083138,
+    2514083142,
+    2514083147
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "opening_hours": "Mo-Sat 05:30-18:00",
+    "operator": "Kecapi Market"
+  }
+},
+{
+  "type": "way",
+  "id": 158663671,
+  "timestamp": "2012-08-01T21:31:38Z",
+  "version": 2,
+  "changeset": 12579278,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.2837443,
+    "lon": 106.9132876
+  },
+  "nodes": [
+    1708188377,
+    1708188373,
+    1708188399,
+    1708188397,
+    1708188460,
+    1708188465,
+    1708188473,
+    1708188476,
+    1708188478,
+    1708188484,
+    1708188377
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Pondok Gede"
+  }
+},
+{
+  "type": "way",
+  "id": 258857437,
+  "timestamp": "2014-01-29T04:15:30Z",
+  "version": 1,
+  "changeset": 20258543,
+  "user": "Fajar_Wisnu_Hardono",
+  "uid": 1902489,
+  "center": {
+    "lat": -6.2910028,
+    "lon": 106.9667557
+  },
+  "nodes": [
+    2641718341,
+    2641718342,
+    2641718343,
+    2641718344,
+    2641718341
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Jatiasih"
+  }
+},
+{
+  "type": "way",
+  "id": 228532668,
+  "timestamp": "2013-07-03T15:02:49Z",
+  "version": 1,
+  "changeset": 16807530,
+  "user": "@aurizasalim",
+  "uid": 686074,
+  "center": {
+    "lat": -6.2605508,
+    "lon": 106.7093860
+  },
+  "nodes": [
+    2372055462,
+    2372055460,
+    2372055463,
+    2372055465,
+    2372055479,
+    2372055484,
+    2372055462
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Arinda"
+  }
+},
+{
+  "type": "way",
+  "id": 318923431,
+  "timestamp": "2014-12-26T16:48:29Z",
+  "version": 2,
+  "changeset": 27712678,
+  "user": "21Dirham",
+  "uid": 2538500,
+  "center": {
+    "lat": -6.2480550,
+    "lon": 106.6932369
+  },
+  "nodes": [
+    3253253845,
+    3253253846,
+    1709447336,
+    3253253848,
+    3253253845
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Maharta",
+    "opening_hours": "06.00 - 11.00"
+  }
+},
+{
+  "type": "way",
+  "id": 319372907,
+  "timestamp": "2014-12-29T09:46:00Z",
+  "version": 1,
+  "changeset": 27772277,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1792485,
+    "lon": 106.7172863
+  },
+  "nodes": [
+    3257857216,
+    3257857218,
+    3257857221,
+    3257857219,
+    3257857216
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Darurat"
+  }
+},
+{
+  "type": "way",
+  "id": 319374647,
+  "timestamp": "2014-12-29T10:04:58Z",
+  "version": 1,
+  "changeset": 27772618,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1790383,
+    "lon": 106.7221939
+  },
+  "nodes": [
+    3257869228,
+    3257869234,
+    3257869236,
+    3257869240,
+    3257869243,
+    3257869245,
+    3257869246,
+    3257869244,
+    3257869242,
+    3257869241,
+    3257869238,
+    3257869235,
+    3257869230,
+    3257869228
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Tradisional"
+  }
+},
+{
+  "type": "way",
+  "id": 156919505,
+  "timestamp": "2012-03-26T07:13:26Z",
+  "version": 1,
+  "changeset": 11102729,
+  "user": "kelsemanan",
+  "uid": 638950,
+  "center": {
+    "lat": -6.1574339,
+    "lon": 106.7063036
+  },
+  "nodes": [
+    1691618086,
+    1691618088,
+    1691618087,
+    1691618085,
+    1691618086
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PASAR HIPLI SEMANAN"
+  }
+},
+{
+  "type": "way",
+  "id": 315867396,
+  "timestamp": "2014-12-05T09:44:40Z",
+  "version": 1,
+  "changeset": 27258013,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1633414,
+    "lon": 106.7255887
+  },
+  "nodes": [
+    3219981640,
+    3219981638,
+    3219981639,
+    3219981641,
+    3219981640
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "yes",
+    "flood_prone": "yes",
+    "kitchen:facilities": "yes",
+    "name": "Pasar Air Mancur",
+    "shelter_type": "tent",
+    "toilet:facilities": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 156917371,
+  "timestamp": "2014-11-26T03:20:45Z",
+  "version": 3,
+  "changeset": 27036161,
+  "user": "della ananto",
+  "uid": 2334957,
+  "center": {
+    "lat": -6.1616037,
+    "lon": 106.7413107
+  },
+  "nodes": [
+    1691597760,
+    1691597756,
+    1691597767,
+    1691597769,
+    1691597760
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Bojong Indah"
+  }
+},
+{
+  "type": "way",
+  "id": 314679084,
+  "timestamp": "2014-11-27T07:26:08Z",
+  "version": 1,
+  "changeset": 27061917,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1494530,
+    "lon": 106.7214814
+  },
+  "nodes": [
+    3207265468,
+    3207265466,
+    3207265467,
+    3207265471,
+    3207265472,
+    3207265476,
+    3207265477,
+    3207265475,
+    3207265470,
+    3207265469,
+    3207265468
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Ganepo"
+  }
+},
+{
+  "type": "way",
+  "id": 316766678,
+  "timestamp": "2014-12-11T09:05:48Z",
+  "version": 1,
+  "changeset": 27393852,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.1467178,
+    "lon": 106.7430163
+  },
+  "nodes": [
+    3229452448,
+    3229452449,
+    3229452447,
+    3229452446,
+    3229452448
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar"
+  }
+},
+{
+  "type": "way",
+  "id": 157038257,
+  "timestamp": "2012-03-27T04:39:23Z",
+  "version": 1,
+  "changeset": 11112557,
+  "user": "raskiban",
+  "uid": 617238,
+  "center": {
+    "lat": -6.1376359,
+    "lon": 106.7134914
+  },
+  "nodes": [
+    1692722888,
+    1692722886,
+    1692722885,
+    1692722887,
+    1692722888
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Guna Karya Bambu Larangan"
+  }
+},
+{
+  "type": "way",
+  "id": 316748056,
+  "timestamp": "2014-12-11T04:24:58Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1263512,
+    "lon": 106.7189155
+  },
+  "nodes": [
+    3229092084,
+    3229092083,
+    3229092095,
+    3229092098,
+    3229092099,
+    3229092096,
+    3229092084
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "flood_prone": "yes",
+    "name": "Pasar Menvo"
+  }
+},
+{
+  "type": "way",
+  "id": 316748045,
+  "timestamp": "2014-12-11T04:24:58Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1210351,
+    "lon": 106.7105784
+  },
+  "nodes": [
+    3229091939,
+    3229091937,
+    3229091944,
+    3229091946,
+    3229091939
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar 55"
+  }
+},
+{
+  "type": "way",
+  "id": 316748049,
+  "timestamp": "2014-12-11T04:24:58Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1199077,
+    "lon": 106.7179120
+  },
+  "nodes": [
+    3229091924,
+    3229091920,
+    3229091923,
+    3229091925,
+    3229091924
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Darurat"
+  }
+},
+{
+  "type": "way",
+  "id": 314669764,
+  "timestamp": "2014-11-27T04:30:58Z",
+  "version": 1,
+  "changeset": 27060464,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1306967,
+    "lon": 106.7252665
+  },
+  "nodes": [
+    3207178816,
+    3207178821,
+    3207178823,
+    3207178819,
+    3207178816
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Kenanga"
+  }
+},
+{
+  "type": "way",
+  "id": 314528950,
+  "timestamp": "2014-11-26T08:16:59Z",
+  "version": 1,
+  "changeset": 27038900,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1361801,
+    "lon": 106.7252079
+  },
+  "nodes": [
+    3205771197,
+    3205771202,
+    3205771205,
+    3205771201,
+    3205771197
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "flood_prone": "yes",
+    "name": "Pasar"
+  }
+},
+{
+  "type": "way",
+  "id": 314669763,
+  "timestamp": "2014-11-27T04:30:58Z",
+  "version": 1,
+  "changeset": 27060464,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1324499,
+    "lon": 106.7245655
+  },
+  "nodes": [
+    3207178846,
+    3207178847,
+    3207178853,
+    3207178851,
+    3207178846
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Deprok"
+  }
+},
+{
+  "type": "way",
+  "id": 343482021,
+  "timestamp": "2015-05-07T15:37:40Z",
+  "version": 1,
+  "changeset": 30876990,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1376112,
+    "lon": 106.7392947
+  },
+  "nodes": [
+    3503119776,
+    3503119777,
+    3503119778,
+    3503119779,
+    3503119780,
+    3503119776
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482022,
+  "timestamp": "2015-05-07T15:37:40Z",
+  "version": 1,
+  "changeset": 30876990,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1378303,
+    "lon": 106.7395561
+  },
+  "nodes": [
+    3503119781,
+    3503119782,
+    3503119783,
+    3503119784,
+    3503119781
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482023,
+  "timestamp": "2015-05-07T15:37:40Z",
+  "version": 1,
+  "changeset": 30876990,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1379850,
+    "lon": 106.7397405
+  },
+  "nodes": [
+    3503119785,
+    3503119786,
+    3503119787,
+    3503119788,
+    3503119785
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482092,
+  "timestamp": "2015-05-07T15:38:44Z",
+  "version": 1,
+  "changeset": 30877015,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1381330,
+    "lon": 106.7396547
+  },
+  "nodes": [
+    3503120475,
+    3503120476,
+    3503120477,
+    3503120478,
+    3503120475
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482100,
+  "timestamp": "2015-05-07T15:39:16Z",
+  "version": 1,
+  "changeset": 30877026,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1383169,
+    "lon": 106.7395064
+  },
+  "nodes": [
+    3503120562,
+    3503120563,
+    3503120564,
+    3503120565,
+    3503120562
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482452,
+  "timestamp": "2015-05-07T15:40:34Z",
+  "version": 1,
+  "changeset": 30877063,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1384203,
+    "lon": 106.7393858
+  },
+  "nodes": [
+    3503124044,
+    3503124045,
+    3503124046,
+    3503124047,
+    3503124044
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482473,
+  "timestamp": "2015-05-07T15:41:13Z",
+  "version": 1,
+  "changeset": 30877078,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1382623,
+    "lon": 106.7391994
+  },
+  "nodes": [
+    3503124315,
+    3503124316,
+    3503124317,
+    3503124318,
+    3503124315
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482798,
+  "timestamp": "2015-05-07T15:44:54Z",
+  "version": 1,
+  "changeset": 30877162,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1380383,
+    "lon": 106.7389385
+  },
+  "nodes": [
+    3503126934,
+    3503126935,
+    3503126936,
+    3503126937,
+    3503126934
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482799,
+  "timestamp": "2015-05-07T15:44:54Z",
+  "version": 1,
+  "changeset": 30877162,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1378850,
+    "lon": 106.7387475
+  },
+  "nodes": [
+    3503126938,
+    3503126939,
+    3503126940,
+    3503126941,
+    3503126938
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482800,
+  "timestamp": "2015-05-07T15:44:54Z",
+  "version": 1,
+  "changeset": 30877162,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1375629,
+    "lon": 106.7389774
+  },
+  "nodes": [
+    3503126942,
+    3503126943,
+    3503126944,
+    3503126945,
+    3503126942
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343483112,
+  "timestamp": "2015-05-07T15:46:53Z",
+  "version": 1,
+  "changeset": 30877204,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1375649,
+    "lon": 106.7389761
+  },
+  "nodes": [
+    3503128521,
+    3503128522,
+    3503128523,
+    3503128524,
+    3503128521
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343483114,
+  "timestamp": "2015-05-07T15:46:53Z",
+  "version": 1,
+  "changeset": 30877204,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1377382,
+    "lon": 106.7388285
+  },
+  "nodes": [
+    3503128525,
+    3503128526,
+    3503128527,
+    3503128528,
+    3503128525
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343483117,
+  "timestamp": "2015-05-07T15:46:53Z",
+  "version": 1,
+  "changeset": 30877204,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1380396,
+    "lon": 106.7389392
+  },
+  "nodes": [
+    3503128529,
+    3503128530,
+    3503128531,
+    3503128532,
+    3503128529
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343483119,
+  "timestamp": "2015-05-07T15:46:53Z",
+  "version": 1,
+  "changeset": 30877204,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1378796,
+    "lon": 106.7387474
+  },
+  "nodes": [
+    3503128533,
+    3503128534,
+    3503128535,
+    3503128536,
+    3503128533
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 343482020,
+  "timestamp": "2015-05-07T15:37:40Z",
+  "version": 1,
+  "changeset": 30876990,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1374553,
+    "lon": 106.7391094
+  },
+  "nodes": [
+    3503119770,
+    3503119771,
+    3503119774,
+    3503119775,
+    3503119772,
+    3503119773,
+    3503119770
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 316757667,
+  "timestamp": "2014-12-11T06:55:09Z",
+  "version": 1,
+  "changeset": 27392109,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.1355276,
+    "lon": 106.7447588
+  },
+  "nodes": [
+    3229357210,
+    3229357211,
+    3229357214,
+    3229357213,
+    3229357212,
+    3229357210
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "no",
+    "name": "Pasar Oglek"
+  }
+},
+{
+  "type": "way",
+  "id": 355163792,
+  "timestamp": "2015-06-20T18:42:23Z",
+  "version": 1,
+  "changeset": 32102704,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1351882,
+    "lon": 106.7408527
+  },
+  "nodes": [
+    3607709440,
+    3607709441,
+    3607709442,
+    3607709443,
+    3607709445,
+    3607709444,
+    3607709440
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "terrace",
+    "name": "Pasar Sore BCI"
+  }
+},
+{
+  "type": "way",
+  "id": 316748051,
+  "timestamp": "2014-12-11T04:24:58Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1261943,
+    "lon": 106.7218445
+  },
+  "nodes": [
+    3229092092,
+    3229092081,
+    3229092085,
+    3229092097,
+    3229092092
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Menceng"
+  }
+},
+{
+  "type": "way",
+  "id": 316748058,
+  "timestamp": "2014-12-11T04:24:59Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1209550,
+    "lon": 106.7292422
+  },
+  "nodes": [
+    3229091938,
+    3229091936,
+    3229091940,
+    3229091942,
+    3229091938
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Nangka"
+  }
+},
+{
+  "type": "way",
+  "id": 316748047,
+  "timestamp": "2014-12-11T04:24:58Z",
+  "version": 1,
+  "changeset": 27390642,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1152065,
+    "lon": 106.7128961
+  },
+  "nodes": [
+    3229091840,
+    3229091836,
+    3229091844,
+    3229091852,
+    3229091840
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Binaan"
+  }
+},
+{
+  "type": "way",
+  "id": 314067041,
+  "timestamp": "2014-11-23T06:19:24Z",
+  "version": 1,
+  "changeset": 26966206,
+  "user": "della ananto",
+  "uid": 2334957,
+  "center": {
+    "lat": -6.0916545,
+    "lon": 106.7254956
+  },
+  "nodes": [
+    3201064161,
+    3201064163,
+    3201064164,
+    3201064162,
+    3201064161
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "TPI Kamal Muara"
+  }
+},
+{
+  "type": "way",
+  "id": 314067027,
+  "timestamp": "2014-11-23T06:19:23Z",
+  "version": 1,
+  "changeset": 26966206,
+  "user": "della ananto",
+  "uid": 2334957,
+  "center": {
+    "lat": -6.0919138,
+    "lon": 106.7248781
+  },
+  "nodes": [
+    3201064170,
+    3201064166,
+    3201064169,
+    3201064173,
+    3201064170
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar RT 08/02/07"
+  }
+},
+{
+  "type": "way",
+  "id": 314067028,
+  "timestamp": "2014-11-23T06:19:23Z",
+  "version": 1,
+  "changeset": 26966206,
+  "user": "della ananto",
+  "uid": 2334957,
+  "center": {
+    "lat": -6.0919302,
+    "lon": 106.7251882
+  },
+  "nodes": [
+    3201064172,
+    3201064174,
+    3201064168,
+    3201064165,
+    3201064172
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pelelangan"
+  }
+},
+{
+  "type": "way",
+  "id": 408779091,
+  "timestamp": "2016-04-08T03:21:08Z",
+  "version": 1,
+  "changeset": 38395966,
+  "user": "paijoid",
+  "uid": 596307,
+  "center": {
+    "lat": -6.2595712,
+    "lon": 106.7474992
+  },
+  "nodes": [
+    4106920764,
+    4106920765,
+    4106920766,
+    4106920767,
+    4106920764
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Mitra10"
+  }
+},
+{
+  "type": "way",
+  "id": 312175015,
+  "timestamp": "2014-11-11T05:21:23Z",
+  "version": 1,
+  "changeset": 26703412,
+  "user": "Dody Suria Wijaya",
+  "uid": 229861,
+  "center": {
+    "lat": -6.2585540,
+    "lon": 106.7912759
+  },
+  "nodes": [
+    3180205281,
+    3180205282,
+    3180205283,
+    3180205284,
+    3180205285,
+    3180205281
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Radio Dalam",
+    "operator": "PD Pasar Jaya"
+  }
+},
+{
+  "type": "way",
+  "id": 311563513,
+  "timestamp": "2014-11-07T16:12:46Z",
+  "version": 1,
+  "changeset": 26618152,
+  "user": "Dody Suria Wijaya",
+  "uid": 229861,
+  "center": {
+    "lat": -6.2557895,
+    "lon": 106.7969034
+  },
+  "nodes": [
+    3172459721,
+    3172459722,
+    3172459723,
+    3172459724,
+    3172459721
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Blok-A"
+  }
+},
+{
+  "type": "way",
+  "id": 157351125,
+  "timestamp": "2012-03-29T05:14:15Z",
+  "version": 1,
+  "changeset": 11133681,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.2268698,
+    "lon": 106.7547771
+  },
+  "nodes": [
+    1695688692,
+    1695688699,
+    1695688701,
+    1695688698,
+    1695688696,
+    1695688694,
+    1695688692
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Taman Alfa"
+  }
+},
+{
+  "type": "way",
+  "id": 157347071,
+  "timestamp": "2014-11-24T04:23:40Z",
+  "version": 2,
+  "changeset": 26986966,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.2398988,
+    "lon": 106.8120936
+  },
+  "nodes": [
+    1695672953,
+    1695672981,
+    1695673020,
+    1695673023,
+    1695673000,
+    1695672992,
+    1695672945,
+    1695672953
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Santa",
+    "opening_hours": "Su-Sa 07:00-17:00",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "way",
+  "id": 482198094,
+  "timestamp": "2017-04-03T09:26:49Z",
+  "version": 2,
+  "changeset": 47405428,
+  "user": "dennisramadhan",
+  "uid": 2340253,
+  "center": {
+    "lat": -6.2367694,
+    "lon": 106.8185568
+  },
+  "nodes": [
+    4750466909,
+    4750466906,
+    4750466907,
+    4750466908,
+    4750466909
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Rengas I",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:floor": "ground",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity:persons": "100-250",
+    "name": "Pasar Rengas"
+  }
+},
+{
+  "type": "way",
+  "id": 119919348,
+  "timestamp": "2011-07-01T14:55:10Z",
+  "version": 1,
+  "changeset": 8600261,
+  "user": "tika yulianidar",
+  "uid": 477302,
+  "center": {
+    "lat": -6.2082553,
+    "lon": 106.7958937
+  },
+  "nodes": [
+    1345845573,
+    1345845588,
+    1345845603,
+    1345845616,
+    1345845573
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Pasar dan Ramayana Palmerah"
+  }
+},
+{
+  "type": "way",
+  "id": 120909872,
+  "timestamp": "2011-07-09T06:14:37Z",
+  "version": 1,
+  "changeset": 8671678,
+  "user": "tika yulianidar",
+  "uid": 477302,
+  "center": {
+    "lat": -6.1943881,
+    "lon": 106.7967982
+  },
+  "nodes": [
+    1354527057,
+    1354527066,
+    1354527055,
+    1354527071,
+    1354527057
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:roof": "concrete",
+    "building:structure": "unreinforced_masonry",
+    "building:use": "shop",
+    "building:walls": "brick",
+    "name": "TOTAL buah"
+  }
+},
+{
+  "type": "way",
+  "id": 120910680,
+  "timestamp": "2011-07-09T06:33:20Z",
+  "version": 1,
+  "changeset": 8671771,
+  "user": "tika yulianidar",
+  "uid": 477302,
+  "center": {
+    "lat": -6.1902824,
+    "lon": 106.7958929
+  },
+  "nodes": [
+    1354538480,
+    1354538534,
+    1354538469,
+    1354538568,
+    1354538480
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Pasar Slipi"
+  }
+},
+{
+  "type": "way",
+  "id": 156924647,
+  "timestamp": "2012-03-26T08:19:01Z",
+  "version": 1,
+  "changeset": 11103231,
+  "user": "Kelurahan Tanjung Duren Selatan",
+  "uid": 638980,
+  "center": {
+    "lat": -6.1778438,
+    "lon": 106.7843206
+  },
+  "nodes": [
+    1691655180,
+    1691655179,
+    1691655161,
+    1691655163,
+    1691655180
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Tomang Barat (Pasar Kopro)"
+  }
+},
+{
+  "type": "way",
+  "id": 155115828,
+  "timestamp": "2013-07-04T14:51:55Z",
+  "version": 2,
+  "changeset": 16823998,
+  "user": "Firman Hadi",
+  "uid": 76518,
+  "center": {
+    "lat": -6.2156959,
+    "lon": 106.8151691
+  },
+  "nodes": [
+    1675498411,
+    2373578441,
+    2373578442,
+    1675498399,
+    2373578443,
+    2373578440,
+    1675498417,
+    1675498428,
+    1675498411
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Benhil",
+    "opening_hours": "Mo-Fr 08:30-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 315562271,
+  "timestamp": "2014-12-03T03:29:28Z",
+  "version": 1,
+  "changeset": 27192505,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.1979006,
+    "lon": 106.8094137
+  },
+  "nodes": [
+    3216885829,
+    3216885832,
+    3216885842,
+    3216885855,
+    3216885858,
+    3216885852,
+    3216885854,
+    3216885847,
+    3216885835,
+    3216885829
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Pintu Air"
+  }
+},
+{
+  "type": "way",
+  "id": 303431059,
+  "timestamp": "2014-09-15T08:11:28Z",
+  "version": 1,
+  "changeset": 25449306,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.2018883,
+    "lon": 106.8238024
+  },
+  "nodes": [
+    3077896054,
+    3077896053,
+    3077896051,
+    3077896052,
+    3077896054
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Blora"
+  }
+},
+{
+  "type": "way",
+  "id": 157357320,
+  "timestamp": "2012-03-29T06:35:15Z",
+  "version": 1,
+  "changeset": 11134052,
+  "user": "Menteng Atas",
+  "uid": 642239,
+  "center": {
+    "lat": -6.2204606,
+    "lon": 106.8384913
+  },
+  "nodes": [
+    1695765571,
+    1695765612,
+    1695765610,
+    1695765567,
+    1695765569,
+    1695765571
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Pocong",
+    "operator": "UKM"
+  }
+},
+{
+  "type": "way",
+  "id": 157357315,
+  "timestamp": "2012-04-16T00:23:09Z",
+  "version": 2,
+  "changeset": 11317362,
+  "user": "Ian Granger",
+  "uid": 575039,
+  "center": {
+    "lat": -6.2212102,
+    "lon": 106.8452508
+  },
+  "nodes": [
+    1695765702,
+    1695765654,
+    1695765688,
+    1695765728,
+    1695765719,
+    1695765702
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PD Pasar Jaya Jembatan Merah"
+  }
+},
+{
+  "type": "way",
+  "id": 482145169,
+  "timestamp": "2017-03-23T03:51:38Z",
+  "version": 1,
+  "changeset": 47085113,
+  "user": "Robi Ripai",
+  "uid": 2166021,
+  "center": {
+    "lat": -6.2084089,
+    "lon": 106.8375861
+  },
+  "nodes": [
+    4750089420,
+    4750089419,
+    4750089418,
+    4750089417,
+    4750089420
+  ],
+  "tags": {
+    "addr:city": "Setiabudi, South Jakarta",
+    "addr:postcode": "12970",
+    "addr:street": "Jalan Unggaran",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Manggis"
+  }
+},
+{
+  "type": "way",
+  "id": 155110267,
+  "timestamp": "2014-07-06T14:35:51Z",
+  "version": 3,
+  "changeset": 23985049,
+  "user": "zahrabanu",
+  "uid": 2056157,
+  "center": {
+    "lat": -6.1889823,
+    "lon": 106.8119223
+  },
+  "nodes": [
+    1675446766,
+    1675454017,
+    1676907100,
+    1675446844,
+    1676907133,
+    1675446762,
+    1675446765,
+    1675446766
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Blok G Tanah Abang"
+  }
+},
+{
+  "type": "way",
+  "id": 155110626,
+  "timestamp": "2014-08-11T07:47:45Z",
+  "version": 2,
+  "changeset": 24671669,
+  "user": "Dewi Sulistioningrum",
+  "uid": 615320,
+  "center": {
+    "lat": -6.1847153,
+    "lon": 106.8411665
+  },
+  "nodes": [
+    1675459853,
+    1675459851,
+    3009919758,
+    3009919757,
+    1675459853
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PASAR KWITANG DALAM",
+    "opening_hours": "05.00-12.00",
+    "operator": "PEMERINTAH"
+  }
+},
+{
+  "type": "way",
+  "id": 120555916,
+  "timestamp": "2014-10-08T13:35:53Z",
+  "version": 2,
+  "changeset": 25939476,
+  "user": "bauerpower",
+  "uid": 432582,
+  "center": {
+    "lat": -6.1769880,
+    "lon": 106.8423762
+  },
+  "nodes": [
+    1351492876,
+    1351492918,
+    1351492872,
+    3118401277,
+    1351492888,
+    1351492848,
+    1351492859,
+    1351492912,
+    1351492926,
+    1351492882,
+    1351492895,
+    1351492876
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Pasar Senen Jaya"
+  }
+},
+{
+  "type": "way",
+  "id": 314677975,
+  "timestamp": "2014-11-27T07:06:37Z",
+  "version": 1,
+  "changeset": 27061741,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.2504830,
+    "lon": 106.8566678
+  },
+  "nodes": [
+    3207253658,
+    3207253659,
+    3207255666,
+    3207255664,
+    3207253658
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Kaget Pengadegan"
+  }
+},
+{
+  "type": "way",
+  "id": 155935904,
+  "timestamp": "2017-04-04T06:46:03Z",
+  "version": 3,
+  "changeset": 47432944,
+  "user": "Hajid Naufal",
+  "uid": 5520507,
+  "center": {
+    "lat": -6.2567168,
+    "lon": 106.8654224
+  },
+  "nodes": [
+    1682763133,
+    1682763139,
+    1682763151,
+    1682763134,
+    1682763133
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Pasar Jambul Cawang - Jakarta Timur",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "50-100",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Jaya Pasar Jambul Baru"
+  }
+},
+{
+  "type": "way",
+  "id": 315411487,
+  "timestamp": "2014-12-02T04:13:16Z",
+  "version": 1,
+  "changeset": 27171207,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.2602304,
+    "lon": 106.8709090
+  },
+  "nodes": [
+    3215271069,
+    3215271070,
+    3215271072,
+    3215271071,
+    3215271069
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Batak"
+  }
+},
+{
+  "type": "way",
+  "id": 157362094,
+  "timestamp": "2017-04-04T04:36:20Z",
+  "version": 4,
+  "changeset": 47430637,
+  "user": "Fadlilaa",
+  "uid": 4706334,
+  "center": {
+    "lat": -6.2347544,
+    "lon": 106.8565966
+  },
+  "nodes": [
+    1695812154,
+    1695812151,
+    1695812176,
+    1695812173,
+    1695812154
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Tebet Timur Dalam",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Pasar Tebet Timur"
+  }
+},
+{
+  "type": "way",
+  "id": 315589068,
+  "timestamp": "2014-12-03T11:03:05Z",
+  "version": 1,
+  "changeset": 27197491,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.2310592,
+    "lon": 106.8654564
+  },
+  "nodes": [
+    3217166472,
+    3217166471,
+    3217166474,
+    3217166475,
+    3217166472
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "yes",
+    "name": "Pasar Krenso"
+  }
+},
+{
+  "type": "way",
+  "id": 314681711,
+  "timestamp": "2014-11-27T08:07:41Z",
+  "version": 1,
+  "changeset": 27062408,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.2250249,
+    "lon": 106.8650991
+  },
+  "nodes": [
+    3207287131,
+    3207287129,
+    3207287128,
+    3207287130,
+    3207287131
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Kampung Melayu"
+  }
+},
+{
+  "type": "way",
+  "id": 334989574,
+  "timestamp": "2015-03-27T09:22:51Z",
+  "version": 1,
+  "changeset": 29772822,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.2526077,
+    "lon": 106.9164698
+  },
+  "nodes": [
+    3421213550,
+    3421213552,
+    3421213555,
+    3421213551,
+    3421213550
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Kodam"
+  }
+},
+{
+  "type": "way",
+  "id": 258738739,
+  "timestamp": "2014-08-27T04:49:32Z",
+  "version": 2,
+  "changeset": 25043771,
+  "user": "PutriRachiemnys",
+  "uid": 2292325,
+  "center": {
+    "lat": -6.2720940,
+    "lon": 106.9519630
+  },
+  "nodes": [
+    2640718725,
+    2640718726,
+    2640718727,
+    2640718728,
+    2640718729,
+    2640718730,
+    2640718725
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Fresh Market"
+  }
+},
+{
+  "type": "way",
+  "id": 157360660,
+  "timestamp": "2014-12-03T08:46:48Z",
+  "version": 3,
+  "changeset": 27195227,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.2181762,
+    "lon": 106.8539326
+  },
+  "nodes": [
+    1695794552,
+    1695794557,
+    1695794560,
+    1695794561,
+    1695794566,
+    1695794563,
+    1695794562,
+    1695794552
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "PD PASAR JAYA BUKITDURI\\"
+  }
+},
+{
+  "type": "way",
+  "id": 264726189,
+  "timestamp": "2015-10-23T05:42:34Z",
+  "version": 2,
+  "changeset": 34813838,
+  "user": "arieladele",
+  "uid": 1960068,
+  "center": {
+    "lat": -6.2205812,
+    "lon": 106.8602094
+  },
+  "nodes": [
+    2703789685,
+    2703789686,
+    2703789687,
+    2703789688,
+    2703789685
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar traditional market"
+  }
+},
+{
+  "type": "way",
+  "id": 155933439,
+  "timestamp": "2012-03-20T04:48:26Z",
+  "version": 1,
+  "changeset": 11037392,
+  "user": "riangga_miko",
+  "uid": 617254,
+  "center": {
+    "lat": -6.2161019,
+    "lon": 106.8697443
+  },
+  "nodes": [
+    1682749592,
+    1682749589,
+    1682749590,
+    1682749601,
+    1682749608,
+    1682749592
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Pusat Batu Aji"
+  }
+},
+{
+  "type": "way",
+  "id": 119780337,
+  "timestamp": "2011-06-30T16:16:22Z",
+  "version": 1,
+  "changeset": 8592048,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.2162005,
+    "lon": 106.8648505
+  },
+  "nodes": [
+    1344858772,
+    1344858777,
+    1344858776,
+    1344858770,
+    1344858772
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Pasar Jatinegara",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 119781339,
+  "timestamp": "2017-03-30T01:37:57Z",
+  "version": 2,
+  "changeset": 47277857,
+  "user": "Febrina Dewi",
+  "uid": 617262,
+  "center": {
+    "lat": -6.2147809,
+    "lon": 106.8656178
+  },
+  "nodes": [
+    1344863909,
+    1344863908,
+    1344863902,
+    1344863911,
+    1344863909
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Mester"
+  }
+},
+{
+  "type": "way",
+  "id": 155953475,
+  "timestamp": "2012-03-20T07:23:50Z",
+  "version": 1,
+  "changeset": 11038323,
+  "user": "Kelurahan Pisangan Timur",
+  "uid": 633591,
+  "center": {
+    "lat": -6.2118180,
+    "lon": 106.8755828
+  },
+  "nodes": [
+    1682874112,
+    1682874104,
+    1682874103,
+    1682874111,
+    1682874112
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Enjo"
+  }
+},
+{
+  "type": "way",
+  "id": 242192476,
+  "timestamp": "2013-10-15T09:35:32Z",
+  "version": 1,
+  "changeset": 18364908,
+  "user": "gunawanw",
+  "uid": 1775242,
+  "center": {
+    "lat": -6.2065544,
+    "lon": 106.8558399
+  },
+  "nodes": [
+    2497087346,
+    2497087347,
+    2497087348,
+    2497087349,
+    2497087346
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Mini Mall Disbintal AD"
+  }
+},
+{
+  "type": "way",
+  "id": 155941468,
+  "timestamp": "2012-03-20T05:54:18Z",
+  "version": 1,
+  "changeset": 11037748,
+  "user": "raskiban",
+  "uid": 617238,
+  "center": {
+    "lat": -6.2091115,
+    "lon": 106.8626742
+  },
+  "nodes": [
+    1682786428,
+    1682786427,
+    1682786423,
+    1682786424,
+    1682786428
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "ceriamart"
+  }
+},
+{
+  "type": "way",
+  "id": 155941466,
+  "timestamp": "2012-03-20T05:54:18Z",
+  "version": 1,
+  "changeset": 11037748,
+  "user": "raskiban",
+  "uid": 617238,
+  "center": {
+    "lat": -6.2051240,
+    "lon": 106.8615252
+  },
+  "nodes": [
+    1682786350,
+    1682786354,
+    1682786352,
+    1682786348,
+    1682786350
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "ceriamart"
+  }
+},
+{
+  "type": "way",
+  "id": 155945147,
+  "timestamp": "2012-03-20T06:27:50Z",
+  "version": 1,
+  "changeset": 11037938,
+  "user": "Kelurahan Pal Meriam",
+  "uid": 633625,
+  "center": {
+    "lat": -6.1982565,
+    "lon": 106.8571274
+  },
+  "nodes": [
+    1682822602,
+    1682822616,
+    1682822617,
+    1682822613,
+    1682822602
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Tradisional"
+  }
+},
+{
+  "type": "way",
+  "id": 155945144,
+  "timestamp": "2017-03-29T07:57:05Z",
+  "version": 2,
+  "changeset": 47251406,
+  "user": "saputra deo",
+  "uid": 5514345,
+  "center": {
+    "lat": -6.1980542,
+    "lon": 106.8574452
+  },
+  "nodes": [
+    4761368936,
+    1682822594,
+    1682822598,
+    1682822615,
+    4761368935,
+    4761368936
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Burung Pramuka"
+  }
+},
+{
+  "type": "way",
+  "id": 155945145,
+  "timestamp": "2012-03-20T06:27:49Z",
+  "version": 1,
+  "changeset": 11037938,
+  "user": "Kelurahan Pal Meriam",
+  "uid": 633625,
+  "center": {
+    "lat": -6.1979499,
+    "lon": 106.8578706
+  },
+  "nodes": [
+    1682822600,
+    1682822592,
+    1682822596,
+    1682822614,
+    1682822612,
+    1682822600
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Burung Pramuka"
+  }
+},
+{
+  "type": "way",
+  "id": 155953473,
+  "timestamp": "2012-03-20T07:23:50Z",
+  "version": 1,
+  "changeset": 11038323,
+  "user": "Kelurahan Pisangan Timur",
+  "uid": 633591,
+  "center": {
+    "lat": -6.2126369,
+    "lon": 106.8816476
+  },
+  "nodes": [
+    1682874116,
+    1682874117,
+    1682874105,
+    1682874107,
+    1682874106,
+    1682874121,
+    1682874123,
+    1682874125,
+    1682874129,
+    1682874130,
+    1682874135,
+    1682874136,
+    1682874116
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Beras Induk Cipinang"
+  }
+},
+{
+  "type": "way",
+  "id": 155955324,
+  "timestamp": "2012-03-20T07:46:52Z",
+  "version": 1,
+  "changeset": 11038482,
+  "user": "Siska Leonita",
+  "uid": 633588,
+  "center": {
+    "lat": -6.2129232,
+    "lon": 106.9015481
+  },
+  "nodes": [
+    1682896453,
+    1682896462,
+    1682896460,
+    1682896450,
+    1682896453
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Klender SS(PD. Pasar Jaya)"
+  }
+},
+{
+  "type": "way",
+  "id": 482340843,
+  "timestamp": "2017-04-04T04:44:42Z",
+  "version": 2,
+  "changeset": 47429945,
+  "user": "Hanif Arafah Mustofa",
+  "uid": 5520505,
+  "center": {
+    "lat": -6.1854353,
+    "lon": 106.8555488
+  },
+  "nodes": [
+    4751878798,
+    4751878797,
+    4751878796,
+    4751878795,
+    4751878794,
+    4751878793,
+    4751878798
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Percetakan Negara II",
+    "amenity": "marketplace",
+    "backup_generator": "yes",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "glass",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Pasar Johar Baru"
+  }
+},
+{
+  "type": "way",
+  "id": 155957755,
+  "timestamp": "2012-03-20T08:02:46Z",
+  "version": 1,
+  "changeset": 11038587,
+  "user": "Kelurahan Kayu Putih",
+  "uid": 633602,
+  "center": {
+    "lat": -6.1861826,
+    "lon": 106.8843685
+  },
+  "nodes": [
+    1682910227,
+    1682910229,
+    1682910226,
+    1682910224,
+    1682910227
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Ampera"
+  }
+},
+{
+  "type": "way",
+  "id": 123433379,
+  "timestamp": "2011-07-28T07:51:36Z",
+  "version": 1,
+  "changeset": 8851901,
+  "user": "gnemok",
+  "uid": 138225,
+  "center": {
+    "lat": -6.2206094,
+    "lon": 106.9131516
+  },
+  "nodes": [
+    1376500941,
+    1376500936,
+    1376500969,
+    1376500971,
+    1376500932,
+    1376500948,
+    1376500941
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Motor"
+  }
+},
+{
+  "type": "way",
+  "id": 155957120,
+  "timestamp": "2012-03-20T07:54:59Z",
+  "version": 1,
+  "changeset": 11038542,
+  "user": "keljatinegarakaum",
+  "uid": 633597,
+  "center": {
+    "lat": -6.1864731,
+    "lon": 106.9054377
+  },
+  "nodes": [
+    1682840995,
+    1682904214,
+    1682904217,
+    1682904202,
+    1682840995
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pulo Gadung"
+  }
+},
+{
+  "type": "way",
+  "id": 155961371,
+  "timestamp": "2012-03-27T04:40:47Z",
+  "version": 2,
+  "changeset": 11112567,
+  "user": "fariszulkarnain",
+  "uid": 617263,
+  "center": {
+    "lat": -6.1829891,
+    "lon": 106.9344693
+  },
+  "nodes": [
+    1682942233,
+    1682942230,
+    1682942262,
+    1692723322,
+    1692723321,
+    1682942259,
+    1682942233
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PASAR CAKUNG"
+  }
+},
+{
+  "type": "way",
+  "id": 315413734,
+  "timestamp": "2014-12-02T05:10:16Z",
+  "version": 1,
+  "changeset": 27171605,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1637643,
+    "lon": 106.7647995
+  },
+  "nodes": [
+    3215294419,
+    3215294420,
+    3215294417,
+    3215294418,
+    3215294416,
+    3215294415,
+    3215294419
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Kedoya"
+  }
+},
+{
+  "type": "way",
+  "id": 315413735,
+  "timestamp": "2014-12-02T05:10:16Z",
+  "version": 1,
+  "changeset": 27171605,
+  "user": "asti_shinoda",
+  "uid": 524997,
+  "center": {
+    "lat": -6.1601866,
+    "lon": 106.7672205
+  },
+  "nodes": [
+    3215294347,
+    3215294353,
+    3215294346,
+    3215294351,
+    3215294356,
+    3215294359,
+    3215294366,
+    3215294372,
+    3215294376,
+    3215294370,
+    3215294371,
+    3215294369,
+    3215294367,
+    3215294360,
+    3215294347
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Pesing Koneng"
+  }
+},
+{
+  "type": "way",
+  "id": 314689832,
+  "timestamp": "2014-12-12T03:24:33Z",
+  "version": 2,
+  "changeset": 27413443,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.1477693,
+    "lon": 106.7488003
+  },
+  "nodes": [
+    3207366974,
+    3207366975,
+    3207366983,
+    3207366982,
+    3207366974
+  ],
+  "tags": {
+    "Id": "0",
+    "amenity": "marketplace",
+    "flood_prone": "no",
+    "name": "Pasar PTB"
+  }
+},
+{
+  "type": "way",
+  "id": 153318861,
+  "timestamp": "2012-03-05T09:12:44Z",
+  "version": 1,
+  "changeset": 10877320,
+  "user": "Hasan Nur Aminudin",
+  "uid": 617240,
+  "center": {
+    "lat": -6.1504484,
+    "lon": 106.7972354
+  },
+  "nodes": [
+    1660285135,
+    1660285146,
+    1660285145,
+    1660285137,
+    1660285139,
+    1660285134,
+    1660285135
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Jembatan Besi"
+  }
+},
+{
+  "type": "way",
+  "id": 316757666,
+  "timestamp": "2014-12-11T06:55:08Z",
+  "version": 1,
+  "changeset": 27392109,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.1334947,
+    "lon": 106.7457090
+  },
+  "nodes": [
+    3229357192,
+    3229357193,
+    3229357191,
+    3229357190,
+    3229357192
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "no",
+    "name": "Pasar Alam"
+  }
+},
+{
+  "type": "way",
+  "id": 314521147,
+  "timestamp": "2014-11-26T07:10:39Z",
+  "version": 1,
+  "changeset": 27037987,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.1328193,
+    "lon": 106.7696959
+  },
+  "nodes": [
+    3205707448,
+    3205707454,
+    3205707455,
+    3205707449,
+    3205707448
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "yes",
+    "flood_prone": "no",
+    "name": "Pasar"
+  }
+},
+{
+  "type": "way",
+  "id": 314523737,
+  "timestamp": "2014-11-26T07:35:52Z",
+  "version": 1,
+  "changeset": 27038308,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.1291187,
+    "lon": 106.7538921
+  },
+  "nodes": [
+    3205727445,
+    3205727446,
+    3205727449,
+    3205727448,
+    3205727445
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Indah Kapuk"
+  }
+},
+{
+  "type": "way",
+  "id": 315870158,
+  "timestamp": "2014-12-05T10:02:11Z",
+  "version": 1,
+  "changeset": 27258361,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1389893,
+    "lon": 106.7850194
+  },
+  "nodes": [
+    3220005058,
+    3220006962,
+    3220006961,
+    3220005053,
+    3220005058
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Pusaka Abadi"
+  }
+},
+{
+  "type": "way",
+  "id": 156926197,
+  "timestamp": "2017-03-31T21:12:09Z",
+  "version": 2,
+  "changeset": 47340197,
+  "user": "jt1250champ",
+  "uid": 5593036,
+  "center": {
+    "lat": -6.1432018,
+    "lon": 106.7924079
+  },
+  "nodes": [
+    1691669114,
+    1691669123,
+    4768370199,
+    1691669117,
+    1691669112,
+    1691669114
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Jembatan Dua"
+  }
+},
+{
+  "type": "way",
+  "id": 156270958,
+  "timestamp": "2017-01-06T09:29:21Z",
+  "version": 3,
+  "changeset": 44947820,
+  "user": "Salman Alfarizi",
+  "uid": 4811010,
+  "center": {
+    "lat": -6.1262158,
+    "lon": 106.7910420
+  },
+  "nodes": [
+    1685304202,
+    4592281876,
+    1685304199,
+    1685304200,
+    1685304205,
+    1685304204,
+    1685304203,
+    1685304202
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "yes",
+    "flood_prone": "no",
+    "kitchen:facilities": "no",
+    "name": "Pluit Junction",
+    "shelter_type": "tent",
+    "shop": "mall",
+    "toilet:facilities": "yes",
+    "water_source": "water_works"
+  }
+},
+{
+  "type": "way",
+  "id": 156270949,
+  "timestamp": "2014-12-05T04:35:05Z",
+  "version": 2,
+  "changeset": 27254311,
+  "user": "oktodearputra",
+  "uid": 2396163,
+  "center": {
+    "lat": -6.1212042,
+    "lon": 106.7889946
+  },
+  "nodes": [
+    1685304046,
+    1685304048,
+    1685304068,
+    1685304069,
+    1685304046
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "yes",
+    "flood_prone": "no",
+    "kitchen:facilities": "yes",
+    "name": "Pasar PD Jaya Pluit",
+    "shelter_type": "building",
+    "shop": "department_store",
+    "toilet:facilities": "yes",
+    "toilets:number": "2",
+    "water_source": "water_works"
+  }
+},
+{
+  "type": "way",
+  "id": 156924279,
+  "timestamp": "2012-03-26T08:14:46Z",
+  "version": 1,
+  "changeset": 11103196,
+  "user": "kel duri selatan",
+  "uid": 638969,
+  "center": {
+    "lat": -6.1617043,
+    "lon": 106.8045494
+  },
+  "nodes": [
+    1691652644,
+    1691652647,
+    1691652646,
+    1691652645,
+    1691652644
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PD. Pasar Jaya",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 352856285,
+  "timestamp": "2015-06-10T16:51:41Z",
+  "version": 1,
+  "changeset": 31875977,
+  "user": "ml2000id",
+  "uid": 2978726,
+  "center": {
+    "lat": -6.1626045,
+    "lon": 106.8121581
+  },
+  "nodes": [
+    3586341551,
+    3586341552,
+    3586341553,
+    3586341554,
+    3586341551
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Petojo"
+  }
+},
+{
+  "type": "way",
+  "id": 352856286,
+  "timestamp": "2015-06-10T16:51:42Z",
+  "version": 1,
+  "changeset": 31875977,
+  "user": "ml2000id",
+  "uid": 2978726,
+  "center": {
+    "lat": -6.1630689,
+    "lon": 106.8121642
+  },
+  "nodes": [
+    3586341555,
+    3586341556,
+    3586341557,
+    3586341558,
+    3586341555
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Petojo"
+  }
+},
+{
+  "type": "way",
+  "id": 156919807,
+  "timestamp": "2012-03-27T04:52:31Z",
+  "version": 2,
+  "changeset": 11112610,
+  "user": "bowie",
+  "uid": 617284,
+  "center": {
+    "lat": -6.1502865,
+    "lon": 106.8174248
+  },
+  "nodes": [
+    1691620412,
+    1691620413,
+    1691620409,
+    1691620406,
+    1691620412
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 155110695,
+  "timestamp": "2012-03-30T08:40:51Z",
+  "version": 2,
+  "changeset": 11148891,
+  "user": "kinrizky",
+  "uid": 617255,
+  "center": {
+    "lat": -6.1616472,
+    "lon": 106.8333253
+  },
+  "nodes": [
+    1675460296,
+    1675460264,
+    1675460275,
+    1675460284,
+    1675460243,
+    1675460256,
+    1675460273,
+    1675460296
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "PD Pasar Jaya"
+  }
+},
+{
+  "type": "way",
+  "id": 155110157,
+  "timestamp": "2012-03-30T08:40:47Z",
+  "version": 2,
+  "changeset": 11148891,
+  "user": "kinrizky",
+  "uid": 617255,
+  "center": {
+    "lat": -6.1649600,
+    "lon": 106.8472329
+  },
+  "nodes": [
+    1675452956,
+    1675452949,
+    1675452959,
+    1675452957,
+    1675452960,
+    1675452962,
+    1675452963,
+    1675452965,
+    1675452967,
+    1675452969,
+    1675452956
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Gardu Asem"
+  }
+},
+{
+  "type": "way",
+  "id": 155097769,
+  "timestamp": "2012-03-15T04:47:58Z",
+  "version": 1,
+  "changeset": 10984857,
+  "user": "kelutanpanjang",
+  "uid": 629276,
+  "center": {
+    "lat": -6.1674108,
+    "lon": 106.8497532
+  },
+  "nodes": [
+    1675313931,
+    1675313924,
+    1675313926,
+    1675313933,
+    1675313931
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PASAR NANGKA"
+  }
+},
+{
+  "type": "way",
+  "id": 154078986,
+  "timestamp": "2012-03-09T02:41:23Z",
+  "version": 1,
+  "changeset": 10915692,
+  "user": "Nurlatipah Hari",
+  "uid": 617271,
+  "center": {
+    "lat": -6.1612770,
+    "lon": 106.8409474
+  },
+  "nodes": [
+    1666759416,
+    1666759419,
+    1666759427,
+    1666759424,
+    1666759416
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kombongan Market"
+  }
+},
+{
+  "type": "way",
+  "id": 156920992,
+  "timestamp": "2012-03-27T09:53:34Z",
+  "version": 2,
+  "changeset": 11114416,
+  "user": "bowie",
+  "uid": 617284,
+  "center": {
+    "lat": -6.1427204,
+    "lon": 106.8142183
+  },
+  "nodes": [
+    1691629710,
+    1691629725,
+    1691629728,
+    1691629730,
+    1691629723,
+    1691629712,
+    1691629710
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PD. Pasar Jaya",
+    "opening_hours": "06.00-17.00"
+  }
+},
+{
+  "type": "way",
+  "id": 156920993,
+  "timestamp": "2017-04-04T05:38:24Z",
+  "version": 4,
+  "changeset": 47431522,
+  "user": "srividya_c",
+  "uid": 2115749,
+  "center": {
+    "lat": -6.1417450,
+    "lon": 106.8123657
+  },
+  "nodes": [
+    1691629701,
+    1691629707,
+    1691629711,
+    1691629703,
+    1691629700,
+    1691629699,
+    1691629701
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pertokoan Candra",
+    "opening_hours": "06.00-17.00"
+  }
+},
+{
+  "type": "way",
+  "id": 121986315,
+  "timestamp": "2013-01-23T22:01:37Z",
+  "version": 2,
+  "changeset": 14762949,
+  "user": "Alex Rollin",
+  "uid": 538459,
+  "center": {
+    "lat": -6.1359417,
+    "lon": 106.8224443
+  },
+  "nodes": [
+    1364120460,
+    1364120403,
+    1364120568,
+    1364120467,
+    1364120532,
+    2125700348,
+    2125700344,
+    1364120427,
+    1364120398,
+    1364120541,
+    2125700350,
+    1364120607,
+    2125700377,
+    1364120508,
+    1364120399,
+    1364120543,
+    2125700417,
+    2125700420,
+    2125700461,
+    2125700446,
+    1364120609,
+    1364120509,
+    1364120481,
+    1364120460
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "Pasar Mangga Dua"
+  }
+},
+{
+  "type": "way",
+  "id": 210917133,
+  "timestamp": "2015-01-15T04:03:45Z",
+  "version": 2,
+  "changeset": 28153175,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1258107,
+    "lon": 106.8087539
+  },
+  "nodes": [
+    2209475920,
+    2209475915,
+    2209475921,
+    2209475918,
+    2209475911,
+    2209475913,
+    2209475936,
+    2209475942,
+    2209475951,
+    2209475990,
+    3289259128,
+    2209476005,
+    3289259130,
+    2209476010,
+    2209476024,
+    2209476013,
+    2209475998,
+    2209475987,
+    2209475959,
+    3289259125,
+    2209475947,
+    2209475920
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Ikan"
+  }
+},
+{
+  "type": "way",
+  "id": 154831700,
+  "timestamp": "2014-12-03T02:20:14Z",
+  "version": 6,
+  "changeset": 27192125,
+  "user": "della ananto",
+  "uid": 2334957,
+  "center": {
+    "lat": -6.1353004,
+    "lon": 106.8433366
+  },
+  "nodes": [
+    1673016160,
+    1673016162,
+    2956778153,
+    2956778150,
+    1673016160
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "PD PASAR JAYA Pademangan",
+    "opening_hours": "04.00-22.00",
+    "operator": "PEMERINTAH"
+  }
+},
+{
+  "type": "way",
+  "id": 156270948,
+  "timestamp": "2014-11-26T07:18:47Z",
+  "version": 2,
+  "changeset": 27038087,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1158068,
+    "lon": 106.7787137
+  },
+  "nodes": [
+    1685303848,
+    1685303876,
+    1685303879,
+    1685303854,
+    1685303848
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Muara Karang",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "way",
+  "id": 295768433,
+  "timestamp": "2014-11-26T06:37:07Z",
+  "version": 2,
+  "changeset": 27037676,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1093289,
+    "lon": 106.7729089
+  },
+  "nodes": [
+    2995298045,
+    2995298060,
+    2995298070,
+    2995298061,
+    2995298045
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "PD PasarJaya Muara Angke"
+  }
+},
+{
+  "type": "way",
+  "id": 211399409,
+  "timestamp": "2014-12-18T08:03:44Z",
+  "version": 2,
+  "changeset": 27546008,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1094191,
+    "lon": 106.8014224
+  },
+  "nodes": [
+    2214026654,
+    2214026771,
+    2214026733,
+    2214026628,
+    2214026654
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Ikan Muara Baru"
+  }
+},
+{
+  "type": "way",
+  "id": 211357635,
+  "timestamp": "2013-10-28T04:12:09Z",
+  "version": 2,
+  "changeset": 18578083,
+  "user": "raniedwianugrah",
+  "uid": 617220,
+  "center": {
+    "lat": -6.1027085,
+    "lon": 106.8017354
+  },
+  "nodes": [
+    2213682032,
+    2213682055,
+    2213682050,
+    2213682090,
+    2213682094,
+    2213682110,
+    2213682135,
+    2213682124,
+    2213682120,
+    2213682104,
+    2213682106,
+    2213682088,
+    2213682032
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 155097156,
+  "timestamp": "2012-03-15T04:11:23Z",
+  "version": 1,
+  "changeset": 10984732,
+  "user": "kelutanpanjang",
+  "uid": 629276,
+  "center": {
+    "lat": -6.1611043,
+    "lon": 106.8552842
+  },
+  "nodes": [
+    1675291707,
+    1675291715,
+    1675291716,
+    1675291718,
+    1675291720,
+    1675291719,
+    1675291717,
+    1675291713,
+    1675291710,
+    1675291714,
+    1675291707
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "PASAR KEMAYORAN"
+  }
+},
+{
+  "type": "way",
+  "id": 155110899,
+  "timestamp": "2012-03-15T12:30:53Z",
+  "version": 2,
+  "changeset": 10987862,
+  "user": "Dedy Kurniawan",
+  "uid": 629302,
+  "center": {
+    "lat": -6.1644711,
+    "lon": 106.8644006
+  },
+  "nodes": [
+    1675462623,
+    1675462621,
+    1675462622,
+    1675462619,
+    1675462618,
+    1675462614,
+    1675462615,
+    1675462613,
+    1675462616,
+    1675722217,
+    1675722225,
+    1675722233,
+    1675462631,
+    1675462623
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Sumur Baru",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 153303436,
+  "timestamp": "2012-05-11T04:22:16Z",
+  "version": 2,
+  "changeset": 11564557,
+  "user": "arumnw",
+  "uid": 474974,
+  "center": {
+    "lat": -6.1264440,
+    "lon": 106.8988551
+  },
+  "nodes": [
+    1660083398,
+    1660083409,
+    1660083419,
+    1660083424,
+    1660083436,
+    1660083418,
+    1660083411,
+    1660083405,
+    1748254797,
+    1660083398
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "pasar walang jaya",
+    "opening_hours": "Mo-Fr 08:30-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 316325057,
+  "timestamp": "2014-12-08T04:14:41Z",
+  "version": 1,
+  "changeset": 27326078,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1696302,
+    "lon": 106.9134277
+  },
+  "nodes": [
+    3224362333,
+    3224362334,
+    3224362335,
+    3224362336,
+    3224362333
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Jongkoh"
+  }
+},
+{
+  "type": "way",
+  "id": 334982114,
+  "timestamp": "2015-03-27T08:05:15Z",
+  "version": 1,
+  "changeset": 29771544,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1449371,
+    "lon": 106.9242205
+  },
+  "nodes": [
+    3421123038,
+    3421123040,
+    3421123041,
+    3421123037,
+    3421123038
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar KBN"
+  }
+},
+{
+  "type": "way",
+  "id": 97192738,
+  "timestamp": "2011-01-29T05:56:28Z",
+  "version": 1,
+  "changeset": 7119322,
+  "user": "brumbaer",
+  "uid": 123639,
+  "center": {
+    "lat": -6.1518262,
+    "lon": 106.9517835
+  },
+  "nodes": [
+    1125903475,
+    1125903473,
+    1125903474,
+    1125903472,
+    1125903475
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Traditional Market",
+    "name:id": "Basar Kaget"
+  }
+},
+{
+  "type": "way",
+  "id": 334984028,
+  "timestamp": "2015-03-27T08:40:26Z",
+  "version": 1,
+  "changeset": 29772209,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1409405,
+    "lon": 106.9224731
+  },
+  "nodes": [
+    3421161219,
+    3421161217,
+    3421161218,
+    3421161220,
+    3421161219
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Pasar Sukapura"
+  }
+},
+{
+  "type": "way",
+  "id": 154856505,
+  "timestamp": "2014-11-24T04:30:05Z",
+  "version": 3,
+  "changeset": 26987026,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1351250,
+    "lon": 106.9283816
+  },
+  "nodes": [
+    1673219834,
+    1673219837,
+    1673219836,
+    1673467581,
+    1673219833,
+    1673219834
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "flood_prone": "yes",
+    "name": "Pasar Embrio",
+    "opening_hours": "24/7",
+    "operator": "Pemerintah"
+  }
+},
+{
+  "type": "way",
+  "id": 154839202,
+  "timestamp": "2016-08-05T13:40:05Z",
+  "version": 2,
+  "changeset": 41260100,
+  "user": "Sourc7",
+  "uid": 4026310,
+  "center": {
+    "lat": -6.1191772,
+    "lon": 106.9105043
+  },
+  "nodes": [
+    330759972,
+    330759940,
+    330765904,
+    330765892,
+    330765895,
+    330765897,
+    330761833,
+    330766377,
+    330759972
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Lontar",
+    "opening_hours": "24/7",
+    "operator": "Government"
+  }
+},
+{
+  "type": "way",
+  "id": 154839203,
+  "timestamp": "2013-11-06T20:04:01Z",
+  "version": 2,
+  "changeset": 18753589,
+  "user": "AlBanna",
+  "uid": 1794697,
+  "center": {
+    "lat": -6.1271307,
+    "lon": 106.9173181
+  },
+  "nodes": [
+    1673095710,
+    1673095708,
+    1673095714,
+    1673095716,
+    1673095710
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Semper",
+    "opening_hours": "24/7",
+    "operator": "PEMERINTAH"
+  }
+},
+{
+  "type": "way",
+  "id": 315566058,
+  "timestamp": "2014-12-03T05:24:02Z",
+  "version": 1,
+  "changeset": 27193201,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1335426,
+    "lon": 106.9355228
+  },
+  "nodes": [
+    3216932999,
+    3216932986,
+    3216932995,
+    3216932994,
+    3216933011,
+    3216933013,
+    3216933004,
+    3216933009,
+    3216933006,
+    3216933012,
+    3216933002,
+    3216933003,
+    3216932999
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Anyar"
+  }
+},
+{
+  "type": "way",
+  "id": 154828482,
+  "timestamp": "2012-03-16T09:51:00Z",
+  "version": 2,
+  "changeset": 10996647,
+  "user": "riangga_miko",
+  "uid": 617254,
+  "center": {
+    "lat": -6.1147705,
+    "lon": 106.8791195
+  },
+  "nodes": [
+    1672991471,
+    1676683133,
+    1672991470,
+    1672991472,
+    1672991471
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar Anyar Bahari"
+  }
+},
+{
+  "type": "way",
+  "id": 154838035,
+  "timestamp": "2012-03-28T03:30:55Z",
+  "version": 2,
+  "changeset": 11122724,
+  "user": "bowie",
+  "uid": 617284,
+  "center": {
+    "lat": -6.1125340,
+    "lon": 106.9079723
+  },
+  "nodes": [
+    1673084559,
+    1673084561,
+    1673084590,
+    1673084587,
+    1673084567,
+    1673084568,
+    1673084607,
+    1673084605,
+    1673084559
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Ruko",
+    "opening_hours": "Tu-Su 08:00-15:00; Sa 08:00-12:00"
+  }
+},
+{
+  "type": "way",
+  "id": 153941187,
+  "timestamp": "2012-03-14T07:26:08Z",
+  "version": 2,
+  "changeset": 10974983,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1025195,
+    "lon": 106.9278415
+  },
+  "nodes": [
+    1665544799,
+    1665544798,
+    1665544791,
+    1665544780,
+    1674297474,
+    1674297475,
+    1665544787,
+    1665544797,
+    1665544793,
+    1665544799
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Jalanbaru Market"
+  }
+},
+{
+  "type": "way",
+  "id": 315568581,
+  "timestamp": "2014-12-03T06:43:29Z",
+  "version": 1,
+  "changeset": 27193768,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "center": {
+    "lat": -6.1088472,
+    "lon": 106.9340290
+  },
+  "nodes": [
+    3216967207,
+    3216967206,
+    3216967211,
+    3216967215,
+    3216967213,
+    3216967214,
+    3216967212,
+    3216967210,
+    3216967209,
+    3216967208,
+    3216967207
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Pasar Jongkok Berkah"
+  }
+},
+{
+  "type": "way",
+  "id": 378946886,
+  "timestamp": "2015-11-07T17:56:59Z",
+  "version": 1,
+  "changeset": 35154633,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -6.0952767,
+    "lon": 106.9637960
+  },
+  "nodes": [
+    3823106161,
+    3823106160,
+    3823106158,
+    3823106159,
+    3823106161
+  ],
+  "tags": {
+    "addr:full": "Jalan Marunda Rusun",
+    "amenity": "marketplace",
+    "name": "Pasar Rusun Marunda"
+  }
+},
+{
+  "type": "relation",
+  "id": 7132508,
+  "timestamp": "2017-04-04T06:45:19Z",
+  "version": 1,
+  "changeset": 47432956,
+  "user": "Anjar Akrimullah",
+  "uid": 4159996,
+  "center": {
+    "lat": -6.2409233,
+    "lon": 106.8251579
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 119540871,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 482360048,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "shop",
+    "building:walls": "brick",
+    "name": "Pasar Mampang",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7119957,
+  "timestamp": "2017-03-30T05:09:14Z",
+  "version": 1,
+  "changeset": 47280547,
+  "user": "Randy Febri Nanda",
+  "uid": 4472999,
+  "center": {
+    "lat": -6.2211898,
+    "lon": 106.8390476
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 157357317,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 483603849,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 483603850,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Pasar LBUK",
+    "operator": "LBUK",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7132823,
+  "timestamp": "2017-04-04T09:37:06Z",
+  "version": 1,
+  "changeset": 47436981,
+  "user": "alifatri",
+  "uid": 4793967,
+  "center": {
+    "lat": -6.1943962,
+    "lon": 106.8601249
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 484689774,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 484689771,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689770,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689769,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689768,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689766,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689767,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689786,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689785,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689777,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689776,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689772,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689775,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689765,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689787,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689779,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689780,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689763,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689764,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689760,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689759,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689745,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689758,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689756,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689755,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689757,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689754,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689743,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689788,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689782,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689781,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689784,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689783,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689789,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689792,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689791,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689790,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689778,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689793,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689762,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689761,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689750,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689751,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689753,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689747,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 484689749,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Percetakan Negara",
+    "amenity": "marketplace",
+    "name": "Pasar Genjing",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

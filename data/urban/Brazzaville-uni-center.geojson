@@ -1,0 +1,530 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/23465935",
+  "properties": {
+    "timestamp": "2015-07-26T17:16:03Z",
+    "version": 5,
+    "changeset": 32893302,
+    "user": "kriscarle",
+    "uid": 1323363,
+    "amenity": "university",
+    "name": "Université protestante du Congo",
+    "id": "way/23465935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2974644,
+      -4.3334599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48526375",
+  "properties": {
+    "timestamp": "2017-02-24T16:05:10Z",
+    "version": 4,
+    "changeset": 46371864,
+    "user": "Never Fallen",
+    "uid": 5352124,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole de santé publique",
+    "operator": "Université de Kinshasa",
+    "id": "way/48526375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3039172,
+      -4.4123828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48526376",
+  "properties": {
+    "timestamp": "2017-02-24T16:05:10Z",
+    "version": 3,
+    "changeset": 46371864,
+    "user": "Never Fallen",
+    "uid": 5352124,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole de santé publique",
+    "operator": "Université de Kinshasa",
+    "id": "way/48526376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3039847,
+      -4.4119645
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48527190",
+  "properties": {
+    "timestamp": "2010-01-18T23:37:10Z",
+    "version": 1,
+    "changeset": 3655259,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "university",
+    "id": "way/48527190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2582826,
+      -4.4042777
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48535139",
+  "properties": {
+    "timestamp": "2010-01-19T08:55:11Z",
+    "version": 1,
+    "changeset": 3656879,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "university",
+    "id": "way/48535139"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2900564,
+      -4.3157515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/48535347",
+  "properties": {
+    "timestamp": "2013-02-09T21:57:38Z",
+    "version": 3,
+    "changeset": 14973228,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "university",
+    "id": "way/48535347"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2923474,
+      -4.32488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/105847838",
+  "properties": {
+    "timestamp": "2011-04-20T17:46:04Z",
+    "version": 3,
+    "changeset": 7918281,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Salle de sculpture (beaux-arts )",
+    "id": "way/105847838"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.293497,
+      -4.3211066
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/105847843",
+  "properties": {
+    "timestamp": "2011-04-20T17:46:04Z",
+    "version": 2,
+    "changeset": 7918281,
+    "user": "moyogo",
+    "uid": 246,
+    "amenity": "university",
+    "building": "yes",
+    "name": "SALLE DE REUNION ET PEINTURE",
+    "id": "way/105847843"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2935398,
+      -4.3212824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/105847845",
+  "properties": {
+    "timestamp": "2013-07-02T06:52:35Z",
+    "version": 4,
+    "changeset": 16786968,
+    "user": "marek kleciak",
+    "uid": 338611,
+    "amenity": "university",
+    "building": "yes",
+    "name": "decoration interieure(beaux-arts)",
+    "id": "way/105847845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2935133,
+      -4.3220128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/105847859",
+  "properties": {
+    "timestamp": "2013-07-02T06:52:36Z",
+    "version": 2,
+    "changeset": 16786968,
+    "user": "marek kleciak",
+    "uid": 338611,
+    "amenity": "university",
+    "building": "yes",
+    "name": "home universitaire",
+    "id": "way/105847859"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2922064,
+      -4.3203911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/109431897",
+  "properties": {
+    "timestamp": "2013-07-02T06:52:36Z",
+    "version": 2,
+    "changeset": 16786968,
+    "user": "marek kleciak",
+    "uid": 338611,
+    "amenity": "university",
+    "name": "Académie des Beaux-Arts",
+    "id": "way/109431897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2931938,
+      -4.3207476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228338729",
+  "properties": {
+    "timestamp": "2013-07-02T06:52:33Z",
+    "version": 1,
+    "changeset": 16786968,
+    "user": "marek kleciak",
+    "uid": 338611,
+    "amenity": "university",
+    "building": "yes",
+    "name": "IBTP (ARCHITECTURE)",
+    "id": "way/228338729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2932589,
+      -4.3198587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/228338730",
+  "properties": {
+    "timestamp": "2013-07-02T06:52:33Z",
+    "version": 1,
+    "changeset": 16786968,
+    "user": "marek kleciak",
+    "uid": 338611,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Home des filles(université)",
+    "id": "way/228338730"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2929142,
+      -4.321773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/331313850",
+  "properties": {
+    "timestamp": "2015-03-06T20:41:36Z",
+    "version": 2,
+    "changeset": 29297600,
+    "user": "Männedorf",
+    "uid": 105050,
+    "amenity": "university",
+    "name": "Université catholique du Congo",
+    "id": "way/331313850"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3265763,
+      -4.3417569
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/354099810",
+  "properties": {
+    "timestamp": "2015-06-16T15:07:06Z",
+    "version": 2,
+    "changeset": 32008703,
+    "user": "Männedorf",
+    "uid": 105050,
+    "addr:city": "Limete",
+    "addr:housenumber": "36",
+    "addr:street": "15ème Rue",
+    "amenity": "university",
+    "name": "Université Libre de Kinshasa",
+    "phone": "099 821 06 30",
+    "website": "http://ulk-rdc.org",
+    "id": "way/354099810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3477933,
+      -4.3667687
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368806390",
+  "properties": {
+    "timestamp": "2015-09-02T19:21:07Z",
+    "version": 1,
+    "changeset": 33759062,
+    "user": "BZVPNR",
+    "uid": 2580007,
+    "amenity": "university",
+    "name": "Université Marien Ngouabi",
+    "id": "way/368806390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2481739,
+      -4.2770661
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/440174230",
+  "properties": {
+    "timestamp": "2016-09-10T10:20:32Z",
+    "version": 2,
+    "changeset": 42056516,
+    "user": "clairedelune",
+    "uid": 190626,
+    "alt_name": "UPN",
+    "amenity": "university",
+    "name": "Université pédagogique nationale",
+    "id": "node/440174230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2570492,
+      -4.4043601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476917120",
+  "properties": {
+    "timestamp": "2017-02-24T11:29:54Z",
+    "version": 1,
+    "changeset": 46364732,
+    "user": "Never Fallen",
+    "uid": 5352124,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Université de Kinshasa, faculté des sciences agronomiques option des eaux et forêts",
+    "id": "way/476917120"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3069084,
+      -4.4106021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/476917121",
+  "properties": {
+    "timestamp": "2017-02-24T16:05:10Z",
+    "version": 2,
+    "changeset": 46371864,
+    "user": "Never Fallen",
+    "uid": 5352124,
+    "alt_name": "ERAIFT",
+    "amenity": "university",
+    "building": "yes",
+    "name": "Ecole régionale d’aménagement intégré des forêts et territoires tropicaux",
+    "operator": "Université de Kinshasa, Unesco mab, CARPE, CTB, etc.",
+    "id": "way/476917121"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.3065898,
+      -4.4102689
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3291519914",
+  "properties": {
+    "timestamp": "2017-03-28T19:15:08Z",
+    "version": 2,
+    "changeset": 47239481,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "university",
+    "name": "Faculté des Lettres et des Sciences humaines",
+    "operator": "Université Marien Ngouabi (Bayardelle)",
+    "id": "node/3291519914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2737966,
+      -4.2664857
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3736702619",
+  "properties": {
+    "timestamp": "2017-03-28T19:15:08Z",
+    "version": 2,
+    "changeset": 47239481,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "university",
+    "name": "Institut Supérieur de Gestion (I.S.G. - UMN)",
+    "ref": "ISG",
+    "id": "node/3736702619"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2761368,
+      -4.2733829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4394594735",
+  "properties": {
+    "timestamp": "2016-09-10T10:39:52Z",
+    "version": 1,
+    "changeset": 42056833,
+    "user": "leroiluende",
+    "uid": 3687000,
+    "addr:city": "kinshasa",
+    "addr:street": "sergent Moke",
+    "amenity": "university",
+    "name": "ISIPA",
+    "id": "node/4394594735"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2888578,
+      -4.3262876
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4483791474",
+  "properties": {
+    "timestamp": "2016-11-05T12:24:46Z",
+    "version": 1,
+    "changeset": 43420307,
+    "user": "juniormusampa",
+    "uid": 4807402,
+    "amenity": "university",
+    "name": "technologie mordene",
+    "id": "node/4483791474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.2946385,
+      -4.3523165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4650134577",
+  "properties": {
+    "timestamp": "2017-01-31T22:48:27Z",
+    "version": 1,
+    "changeset": 45700228,
+    "user": "clairedelune",
+    "uid": 190626,
+    "amenity": "university",
+    "name": "Université CEPROMAD",
+    "id": "node/4650134577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.371562,
+      -4.3760787
+    ]
+  }
+}
+]
+}

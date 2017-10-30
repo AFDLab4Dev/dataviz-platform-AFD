@@ -1,0 +1,68 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 452069378,
+  "timestamp": "2016-11-08T13:35:52Z",
+  "version": 1,
+  "changeset": 43487278,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2460729,
+    "lon": -6.5857577
+  },
+  "nodes": [
+    4488695260,
+    4488695261,
+    4488695262,
+    4488695263,
+    4488695264,
+    4488695265,
+    4488695266,
+    4488695267,
+    4488695268,
+    4488695269,
+    4488695270,
+    4488695271,
+    4488695260
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universite Ibn Tofail"
+  }
+},
+{
+  "type": "way",
+  "id": 452069470,
+  "timestamp": "2016-11-08T13:38:21Z",
+  "version": 2,
+  "changeset": 43487326,
+  "user": "osm10005",
+  "uid": 4816089,
+  "center": {
+    "lat": 34.2465576,
+    "lon": -6.5826488
+  },
+  "nodes": [
+    4488696477,
+    4488696478,
+    4488696479,
+    4488696480,
+    4488696481,
+    4488696477
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4000042770,
+  "lat": 33.8890710,
+  "lon": -5.5240615,
+  "timestamp": "2016-02-13T11:05:58Z",
+  "version": 2,
+  "changeset": 37184209,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Militaire Moulay Ismail"
+  }
+},
+{
+  "type": "node",
+  "id": 4356630092,
+  "lat": 33.8778796,
+  "lon": -5.5602143,
+  "timestamp": "2016-08-18T21:49:33Z",
+  "version": 1,
+  "changeset": 41545006,
+  "user": "salma elle",
+  "uid": 4439767,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4360600289,
+  "lat": 33.7497368,
+  "lon": -5.4871047,
+  "timestamp": "2016-08-21T20:52:11Z",
+  "version": 1,
+  "changeset": 41601698,
+  "user": "Houssine Mezouar",
+  "uid": 4446309,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4769756650,
+  "lat": 33.8928715,
+  "lon": -5.5771889,
+  "timestamp": "2017-04-01T16:33:03Z",
+  "version": 1,
+  "changeset": 47360845,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital Sidi Said",
+    "name:ar": "مستشفى سيدي سعيد"
+  }
+},
+{
+  "type": "way",
+  "id": 307416672,
+  "timestamp": "2015-03-09T13:28:21Z",
+  "version": 3,
+  "changeset": 29356938,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.8841387,
+    "lon": -5.5767676
+  },
+  "nodes": [
+    3125560720,
+    3125560721,
+    3125560722,
+    3125560723,
+    3125560720
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé - Takadoum"
+  }
+},
+{
+  "type": "way",
+  "id": 315392072,
+  "timestamp": "2016-01-12T22:06:27Z",
+  "version": 2,
+  "changeset": 36539227,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.8954854,
+    "lon": -5.5837890
+  },
+  "nodes": [
+    3215008166,
+    3215008165,
+    3215008164,
+    3215072304,
+    3215008166
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Hay Salam مستشفى حي السلام",
+    "name:ar": "مستشفى حي السلام",
+    "name:fr": "Hôpital Hay Salam"
+  }
+},
+{
+  "type": "way",
+  "id": 315802635,
+  "timestamp": "2014-12-04T20:29:18Z",
+  "version": 1,
+  "changeset": 27247812,
+  "user": "ayoub_az",
+  "uid": 2494387,
+  "center": {
+    "lat": 33.9029552,
+    "lon": -5.5783818
+  },
+  "nodes": [
+    3219356275,
+    3219356276,
+    3219356277,
+    3219356278,
+    3219356275
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 315802633,
+  "timestamp": "2014-12-04T20:29:17Z",
+  "version": 1,
+  "changeset": 27247812,
+  "user": "ayoub_az",
+  "uid": 2494387,
+  "center": {
+    "lat": 33.9019740,
+    "lon": -5.5772441
+  },
+  "nodes": [
+    3219356266,
+    3219356267,
+    3219350560,
+    3219350559,
+    3219356268,
+    3219356269,
+    3219356266
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "La croix rouge"
+  }
+},
+{
+  "type": "way",
+  "id": 315799098,
+  "timestamp": "2015-03-21T17:43:08Z",
+  "version": 2,
+  "changeset": 29640249,
+  "user": "عقبة بن نافع",
+  "uid": 1823346,
+  "center": {
+    "lat": 33.9120470,
+    "lon": -5.5774214
+  },
+  "nodes": [
+    3219327711,
+    3219327712,
+    3219327713,
+    3219327714,
+    3219327711
+  ],
+  "tags": {
+    "addr:city": "Meknès مكناس",
+    "amenity": "hospital",
+    "name": "مستشفى سيدي بابا",
+    "name:fr": "Hôpital Sidi Baba"
+  }
+},
+{
+  "type": "way",
+  "id": 308237853,
+  "timestamp": "2014-10-17T15:02:48Z",
+  "version": 1,
+  "changeset": 26147340,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.9038339,
+    "lon": -5.5403272
+  },
+  "nodes": [
+    3135269619,
+    3135269622,
+    3135269620,
+    3135269621,
+    3135269623,
+    3135269618,
+    3135269619
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Mohemed V"
+  }
+}
+
+  ]
+}

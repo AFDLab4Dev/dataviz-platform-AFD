@@ -1,0 +1,178 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/338639768",
+  "properties": {
+    "timestamp": "2015-04-27T10:41:22Z",
+    "version": 2,
+    "changeset": 30534422,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie centrale de bobo",
+    "source": "bing",
+    "id": "way/338639768"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2962459,
+      11.1761591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/352617036",
+  "properties": {
+    "timestamp": "2016-01-28T14:29:51Z",
+    "version": 2,
+    "changeset": 36858000,
+    "user": "Jean-Marc Liotier",
+    "uid": 160042,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de l'arrondissement 07",
+    "source": "NextView",
+    "id": "way/352617036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3312147,
+      11.1863757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/647225512",
+  "properties": {
+    "timestamp": "2015-04-15T13:34:05Z",
+    "version": 4,
+    "changeset": 30238154,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "townhall",
+    "name": "HOTEL DE VILLE",
+    "source": "bing",
+    "id": "node/647225512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2962634,
+      11.1761522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1270461778",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 3,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 5",
+    "id": "node/1270461778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2794329,
+      11.1620683
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296796",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:40Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 1",
+    "id": "node/4236296796"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2931386,
+      11.1698862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296807",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:40Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 4",
+    "id": "node/4236296807"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2544057,
+      11.1740538
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296811",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 7",
+    "id": "node/4236296811"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3333004,
+      11.1805861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296814",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "townhall",
+    "name": "Mairie de l'arrondissement 2",
+    "id": "node/4236296814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2978589,
+      11.2001547
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,220 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/307416672",
+  "properties": {
+    "timestamp": "2015-03-09T13:28:21Z",
+    "version": 3,
+    "changeset": 29356938,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centre de santé - Takadoum",
+    "id": "way/307416672"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5767676,
+      33.8841387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/308237853",
+  "properties": {
+    "timestamp": "2014-10-17T15:02:48Z",
+    "version": 1,
+    "changeset": 26147340,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Mohemed V",
+    "id": "way/308237853"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5403272,
+      33.9038339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315392072",
+  "properties": {
+    "timestamp": "2016-01-12T22:06:27Z",
+    "version": 2,
+    "changeset": 36539227,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hôpital Hay Salam مستشفى حي السلام",
+    "name:ar": "مستشفى حي السلام",
+    "name:fr": "Hôpital Hay Salam",
+    "id": "way/315392072"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.583789,
+      33.8954854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315799098",
+  "properties": {
+    "timestamp": "2015-03-21T17:43:08Z",
+    "version": 2,
+    "changeset": 29640249,
+    "user": "عقبة بن نافع",
+    "uid": 1823346,
+    "addr:city": "Meknès مكناس",
+    "amenity": "hospital",
+    "name": "مستشفى سيدي بابا",
+    "name:fr": "Hôpital Sidi Baba",
+    "id": "way/315799098"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5774214,
+      33.912047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315802633",
+  "properties": {
+    "timestamp": "2014-12-04T20:29:17Z",
+    "version": 1,
+    "changeset": 27247812,
+    "user": "ayoub_az",
+    "uid": 2494387,
+    "amenity": "hospital",
+    "name": "La croix rouge",
+    "id": "way/315802633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5772441,
+      33.901974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315802635",
+  "properties": {
+    "timestamp": "2014-12-04T20:29:18Z",
+    "version": 1,
+    "changeset": 27247812,
+    "user": "ayoub_az",
+    "uid": 2494387,
+    "amenity": "hospital",
+    "id": "way/315802635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5783818,
+      33.9029552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4000042770",
+  "properties": {
+    "timestamp": "2016-02-13T11:05:58Z",
+    "version": 2,
+    "changeset": 37184209,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Hôpital Militaire Moulay Ismail",
+    "id": "node/4000042770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5240615,
+      33.889071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4356630092",
+  "properties": {
+    "timestamp": "2016-08-18T21:49:33Z",
+    "version": 1,
+    "changeset": 41545006,
+    "user": "salma elle",
+    "uid": 4439767,
+    "amenity": "hospital",
+    "id": "node/4356630092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5602143,
+      33.8778796
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4360600289",
+  "properties": {
+    "timestamp": "2016-08-21T20:52:11Z",
+    "version": 1,
+    "changeset": 41601698,
+    "user": "Houssine Mezouar",
+    "uid": 4446309,
+    "amenity": "hospital",
+    "id": "node/4360600289"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.4871047,
+      33.7497368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4769756650",
+  "properties": {
+    "timestamp": "2017-04-01T16:33:03Z",
+    "version": 1,
+    "changeset": 47360845,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "hôpital Sidi Said",
+    "name:ar": "مستشفى سيدي سعيد",
+    "id": "node/4769756650"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.5771889,
+      33.8928715
+    ]
+  }
+}
+]
+}

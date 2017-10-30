@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/332260282",
+  "properties": {
+    "timestamp": "2016-11-02T16:16:29Z",
+    "version": 4,
+    "changeset": 43356668,
+    "user": "ongolaboy",
+    "uid": 547829,
+    "addr:city": "Ngaoundéré",
+    "amenity": "university",
+    "name": "Université de Ngaoundéré",
+    "name:en": "University of Ngaoundere",
+    "website": "http://www.univ-ndere.cm/",
+    "wikipedia": "en:University of Ngaoundéré",
+    "id": "way/332260282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.5446497,
+      7.419393
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,296 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2899717816,
+  "lat": 11.1787568,
+  "lon": -4.2784265,
+  "timestamp": "2014-06-04T20:00:17Z",
+  "version": 1,
+  "changeset": 22742183,
+  "user": "Lessi Lassina",
+  "uid": 2103064,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche de St Etienne",
+    "opening_hours": "24/7",
+    "operator": "Bobo-Dioulasso"
+  }
+},
+{
+  "type": "node",
+  "id": 3631472950,
+  "lat": 11.1555874,
+  "lon": -4.2779044,
+  "timestamp": "2015-07-02T12:18:39Z",
+  "version": 1,
+  "changeset": 32353207,
+  "user": "Innocent DJARRA",
+  "uid": 3025752,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marche des Bissas",
+    "source": "bing,knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 352617031,
+  "timestamp": "2015-07-21T20:18:56Z",
+  "version": 2,
+  "changeset": 32787720,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.1793117,
+    "lon": -4.3441737
+  },
+  "nodes": [
+    3583784923,
+    3583784921,
+    3583784919,
+    3583784918,
+    3583784920,
+    3660813611,
+    3583784922,
+    3583784926,
+    3583784928,
+    3583784925,
+    3583784924,
+    3583784927,
+    3583784923
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 339538999,
+  "timestamp": "2015-04-20T11:47:01Z",
+  "version": 1,
+  "changeset": 30352380,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.1760681,
+    "lon": -4.3151990
+  },
+  "nodes": [
+    3467580712,
+    3467580358,
+    3467580347,
+    3467580346,
+    3467580342,
+    3467580343,
+    3467580350,
+    3467580352,
+    3467580364,
+    3467580629,
+    3467580659,
+    3467580678,
+    3467580716,
+    3467580727,
+    3467580730,
+    3467580735,
+    3467580734,
+    3467580724,
+    3467580722,
+    3467580712
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Marche de Fruits"
+  }
+},
+{
+  "type": "way",
+  "id": 49526109,
+  "timestamp": "2015-04-15T12:21:47Z",
+  "version": 4,
+  "changeset": 30235670,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.1772485,
+    "lon": -4.3002335
+  },
+  "nodes": [
+    629412842,
+    629412816,
+    629412844,
+    629412847,
+    629412842
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marché de BOBO"
+  }
+},
+{
+  "type": "way",
+  "id": 286355902,
+  "timestamp": "2014-06-08T19:44:14Z",
+  "version": 2,
+  "changeset": 22816418,
+  "user": "Aurimas Fišeras",
+  "uid": 651869,
+  "center": {
+    "lat": 11.1859056,
+    "lon": -4.3227613
+  },
+  "nodes": [
+    2900109318,
+    2900109317,
+    2900109315,
+    2897566657,
+    2900109318
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Colsama",
+    "operator": "Public",
+    "source": "MapBox"
+  }
+},
+{
+  "type": "way",
+  "id": 338830676,
+  "timestamp": "2015-04-16T16:25:24Z",
+  "version": 1,
+  "changeset": 30269126,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.1881541,
+    "lon": -4.3105565
+  },
+  "nodes": [
+    3459761505,
+    3459761503,
+    3459761502,
+    3459761574,
+    3459761576,
+    3459761504,
+    3459761505
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 337661521,
+  "timestamp": "2015-04-09T19:31:01Z",
+  "version": 1,
+  "changeset": 30101601,
+  "user": "SANA Ibrahim",
+  "uid": 2098157,
+  "center": {
+    "lat": 11.2036522,
+    "lon": -4.3075119
+  },
+  "nodes": [
+    3447272033,
+    3447272032,
+    3447272010,
+    3447272025,
+    3447272033
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 343200266,
+  "timestamp": "2015-05-06T13:40:40Z",
+  "version": 2,
+  "changeset": 30842696,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 11.1901188,
+    "lon": -4.2881742
+  },
+  "nodes": [
+    3500840645,
+    3500840656,
+    3500994025,
+    3500840653,
+    3500840680,
+    3500840669,
+    3500840679,
+    3500840639,
+    3500840674,
+    3500840645
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail"
+  }
+},
+{
+  "type": "way",
+  "id": 343211378,
+  "timestamp": "2015-05-06T12:47:24Z",
+  "version": 1,
+  "changeset": 30838604,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 11.1872684,
+    "lon": -4.2736901
+  },
+  "nodes": [
+    3500928251,
+    3500928245,
+    3500928240,
+    3500928242,
+    3500928251
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail"
+  }
+},
+{
+  "type": "way",
+  "id": 343200255,
+  "timestamp": "2015-05-06T11:43:53Z",
+  "version": 1,
+  "changeset": 30838604,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 11.1984497,
+    "lon": -4.2904367
+  },
+  "nodes": [
+    3500840657,
+    3500840647,
+    3500840642,
+    3500840641,
+    3500840657
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail"
+  }
+}
+
+  ]
+}

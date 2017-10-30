@@ -1,0 +1,3843 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 839668721,
+  "lat": -7.2903509,
+  "lon": 112.7928293,
+  "timestamp": "2016-10-17T05:08:57Z",
+  "version": 3,
+  "changeset": 42950829,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "tags": {
+    "addr:street": "Jalan Arif Rahman Hakim",
+    "amenity": "hospital",
+    "name": "Medical Centre ITS"
+  }
+},
+{
+  "type": "node",
+  "id": 1772619494,
+  "lat": -7.3627675,
+  "lon": 112.7286260,
+  "timestamp": "2012-06-01T13:52:28Z",
+  "version": 2,
+  "changeset": 11767934,
+  "user": "dino_andalananto",
+  "uid": 590678,
+  "tags": {
+    "addr:city": "Sidoarjo",
+    "amenity": "hospital",
+    "name": "RS Mitra Keluarga"
+  }
+},
+{
+  "type": "node",
+  "id": 3268565055,
+  "lat": -7.3870658,
+  "lon": 112.7282712,
+  "timestamp": "2015-01-04T09:50:09Z",
+  "version": 1,
+  "changeset": 27905220,
+  "user": "iman shad",
+  "uid": 2318760,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Gedangan"
+  }
+},
+{
+  "type": "node",
+  "id": 3492540632,
+  "lat": -7.1777757,
+  "lon": 112.6556651,
+  "timestamp": "2015-05-02T02:35:10Z",
+  "version": 1,
+  "changeset": 30709090,
+  "user": "yoyoktelko",
+  "uid": 2884105,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4189130140,
+  "lat": -7.2824751,
+  "lon": 112.7798297,
+  "timestamp": "2016-12-02T07:30:55Z",
+  "version": 2,
+  "changeset": 44106578,
+  "user": "Yudha Sidhikoro",
+  "uid": 4706322,
+  "tags": {
+    "addr:city": "Klampis Ngasem, Sukolilo, Surabaya",
+    "addr:postcode": "60117",
+    "addr:street": "Jl. Manyar Kertoadi",
+    "amenity": "hospital",
+    "name": "RSU Haji Surabaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4189190497,
+  "lat": -7.4050624,
+  "lon": 112.7267153,
+  "timestamp": "2016-05-16T09:29:19Z",
+  "version": 1,
+  "changeset": 39347492,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Tebel, Gedangan, Kabupaten Sidoarjo, Jawa Timur, Indonesia",
+    "addr:housenumber": "3",
+    "addr:postcode": "61254",
+    "addr:street": "Jl. Raya Tebel Barat",
+    "amenity": "hospital",
+    "name": "Klinik Bds Tebel"
+  }
+},
+{
+  "type": "node",
+  "id": 4189205726,
+  "lat": -7.3877756,
+  "lon": 112.7178459,
+  "timestamp": "2016-05-16T09:37:56Z",
+  "version": 2,
+  "changeset": 39347653,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Kec. Sidoarjo, Indonesia",
+    "addr:postcode": "61234",
+    "addr:street": "JL. Balai Desa",
+    "amenity": "hospital",
+    "name": "KLINIK DR. TITUT HARNANIK"
+  }
+},
+{
+  "type": "node",
+  "id": 4189210755,
+  "lat": -7.3221958,
+  "lon": 112.7459488,
+  "timestamp": "2016-05-16T09:43:54Z",
+  "version": 1,
+  "changeset": 39347778,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Jemur Wonosari, Wonocolo, Kota SBY, Jawa Timur, Indonesia",
+    "addr:housenumber": "78",
+    "addr:postcode": "60237",
+    "addr:street": "Jl. Raya Kendangsari",
+    "amenity": "hospital",
+    "name": "Klinik Kencana Medika"
+  }
+},
+{
+  "type": "node",
+  "id": 4189218265,
+  "lat": -7.2880725,
+  "lon": 112.7717059,
+  "timestamp": "2016-05-16T09:51:46Z",
+  "version": 1,
+  "changeset": 39347942,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:housenumber": "59",
+    "addr:postcode": "60116",
+    "addr:street": "Manyar Tirtomoyo 3",
+    "amenity": "hospital",
+    "name": "Kliknik Spesial Meridian"
+  }
+},
+{
+  "type": "node",
+  "id": 4191121402,
+  "lat": -7.2915096,
+  "lon": 112.7539453,
+  "timestamp": "2016-05-17T06:05:46Z",
+  "version": 1,
+  "changeset": 39368192,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Pucang Sewu, Surabaya, East Java",
+    "addr:housenumber": "No.22",
+    "addr:postcode": "60283",
+    "addr:street": "Jl. Ngagel Jaya Tengah",
+    "amenity": "hospital",
+    "name": "Scoliosis Correction Clinic"
+  }
+},
+{
+  "type": "node",
+  "id": 4191464390,
+  "lat": -7.2935426,
+  "lon": 112.7354080,
+  "timestamp": "2016-05-17T10:23:30Z",
+  "version": 1,
+  "changeset": 39373068,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Darmo, Wonokromo, Kota SBY, Jawa Timur, Indonesia",
+    "addr:housenumber": "50",
+    "addr:postcode": "60241",
+    "addr:street": "Jl. Ciliwung",
+    "amenity": "hospital",
+    "name": "Medika Utama"
+  }
+},
+{
+  "type": "node",
+  "id": 4191486029,
+  "lat": -7.2870949,
+  "lon": 112.7691756,
+  "timestamp": "2016-05-17T10:40:02Z",
+  "version": 1,
+  "changeset": 39373385,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:housenumber": "59/III",
+    "addr:postcode": "60116",
+    "addr:street": "JL. Manyar Tirtomoyo",
+    "amenity": "hospital",
+    "name": "Rehabilitasi Medik Meridian"
+  }
+},
+{
+  "type": "node",
+  "id": 4191508335,
+  "lat": -7.2819231,
+  "lon": 112.7370004,
+  "timestamp": "2016-05-17T11:01:36Z",
+  "version": 1,
+  "changeset": 39373784,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Dr. Sutomo, Surabaya, Surabaya City, East Java, Indonesia",
+    "addr:housenumber": "40",
+    "addr:postcode": "60264",
+    "addr:street": "Jl. M H. Tamrin",
+    "amenity": "hospital",
+    "name": "Miracle Aesthetic Clinic Thamrin"
+  }
+},
+{
+  "type": "node",
+  "id": 4191509711,
+  "lat": -7.2801062,
+  "lon": 112.7817642,
+  "timestamp": "2016-05-17T11:03:09Z",
+  "version": 1,
+  "changeset": 39373809,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "Surabaya City, East Java, Indonesia",
+    "addr:housenumber": "123",
+    "addr:postcode": "60282",
+    "addr:street": "Jl. Raya Kertajaya Indah Blok O",
+    "amenity": "hospital",
+    "name": "Miracle Aesthetic Clinic Kertajaya Indah"
+  }
+},
+{
+  "type": "node",
+  "id": 4615571125,
+  "lat": -7.3258842,
+  "lon": 112.7256699,
+  "timestamp": "2017-02-23T06:08:38Z",
+  "version": 2,
+  "changeset": 46327323,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Gayungan Kebonsari Timur B",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity": "100-250",
+    "name": "RS Mata Masyarakat Jawa Timur",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 4673984279,
+  "lat": -7.3940264,
+  "lon": 112.6729840,
+  "timestamp": "2017-02-08T04:08:45Z",
+  "version": 1,
+  "changeset": 45904356,
+  "user": "hatnowiyanto",
+  "uid": 5249822,
+  "tags": {
+    "amenity": "hospital",
+    "name": "RSIA Arafah Anwar Medika Sukodono"
+  }
+},
+{
+  "type": "node",
+  "id": 4735501967,
+  "lat": -7.1453871,
+  "lon": 112.6378821,
+  "timestamp": "2017-03-15T04:28:32Z",
+  "version": 1,
+  "changeset": 46858805,
+  "user": "sheilaamalia",
+  "uid": 2904175,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 472077907,
+  "timestamp": "2017-02-04T12:14:53Z",
+  "version": 1,
+  "changeset": 45803566,
+  "user": "hatnowiyanto",
+  "uid": 5249822,
+  "center": {
+    "lat": -7.3833358,
+    "lon": 112.7621411
+  },
+  "nodes": [
+    4663148709,
+    4663148710,
+    4663148711,
+    4663148712,
+    4663148709
+  ],
+  "tags": {
+    "addr:city": "Sedati",
+    "amenity": "hospital",
+    "name": "Almira Medika"
+  }
+},
+{
+  "type": "way",
+  "id": 458639570,
+  "timestamp": "2017-01-04T03:06:46Z",
+  "version": 3,
+  "changeset": 44888241,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.3253317,
+    "lon": 112.7455018
+  },
+  "nodes": [
+    4546088308,
+    4546088322,
+    4546088372,
+    4546088360,
+    4546088308
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Raya Kendangsari 38",
+    "addr:postcode": "60292",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "50-100",
+    "name": "Rumah Sakit Ibu dan Anak Kendangsari",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 463994509,
+  "timestamp": "2017-01-06T03:11:50Z",
+  "version": 2,
+  "changeset": 44942326,
+  "user": "Robi Ripai",
+  "uid": 2166021,
+  "center": {
+    "lat": -7.3280744,
+    "lon": 112.7752518
+  },
+  "nodes": [
+    4591827889,
+    4591827788,
+    4591827787,
+    4591827782,
+    4591827785,
+    4591827786,
+    4591827889
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:city": "Rungkut Kidul, Rungkut, Kota SBY, Jawa Timur, Indonesia",
+    "addr:full": "Jalan Rungkut Asri Tengah",
+    "addr:housenumber": "2",
+    "addr:postcode": "60293",
+    "addr:street": "Jl. Rungkut Asri Tengah",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "3",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "glass",
+    "capacity": "50-100",
+    "name": "Klinik Utama Pusura Rungkut",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 453637971,
+  "timestamp": "2017-03-13T08:31:52Z",
+  "version": 2,
+  "changeset": 46805106,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2994323,
+    "lon": 112.6620645
+  },
+  "nodes": [
+    4503499150,
+    4503499151,
+    4503499154,
+    4503499155,
+    4503499157,
+    4503499159,
+    4503499163,
+    4503499164,
+    4503499165,
+    4503499160,
+    4503499158,
+    4503499156,
+    4503499153,
+    4503499152,
+    4503499148,
+    4503499143,
+    4503499149,
+    4503499150
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Lontar Lidah Kulon",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "steel_frame",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "RS Orthopedi & Traumatologi",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 454131833,
+  "timestamp": "2016-11-18T03:31:38Z",
+  "version": 1,
+  "changeset": 43752653,
+  "user": "Fadlilaa",
+  "uid": 4706334,
+  "center": {
+    "lat": -7.2845334,
+    "lon": 112.6695017
+  },
+  "nodes": [
+    4507518560,
+    4507518565,
+    4507518595,
+    4507518593,
+    4507518560
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Raya Lontar 109",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Rumah Sakit Lombok Dua dua",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 455658137,
+  "timestamp": "2016-11-25T06:29:56Z",
+  "version": 1,
+  "changeset": 43937286,
+  "user": "IwanHr",
+  "uid": 4706325,
+  "center": {
+    "lat": -7.3130980,
+    "lon": 112.6917019
+  },
+  "nodes": [
+    4520194702,
+    4520194701,
+    4520194700,
+    4520194699,
+    4520194702
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Raya Menganti 398",
+    "amenity": "hospital",
+    "backup_generator": "no",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "50-100",
+    "name": "Rumah Sakit Wijaya",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 446537097,
+  "timestamp": "2017-02-23T02:44:42Z",
+  "version": 4,
+  "changeset": 46324908,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2992938,
+    "lon": 112.6764203
+  },
+  "nodes": [
+    4437857435,
+    4437857436,
+    4437857437,
+    4437857438,
+    4437857439,
+    4437857440,
+    4437857441,
+    4437857442,
+    4437857435
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:city": "Surabaya",
+    "addr:housenumber": "1",
+    "addr:postcode": "60227",
+    "addr:street": "Jalan Lingkar Dalam Barat",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "email": "info@national-hospital.com",
+    "name": "National Hospital",
+    "operator:type": "private",
+    "phone": "+62312975777",
+    "website": "http://www.national-hospital.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 463387641,
+  "timestamp": "2017-01-03T08:14:26Z",
+  "version": 1,
+  "changeset": 44864678,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3215391,
+    "lon": 112.7137283
+  },
+  "nodes": [
+    4586559800,
+    4586559808,
+    4586559807,
+    4586559806,
+    4586559805,
+    4586559804,
+    4586559803,
+    4586559802,
+    4586559801,
+    4586559800
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "RSIA Cempaka Putih Permata"
+  }
+},
+{
+  "type": "way",
+  "id": 454129371,
+  "timestamp": "2016-11-18T03:11:58Z",
+  "version": 1,
+  "changeset": 43752356,
+  "user": "DedyKur",
+  "uid": 2389711,
+  "center": {
+    "lat": -7.2756512,
+    "lon": 112.6796490
+  },
+  "nodes": [
+    4507502734,
+    4507502736,
+    4507502741,
+    4507502738,
+    4507502739,
+    4507502735,
+    4507502729,
+    4507502733,
+    4507502727,
+    4507502730,
+    4507502728,
+    4507502731,
+    4507502734
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Raya Darmo Permai Selatan 109-111",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "Rumah Sakit Marien",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 461277745,
+  "timestamp": "2016-12-23T04:10:49Z",
+  "version": 1,
+  "changeset": 44610581,
+  "user": "Desta Fauzan Arif",
+  "uid": 4706378,
+  "center": {
+    "lat": -7.2517380,
+    "lon": 112.6502153
+  },
+  "nodes": [
+    4567997169,
+    4567997186,
+    4567997184,
+    4567997165,
+    4567997169
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:city": "Jalan Raya Kandangan",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "Rumah Sakit Bunda",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 451670191,
+  "timestamp": "2017-02-13T17:07:06Z",
+  "version": 4,
+  "changeset": 46053614,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2666317,
+    "lon": 112.6912245
+  },
+  "nodes": [
+    4484900084,
+    4484900068,
+    4484900112,
+    4484900126,
+    4484900128,
+    4484900125,
+    4484900161,
+    4484900160,
+    4484900152,
+    4484900162,
+    4484900079,
+    4484900058,
+    4484900057,
+    4484900054,
+    4484900044,
+    4484900034,
+    4484900037,
+    4484900060,
+    4484900067,
+    4484900069,
+    4484900078,
+    4484900084
+  ],
+  "tags": {
+    "addr:full": "satelit indah vi",
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Rumah Sakit Mitra Keluarga",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 450988751,
+  "timestamp": "2017-02-08T14:34:32Z",
+  "version": 4,
+  "changeset": 45918580,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3085395,
+    "lon": 112.7396657
+  },
+  "nodes": [
+    4478593000,
+    4580686342,
+    4580686341,
+    4580686340,
+    4478592760,
+    4478592769,
+    4478593000
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "100-250",
+    "name": "Klinik Estetika",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 371514051,
+  "timestamp": "2017-01-12T04:01:02Z",
+  "version": 4,
+  "changeset": 45094066,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.3048762,
+    "lon": 112.7651728
+  },
+  "nodes": [
+    3750804647,
+    3750804650,
+    3750804651,
+    3750804648,
+    3750804649,
+    3750804642,
+    3750804643,
+    3750804653,
+    3750804652,
+    3750804656,
+    3750804657,
+    3750804661,
+    3750804662,
+    3750804667,
+    3750804674,
+    3750804675,
+    3750804676,
+    3750804680,
+    3750804683,
+    3750804684,
+    3750804677,
+    3750804670,
+    3750804669,
+    3750804668,
+    3750804663,
+    3750804664,
+    3750804322,
+    3750804321,
+    3750804638,
+    3750804637,
+    3750804633,
+    3750804626,
+    3750804625,
+    3750804317,
+    3750804316,
+    3750804324,
+    3750804323,
+    3750804628,
+    3750804627,
+    3750804629,
+    3750804630,
+    3750804631,
+    3750804632,
+    3750804634,
+    3750804641,
+    3750804645,
+    3750804647
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Nginden Intan Barat Blok B, Ngenden Jangkungan, Sukolilo",
+    "addr:postcode": "60118",
+    "addr:street": "Jalan Nginden Intan Barat",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "Rs Premier Surabaya",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 447615916,
+  "timestamp": "2016-11-04T07:28:50Z",
+  "version": 2,
+  "changeset": 43396365,
+  "user": "DedyKur",
+  "uid": 2389711,
+  "center": {
+    "lat": -7.2889539,
+    "lon": 112.7413850
+  },
+  "nodes": [
+    4447010630,
+    4447010620,
+    4447010622,
+    4447010619,
+    4447010629,
+    4447010625,
+    4447010616,
+    4447010614,
+    4447010590,
+    4447010594,
+    4447010595,
+    4447010601,
+    4447010602,
+    4447010605,
+    4447010630
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Kapuas",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "average",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "Rumah Sakit Surabaya Medical Center",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 452580516,
+  "timestamp": "2016-11-11T03:07:51Z",
+  "version": 1,
+  "changeset": 43549627,
+  "user": "Fadlilaa",
+  "uid": 4706334,
+  "center": {
+    "lat": -7.2871492,
+    "lon": 112.7417777
+  },
+  "nodes": [
+    4493555957,
+    4493555958,
+    4493555960,
+    4493555959,
+    4493555957
+  ],
+  "tags": {
+    "addr:city": "Surabaya, Jawa Timur",
+    "addr:housenumber": "105",
+    "addr:postcode": "60241",
+    "addr:street": "Jalan Tumapel",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Klinik Anugerah Sulung"
+  }
+},
+{
+  "type": "way",
+  "id": 448114210,
+  "timestamp": "2017-02-23T08:36:54Z",
+  "version": 4,
+  "changeset": 46330200,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2899849,
+    "lon": 112.7635634
+  },
+  "nodes": [
+    4451582354,
+    4451582362,
+    4451582367,
+    4451582368,
+    4451582370,
+    4451582371,
+    4451582369,
+    4451582366,
+    4451582365,
+    4451582360,
+    4451582354
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:city": "Menur Pumpungan, Sukolilo, Surabaya, East Java",
+    "addr:housenumber": "No.9",
+    "addr:postcode": "60118",
+    "addr:street": "Jl. Raya Manyar",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "glass",
+    "capacity": "100-250",
+    "name": "Rumah Sakit Bedah Surabaya",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 449903849,
+  "timestamp": "2016-10-28T16:05:02Z",
+  "version": 1,
+  "changeset": 43249282,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.2831080,
+    "lon": 112.7528757
+  },
+  "nodes": [
+    4468232306,
+    4468232305,
+    4468232307,
+    4468232308,
+    4468232306
+  ],
+  "tags": {
+    "addr:city": "Kertajaya, Gubeng, Surabaya, East Java",
+    "addr:housenumber": "No. 12-14",
+    "addr:postcode": "60282",
+    "addr:street": "JL. Pucang Adi",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Rumah Sakit Pura Raharja"
+  }
+},
+{
+  "type": "way",
+  "id": 463561564,
+  "timestamp": "2017-02-17T02:24:27Z",
+  "version": 3,
+  "changeset": 46152938,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2784836,
+    "lon": 112.7489193
+  },
+  "nodes": [
+    4588315093,
+    4588314752,
+    4588314751,
+    4588314750,
+    4588315093
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jalan lombok nomor 22",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "RSB Lombok Dua Dua",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 448112158,
+  "timestamp": "2016-10-31T08:49:10Z",
+  "version": 2,
+  "changeset": 43298858,
+  "user": "Yudha Sidhikoro",
+  "uid": 4706322,
+  "center": {
+    "lat": -7.2908490,
+    "lon": 112.7826956
+  },
+  "nodes": [
+    4451569658,
+    4451569672,
+    4451569815,
+    4451569819,
+    4451570034,
+    4451570030,
+    4451570519,
+    4451570500,
+    4451569883,
+    4451569882,
+    4451569658
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Arief Rahman Hakim No.212",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "250-500",
+    "name": "RS Ibu Anak Putri",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 121862400,
+  "timestamp": "2016-12-02T02:46:09Z",
+  "version": 4,
+  "changeset": 44102871,
+  "user": "Yudha Sidhikoro",
+  "uid": 4706322,
+  "center": {
+    "lat": -7.2908864,
+    "lon": 112.7892865
+  },
+  "nodes": [
+    1363139748,
+    1363139723,
+    4472320644,
+    4472320645,
+    1363139748
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "steel_frame",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "100-250",
+    "name": "Rumah Sakit Onkologi",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 194433170,
+  "timestamp": "2014-11-09T16:55:31Z",
+  "version": 2,
+  "changeset": 26667589,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": -7.2827367,
+    "lon": 112.7798299
+  },
+  "nodes": [
+    2049355351,
+    2049355353,
+    2049355355,
+    2049355357,
+    2049355368,
+    2049355363,
+    2049355370,
+    2049355365,
+    2049355361,
+    2049355359,
+    2049355351
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "RS Haji",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 185053556,
+  "timestamp": "2016-10-24T09:43:54Z",
+  "version": 3,
+  "changeset": 43118265,
+  "user": "DedyKur",
+  "uid": 2389711,
+  "center": {
+    "lat": -7.2661587,
+    "lon": 112.7370451
+  },
+  "nodes": [
+    1956360786,
+    1956360784,
+    1956360790,
+    1956360788,
+    1956360789,
+    1956360804,
+    1956360822,
+    1956360821,
+    1956360827,
+    1956360826,
+    1956360819,
+    1956360818,
+    1956360825,
+    1956360823,
+    1956360817,
+    1956360815,
+    1956360809,
+    1956360793,
+    1956360787,
+    1956360786
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:city": "Surabaya",
+    "addr:full": "TEGALSARI",
+    "addr:postcode": "60261",
+    "addr:street": "Jalan Tegalsari",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "capacity:persons": "500",
+    "ele": "12",
+    "name": "RSIA PUSURA",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 449624602,
+  "timestamp": "2017-01-12T04:30:29Z",
+  "version": 3,
+  "changeset": 45094381,
+  "user": "adiatmad",
+  "uid": 2901733,
+  "center": {
+    "lat": -7.2648315,
+    "lon": 112.7561908
+  },
+  "nodes": [
+    4465988270,
+    4465704820,
+    4465704825,
+    4465988271,
+    4465704838,
+    4465704877,
+    4465704879,
+    4465704909,
+    4465704906,
+    4465704914,
+    4465704902,
+    4465704892,
+    4465704890,
+    4465704868,
+    4465704865,
+    4465704827,
+    4465988270
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jalan mayjen prof.Dr.Moestopo",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "steel_frame",
+    "building:walls": "glass",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "R.S. Spesialis Husada Utama",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 228212232,
+  "timestamp": "2013-07-01T12:55:43Z",
+  "version": 1,
+  "changeset": 16777476,
+  "user": "nadya oktaviani",
+  "uid": 723141,
+  "center": {
+    "lat": -7.2390904,
+    "lon": 112.7228902
+  },
+  "nodes": [
+    2368448627,
+    2368448619,
+    2368448647,
+    2368448605,
+    2368448627
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "RS Sehat"
+  }
+},
+{
+  "type": "way",
+  "id": 452176358,
+  "timestamp": "2017-03-22T05:12:57Z",
+  "version": 2,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2260781,
+    "lon": 112.7408182
+  },
+  "nodes": [
+    4489735119,
+    4489735120,
+    4489735122,
+    4489735121,
+    4489735119
+  ],
+  "tags": {
+    "addr:full": "Jalan KH Mas Mansyur",
+    "amenity": "hospital",
+    "building": "clinic",
+    "building:condition": "average",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity:persons": "50-100",
+    "name": "Klinik Raddina",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 447610406,
+  "timestamp": "2017-03-22T05:09:30Z",
+  "version": 5,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2426787,
+    "lon": 112.7519019
+  },
+  "nodes": [
+    4446970730,
+    4446970732,
+    4446970718,
+    4446970717,
+    4446970719,
+    4446970716,
+    4446970730
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Kapasari No. 97-101",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "5",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "buildings:floor": "ceramics",
+    "capacity:persons": ">500",
+    "name": "Rumah Sakit Adi Husada Kapasan",
+    "operator:type": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 257897278,
+  "timestamp": "2017-02-25T14:51:23Z",
+  "version": 7,
+  "changeset": 46394764,
+  "user": "Farras",
+  "uid": 136807,
+  "center": {
+    "lat": -7.2697097,
+    "lon": 112.7849217
+  },
+  "nodes": [
+    2633435534,
+    2633435536,
+    3266835651,
+    3266835652,
+    2633435538,
+    2633435540,
+    3266835639,
+    3266835640,
+    2633435542,
+    2633435544,
+    3266835637,
+    2633435545,
+    2633435547,
+    2633435555,
+    2633435557,
+    3266835636,
+    2633435560,
+    3266835635,
+    2633435562,
+    2633435564,
+    2633435566,
+    2633435568,
+    2633435570,
+    2633435572,
+    2633435574,
+    2633435576,
+    2633435578,
+    2633435534
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:postcode": "60115",
+    "addr:street": "Jalan Dharmahusada Indah Utara",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Universitas Airlangga",
+    "phone": "+62315916290"
+  }
+},
+{
+  "type": "way",
+  "id": 450714496,
+  "timestamp": "2017-03-22T05:11:32Z",
+  "version": 3,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2512810,
+    "lon": 112.7850332
+  },
+  "nodes": [
+    4476297072,
+    4476297071,
+    4476297069,
+    4476297070,
+    4476297072
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Kenjeran Nomer 506",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "14",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">500",
+    "name": "Rumah Sakit Mitra Keluarga",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 450772004,
+  "timestamp": "2017-03-22T05:11:36Z",
+  "version": 3,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2504252,
+    "lon": 112.7837895
+  },
+  "nodes": [
+    4476247326,
+    4476247320,
+    4476247321,
+    4476247327,
+    4476247326
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Dr. Ir. H. Soekarno Nomer 2",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "5",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "RSIA Kendangsari Merr",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 451837669,
+  "timestamp": "2017-03-22T05:12:40Z",
+  "version": 4,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2097364,
+    "lon": 112.7361619
+  },
+  "nodes": [
+    4486494176,
+    4486494175,
+    4486494182,
+    4486494185,
+    4486494176
+  ],
+  "tags": {
+    "addr:full": "Jalan Kalimas Baru",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "building:condition": "good",
+    "building:levels": "6",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "lebih dari 500",
+    "name": "Rumah Sakit PHC Medical Centre",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "relation",
+  "id": 6873287,
+  "timestamp": "2017-03-14T15:19:19Z",
+  "version": 4,
+  "changeset": 46844134,
+  "user": "everyone_sinks_starco",
+  "uid": 165040,
+  "center": {
+    "lat": -7.3242343,
+    "lon": 112.7305269
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 465330021,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Ketintang, Gayungan, Surabaya, East Java",
+    "addr:full": "Jalan Jenderal A. Yani No 115",
+    "addr:housenumber": "No.116",
+    "addr:postcode": "60231",
+    "addr:street": "Jl. Jend. A. Yani",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Bhayangkara H. Samsoeri Mertojoso POLDA Jawa Timur",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6889774,
+  "timestamp": "2017-01-18T04:00:44Z",
+  "version": 1,
+  "changeset": 45260787,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.3261478,
+    "lon": 112.7255981
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 464057071,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 455672012,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455672195,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 464057072,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Gayungan Kebonsari Timur B",
+    "amenity": "hospital",
+    "name": "RS Mata Masyarakat Jawa Timur",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6814286,
+  "timestamp": "2016-12-23T03:05:44Z",
+  "version": 1,
+  "changeset": 44609734,
+  "user": "Anjar Akrimullah",
+  "uid": 4159996,
+  "center": {
+    "lat": -7.3287721,
+    "lon": 112.7509576
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 461269463,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 461269477,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Raya Kendangsari Industri",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Royal Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6908246,
+  "timestamp": "2017-02-15T10:45:51Z",
+  "version": 2,
+  "changeset": 46103214,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2353495,
+    "lon": 112.6125421
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 468637726,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 468637727,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 468637728,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 463823059,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Islam Darus Syifa'",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6814609,
+  "timestamp": "2016-12-23T08:51:52Z",
+  "version": 1,
+  "changeset": 44615408,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.2984603,
+    "lon": 112.7230696
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 451857624,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 461089083,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461089082,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326412,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461097707,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326427,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326431,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326430,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326411,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326420,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326416,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326434,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326428,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326418,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326410,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326433,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326422,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326425,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326419,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326426,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461326415,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461097703,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461097704,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461097705,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 461097706,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Tingkat III Kodam V Brawijaya",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6930342,
+  "timestamp": "2017-01-31T02:30:52Z",
+  "version": 1,
+  "changeset": 45671176,
+  "user": "IwanHr",
+  "uid": 4706325,
+  "center": {
+    "lat": -7.3112451,
+    "lon": 112.6879189
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 456740299,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 455227616,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227614,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227610,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227611,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227612,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227613,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455227615,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Karangan PDAM 1-3",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Wiyung Sejahtera",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6792023,
+  "timestamp": "2016-12-23T08:51:52Z",
+  "version": 2,
+  "changeset": 44615408,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.3037338,
+    "lon": 112.7081883
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 459481999,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 456713960,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457109326,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 456713944,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457109331,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457109330,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457109329,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 457109328,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 456713961,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Golf I",
+    "amenity": "hospital",
+    "name": "RS Marinir Ewa Panggalila",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6868560,
+  "timestamp": "2017-01-19T02:47:18Z",
+  "version": 2,
+  "changeset": 45287041,
+  "user": "Febrina Dewi",
+  "uid": 617262,
+  "center": {
+    "lat": -7.2558516,
+    "lon": 112.6361140
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 465127627,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458647143,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647183,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647085,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647277,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647365,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458646965,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458646780,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647062,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458646879,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647129,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647136,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647310,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458647247,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458646890,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Raya Kendung",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "name": "RSUD Bhakti Dharma Husada",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6833845,
+  "timestamp": "2017-01-26T09:47:29Z",
+  "version": 3,
+  "changeset": 45506249,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2570063,
+    "lon": 112.6708713
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 462702755,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 462702762,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462268217,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462268044,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:full": "Jalan Raya Manukan Wetan",
+    "addr:housenumber": "68 - 68A",
+    "addr:postcode": "60185",
+    "addr:street": "Jl. Raya Manukan Wetan",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Muji Rahayu",
+    "operator": "Private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6852426,
+  "timestamp": "2017-01-18T12:02:14Z",
+  "version": 2,
+  "changeset": 45267851,
+  "user": "Ramadyan",
+  "uid": 892415,
+  "center": {
+    "lat": -7.3120132,
+    "lon": 112.7229563
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 464048633,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 458027283,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458027241,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Ketintang Madya I",
+    "amenity": "hospital",
+    "name": "RSU Bhakti Rahayu",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6927280,
+  "timestamp": "2017-01-30T04:09:18Z",
+  "version": 1,
+  "changeset": 45638986,
+  "user": "DedyKur",
+  "uid": 2389711,
+  "center": {
+    "lat": -7.3225208,
+    "lon": 112.7399267
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 470106207,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 455675438,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455675401,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455675397,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455675394,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 467417700,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 469290625,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 469290623,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 455675387,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 469290619,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 467392300,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 467399394,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 467399393,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Raya Jemursari",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "buildings:floor": "ceramics",
+    "name": "Rumah Sakit Islam Jemursari Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6833860,
+  "timestamp": "2017-02-08T14:35:07Z",
+  "version": 3,
+  "changeset": 45918580,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3096372,
+    "lon": 112.7385233
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 450988792,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 458453131,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704797,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988793,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581397,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581398,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581400,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581395,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988739,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988772,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582660,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988777,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988743,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582649,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988761,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988751,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988790,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 473326667,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 473326665,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704790,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 446524879,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582705,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582725,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582727,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582729,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988778,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581392,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988740,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452581401,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988791,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704798,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988794,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450988798,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704796,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704795,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 446524878,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582683,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452582698,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 473352510,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 446524876,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Angkatan Laut Dr. Ramelan",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6833857,
+  "timestamp": "2016-12-30T07:11:41Z",
+  "version": 1,
+  "changeset": 44776782,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3064252,
+    "lon": 112.7347626
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 462704784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 451292351,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192770,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292341,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292342,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292331,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192778,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192771,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192772,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292325,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192776,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452192783,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292359,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292360,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451297508,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451292340,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704786,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272958,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272952,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 462704785,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272988,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272985,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272977,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451272984,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Islam Surabaya",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6959280,
+  "timestamp": "2017-03-16T13:53:44Z",
+  "version": 2,
+  "changeset": 46898822,
+  "user": "everyone_sinks_starco",
+  "uid": 165040,
+  "center": {
+    "lat": -7.2918576,
+    "lon": 112.7354084
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 376494209,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "RSK St. Vincentius A Paulo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6868331,
+  "timestamp": "2017-01-11T07:17:00Z",
+  "version": 1,
+  "changeset": 45069675,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.2915348,
+    "lon": 112.7409612
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 465117740,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 452033371,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 463999563,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Serayu Nomor 17",
+    "amenity": "hospital",
+    "name": "RSAU SOEMITRO",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6861671,
+  "timestamp": "2017-03-16T13:53:44Z",
+  "version": 3,
+  "changeset": 46898822,
+  "user": "everyone_sinks_starco",
+  "uid": 165040,
+  "center": {
+    "lat": -7.2912021,
+    "lon": 112.7372800
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 452582313,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 464630285,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:housenumber": "34",
+    "addr:postcode": "60241",
+    "addr:street": "Jalan Diponegoro",
+    "amenity": "hospital",
+    "name": "Rumah Sakit William Booth",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6913438,
+  "timestamp": "2017-03-16T13:53:43Z",
+  "version": 3,
+  "changeset": 46898822,
+  "user": "everyone_sinks_starco",
+  "uid": 165040,
+  "center": {
+    "lat": -7.2873611,
+    "lon": 112.7382644
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 280299555,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:housenumber": "90",
+    "addr:postcode": "60241",
+    "addr:street": "Jalan Raya Darmo",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Darmo",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6892201,
+  "timestamp": "2017-01-19T04:49:18Z",
+  "version": 1,
+  "changeset": 45288195,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.2740186,
+    "lon": 112.7463992
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 450513383,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 450513419,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450513421,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450513401,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450513390,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Siloam Hospitals",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6683373,
+  "timestamp": "2017-02-01T06:53:08Z",
+  "version": 3,
+  "changeset": 45708010,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.2861609,
+    "lon": 112.7620875
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 470893937,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 467889307,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609892,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307282253,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 447609671,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611890,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609889,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609888,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609675,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609891,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609893,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609894,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609677,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609679,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609674,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609678,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611569,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611612,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611598,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447609676,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611553,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447611577,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608748,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608749,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608750,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608745,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608898,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608901,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608744,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450537999,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608747,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608741,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450538001,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450538000,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608739,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608740,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608742,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608751,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 447608738,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 456768241,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Jiwa Menur",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6688297,
+  "timestamp": "2017-01-27T02:21:38Z",
+  "version": 3,
+  "changeset": 45538800,
+  "user": "Ms Kiara",
+  "uid": 3682550,
+  "center": {
+    "lat": -7.3074744,
+    "lon": 112.7875315
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 450968413,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 450728844,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450728813,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450728847,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450728875,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Gotong Royong",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6755214,
+  "timestamp": "2016-12-02T02:55:52Z",
+  "version": 1,
+  "changeset": 44102948,
+  "user": "Desta Fauzan Arif",
+  "uid": 4706378,
+  "center": {
+    "lat": -7.2453469,
+    "lon": 112.7277389
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 457109445,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 457109455,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147502,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147290,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147398,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147527,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147526,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147487,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 454147225,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Dupak Nomor 15 A",
+    "amenity": "hospital",
+    "backup_generator": "yes",
+    "building": "hospital",
+    "name": "Rumah Sakit Ibu dan Anak IBI Surabaya",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6685071,
+  "timestamp": "2016-11-02T03:42:12Z",
+  "version": 1,
+  "changeset": 43342064,
+  "user": "Danang Sugiarto",
+  "uid": 4706326,
+  "center": {
+    "lat": -7.2540403,
+    "lon": 112.7434660
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 450694876,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 448107931,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448107898,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448107873,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 155884256,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448107876,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448267993,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448107912,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448107865,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Undaan Kulon",
+    "amenity": "hospital",
+    "name": "RS Mata Undaan",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6688565,
+  "timestamp": "2016-11-03T09:51:15Z",
+  "version": 1,
+  "changeset": 43374501,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2514797,
+    "lon": 112.7458467
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 449621808,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 448069003,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448068978,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448068949,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448068996,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448068947,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448068962,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448069004,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448236900,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Undaan Wetan",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Adi Husada",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6873295,
+  "timestamp": "2017-01-12T04:33:02Z",
+  "version": 1,
+  "changeset": 45094424,
+  "user": "adiatmad",
+  "uid": 2901733,
+  "center": {
+    "lat": -7.2682107,
+    "lon": 112.7582997
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 464566820,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 307347599,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090345,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090341,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 309363318,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 309363317,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 309363320,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448319028,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307347601,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090354,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090251,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307347597,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090307,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090358,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090281,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090265,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448090235,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082267,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349691,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349679,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307347608,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307347607,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349684,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448088356,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448088376,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349662,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449496837,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448088355,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448088339,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307347611,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349698,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349695,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349709,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349682,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349710,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448451831,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349712,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349674,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349660,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082263,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349711,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082270,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349700,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349630,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449496842,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449496845,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082275,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349667,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349673,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082262,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349683,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349671,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349648,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082269,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349702,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082259,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082268,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082258,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448082264,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349650,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349707,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 315759527,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349653,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349634,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448080696,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349633,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 448080697,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349704,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 307349676,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:city": "Surabaya",
+    "addr:postcode": "60286",
+    "addr:street": "Jalan Profesor Doktor Moestopo",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Daerah Dr. Soetomo",
+    "operator": "Dinas Kesehatan Prov. Jatim",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6688109,
+  "timestamp": "2017-02-12T15:06:45Z",
+  "version": 2,
+  "changeset": 46022043,
+  "user": "Febrina Dewi",
+  "uid": 617262,
+  "center": {
+    "lat": -7.2459814,
+    "lon": 112.7579853
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 450927051,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 449329802,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449329801,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449330482,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449330477,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 449330478,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Tambakrejo",
+    "amenity": "hospital",
+    "name": "RSUD Dr.M.Soewandhie",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6699714,
+  "timestamp": "2017-02-13T05:19:22Z",
+  "version": 5,
+  "changeset": 46036445,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2281429,
+    "lon": 112.7411216
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 452200878,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 451817677,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451817680,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451817647,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451817685,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan KH Mas Mansyur",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Al Irsyad",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6703219,
+  "timestamp": "2016-11-11T06:24:54Z",
+  "version": 1,
+  "changeset": 43551424,
+  "user": "gafuri",
+  "uid": 1588993,
+  "center": {
+    "lat": -7.2299251,
+    "lon": 112.7412128
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 452600945,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 451813160,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451813124,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451813221,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 451813219,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit PKU Muhammadiyah Surabaya",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6703227,
+  "timestamp": "2016-11-11T06:28:24Z",
+  "version": 1,
+  "changeset": 43551513,
+  "user": "endang_p",
+  "uid": 4706330,
+  "center": {
+    "lat": -7.2240386,
+    "lon": 112.7464745
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 452601170,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 450698050,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698103,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698214,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698063,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452601171,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698149,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698169,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698084,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698104,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 450698040,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Rumah Sakit Paru",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6703135,
+  "timestamp": "2017-03-22T05:14:31Z",
+  "version": 4,
+  "changeset": 47058271,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -7.2119504,
+    "lon": 112.7245990
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 452587041,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 452587042,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Teluk Bayur",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Rumah Sakit TNI AL Dr. Oepomo",
+    "operator:type": "government",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

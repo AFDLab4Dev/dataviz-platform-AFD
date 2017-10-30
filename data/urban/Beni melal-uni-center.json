@@ -1,0 +1,27 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4749295447,
+  "lat": 32.3362748,
+  "lon": -6.3700857,
+  "timestamp": "2017-03-22T18:08:41Z",
+  "version": 1,
+  "changeset": 47074958,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Sultan Moulay Slimane"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,93 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/226728666",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:18Z",
+    "version": 5,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Poisson et du bétail",
+    "source": "MEADEN",
+    "id": "way/226728666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4033954,
+      9.2977916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226752544",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:18Z",
+    "version": 3,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Grand-Marché",
+    "id": "way/226752544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3979826,
+      9.3096556
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/227130458",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:18Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Petit-Marché",
+    "id": "way/227130458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.3895305,
+      9.2982785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307484462",
+  "properties": {
+    "timestamp": "2014-10-12T18:55:49Z",
+    "version": 1,
+    "changeset": 26032785,
+    "user": "Habdoul",
+    "uid": 1800149,
+    "amenity": "marketplace",
+    "name": "Marche deTakasko",
+    "id": "way/307484462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.4173512,
+      9.3533659
+    ]
+  }
+}
+]
+}

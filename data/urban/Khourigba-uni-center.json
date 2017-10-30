@@ -1,0 +1,42 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 400838866,
+  "timestamp": "2016-02-29T19:01:28Z",
+  "version": 1,
+  "changeset": 37527991,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 32.8700845,
+    "lon": -6.9041351
+  },
+  "nodes": [
+    4033451023,
+    4033451077,
+    4033451674,
+    4033451614,
+    4033451610,
+    4033451361,
+    4033451087,
+    4033449182,
+    4033451017,
+    4033451339,
+    4033451023
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universite Hassan 1"
+  }
+}
+
+  ]
+}

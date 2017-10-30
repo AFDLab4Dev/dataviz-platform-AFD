@@ -1,0 +1,73 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 321997046,
+  "timestamp": "2016-04-01T21:15:41Z",
+  "version": 2,
+  "changeset": 38237967,
+  "user": "magicgate",
+  "uid": 2155856,
+  "center": {
+    "lat": 4.9212343,
+    "lon": 9.8944005
+  },
+  "nodes": [
+    3287638849,
+    3287638856,
+    3287638864,
+    4090920553,
+    3287638869,
+    3287638872,
+    3287638877,
+    3287638878,
+    3287638874,
+    3287638871,
+    3287638865,
+    3287638863,
+    3287638849
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Ndoungue"
+  }
+},
+{
+  "type": "way",
+  "id": 365665302,
+  "timestamp": "2017-03-09T19:12:55Z",
+  "version": 2,
+  "changeset": 46719136,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.1185833,
+    "lon": 9.9437129
+  },
+  "nodes": [
+    3696683458,
+    3696683460,
+    4726512878,
+    3696683462,
+    3696683457,
+    3696683448,
+    3696683451,
+    3696683454,
+    3696683458
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de district de Melong centre",
+    "operator": "MINSANTE"
+  }
+}
+
+  ]
+}

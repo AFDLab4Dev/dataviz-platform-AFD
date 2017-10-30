@@ -1,0 +1,80 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/166332497",
+  "properties": {
+    "timestamp": "2015-01-07T14:52:49Z",
+    "version": 3,
+    "changeset": 27978300,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "university",
+    "name": "Chouaib Doukkali University",
+    "id": "way/166332497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4874287,
+      33.2265648
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414813392",
+  "properties": {
+    "timestamp": "2016-05-04T09:01:40Z",
+    "version": 5,
+    "changeset": 39091196,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "EL Jadida",
+    "addr:postcode": "24002",
+    "addr:street": "Route d'azzemour, Nationale N°1, ELHAOUZIA",
+    "amenity": "university",
+    "name": "École nationale des sciences appliquées d'El Jadida",
+    "phone": "+212 5 23 34 48 22",
+    "short_name": "ENSAJ",
+    "wikipedia": "fr:École nationale des sciences appliquées d'El Jadida",
+    "id": "way/414813392"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4345795,
+      33.2508239
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414815114",
+  "properties": {
+    "timestamp": "2016-05-04T09:00:39Z",
+    "version": 3,
+    "changeset": 39090739,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "EL Jadida",
+    "addr:postcode": "24002",
+    "addr:street": "Route Nationale N°1 El haouziya,",
+    "amenity": "university",
+    "name": "Faculté Polydisciplinaire El-Jadida",
+    "phone": "+212 5 23379301",
+    "short_name:fr": "FPJ",
+    "website": "www.fpj.ucd.ac.ma/",
+    "id": "way/414815114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4330784,
+      33.2513779
+    ]
+  }
+}
+]
+}

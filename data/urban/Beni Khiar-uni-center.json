@@ -1,0 +1,82 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1860278005,
+  "lat": 36.4379676,
+  "lon": 10.6785296,
+  "timestamp": "2012-08-15T12:00:58Z",
+  "version": 2,
+  "changeset": 12738043,
+  "user": "Hedi_B",
+  "uid": 799200,
+  "tags": {
+    "amenity": "university",
+    "name": "IPEIN"
+  }
+},
+{
+  "type": "way",
+  "id": 176163173,
+  "timestamp": "2012-08-15T12:00:56Z",
+  "version": 1,
+  "changeset": 12738043,
+  "user": "Hedi_B",
+  "uid": 799200,
+  "center": {
+    "lat": 36.4351354,
+    "lon": 10.6896853
+  },
+  "nodes": [
+    1867181795,
+    1867181797,
+    1867181762,
+    1867181779,
+    1867181795
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "designation": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+    "name": "FSEGN"
+  }
+},
+{
+  "type": "way",
+  "id": 176163177,
+  "timestamp": "2014-06-26T17:48:20Z",
+  "version": 2,
+  "changeset": 23198377,
+  "user": "selimachour",
+  "uid": 400177,
+  "center": {
+    "lat": 36.4359512,
+    "lon": 10.6864700
+  },
+  "nodes": [
+    1867181758,
+    1867181802,
+    1867181807,
+    1867181781,
+    1867181805,
+    1867181773,
+    1867181815,
+    1867181758
+  ],
+  "tags": {
+    "addr:city": "Nabeul",
+    "amenity": "university",
+    "building": "school",
+    "name": "Faculté des Beaux arts"
+  }
+}
+
+  ]
+}

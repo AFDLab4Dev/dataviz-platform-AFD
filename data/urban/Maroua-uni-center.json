@@ -1,0 +1,85 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 417560134,
+  "timestamp": "2016-05-12T11:14:50Z",
+  "version": 1,
+  "changeset": 39264330,
+  "user": "Atangana Jacques Landry",
+  "uid": 1281635,
+  "center": {
+    "lat": 10.5852388,
+    "lon": 14.3233549
+  },
+  "nodes": [
+    4180929420,
+    4180929424,
+    4180930796,
+    4180921627,
+    4180929420
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université de Maroua cours de Nkalbassou"
+  }
+},
+{
+  "type": "way",
+  "id": 417560164,
+  "timestamp": "2016-05-12T11:14:53Z",
+  "version": 1,
+  "changeset": 39264330,
+  "user": "Atangana Jacques Landry",
+  "uid": 1281635,
+  "center": {
+    "lat": 10.5870648,
+    "lon": 14.3201172
+  },
+  "nodes": [
+    4180932826,
+    4180932828,
+    4180933396,
+    4180933391,
+    4180932826
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Université de Maroua"
+  }
+},
+{
+  "type": "way",
+  "id": 375127332,
+  "timestamp": "2016-04-22T12:00:01Z",
+  "version": 2,
+  "changeset": 38783655,
+  "user": "martine lilika",
+  "uid": 3544632,
+  "center": {
+    "lat": 10.6408401,
+    "lon": 14.4133563
+  },
+  "nodes": [
+    3785164042,
+    3785164050,
+    3785162543,
+    3785162536,
+    3785164042
+  ],
+  "tags": {
+    "amenity": "university",
+    "landuse": "construction",
+    "name": "Université de Maroua campus de Kongola"
+  }
+}
+
+  ]
+}

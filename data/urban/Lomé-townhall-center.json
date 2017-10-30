@@ -1,0 +1,706 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:44:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2435398462,
+  "lat": 6.2239604,
+  "lon": 1.2101698,
+  "timestamp": "2014-09-16T11:56:15Z",
+  "version": 2,
+  "changeset": 25477376,
+  "user": "löcknitzpaddler",
+  "uid": 65334,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Médico-Social d'Agoè-Nyivé",
+    "source": "bing; survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2594350812,
+  "lat": 6.1299782,
+  "lon": 1.2386019,
+  "timestamp": "2016-12-06T18:24:38Z",
+  "version": 2,
+  "changeset": 44216260,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Orl Aziable"
+  }
+},
+{
+  "type": "node",
+  "id": 2642979522,
+  "lat": 6.1204623,
+  "lon": 1.2064404,
+  "timestamp": "2014-01-30T01:31:29Z",
+  "version": 1,
+  "changeset": 20276023,
+  "user": "AKE Amazan",
+  "uid": 1586794,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre medico-social de secours Christ Roi",
+    "short_name": "CMS Christ Roi"
+  }
+},
+{
+  "type": "node",
+  "id": 3022452153,
+  "lat": 6.1168602,
+  "lon": 1.2059168,
+  "timestamp": "2014-08-17T14:43:58Z",
+  "version": 1,
+  "changeset": 24809420,
+  "user": "Aimé BOUKPESSI",
+  "uid": 1995994,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de santé de Kodjoviakopé"
+  }
+},
+{
+  "type": "node",
+  "id": 3132004330,
+  "lat": 6.1701028,
+  "lon": 1.3255964,
+  "timestamp": "2014-10-15T20:06:32Z",
+  "version": 1,
+  "changeset": 26103998,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS Baguida",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3834209789,
+  "lat": 6.2417851,
+  "lon": 1.1936015,
+  "timestamp": "2015-11-13T13:15:49Z",
+  "version": 1,
+  "changeset": 35283815,
+  "user": "liye",
+  "uid": 3375850,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS centre medico-social"
+  }
+},
+{
+  "type": "node",
+  "id": 3834209794,
+  "lat": 6.2461951,
+  "lon": 1.1899013,
+  "timestamp": "2015-11-13T13:15:49Z",
+  "version": 1,
+  "changeset": 35283815,
+  "user": "liye",
+  "uid": 3375850,
+  "tags": {
+    "amenity": "hospital",
+    "name": "hôpitale du CAMP FIR"
+  }
+},
+{
+  "type": "node",
+  "id": 3859947896,
+  "lat": 6.1570725,
+  "lon": 1.2184040,
+  "timestamp": "2015-11-26T02:23:01Z",
+  "version": 1,
+  "changeset": 35583751,
+  "user": "AKE Amazan",
+  "uid": 1586794,
+  "tags": {
+    "amenity": "hospital",
+    "name": "cabinet médical st  Kisito"
+  }
+},
+{
+  "type": "node",
+  "id": 3935749397,
+  "lat": 6.1407720,
+  "lon": 1.2463902,
+  "timestamp": "2016-10-21T15:02:25Z",
+  "version": 3,
+  "changeset": 43061703,
+  "user": "Verdy_p",
+  "uid": 90780,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Bè"
+  }
+},
+{
+  "type": "node",
+  "id": 4032771690,
+  "lat": 6.1988280,
+  "lon": 1.1792675,
+  "timestamp": "2016-02-29T12:00:31Z",
+  "version": 1,
+  "changeset": 37520065,
+  "user": "Guy Maurel KONAN",
+  "uid": 1703949,
+  "tags": {
+    "amenity": "hospital",
+    "description": "Centre médico social",
+    "name": "CMS"
+  }
+},
+{
+  "type": "node",
+  "id": 4061918874,
+  "lat": 6.1520226,
+  "lon": 1.2606498,
+  "timestamp": "2016-03-15T16:32:14Z",
+  "version": 1,
+  "changeset": 37847973,
+  "user": "Guy Maurel KONAN",
+  "uid": 1703949,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Cabinet médicala la grâce"
+  }
+},
+{
+  "type": "node",
+  "id": 4108204916,
+  "lat": 6.1937460,
+  "lon": 1.1773818,
+  "timestamp": "2016-07-29T19:03:04Z",
+  "version": 2,
+  "changeset": 41116044,
+  "user": "Nyatefe",
+  "uid": 4021113,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medico-Chirurgical SOURCE DE VIE",
+    "phone": "23361916"
+  }
+},
+{
+  "type": "node",
+  "id": 4278125895,
+  "lat": 6.1793653,
+  "lon": 1.2125318,
+  "timestamp": "2017-01-20T16:42:35Z",
+  "version": 3,
+  "changeset": 45331149,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU du Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4278139593,
+  "lat": 6.1493123,
+  "lon": 1.2323449,
+  "timestamp": "2016-07-02T11:46:26Z",
+  "version": 1,
+  "changeset": 40438650,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "hospital",
+    "name": "centre médico social"
+  }
+},
+{
+  "type": "node",
+  "id": 4278153195,
+  "lat": 6.1927209,
+  "lon": 1.2081520,
+  "timestamp": "2016-10-10T21:09:48Z",
+  "version": 2,
+  "changeset": 42787575,
+  "user": "Verdy_p",
+  "uid": 90780,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique de gastro entérologie"
+  }
+},
+{
+  "type": "node",
+  "id": 4278275881,
+  "lat": 6.1402281,
+  "lon": 1.2297878,
+  "timestamp": "2016-07-02T13:08:38Z",
+  "version": 1,
+  "changeset": 40440004,
+  "user": "AGBOLI Komla",
+  "uid": 3815281,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS Amoutive"
+  }
+},
+{
+  "type": "node",
+  "id": 4328284004,
+  "lat": 6.1408165,
+  "lon": 1.2441149,
+  "timestamp": "2016-12-06T18:24:35Z",
+  "version": 2,
+  "changeset": 44216260,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Autel D'elie"
+  }
+},
+{
+  "type": "node",
+  "id": 4351625229,
+  "lat": 6.1335117,
+  "lon": 1.2140953,
+  "timestamp": "2016-08-15T19:33:30Z",
+  "version": 1,
+  "changeset": 41474799,
+  "user": "AKE Amazan",
+  "uid": 1586794,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique des Cocotiers"
+  }
+},
+{
+  "type": "node",
+  "id": 4445618642,
+  "lat": 6.1884066,
+  "lon": 1.1621949,
+  "timestamp": "2016-10-13T11:16:44Z",
+  "version": 1,
+  "changeset": 42859288,
+  "user": "cindy_l",
+  "uid": 4679269,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Bien-Être"
+  }
+},
+{
+  "type": "node",
+  "id": 4526659290,
+  "lat": 6.1844570,
+  "lon": 1.1988935,
+  "timestamp": "2016-11-28T17:20:21Z",
+  "version": 1,
+  "changeset": 44012495,
+  "user": "Nyatefe",
+  "uid": 4021113,
+  "tags": {
+    "amenity": "hospital",
+    "name": "CLINIQUE MERE ET ENFANT",
+    "name:fr": "CLINIQUE MERE ET ENFANT"
+  }
+},
+{
+  "type": "node",
+  "id": 4550979289,
+  "lat": 6.1849496,
+  "lon": 1.1954371,
+  "timestamp": "2016-12-12T14:12:57Z",
+  "version": 1,
+  "changeset": 44346983,
+  "user": "SANTONYODEGUIDI2",
+  "uid": 4856346,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4582705789,
+  "lat": 6.1741816,
+  "lon": 1.2409883,
+  "timestamp": "2016-12-31T13:45:50Z",
+  "version": 1,
+  "changeset": 44806687,
+  "user": "Moritz Pe",
+  "uid": 5055159,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique Saint Joseph",
+    "name:fr": "Polyclinique Saint Joseph"
+  }
+},
+{
+  "type": "way",
+  "id": 247289779,
+  "timestamp": "2013-11-20T19:33:40Z",
+  "version": 1,
+  "changeset": 19021516,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 6.0972489,
+    "lon": 1.1428712
+  },
+  "nodes": [
+    2542017531,
+    2542017532,
+    2542017533,
+    2542017534,
+    2542017531
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Sape Agbo Memorial Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 247117144,
+  "timestamp": "2016-10-12T05:51:03Z",
+  "version": 5,
+  "changeset": 42821280,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 6.1092765,
+    "lon": 1.1598332
+  },
+  "nodes": [
+    2540556611,
+    2540556613,
+    2540556614,
+    2540556615,
+    2540556617,
+    2540556618,
+    2540556619,
+    2540556621,
+    2540556622,
+    2540556623,
+    2540556611
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in:": "Viepe, Volta Region, Ghana",
+    "name": "New Hope Clinic"
+  }
+},
+{
+  "type": "way",
+  "id": 268779320,
+  "timestamp": "2014-03-24T23:57:32Z",
+  "version": 1,
+  "changeset": 21296476,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 6.1152168,
+    "lon": 1.1689449
+  },
+  "nodes": [
+    2741046573,
+    2741046576,
+    2741046578,
+    2741046581,
+    2741046583,
+    2741046585,
+    2741046587,
+    2741046589,
+    2741046573
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Central Aflao Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 247224773,
+  "timestamp": "2015-01-04T08:02:11Z",
+  "version": 6,
+  "changeset": 27903919,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 6.1172968,
+    "lon": 1.1800364
+  },
+  "nodes": [
+    2541501497,
+    2541501500,
+    2541501512,
+    2541501514,
+    2896329521,
+    2541501515,
+    2541501517,
+    2896308168,
+    2896308171,
+    2896308177,
+    2896308176,
+    2541501497
+  ],
+  "tags": {
+    "addr:street": "Linus Koffie Road",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Ketu South District Hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 49697541,
+  "timestamp": "2015-11-08T08:36:40Z",
+  "version": 7,
+  "changeset": 35163835,
+  "user": "sev_osm",
+  "uid": 219668,
+  "center": {
+    "lat": 6.1451398,
+    "lon": 1.2069979
+  },
+  "nodes": [
+    3496907298,
+    631729140,
+    2377813146,
+    631729158,
+    631729148,
+    3496907298
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "health_facility:type": "hospital",
+    "name": "Centre Hospitalier Sylvanus Olympio",
+    "operator:type": "public",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 379735527,
+  "timestamp": "2015-11-11T13:13:32Z",
+  "version": 2,
+  "changeset": 35239414,
+  "user": "djoumbata",
+  "uid": 1995876,
+  "center": {
+    "lat": 6.1594722,
+    "lon": 1.2176655
+  },
+  "nodes": [
+    3830642405,
+    3830646686,
+    3469487779,
+    3469487773,
+    3830642404,
+    3210773542,
+    3210773543,
+    3830642410,
+    3830642409,
+    3830642408,
+    3830642407,
+    3830642406,
+    3830642405
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CNTS"
+  }
+},
+{
+  "type": "way",
+  "id": 314994541,
+  "timestamp": "2017-01-24T15:50:25Z",
+  "version": 6,
+  "changeset": 45436940,
+  "user": "Verdy_p",
+  "uid": 90780,
+  "center": {
+    "lat": 6.1600473,
+    "lon": 1.2176780
+  },
+  "nodes": [
+    3210773548,
+    3830642373,
+    3210773543,
+    3210773542,
+    3243845372,
+    3210773547,
+    3210773548
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "CMS Doumassesse"
+  }
+},
+{
+  "type": "way",
+  "id": 352969032,
+  "timestamp": "2015-06-27T15:46:10Z",
+  "version": 2,
+  "changeset": 32245437,
+  "user": "Amen ABBEY MATHEY",
+  "uid": 2245273,
+  "center": {
+    "lat": 6.1662233,
+    "lon": 1.2072875
+  },
+  "nodes": [
+    3587541277,
+    3587512823,
+    3587512824,
+    3587512825,
+    3587541278,
+    3587541279,
+    3587541280,
+    3587541281,
+    3587541282,
+    3587541277
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS ATIKOUME"
+  }
+},
+{
+  "type": "way",
+  "id": 228164855,
+  "timestamp": "2015-11-14T17:57:47Z",
+  "version": 4,
+  "changeset": 35312809,
+  "user": "jeanmariemancabou",
+  "uid": 1072176,
+  "center": {
+    "lat": 6.1918095,
+    "lon": 1.2360554
+  },
+  "nodes": [
+    2368003761,
+    2368003837,
+    2368003814,
+    3836113981,
+    2368003752,
+    2368003761
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "fence",
+    "name": "Hopital Bon Sécours de Kegué",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 235999901,
+  "timestamp": "2014-04-24T15:37:59Z",
+  "version": 3,
+  "changeset": 21910739,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.2066542,
+    "lon": 1.1959267
+  },
+  "nodes": [
+    2813477333,
+    2813477329,
+    2813477324,
+    2813477320,
+    2813477317,
+    2440739640,
+    2440739639,
+    2440739638,
+    2440739635,
+    2813477203,
+    2813477201,
+    2813472799,
+    2440739634,
+    2813477331,
+    2813477333
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CMS Cacaveli",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 480952907,
+  "timestamp": "2017-03-17T00:34:53Z",
+  "version": 2,
+  "changeset": 46914244,
+  "user": "ANVIC",
+  "uid": 5414731,
+  "center": {
+    "lat": 6.2093712,
+    "lon": 1.2414563
+  },
+  "nodes": [
+    4739028921,
+    4739028922,
+    4739028923,
+    4739028924,
+    4739028921
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "PHARMACIE KEGUE"
+  }
+},
+{
+  "type": "relation",
+  "id": 4074578,
+  "timestamp": "2017-03-21T18:06:09Z",
+  "version": 2,
+  "changeset": 47047148,
+  "user": "sebastic",
+  "uid": 665748,
+  "center": {
+    "lat": 6.1460654,
+    "lon": 1.2084362
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 305533857,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 305533850,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 305533852,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "CHU Tokoin",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

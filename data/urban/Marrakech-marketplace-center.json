@@ -1,0 +1,369 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1944416462,
+  "lat": 31.5163018,
+  "lon": -7.8482067,
+  "timestamp": "2012-10-03T14:39:20Z",
+  "version": 1,
+  "changeset": 13348413,
+  "user": "cybersg",
+  "uid": 616845,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Super Marché"
+  }
+},
+{
+  "type": "node",
+  "id": 2197688035,
+  "lat": 31.6401529,
+  "lon": -7.9839486,
+  "timestamp": "2013-03-12T14:12:32Z",
+  "version": 1,
+  "changeset": 15340512,
+  "user": "Heinz",
+  "uid": 37693,
+  "tags": {
+    "amenity": "marketplace",
+    "note": "sieht aus wie Flohmarkt, jeder verkauft alles"
+  }
+},
+{
+  "type": "node",
+  "id": 2331294201,
+  "lat": 31.6251809,
+  "lon": -7.9732602,
+  "timestamp": "2016-03-29T17:05:07Z",
+  "version": 3,
+  "changeset": 38147921,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souika Boussekri"
+  }
+},
+{
+  "type": "node",
+  "id": 2343309240,
+  "lat": 31.6256804,
+  "lon": -7.9876500,
+  "timestamp": "2013-06-13T13:43:43Z",
+  "version": 1,
+  "changeset": 16537557,
+  "user": "MARKORAK",
+  "uid": 1543700,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3314159678,
+  "lat": 31.6317240,
+  "lon": -8.0092494,
+  "timestamp": "2015-01-27T11:10:04Z",
+  "version": 1,
+  "changeset": 28439684,
+  "user": "ecatmur",
+  "uid": 352985,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3370583723,
+  "lat": 31.6289761,
+  "lon": -7.9872974,
+  "timestamp": "2015-02-24T17:45:37Z",
+  "version": 1,
+  "changeset": 29072856,
+  "user": "Niels Elgaard Larsen",
+  "uid": 1288,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk el Maasi"
+  }
+},
+{
+  "type": "node",
+  "id": 3370584841,
+  "lat": 31.6294598,
+  "lon": -7.9873271,
+  "timestamp": "2017-03-02T19:35:34Z",
+  "version": 2,
+  "changeset": 46531153,
+  "user": "Matthieu Gaudé",
+  "uid": 538381,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "leather",
+    "name:fr": "Souk des maroquiniers"
+  }
+},
+{
+  "type": "node",
+  "id": 3370584893,
+  "lat": 31.6270836,
+  "lon": -7.9867229,
+  "timestamp": "2015-02-24T17:45:38Z",
+  "version": 1,
+  "changeset": 29072856,
+  "user": "Niels Elgaard Larsen",
+  "uid": 1288,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souq El Kessabine"
+  }
+},
+{
+  "type": "node",
+  "id": 3593980446,
+  "lat": 31.6193869,
+  "lon": -7.9801803,
+  "timestamp": "2015-06-14T07:59:57Z",
+  "version": 1,
+  "changeset": 31956955,
+  "user": "Hernán Maglione",
+  "uid": 652752,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Miâara"
+  }
+},
+{
+  "type": "node",
+  "id": 4011733182,
+  "lat": 31.6302220,
+  "lon": -7.9859931,
+  "timestamp": "2017-03-02T19:35:38Z",
+  "version": 2,
+  "changeset": 46531153,
+  "user": "Matthieu Gaudé",
+  "uid": 538381,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fruit and Veg",
+    "name:fr": "Marché légumes et fruits"
+  }
+},
+{
+  "type": "node",
+  "id": 4622328497,
+  "lat": 31.6279021,
+  "lon": -7.9824414,
+  "timestamp": "2017-01-28T20:19:37Z",
+  "version": 2,
+  "changeset": 45602522,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "note": "Cheap Stuff"
+  }
+},
+{
+  "type": "node",
+  "id": 4622328500,
+  "lat": 31.6303498,
+  "lon": -7.9895542,
+  "timestamp": "2017-01-28T20:24:19Z",
+  "version": 2,
+  "changeset": 45602522,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "note": "Earrings"
+  }
+},
+{
+  "type": "way",
+  "id": 220480617,
+  "timestamp": "2014-08-11T04:59:16Z",
+  "version": 2,
+  "changeset": 24669421,
+  "user": "Ludovic Drouard",
+  "uid": 1151930,
+  "center": {
+    "lat": 31.6261781,
+    "lon": -7.9892996
+  },
+  "nodes": [
+    2295927453,
+    2295927462,
+    2295927456,
+    2295927461,
+    3009804805,
+    2295927453
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 428946069,
+  "timestamp": "2016-07-03T17:00:59Z",
+  "version": 1,
+  "changeset": 40462296,
+  "user": "siaud xavier",
+  "uid": 189397,
+  "center": {
+    "lat": 31.6264771,
+    "lon": -7.9895328
+  },
+  "nodes": [
+    4280679293,
+    4280679294,
+    4280679295,
+    4280679304,
+    4280679296,
+    4280679297,
+    4280679298,
+    4280679299,
+    4280679300,
+    4280679301,
+    4280679302,
+    4280679303,
+    4280679293
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "marché aux plantes"
+  }
+},
+{
+  "type": "way",
+  "id": 220480616,
+  "timestamp": "2013-05-08T14:13:39Z",
+  "version": 1,
+  "changeset": 16030441,
+  "user": "ajk",
+  "uid": 227502,
+  "center": {
+    "lat": 31.6258126,
+    "lon": -7.9883017
+  },
+  "nodes": [
+    2295927458,
+    2295927455,
+    2295927452,
+    2295927459,
+    2295927458
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 302781460,
+  "timestamp": "2014-09-10T18:23:42Z",
+  "version": 1,
+  "changeset": 25353571,
+  "user": "abarom",
+  "uid": 2325531,
+  "center": {
+    "lat": 31.6785659,
+    "lon": -8.0327989
+  },
+  "nodes": [
+    3070603792,
+    3070603793,
+    3070603794,
+    3070603795,
+    3070603792
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de gros aux légumes et fruits de Marrakech"
+  }
+},
+{
+  "type": "way",
+  "id": 369523444,
+  "timestamp": "2015-09-07T12:15:31Z",
+  "version": 1,
+  "changeset": 33854894,
+  "user": "Eebie",
+  "uid": 715684,
+  "center": {
+    "lat": 31.6336467,
+    "lon": -8.0065815
+  },
+  "nodes": [
+    3733041906,
+    3733041907,
+    1968511041,
+    1968511043,
+    1968511021,
+    1968511020,
+    1968511019,
+    1968511016,
+    1968511017,
+    1968511014,
+    1968511013,
+    1968511011,
+    1968511012,
+    1968511008,
+    1968511005,
+    3569880511,
+    1968510984,
+    1968510981,
+    1968510990,
+    1968510988,
+    1968510992,
+    1968510991,
+    1968510993,
+    1968510996,
+    1968511042,
+    3733041905,
+    1968511045,
+    3733041906
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Marche Central"
+  }
+},
+{
+  "type": "way",
+  "id": 388308627,
+  "timestamp": "2015-12-30T11:53:12Z",
+  "version": 2,
+  "changeset": 36259530,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 31.6080861,
+    "lon": -7.9636385
+  },
+  "nodes": [
+    3915199999,
+    3915200000,
+    3915200001,
+    3915200002,
+    3915199999
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2424534548,
+  "lat": 34.0001732,
+  "lon": -6.8464428,
+  "timestamp": "2013-08-19T18:22:44Z",
+  "version": 1,
+  "changeset": 17415277,
+  "user": "Veomap",
+  "uid": 1711238,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2429247936,
+  "lat": 33.9946750,
+  "lon": -6.8468830,
+  "timestamp": "2013-08-23T14:58:19Z",
+  "version": 1,
+  "changeset": 17470848,
+  "user": "Veomap",
+  "uid": 1711238,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4743522441,
+  "lat": 33.9767975,
+  "lon": -6.8850031,
+  "timestamp": "2017-03-19T17:48:20Z",
+  "version": 1,
+  "changeset": 46989001,
+  "user": "Salahz",
+  "uid": 5414712,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché G5"
+  }
+},
+{
+  "type": "way",
+  "id": 302803613,
+  "timestamp": "2014-09-10T20:50:45Z",
+  "version": 1,
+  "changeset": 25356443,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 33.8582667,
+    "lon": -6.9315147
+  },
+  "nodes": [
+    3070859947,
+    3070859935,
+    3070857508,
+    3070857513,
+    3070857527,
+    2574877553,
+    2574878276,
+    2574878899,
+    3070859951,
+    3070859937,
+    3070859947
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 391694169,
+  "timestamp": "2016-01-16T03:41:30Z",
+  "version": 1,
+  "changeset": 36607929,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 33.8984691,
+    "lon": -6.9510647
+  },
+  "nodes": [
+    3949373726,
+    3949373989,
+    3949373977,
+    3949373739,
+    3949373690,
+    3949373666,
+    3949373714,
+    3949373749,
+    3949373726
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 449346484,
+  "timestamp": "2016-11-09T08:35:01Z",
+  "version": 2,
+  "changeset": 43506857,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.0059748,
+    "lon": -6.8671423
+  },
+  "nodes": [
+    4463158224,
+    4463158225,
+    4463158226,
+    4463158227,
+    4463158224
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Yacoub Al Mansour"
+  }
+},
+{
+  "type": "way",
+  "id": 306553474,
+  "timestamp": "2014-10-06T17:30:24Z",
+  "version": 2,
+  "changeset": 25901727,
+  "user": "Reekos",
+  "uid": 2381231,
+  "center": {
+    "lat": 34.0537937,
+    "lon": -6.8195463
+  },
+  "nodes": [
+    3115092520,
+    3115092519,
+    3115092521,
+    3115092522,
+    3115092520
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché sidi moussa"
+  }
+},
+{
+  "type": "way",
+  "id": 304071559,
+  "timestamp": "2014-09-19T10:23:03Z",
+  "version": 2,
+  "changeset": 25538702,
+  "user": "EL MOUTCHOU Amine",
+  "uid": 2346302,
+  "center": {
+    "lat": 33.9974342,
+    "lon": -6.8152412
+  },
+  "nodes": [
+    3085911460,
+    3085911461,
+    3085911462,
+    3085911463,
+    3085911460
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché youssoufia"
+  }
+},
+{
+  "type": "way",
+  "id": 250617826,
+  "timestamp": "2013-12-07T19:19:51Z",
+  "version": 1,
+  "changeset": 19328073,
+  "user": "ennabbadi reda",
+  "uid": 1644161,
+  "center": {
+    "lat": 34.0133479,
+    "lon": -6.7638059
+  },
+  "nodes": [
+    1961233800,
+    1961231637,
+    1961234041,
+    1961232484,
+    1961233800
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Nouveau Marché d'El Karia"
+  }
+},
+{
+  "type": "way",
+  "id": 250351574,
+  "timestamp": "2013-12-06T16:11:06Z",
+  "version": 1,
+  "changeset": 19308602,
+  "user": "ennabbadi reda",
+  "uid": 1644161,
+  "center": {
+    "lat": 34.0212811,
+    "lon": -6.7664433
+  },
+  "nodes": [
+    2568202272,
+    2568202273,
+    2568202274,
+    2568202275,
+    2568202276,
+    2568202277,
+    2568202279,
+    2568202280,
+    2568202281,
+    2568202282,
+    2568202272
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché d'El Karia"
+  }
+},
+{
+  "type": "way",
+  "id": 150302956,
+  "timestamp": "2012-02-14T08:23:53Z",
+  "version": 1,
+  "changeset": 10680572,
+  "user": "BELATAR",
+  "uid": 498538,
+  "center": {
+    "lat": 33.9994113,
+    "lon": -6.7449392
+  },
+  "nodes": [
+    1632358524,
+    1632358564,
+    1632358528,
+    1632358534,
+    1632358561,
+    1632358575,
+    1632358558,
+    1632358521,
+    1632358524
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Central"
+  }
+},
+{
+  "type": "way",
+  "id": 201875009,
+  "timestamp": "2013-01-19T09:43:03Z",
+  "version": 1,
+  "changeset": 14705106,
+  "user": "BELATAR",
+  "uid": 498538,
+  "center": {
+    "lat": 34.0620062,
+    "lon": -6.7983816
+  },
+  "nodes": [
+    2118922818,
+    2118922819,
+    2118922817,
+    2118922816,
+    2118922818
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de légumes au gros"
+  }
+},
+{
+  "type": "way",
+  "id": 291688668,
+  "timestamp": "2016-01-18T19:18:01Z",
+  "version": 4,
+  "changeset": 36662257,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.0651624,
+    "lon": -6.7725846
+  },
+  "nodes": [
+    2951577488,
+    2951577489,
+    2951577490,
+    3027349854,
+    2951577488
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché désorganisé سوق غير منظم",
+    "name:ar": "سوق غير منظم",
+    "name:fr": "Marché désorganisé"
+  }
+}
+
+  ]
+}

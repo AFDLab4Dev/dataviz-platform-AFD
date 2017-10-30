@@ -1,0 +1,280 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/150302956",
+  "properties": {
+    "timestamp": "2012-02-14T08:23:53Z",
+    "version": 1,
+    "changeset": 10680572,
+    "user": "BELATAR",
+    "uid": 498538,
+    "amenity": "marketplace",
+    "name": "Marché Central",
+    "id": "way/150302956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7449392,
+      33.9994113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/201875009",
+  "properties": {
+    "timestamp": "2013-01-19T09:43:03Z",
+    "version": 1,
+    "changeset": 14705106,
+    "user": "BELATAR",
+    "uid": 498538,
+    "amenity": "marketplace",
+    "name": "Marché de légumes au gros",
+    "id": "way/201875009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7983816,
+      34.0620062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250351574",
+  "properties": {
+    "timestamp": "2013-12-06T16:11:06Z",
+    "version": 1,
+    "changeset": 19308602,
+    "user": "ennabbadi reda",
+    "uid": 1644161,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché d'El Karia",
+    "id": "way/250351574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7664433,
+      34.0212811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/250617826",
+  "properties": {
+    "timestamp": "2013-12-07T19:19:51Z",
+    "version": 1,
+    "changeset": 19328073,
+    "user": "ennabbadi reda",
+    "uid": 1644161,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Nouveau Marché d'El Karia",
+    "id": "way/250617826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7638059,
+      34.0133479
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/291688668",
+  "properties": {
+    "timestamp": "2016-01-18T19:18:01Z",
+    "version": 4,
+    "changeset": 36662257,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "Marché désorganisé سوق غير منظم",
+    "name:ar": "سوق غير منظم",
+    "name:fr": "Marché désorganisé",
+    "id": "way/291688668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.7725846,
+      34.0651624
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302803613",
+  "properties": {
+    "timestamp": "2014-09-10T20:50:45Z",
+    "version": 1,
+    "changeset": 25356443,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "marketplace",
+    "id": "way/302803613"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9315147,
+      33.8582667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/304071559",
+  "properties": {
+    "timestamp": "2014-09-19T10:23:03Z",
+    "version": 2,
+    "changeset": 25538702,
+    "user": "EL MOUTCHOU Amine",
+    "uid": 2346302,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché youssoufia",
+    "id": "way/304071559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8152412,
+      33.9974342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306553474",
+  "properties": {
+    "timestamp": "2014-10-06T17:30:24Z",
+    "version": 2,
+    "changeset": 25901727,
+    "user": "Reekos",
+    "uid": 2381231,
+    "amenity": "marketplace",
+    "name": "Marché sidi moussa",
+    "id": "way/306553474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8195463,
+      34.0537937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/391694169",
+  "properties": {
+    "timestamp": "2016-01-16T03:41:30Z",
+    "version": 1,
+    "changeset": 36607929,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "marketplace",
+    "id": "way/391694169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9510647,
+      33.8984691
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449346484",
+  "properties": {
+    "timestamp": "2016-11-09T08:35:01Z",
+    "version": 2,
+    "changeset": 43506857,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Yacoub Al Mansour",
+    "id": "way/449346484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8671423,
+      34.0059748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2424534548",
+  "properties": {
+    "timestamp": "2013-08-19T18:22:44Z",
+    "version": 1,
+    "changeset": 17415277,
+    "user": "Veomap",
+    "uid": 1711238,
+    "amenity": "marketplace",
+    "id": "node/2424534548"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8464428,
+      34.0001732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2429247936",
+  "properties": {
+    "timestamp": "2013-08-23T14:58:19Z",
+    "version": 1,
+    "changeset": 17470848,
+    "user": "Veomap",
+    "uid": 1711238,
+    "amenity": "marketplace",
+    "id": "node/2429247936"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.846883,
+      33.994675
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4743522441",
+  "properties": {
+    "timestamp": "2017-03-19T17:48:20Z",
+    "version": 1,
+    "changeset": 46989001,
+    "user": "Salahz",
+    "uid": 5414712,
+    "amenity": "marketplace",
+    "name": "Marché G5",
+    "id": "node/4743522441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.8850031,
+      33.9767975
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,243 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3740757154,
+  "lat": 32.2615929,
+  "lon": -9.2491529,
+  "timestamp": "2016-09-14T07:40:52Z",
+  "version": 2,
+  "changeset": 42142723,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "koliaa"
+  }
+},
+{
+  "type": "way",
+  "id": 123361846,
+  "timestamp": "2011-07-27T15:58:21Z",
+  "version": 1,
+  "changeset": 8845627,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2664339,
+    "lon": -9.2350710
+  },
+  "nodes": [
+    1375976157,
+    1375976162,
+    1375976166,
+    1375976168,
+    1375976157
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستشفى المطار"
+  }
+},
+{
+  "type": "way",
+  "id": 119922893,
+  "timestamp": "2011-07-25T16:04:30Z",
+  "version": 2,
+  "changeset": 8827482,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2878762,
+    "lon": -9.2374938
+  },
+  "nodes": [
+    1345863066,
+    1345863065,
+    1345863054,
+    1345863055,
+    1345863052,
+    1345863066
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستشفى محمد الخامس"
+  }
+},
+{
+  "type": "way",
+  "id": 122269829,
+  "timestamp": "2011-07-19T16:43:51Z",
+  "version": 1,
+  "changeset": 8769374,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2925375,
+    "lon": -9.2302002
+  },
+  "nodes": [
+    1366796906,
+    1366796877,
+    1366796866,
+    1366796855,
+    1366796906
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "ocp"
+  }
+},
+{
+  "type": "way",
+  "id": 122269828,
+  "timestamp": "2011-07-19T16:43:51Z",
+  "version": 1,
+  "changeset": 8769374,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2916669,
+    "lon": -9.2338541
+  },
+  "nodes": [
+    1366796911,
+    1366796908,
+    1366796865,
+    1366796890,
+    1366796911
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "abda"
+  }
+},
+{
+  "type": "way",
+  "id": 121105742,
+  "timestamp": "2011-07-26T15:21:46Z",
+  "version": 2,
+  "changeset": 8836364,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.3069702,
+    "lon": -9.2341806
+  },
+  "nodes": [
+    1356479117,
+    1356479072,
+    1356479170,
+    1356479120,
+    1356479117
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستشفى بياضة"
+  }
+},
+{
+  "type": "way",
+  "id": 122461741,
+  "timestamp": "2011-07-20T21:53:35Z",
+  "version": 1,
+  "changeset": 8783086,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2845726,
+    "lon": -9.2219147
+  },
+  "nodes": [
+    1368382027,
+    1368382029,
+    1368382045,
+    1368382041,
+    1368382027
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "jrayefate"
+  }
+},
+{
+  "type": "way",
+  "id": 122272775,
+  "timestamp": "2016-02-16T15:20:20Z",
+  "version": 3,
+  "changeset": 37247905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2882975,
+    "lon": -9.2186426
+  },
+  "nodes": [
+    1366821375,
+    1366821406,
+    1366821373,
+    1366821397,
+    1366821375
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre De Sante Sfa (Safi"
+  }
+},
+{
+  "type": "way",
+  "id": 121113161,
+  "timestamp": "2011-07-10T14:27:51Z",
+  "version": 1,
+  "changeset": 8683283,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.2941381,
+    "lon": -9.2197708
+  },
+  "nodes": [
+    1356587989,
+    1356587970,
+    1356588086,
+    1356588072,
+    1356587989
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 119921404,
+  "timestamp": "2011-07-25T16:04:31Z",
+  "version": 3,
+  "changeset": 8827482,
+  "user": "boussenta",
+  "uid": 477013,
+  "center": {
+    "lat": 32.3130978,
+    "lon": -9.2280441
+  },
+  "nodes": [
+    1345857580,
+    1345857581,
+    1345857568,
+    1345857578,
+    1345857580
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "مستشفى سيدي عبد الكريم"
+  }
+}
+
+  ]
+}

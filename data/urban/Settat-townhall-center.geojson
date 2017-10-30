@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/449104045",
+  "properties": {
+    "timestamp": "2016-10-25T12:50:28Z",
+    "version": 5,
+    "changeset": 43157270,
+    "user": "ZakariaMKL",
+    "uid": 3870359,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Palais Municipal de Settat",
+    "id": "way/449104045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.6193198,
+      33.000174
+    ]
+  }
+}
+]
+}

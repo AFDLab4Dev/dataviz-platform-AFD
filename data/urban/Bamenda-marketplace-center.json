@@ -1,0 +1,206 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 309167327,
+  "timestamp": "2016-11-20T21:01:20Z",
+  "version": 3,
+  "changeset": 43832223,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9982908,
+    "lon": 10.0139289
+  },
+  "nodes": [
+    3145006185,
+    3145006186,
+    3145006187,
+    3145006188,
+    3145006185
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Mbon Market",
+    "note": "Purchase meet, clothes, fruits, vegetables, and basic goods."
+  }
+},
+{
+  "type": "way",
+  "id": 453057875,
+  "timestamp": "2016-11-20T21:01:29Z",
+  "version": 2,
+  "changeset": 43832223,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.8393257,
+    "lon": 10.2521109
+  },
+  "nodes": [
+    4498616803,
+    4498616804,
+    4498616805,
+    4498616799,
+    4498616797,
+    4498616792,
+    4498616791,
+    4498616795,
+    4498616796,
+    4498616800,
+    4498616801,
+    4498616802,
+    4498616803
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Market"
+  }
+},
+{
+  "type": "way",
+  "id": 163214645,
+  "timestamp": "2017-03-16T13:37:01Z",
+  "version": 6,
+  "changeset": 46898537,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9538261,
+    "lon": 10.1509023
+  },
+  "nodes": [
+    1749635570,
+    2852529756,
+    1749635559,
+    1749635563,
+    4738085754,
+    4738085759,
+    4738085757,
+    4738085755,
+    1749635566,
+    1749635578,
+    4738072680,
+    1749635570
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bamenda City Main Market",
+    "name:fr": "Marché principal de Bamenda"
+  }
+},
+{
+  "type": "way",
+  "id": 403273772,
+  "timestamp": "2016-11-20T21:01:22Z",
+  "version": 3,
+  "changeset": 43832223,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9576644,
+    "lon": 10.1475504
+  },
+  "nodes": [
+    4056359840,
+    4056359841,
+    4056359842,
+    4056359843,
+    4056359844,
+    4056359845,
+    4056359846,
+    4056359847,
+    4056359848,
+    4056359849,
+    4056359850,
+    4056359851,
+    4056359852,
+    4056359853,
+    4056359854,
+    4056359855,
+    4056359856,
+    4056359857,
+    4056359858,
+    4056359859,
+    4056359860,
+    4056359840
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bamenda food market",
+    "name:fr": "Marché alimentaire de Bamenda"
+  }
+},
+{
+  "type": "way",
+  "id": 433088255,
+  "timestamp": "2016-11-20T21:01:23Z",
+  "version": 2,
+  "changeset": 43832223,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9928625,
+    "lon": 10.1843645
+  },
+  "nodes": [
+    4319924288,
+    4319924489,
+    4319924490,
+    4319924491,
+    4319924492,
+    4319924493,
+    4319924288
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Mile 4 market"
+  }
+},
+{
+  "type": "way",
+  "id": 454567852,
+  "timestamp": "2016-11-20T21:01:32Z",
+  "version": 2,
+  "changeset": 43832223,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 6.0872824,
+    "lon": 10.1176689
+  },
+  "nodes": [
+    4511152175,
+    4511152176,
+    4511152177,
+    4511152178,
+    4511152179,
+    4511152180,
+    4511152181,
+    4511152182,
+    4511152183,
+    4511152184,
+    4511152185,
+    4511152175
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Bafut Central Market"
+  }
+}
+
+  ]
+}

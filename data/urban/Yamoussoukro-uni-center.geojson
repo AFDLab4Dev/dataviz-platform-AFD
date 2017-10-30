@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/183319586",
+  "properties": {
+    "timestamp": "2012-09-28T15:04:53Z",
+    "version": 1,
+    "changeset": 13286064,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "university",
+    "name": "Institut national polytechnique Houphouët-Boigny",
+    "source": "Google, university official website",
+    "id": "way/183319586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2392289,
+      6.8674819
+    ]
+  }
+}
+]
+}

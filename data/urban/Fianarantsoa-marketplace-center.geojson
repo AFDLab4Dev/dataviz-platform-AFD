@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/363213576",
+  "properties": {
+    "timestamp": "2016-01-16T07:34:26Z",
+    "version": 8,
+    "changeset": 36609441,
+    "user": "@dolly",
+    "uid": 3107789,
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Lapan'ny Tanàna",
+    "office": "administrative",
+    "source": "Bing",
+    "id": "way/363213576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      47.0853234,
+      -21.4564667
+    ]
+  }
+}
+]
+}

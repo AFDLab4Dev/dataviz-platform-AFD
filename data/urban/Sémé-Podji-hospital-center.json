@@ -1,0 +1,321 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2619439185,
+  "lat": 6.5149012,
+  "lon": 2.6348347,
+  "timestamp": "2014-01-14T14:19:30Z",
+  "version": 2,
+  "changeset": 19991636,
+  "user": "slyon",
+  "uid": 54377,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Medico Social \"Salem\""
+  }
+},
+{
+  "type": "node",
+  "id": 2619439229,
+  "lat": 6.5085373,
+  "lon": 2.6304560,
+  "timestamp": "2014-01-12T09:08:51Z",
+  "version": 1,
+  "changeset": 19948594,
+  "user": "slyon",
+  "uid": 54377,
+  "tags": {
+    "amenity": "hospital",
+    "name": "St. Nom de Jesus"
+  }
+},
+{
+  "type": "node",
+  "id": 2619447817,
+  "lat": 6.4940863,
+  "lon": 2.6300123,
+  "timestamp": "2014-01-12T09:23:52Z",
+  "version": 1,
+  "changeset": 19948775,
+  "user": "slyon",
+  "uid": 54377,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Les Oliviers"
+  }
+},
+{
+  "type": "node",
+  "id": 3629965075,
+  "lat": 6.5112614,
+  "lon": 2.6239369,
+  "timestamp": "2016-02-19T18:56:02Z",
+  "version": 2,
+  "changeset": 37315190,
+  "user": "linda91",
+  "uid": 3642382,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Antonio"
+  }
+},
+{
+  "type": "node",
+  "id": 3995348459,
+  "lat": 6.5379257,
+  "lon": 2.7315600,
+  "timestamp": "2016-02-08T12:48:07Z",
+  "version": 1,
+  "changeset": 37078855,
+  "user": "okeimute",
+  "uid": 3536367,
+  "tags": {
+    "addr:street": "AVRANKOU",
+    "amenity": "hospital",
+    "name": "CLINIQUE LA PAIX"
+  }
+},
+{
+  "type": "node",
+  "id": 4113030008,
+  "lat": 6.4524724,
+  "lon": 2.5410730,
+  "timestamp": "2016-04-11T01:20:12Z",
+  "version": 1,
+  "changeset": 38463710,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "CENTRE MEDICO SOCIAL DE HOULAZOUME",
+    "operator": "CROIX ROUGE",
+    "operator:type": "ngo",
+    "source": "Bing;survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4167450224,
+  "lat": 6.4298099,
+  "lon": 2.6615525,
+  "timestamp": "2016-09-13T18:39:01Z",
+  "version": 2,
+  "changeset": 42133006,
+  "user": "IbnTēšfīn",
+  "uid": 4260390,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Maternité de Tohoué"
+  }
+},
+{
+  "type": "node",
+  "id": 4172329288,
+  "lat": 6.3819772,
+  "lon": 2.4629357,
+  "timestamp": "2016-05-08T00:59:24Z",
+  "version": 1,
+  "changeset": 39173478,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Zone de SURU LERE"
+  }
+},
+{
+  "type": "node",
+  "id": 4228082414,
+  "lat": 6.4741030,
+  "lon": 2.6131516,
+  "timestamp": "2016-09-08T10:44:21Z",
+  "version": 3,
+  "changeset": 42000731,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Hopitalier Universitaire Départemental de l'Ouémé-Plateau",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4228452693,
+  "lat": 6.3781288,
+  "lon": 2.4498446,
+  "timestamp": "2016-06-06T14:49:46Z",
+  "version": 1,
+  "changeset": 39840228,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Zone Ayélawadjè"
+  }
+},
+{
+  "type": "node",
+  "id": 4312742170,
+  "lat": 6.4982139,
+  "lon": 2.4575849,
+  "timestamp": "2016-07-20T12:44:14Z",
+  "version": 1,
+  "changeset": 40895418,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "addr:hamlet": "Houedo-Aguekon",
+    "amenity": "hospital",
+    "name": "Centre de santé de Houedo-Aguekon"
+  }
+},
+{
+  "type": "node",
+  "id": 4323401508,
+  "lat": 6.4547159,
+  "lon": 2.5440858,
+  "timestamp": "2016-07-27T15:13:04Z",
+  "version": 1,
+  "changeset": 41065021,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4405020928,
+  "lat": 6.4729714,
+  "lon": 2.6136117,
+  "timestamp": "2016-09-16T21:56:33Z",
+  "version": 1,
+  "changeset": 42215705,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Médécine Générale",
+    "operator": "CHUD-OP"
+  }
+},
+{
+  "type": "way",
+  "id": 376980825,
+  "timestamp": "2016-04-28T13:10:07Z",
+  "version": 5,
+  "changeset": 38950149,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "center": {
+    "lat": 6.3867284,
+    "lon": 2.5415107
+  },
+  "nodes": [
+    3803518641,
+    3887632593,
+    3887632584,
+    4153519689,
+    4153519690,
+    3803518642,
+    3887632410,
+    3803518633,
+    3807014719,
+    3887632415,
+    3803518635,
+    3803518639,
+    3949022316,
+    3803518636,
+    3803518641
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hopital de Zone d'EKPE",
+    "source": "bing",
+    "source:date": "12/16/2013"
+  }
+},
+{
+  "type": "way",
+  "id": 379586649,
+  "timestamp": "2016-11-10T09:43:15Z",
+  "version": 4,
+  "changeset": 43529491,
+  "user": "Marian_Hoi",
+  "uid": 4751876,
+  "center": {
+    "lat": 6.5178140,
+    "lon": 2.6022948
+  },
+  "nodes": [
+    3612819083,
+    3686719427,
+    3632036466,
+    3632036460,
+    3632036461,
+    3632036463,
+    3632036467,
+    3632036469,
+    3886294541,
+    3491813760,
+    4020131139,
+    4020131140,
+    3491816827,
+    3612819082,
+    3612819051,
+    3612854014,
+    3612819083
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Islamic Hospital",
+    "name:fr": "Hôpital Musulman"
+  }
+},
+{
+  "type": "way",
+  "id": 415781860,
+  "timestamp": "2016-09-13T18:39:02Z",
+  "version": 3,
+  "changeset": 42133006,
+  "user": "IbnTēšfīn",
+  "uid": 4260390,
+  "center": {
+    "lat": 6.4325059,
+    "lon": 2.6660667
+  },
+  "nodes": [
+    4167450230,
+    4167450232,
+    4167450233,
+    4167450236,
+    4167450239,
+    4167450238,
+    4167450234,
+    4167450231,
+    4167450229,
+    4167450230
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé de Tohoué"
+  }
+}
+
+  ]
+}

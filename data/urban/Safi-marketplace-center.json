@@ -1,0 +1,223 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3741478560,
+  "lat": 32.2646368,
+  "lon": -9.2460631,
+  "timestamp": "2015-09-13T16:23:19Z",
+  "version": 1,
+  "changeset": 34003365,
+  "user": "Ismail ABI",
+  "uid": 3233624,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "souk nsaa"
+  }
+},
+{
+  "type": "way",
+  "id": 370444546,
+  "timestamp": "2015-09-13T15:40:42Z",
+  "version": 1,
+  "changeset": 34002360,
+  "user": "Ismail ABI",
+  "uid": 3233624,
+  "center": {
+    "lat": 32.2616508,
+    "lon": -9.2496567
+  },
+  "nodes": [
+    3741438204,
+    3741438205,
+    3741438206,
+    3741438207,
+    3741438208,
+    3741438209,
+    3741438191,
+    3741438192,
+    3741438193,
+    3741438194,
+    3741438199,
+    3741438200,
+    3741438201,
+    3741438202,
+    3741438203,
+    3741438195,
+    3741438196,
+    3741438197,
+    3741438198,
+    3741438204
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 325190030,
+  "timestamp": "2015-01-29T11:36:27Z",
+  "version": 1,
+  "changeset": 28483795,
+  "user": "BADR OUAHBI",
+  "uid": 2295803,
+  "center": {
+    "lat": 32.2727735,
+    "lon": -9.2437129
+  },
+  "nodes": [
+    3318459094,
+    3318459073,
+    3318459139,
+    3318459083,
+    2983980044,
+    3318459094
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 431525020,
+  "timestamp": "2016-07-17T13:37:02Z",
+  "version": 1,
+  "changeset": 40798447,
+  "user": "Moums99",
+  "uid": 1685874,
+  "center": {
+    "lat": 32.2985510,
+    "lon": -9.2431551
+  },
+  "nodes": [
+    4307333800,
+    4307333801,
+    4307333802,
+    4307333803,
+    4307333804,
+    4307333805,
+    4307333806,
+    4307333800
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 128927957,
+  "timestamp": "2015-04-14T14:11:35Z",
+  "version": 5,
+  "changeset": 30213624,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2996012,
+    "lon": -9.2407470
+  },
+  "nodes": [
+    1423390753,
+    1423690683,
+    1423390758,
+    1423390754,
+    1931903352,
+    1423390756,
+    1423390753
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 128927960,
+  "timestamp": "2015-04-14T14:11:35Z",
+  "version": 5,
+  "changeset": 30213624,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 32.2998736,
+    "lon": -9.2405881
+  },
+  "nodes": [
+    1423390760,
+    1423390752,
+    1423390761,
+    1423390750,
+    1423390757,
+    1423390762,
+    1426314060,
+    1931903351,
+    1423390760
+  ],
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "way",
+  "id": 123770924,
+  "timestamp": "2013-11-25T21:34:29Z",
+  "version": 2,
+  "changeset": 19117638,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 32.4390297,
+    "lon": -9.1330841
+  },
+  "nodes": [
+    1379217922,
+    1379217955,
+    1379217930,
+    1379218044,
+    1379217992,
+    1379218007,
+    1379217982,
+    1379217964,
+    1379217922
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "سوق حد حرارة الأسبوعي"
+  }
+},
+{
+  "type": "way",
+  "id": 319549567,
+  "timestamp": "2014-12-30T12:19:53Z",
+  "version": 1,
+  "changeset": 27793423,
+  "user": "BADR OUAHBI",
+  "uid": 2295803,
+  "center": {
+    "lat": 32.4379208,
+    "lon": -9.1348407
+  },
+  "nodes": [
+    3259740445,
+    3259740390,
+    3259740436,
+    3259740442,
+    3259740370,
+    3259740438,
+    3259740445
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk Labhayem"
+  }
+}
+
+  ]
+}

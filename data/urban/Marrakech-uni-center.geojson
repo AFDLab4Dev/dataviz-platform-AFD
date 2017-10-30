@@ -1,0 +1,240 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/127127585",
+  "properties": {
+    "timestamp": "2011-08-22T01:37:49Z",
+    "version": 1,
+    "changeset": 9090274,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "Club Cadi Ayyad",
+    "id": "way/127127585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0029366,
+      31.665452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/127127590",
+  "properties": {
+    "timestamp": "2011-08-22T01:37:49Z",
+    "version": 1,
+    "changeset": 9090274,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "Faculté Des Sciences Économiques Et Juridiques",
+    "id": "way/127127590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9992828,
+      31.6643781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/127127593",
+  "properties": {
+    "timestamp": "2011-08-22T01:37:49Z",
+    "version": 1,
+    "changeset": 9090274,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "Faculté des Lettres Modernes",
+    "id": "way/127127593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9979353,
+      31.6668194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/127127607",
+  "properties": {
+    "timestamp": "2015-08-11T16:12:38Z",
+    "version": 3,
+    "changeset": 33271411,
+    "user": "forleaders",
+    "uid": 3141542,
+    "amenity": "university",
+    "name": "Ville universitaire",
+    "name:en": "University City",
+    "id": "way/127127607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0011211,
+      31.6658979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/127128015",
+  "properties": {
+    "timestamp": "2011-08-22T01:39:02Z",
+    "version": 1,
+    "changeset": 9090274,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "university",
+    "name": "École Superieur des Arts Visuels",
+    "id": "way/127128015"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0038438,
+      31.666541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299506190",
+  "properties": {
+    "timestamp": "2015-02-18T18:29:57Z",
+    "version": 2,
+    "changeset": 28939576,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "university",
+    "name": "Faculté des Sciences et Techniques (FSTG)",
+    "id": "way/299506190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0204106,
+      31.6437478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299506577",
+  "properties": {
+    "timestamp": "2015-10-07T10:47:25Z",
+    "version": 3,
+    "changeset": 34487713,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "university",
+    "name": "Faculté des Sciences Semlalia",
+    "id": "way/299506577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0157061,
+      31.64931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/314441224",
+  "properties": {
+    "timestamp": "2014-11-25T16:45:04Z",
+    "version": 1,
+    "changeset": 27025895,
+    "user": "bakinsey2",
+    "uid": 2484828,
+    "amenity": "university",
+    "name": "Sup de Co",
+    "id": "way/314441224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0183974,
+      31.6526774
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/328962592",
+  "properties": {
+    "timestamp": "2016-01-09T10:40:37Z",
+    "version": 2,
+    "changeset": 36460971,
+    "user": "seba85",
+    "uid": 607947,
+    "amenity": "university",
+    "name": "Faculté de Médecine et de Pharmacie",
+    "id": "way/328962592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0129361,
+      31.6421995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3204883361",
+  "properties": {
+    "timestamp": "2015-03-07T09:07:23Z",
+    "version": 4,
+    "changeset": 29304443,
+    "user": "ifahd",
+    "uid": 2738674,
+    "addr:city": "Marrakech",
+    "addr:postcode": "46060",
+    "amenity": "university",
+    "name": "Ecole Marocaine des Sciences de l'Ingénieur (EMSI)",
+    "id": "node/3204883361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.021339,
+      31.6533115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4251953337",
+  "properties": {
+    "timestamp": "2016-06-19T04:00:29Z",
+    "version": 2,
+    "changeset": 40127134,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Institut de Technologie Appliquée Azli",
+    "short_name": "ITA",
+    "id": "node/4251953337"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0510814,
+      31.6225861
+    ]
+  }
+}
+]
+}

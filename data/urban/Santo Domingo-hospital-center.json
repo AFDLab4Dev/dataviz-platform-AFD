@@ -1,0 +1,2848 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 521074680,
+  "lat": 18.4938258,
+  "lon": -69.8907733,
+  "timestamp": "2012-07-16T04:30:56Z",
+  "version": 3,
+  "changeset": 12239334,
+  "user": "jaakkoh",
+  "uid": 24440,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital Luis E. Aybar (Morgan)"
+  }
+},
+{
+  "type": "node",
+  "id": 928422913,
+  "lat": 18.4975240,
+  "lon": -69.9591132,
+  "timestamp": "2014-08-11T21:58:23Z",
+  "version": 4,
+  "changeset": 24689574,
+  "user": "Patrick D",
+  "uid": 593853,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Médico Vista del Jardín",
+    "source": "yahoo_wms"
+  }
+},
+{
+  "type": "node",
+  "id": 952402364,
+  "lat": 18.4539805,
+  "lon": -69.9285039,
+  "timestamp": "2012-07-17T19:07:04Z",
+  "version": 4,
+  "changeset": 12270747,
+  "user": "ALCE Samuel Paul",
+  "uid": 441065,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Sub Centro Medico de Mata Hambre"
+  }
+},
+{
+  "type": "node",
+  "id": 1381242021,
+  "lat": 18.4948482,
+  "lon": -69.9591325,
+  "timestamp": "2014-08-11T21:58:23Z",
+  "version": 4,
+  "changeset": 24689574,
+  "user": "Patrick D",
+  "uid": 593853,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Arpet Veterinaria",
+    "source": "Clinica Veterinaria"
+  }
+},
+{
+  "type": "node",
+  "id": 1664690055,
+  "lat": 18.4887541,
+  "lon": -69.9215767,
+  "timestamp": "2012-07-16T04:31:19Z",
+  "version": 4,
+  "changeset": 12239334,
+  "user": "jaakkoh",
+  "uid": 24440,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Plaza de la Salud"
+  }
+},
+{
+  "type": "node",
+  "id": 1868976926,
+  "lat": 18.4888229,
+  "lon": -69.9231724,
+  "timestamp": "2016-12-09T03:37:43Z",
+  "version": 2,
+  "changeset": 44272339,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "tags": {
+    "addr:street": "Calle Plaza de la Salud",
+    "amenity": "hospital",
+    "name": "Centro de Diagnostico y Medicina Avanzada Telemedicina CEDIMAT",
+    "name:es": "Centro de Diagnostico, Medicina Avanzada y Telemedicina CEDIMAT"
+  }
+},
+{
+  "type": "node",
+  "id": 1878124994,
+  "lat": 18.4615266,
+  "lon": -69.9118664,
+  "timestamp": "2015-08-23T21:50:06Z",
+  "version": 3,
+  "changeset": 33533952,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Patologia Forense",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1890387450,
+  "lat": 18.4593791,
+  "lon": -69.9113814,
+  "timestamp": "2012-08-30T18:36:37Z",
+  "version": 1,
+  "changeset": 12921375,
+  "user": "fqueliz",
+  "uid": 234222,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centro Medico Dominico Cubano"
+  }
+},
+{
+  "type": "node",
+  "id": 2069134564,
+  "lat": 18.4939875,
+  "lon": -69.8995985,
+  "timestamp": "2012-12-16T00:03:02Z",
+  "version": 1,
+  "changeset": 14287404,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Antirrabico"
+  }
+},
+{
+  "type": "node",
+  "id": 2069158476,
+  "lat": 18.4850935,
+  "lon": -69.9030124,
+  "timestamp": "2012-12-16T00:20:18Z",
+  "version": 1,
+  "changeset": 14287404,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinica Jesus Te Ama"
+  }
+},
+{
+  "type": "node",
+  "id": 2078748918,
+  "lat": 18.4923593,
+  "lon": -69.9650156,
+  "timestamp": "2017-02-07T21:50:06Z",
+  "version": 2,
+  "changeset": 45899209,
+  "user": "Emmanuel Alcántara",
+  "uid": 4937206,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Dr. Jorge Abraham Hazoury Bahles",
+    "name:es": "Dr. Jorge Abraham Hazoury Bahles, pie diabético"
+  }
+},
+{
+  "type": "node",
+  "id": 2182731207,
+  "lat": 18.4552140,
+  "lon": -69.9856095,
+  "timestamp": "2013-03-03T00:02:56Z",
+  "version": 1,
+  "changeset": 15227307,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Salud Nelda Valpiana"
+  }
+},
+{
+  "type": "node",
+  "id": 2375112378,
+  "lat": 18.4296702,
+  "lon": -70.0013371,
+  "timestamp": "2013-07-05T14:51:31Z",
+  "version": 1,
+  "changeset": 16837330,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 2400660923,
+  "lat": 18.4580738,
+  "lon": -69.9092146,
+  "timestamp": "2013-07-29T17:21:05Z",
+  "version": 2,
+  "changeset": 17142205,
+  "user": "alpino59",
+  "uid": 222990,
+  "tags": {
+    "amenity": "hospital",
+    "designation": "Dentist",
+    "emergency": "yes",
+    "name": "Dentour"
+  }
+},
+{
+  "type": "node",
+  "id": 2420234014,
+  "lat": 18.4089670,
+  "lon": -70.0278494,
+  "timestamp": "2013-08-15T20:57:52Z",
+  "version": 1,
+  "changeset": 17364927,
+  "user": "viccab26",
+  "uid": 1708722,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensario Medico Gringo"
+  }
+},
+{
+  "type": "node",
+  "id": 2525417619,
+  "lat": 18.5199345,
+  "lon": -69.8178471,
+  "timestamp": "2017-02-16T23:17:51Z",
+  "version": 3,
+  "changeset": 46150885,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "tags": {
+    "addr:street": "Avenida El Progreso",
+    "amenity": "hospital",
+    "name": "Hospital local el almirante",
+    "name:en": "almirante hospital",
+    "name:es": "Hospital Local El Almirante"
+  }
+},
+{
+  "type": "node",
+  "id": 2969591933,
+  "lat": 18.4936639,
+  "lon": -69.9634108,
+  "timestamp": "2015-08-07T02:36:48Z",
+  "version": 2,
+  "changeset": 33169509,
+  "user": "jeff5646",
+  "uid": 1929803,
+  "tags": {
+    "alt_name": "Hospital Los Rios",
+    "amenity": "hospital",
+    "name": "Instituto Dominicano de Cardiologia"
+  }
+},
+{
+  "type": "node",
+  "id": 3016534928,
+  "lat": 18.4691708,
+  "lon": -69.9245473,
+  "timestamp": "2014-08-14T14:42:34Z",
+  "version": 1,
+  "changeset": 24747237,
+  "user": "Boanerge",
+  "uid": 2261963,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Amerident",
+    "source": "www.amerident.com.do"
+  }
+},
+{
+  "type": "node",
+  "id": 3059871127,
+  "lat": 18.4599285,
+  "lon": -69.9097132,
+  "timestamp": "2016-05-11T03:50:16Z",
+  "version": 5,
+  "changeset": 39231681,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Institute Espaillat Cabral",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3091068137,
+  "lat": 18.4975291,
+  "lon": -69.8649702,
+  "timestamp": "2014-09-22T17:19:09Z",
+  "version": 3,
+  "changeset": 25608018,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Oriental de Ginecologia y Obstetra"
+  }
+},
+{
+  "type": "node",
+  "id": 3161562579,
+  "lat": 18.4717359,
+  "lon": -69.9348057,
+  "timestamp": "2014-11-01T19:23:42Z",
+  "version": 1,
+  "changeset": 26489101,
+  "user": "firizarryp",
+  "uid": 2438551,
+  "tags": {
+    "addr:city": "Santo Domingo , Rep Dominicana",
+    "addr:street": "Calle Rafael Augusto Sanchez",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Medical Net"
+  }
+},
+{
+  "type": "node",
+  "id": 3242593629,
+  "lat": 18.5177645,
+  "lon": -69.8587641,
+  "timestamp": "2014-12-19T12:55:48Z",
+  "version": 1,
+  "changeset": 27568616,
+  "user": "asddaniel",
+  "uid": 2528734,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 3437615947,
+  "lat": 18.4759965,
+  "lon": -69.9212999,
+  "timestamp": "2015-04-04T16:10:09Z",
+  "version": 1,
+  "changeset": 29975507,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Oftalmología y Glaucoma"
+  }
+},
+{
+  "type": "node",
+  "id": 3767882157,
+  "lat": 18.4625565,
+  "lon": -69.9072976,
+  "timestamp": "2015-10-01T19:38:58Z",
+  "version": 1,
+  "changeset": 34376146,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Cardiovascular Urolaser"
+  }
+},
+{
+  "type": "node",
+  "id": 3819529940,
+  "lat": 18.4789239,
+  "lon": -69.9372592,
+  "timestamp": "2015-11-05T20:13:48Z",
+  "version": 1,
+  "changeset": 35110981,
+  "user": "renesigma",
+  "uid": 1139318,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Aeroambulancia"
+  }
+},
+{
+  "type": "node",
+  "id": 4233005492,
+  "lat": 18.5070290,
+  "lon": -69.9891630,
+  "timestamp": "2016-06-09T04:29:52Z",
+  "version": 1,
+  "changeset": 39898426,
+  "user": "Miguel Rodríguez López",
+  "uid": 4013691,
+  "tags": {
+    "addr:housenumber": "809-930-0034",
+    "addr:street": "Avenida República de Colombia",
+    "amenity": "hospital",
+    "name": "Hospital Jacinto Ignacio Mañón (Hospital de los Girasoles)",
+    "phone": "809-930-0034"
+  }
+},
+{
+  "type": "node",
+  "id": 4396031121,
+  "lat": 18.5275661,
+  "lon": -69.9130919,
+  "timestamp": "2016-09-11T11:26:29Z",
+  "version": 1,
+  "changeset": 42076415,
+  "user": "darlin4404",
+  "uid": 4560656,
+  "tags": {
+    "addr:city": "Santo Domingo Norte",
+    "addr:housenumber": "11201",
+    "addr:postcode": "11201",
+    "addr:street": "Avenida Hermanas Mirabal",
+    "amenity": "hospital",
+    "name": "Instituto Dominicano De Gastroenterologia",
+    "phone": "(809) 741-2262"
+  }
+},
+{
+  "type": "node",
+  "id": 4514533391,
+  "lat": 18.4756149,
+  "lon": -69.8853292,
+  "timestamp": "2016-11-22T01:28:35Z",
+  "version": 1,
+  "changeset": 43860140,
+  "user": "Juan Aurelio",
+  "uid": 4361285,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital",
+    "name:es": "Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4519268990,
+  "lat": 18.5121789,
+  "lon": -69.8622013,
+  "timestamp": "2016-11-24T17:06:07Z",
+  "version": 1,
+  "changeset": 43925929,
+  "user": "Juan Aurelio",
+  "uid": 4361285,
+  "tags": {
+    "addr:street": "Calle Gregorio Rivas",
+    "amenity": "hospital",
+    "internet_access": "wlan",
+    "name": "Las monjitas",
+    "name:es": "Las monjitas",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4563498292,
+  "lat": 18.4936362,
+  "lon": -69.8893380,
+  "timestamp": "2016-12-20T13:21:35Z",
+  "version": 1,
+  "changeset": 44541157,
+  "user": "Esterling Hernandez",
+  "uid": 4167011,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Salud Fundación Activó 20-30"
+  }
+},
+{
+  "type": "node",
+  "id": 4586418076,
+  "lat": 18.4530229,
+  "lon": -69.9234386,
+  "timestamp": "2017-01-03T05:01:45Z",
+  "version": 1,
+  "changeset": 44862313,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergencia Hospital Robert Reid Cabral"
+  }
+},
+{
+  "type": "node",
+  "id": 4586441744,
+  "lat": 18.4729472,
+  "lon": -69.9093498,
+  "timestamp": "2017-01-03T05:33:36Z",
+  "version": 1,
+  "changeset": 44862644,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergencia Maternidad La Altagracia"
+  }
+},
+{
+  "type": "node",
+  "id": 4590129627,
+  "lat": 18.4469440,
+  "lon": -69.9646181,
+  "timestamp": "2017-01-05T03:00:27Z",
+  "version": 1,
+  "changeset": 44914445,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4590194567,
+  "lat": 18.5512745,
+  "lon": -69.9006965,
+  "timestamp": "2017-01-05T04:20:58Z",
+  "version": 1,
+  "changeset": 44915135,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergencia Maternidad de Villa Mella"
+  }
+},
+{
+  "type": "node",
+  "id": 4596989498,
+  "lat": 18.4556356,
+  "lon": -69.9561803,
+  "timestamp": "2017-01-08T20:21:20Z",
+  "version": 1,
+  "changeset": 45010960,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergencia Centro Médico Dominicano"
+  }
+},
+{
+  "type": "node",
+  "id": 4597321421,
+  "lat": 18.5259740,
+  "lon": -70.0531255,
+  "timestamp": "2017-01-09T03:07:12Z",
+  "version": 1,
+  "changeset": 45016513,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Emergencia Hospital Dr. Vinicio Calventi"
+  }
+},
+{
+  "type": "node",
+  "id": 4711652191,
+  "lat": 18.4829359,
+  "lon": -69.9109524,
+  "timestamp": "2017-03-01T12:57:52Z",
+  "version": 1,
+  "changeset": 46493677,
+  "user": "Juan Aurelio",
+  "uid": 4361285,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Senasa",
+    "name:es": "Senasa"
+  }
+},
+{
+  "type": "node",
+  "id": 4740698637,
+  "lat": 18.5023380,
+  "lon": -69.8663721,
+  "timestamp": "2017-03-17T23:35:44Z",
+  "version": 1,
+  "changeset": 46944480,
+  "user": "Juan Aurelio",
+  "uid": 4361285,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro oriental de la diabetes",
+    "name:es": "Centro oriental de la diabetes"
+  }
+},
+{
+  "type": "node",
+  "id": 4764534635,
+  "lat": 18.4627372,
+  "lon": -69.9115392,
+  "timestamp": "2017-03-30T16:35:53Z",
+  "version": 1,
+  "changeset": 47297925,
+  "user": "Andres Calcaño",
+  "uid": 5586072,
+  "tags": {
+    "addr:street": "Santiago",
+    "amenity": "hospital",
+    "name": "Ars Semma",
+    "name:en": "ARS Semma"
+  }
+},
+{
+  "type": "way",
+  "id": 175168792,
+  "timestamp": "2012-08-09T01:29:14Z",
+  "version": 1,
+  "changeset": 12663688,
+  "user": "fqueliz",
+  "uid": 234222,
+  "center": {
+    "lat": 18.4607042,
+    "lon": -69.9951143
+  },
+  "nodes": [
+    1858073511,
+    1858073508,
+    1858073512,
+    1858073510,
+    1858073511
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital Municipal de Engombe"
+  }
+},
+{
+  "type": "way",
+  "id": 223489593,
+  "timestamp": "2016-01-02T06:27:39Z",
+  "version": 2,
+  "changeset": 36312026,
+  "user": "venerdi",
+  "uid": 196617,
+  "center": {
+    "lat": 18.4471064,
+    "lon": -69.9645637
+  },
+  "nodes": [
+    2323881702,
+    2323881703,
+    2323881704,
+    2323881705,
+    2323881706,
+    2323881707,
+    2323881702
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centro Médico Real"
+  }
+},
+{
+  "type": "way",
+  "id": 462687394,
+  "timestamp": "2016-12-30T02:59:12Z",
+  "version": 1,
+  "changeset": 44773882,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.4474533,
+    "lon": -69.9559727
+  },
+  "nodes": [
+    4580550913,
+    4580550914,
+    4580550915,
+    4580550916,
+    4580550917,
+    4580550913
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 343333995,
+  "timestamp": "2015-05-06T23:14:38Z",
+  "version": 3,
+  "changeset": 30857805,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4556179,
+    "lon": -69.9560163
+  },
+  "nodes": [
+    3501970513,
+    3501970514,
+    3501970515,
+    3501970516,
+    3501970513
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Medico Dominicano"
+  }
+},
+{
+  "type": "way",
+  "id": 463377050,
+  "timestamp": "2017-01-03T06:31:11Z",
+  "version": 1,
+  "changeset": 44863249,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.4574672,
+    "lon": -69.9474884
+  },
+  "nodes": [
+    4586484255,
+    4586484256,
+    4586484257,
+    4586484258,
+    4586484255
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clínica Dr. Jiménez Richardson"
+  }
+},
+{
+  "type": "way",
+  "id": 414459574,
+  "timestamp": "2016-05-11T03:28:43Z",
+  "version": 2,
+  "changeset": 39231681,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4483462,
+    "lon": -69.9319991
+  },
+  "nodes": [
+    4156026412,
+    4156026413,
+    4156026414,
+    4156026415,
+    4156026416,
+    4156026417,
+    4156026418,
+    4156026412
+  ],
+  "tags": {
+    "addr:street": "Avenida Independencia",
+    "amenity": "hospital",
+    "name": "Clinica Independencia",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 228042006,
+  "timestamp": "2013-06-30T08:45:13Z",
+  "version": 1,
+  "changeset": 16760644,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4580399,
+    "lon": -69.9199496
+  },
+  "nodes": [
+    2366929590,
+    2366929577,
+    2366929578,
+    2366929592,
+    2366929600,
+    2366929587,
+    2366929593,
+    2366929596,
+    2366929604,
+    2366929583,
+    2366929599,
+    2366929586,
+    2366929602,
+    2366929582,
+    2366929572,
+    2366929591,
+    2366929576,
+    2366929581,
+    2366929588,
+    2366929569,
+    2366929590
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Instituto Nacional del Cancer"
+  }
+},
+{
+  "type": "way",
+  "id": 222941453,
+  "timestamp": "2017-01-03T05:01:46Z",
+  "version": 4,
+  "changeset": 44862313,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.4524922,
+    "lon": -69.9238182
+  },
+  "nodes": [
+    2318853062,
+    2318853063,
+    2318853064,
+    2318853065,
+    2318853066,
+    2318853067,
+    2318853068,
+    2318853069,
+    2318853070,
+    2318853071,
+    2318853072,
+    2318853073,
+    2318853074,
+    2318853075,
+    2318853076,
+    2318853077,
+    2318853078,
+    2318853079,
+    2318853080,
+    2318853081,
+    2318853082,
+    2318853083,
+    2318853084,
+    2318853085,
+    2318853086,
+    2318853087,
+    2318853088,
+    2318853089,
+    2318853090,
+    2318853091,
+    2318853092,
+    2318853093,
+    2318853094,
+    2318853095,
+    2318853096,
+    2318853097,
+    2318853098,
+    2318853099,
+    2318853100,
+    2318853101,
+    2318853102,
+    2318853103,
+    2318853104,
+    2318853105,
+    2318853106,
+    2318853107,
+    2318853108,
+    2318853109,
+    2318853110,
+    2318853111,
+    2318853112,
+    2318853113,
+    2318853114,
+    2318853115,
+    2318853116,
+    2318853117,
+    2318853118,
+    2318853119,
+    2318853120,
+    2318853121,
+    2318853122,
+    2318853123,
+    2318853124,
+    2318853125,
+    2318853126,
+    2318853127,
+    2318853128,
+    2318853129,
+    2318853130,
+    2318853131,
+    2318853132,
+    2318853133,
+    2318853134,
+    2318853135,
+    2318853136,
+    2318853137,
+    2318853138,
+    2318853139,
+    2318853140,
+    2318853141,
+    2318853142,
+    2318853143,
+    2318853144,
+    2318853145,
+    2318853062
+  ],
+  "tags": {
+    "addr:street": "Avenida Abraham Lincoln",
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hospital Infantil Robert Reid Cabral",
+    "name:es": "Hospital Infantil Dr. Robert Reid Cabral"
+  }
+},
+{
+  "type": "way",
+  "id": 410363672,
+  "timestamp": "2016-05-10T22:09:57Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4557919,
+    "lon": -69.9190695
+  },
+  "nodes": [
+    4121953847,
+    4121953848,
+    4121953849,
+    4121953850,
+    4121953851,
+    4121953852,
+    4121953853,
+    4121953854,
+    4121953847
+  ],
+  "tags": {
+    "addr:city": "Santa Domingo",
+    "addr:street": "Avenida Independencia",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Hospital General Policia Nacional",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 228043617,
+  "timestamp": "2014-09-17T18:32:58Z",
+  "version": 2,
+  "changeset": 25506739,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4606278,
+    "lon": -69.9141412
+  },
+  "nodes": [
+    2366951575,
+    2366951579,
+    2366951626,
+    2366951641,
+    2366951630,
+    2366951573,
+    2366951654,
+    2366951590,
+    2366951648,
+    2366951651,
+    2366951571,
+    2366951620,
+    2366951658,
+    2366951575
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Instituto Oncologico Doctor Heriberto Pieter"
+  }
+},
+{
+  "type": "way",
+  "id": 223357576,
+  "timestamp": "2015-08-23T17:08:40Z",
+  "version": 2,
+  "changeset": 33528677,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4652695,
+    "lon": -69.9212650
+  },
+  "nodes": [
+    2322593193,
+    2322593194,
+    2322593195,
+    2322593196,
+    2322593193
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospiten Santo Domingo"
+  }
+},
+{
+  "type": "way",
+  "id": 229675575,
+  "timestamp": "2015-08-23T14:59:50Z",
+  "version": 3,
+  "changeset": 33526291,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4611636,
+    "lon": -69.9135044
+  },
+  "nodes": [
+    2366951646,
+    2366951567,
+    2366951565,
+    2366951616,
+    2366951606,
+    2366951633,
+    2366951588,
+    2366951643,
+    2366951614,
+    2366951647,
+    2366951612,
+    2366951559,
+    2366951586,
+    2366951638,
+    2366951644,
+    2366951592,
+    2366951622,
+    2366951634,
+    2366951583,
+    2366951561,
+    2366951659,
+    2366951636,
+    2366951649,
+    2366951645,
+    2366951657,
+    2366951635,
+    2366951653,
+    2366951628,
+    2366951608,
+    2366951581,
+    2366951577,
+    2366951650,
+    2366951618,
+    2366951598,
+    2366951596,
+    2366951569,
+    2366951656,
+    2366951640,
+    2366951655,
+    2366951563,
+    2366951646
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Dispensario Médico (Marión)"
+  }
+},
+{
+  "type": "way",
+  "id": 223357578,
+  "timestamp": "2016-05-10T22:10:00Z",
+  "version": 4,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4653288,
+    "lon": -69.9212610
+  },
+  "nodes": [
+    2322593201,
+    2322593202,
+    2322593203,
+    2322593204,
+    2322593205,
+    2322593206,
+    2322593207,
+    2322593208,
+    2322593201
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Hospiten",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 243498718,
+  "timestamp": "2013-10-25T23:51:00Z",
+  "version": 1,
+  "changeset": 18545143,
+  "user": "JSESF",
+  "uid": 1612790,
+  "center": {
+    "lat": 18.4661558,
+    "lon": -69.9184016
+  },
+  "nodes": [
+    2508952479,
+    2508952480,
+    2508952481,
+    2508952482,
+    2508952479
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Unidad Médica"
+  }
+},
+{
+  "type": "way",
+  "id": 414461494,
+  "timestamp": "2016-05-11T03:32:42Z",
+  "version": 2,
+  "changeset": 39231681,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4598560,
+    "lon": -69.9094646
+  },
+  "nodes": [
+    4156045537,
+    4156045538,
+    4156045539,
+    4156045540,
+    4156045537
+  ],
+  "tags": {
+    "addr:street": "Avenida Independencia",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Grupo Clinico Elohim",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 174469472,
+  "timestamp": "2016-05-10T22:00:31Z",
+  "version": 5,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4617973,
+    "lon": -69.9067211
+  },
+  "nodes": [
+    1851568939,
+    4097731604,
+    4097731605,
+    4097731606,
+    4097731607,
+    4097731608,
+    4097731609,
+    4097731610,
+    4097731611,
+    4097731612,
+    4097731616,
+    4097731615,
+    4097731614,
+    4097731613,
+    1851568943,
+    1851568935,
+    1851568941,
+    1851568939
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Clinica Gomez Patiño",
+    "source": "KG Ground Survey 2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 228593514,
+  "timestamp": "2015-09-06T18:26:03Z",
+  "version": 3,
+  "changeset": 33839088,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4628208,
+    "lon": -69.9072692
+  },
+  "nodes": [
+    2372519481,
+    2372519483,
+    2372519485,
+    2372519486,
+    2372519481
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Medico Bellas Artes"
+  }
+},
+{
+  "type": "way",
+  "id": 174008947,
+  "timestamp": "2015-12-15T01:05:17Z",
+  "version": 4,
+  "changeset": 35957606,
+  "user": "Guvani",
+  "uid": 2379712,
+  "center": {
+    "lat": 18.4715207,
+    "lon": -69.9128890
+  },
+  "nodes": [
+    1847512310,
+    1847512306,
+    1847512311,
+    1847512307,
+    1847512310
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centro Médico UCE",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 230073858,
+  "timestamp": "2017-01-28T13:49:27Z",
+  "version": 2,
+  "changeset": 45592568,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.4666421,
+    "lon": -69.9125729
+  },
+  "nodes": [
+    2386017573,
+    2386017574,
+    2386017571,
+    2386017572,
+    2386017573
+  ],
+  "tags": {
+    "addr:housenumber": "72",
+    "addr:street": "Avenida Bolívar",
+    "amenity": "hospital",
+    "name": "Clínica Doctor Betances",
+    "name:es": "Centro Medico MACROMEDICA",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "phone": "8096850022"
+  }
+},
+{
+  "type": "way",
+  "id": 174361268,
+  "timestamp": "2014-09-19T22:10:54Z",
+  "version": 3,
+  "changeset": 25550701,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4669598,
+    "lon": -69.8946356
+  },
+  "nodes": [
+    1850596605,
+    1850596606,
+    1850596604,
+    1850596603,
+    3086753509,
+    3086753510,
+    3086753511,
+    3086753512,
+    1850596605
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinica Abreu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 174361956,
+  "timestamp": "2013-06-24T02:54:39Z",
+  "version": 2,
+  "changeset": 16677851,
+  "user": "NelfiNova",
+  "uid": 1573875,
+  "center": {
+    "lat": 18.4673243,
+    "lon": -69.8959262
+  },
+  "nodes": [
+    1850600219,
+    1850600212,
+    1850600218,
+    1850600215,
+    1850600219
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinica Doctor Escano",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 407743911,
+  "timestamp": "2016-05-10T22:21:31Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4697428,
+    "lon": -69.8996183
+  },
+  "nodes": [
+    4097786076,
+    4097786077,
+    4097786078,
+    4097786079,
+    4097786076
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Instituto de Cirugia Especializada",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 464646483,
+  "timestamp": "2017-01-09T03:08:58Z",
+  "version": 2,
+  "changeset": 45016532,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.5259028,
+    "lon": -70.0535131
+  },
+  "nodes": [
+    4597321402,
+    4597321403,
+    4597321404,
+    4597320209,
+    4597321405,
+    4597320210,
+    4597321402
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 213868306,
+  "timestamp": "2016-09-21T02:03:23Z",
+  "version": 4,
+  "changeset": 42312307,
+  "user": "osplace",
+  "uid": 1303553,
+  "center": {
+    "lat": 18.4831420,
+    "lon": -69.9807006
+  },
+  "nodes": [
+    2235020660,
+    2235020657,
+    2235020653,
+    2235020659,
+    2235020654,
+    2235020656,
+    4134915299,
+    4134915298,
+    4134915297,
+    4134915296,
+    2235020662,
+    2235020658,
+    2235020660
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo Oeste",
+    "addr:street": "Carretera Duarte Vieja",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "5",
+    "name": "Centro de Medicina Avanzada de Herrera",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 213202428,
+  "timestamp": "2016-05-11T03:33:03Z",
+  "version": 3,
+  "changeset": 39231681,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4737372,
+    "lon": -69.9710836
+  },
+  "nodes": [
+    2229397446,
+    2229397445,
+    2229397444,
+    2229397448,
+    2229397447,
+    2229397446
+  ],
+  "tags": {
+    "addr:street": "Avenida Isabel Aguiar",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Regional Doctor Marcelino Velez Santana",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 412590804,
+  "timestamp": "2016-04-22T19:34:47Z",
+  "version": 2,
+  "changeset": 38797684,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4759143,
+    "lon": -69.9575026
+  },
+  "nodes": [
+    4139829555,
+    4139829556,
+    4139829557,
+    4139829558,
+    4139829555
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Centro Medico Moderno",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 223489009,
+  "timestamp": "2013-05-29T04:13:22Z",
+  "version": 1,
+  "changeset": 16332720,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.4974945,
+    "lon": -69.9593591
+  },
+  "nodes": [
+    2323876869,
+    2323876870,
+    2323876871,
+    2323876872,
+    2323876873,
+    2323876874,
+    2323876875,
+    2323876876,
+    2323876877,
+    2323876878,
+    2323876879,
+    2323876880,
+    2323876881,
+    2323876869
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 411504504,
+  "timestamp": "2016-04-29T23:26:52Z",
+  "version": 3,
+  "changeset": 38991234,
+  "user": "JuanVerde",
+  "uid": 3474216,
+  "center": {
+    "lat": 18.5067326,
+    "lon": -69.9890072
+  },
+  "nodes": [
+    4131555402,
+    4131555403,
+    4131555404,
+    4131555405,
+    4131555406,
+    4131555407,
+    4131555408,
+    4131555409,
+    4131555410,
+    4131555411,
+    4131555412,
+    4131555413,
+    4131555414,
+    4131555415,
+    4131555416,
+    4131555417,
+    4131555418,
+    4131555419,
+    4131555420,
+    4131555421,
+    4131555422,
+    4131555423,
+    4131555424,
+    4131555425,
+    4131555402
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida República de Colombia",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital Municipal Dr Jacinto Ignacio Mañón",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 408670388,
+  "timestamp": "2016-04-29T23:26:20Z",
+  "version": 2,
+  "changeset": 38991234,
+  "user": "JuanVerde",
+  "uid": 3474216,
+  "center": {
+    "lat": 18.5011441,
+    "lon": -69.9603934
+  },
+  "nodes": [
+    4105711435,
+    4105750484,
+    4105750485,
+    4105750486,
+    4105750487,
+    4105750488,
+    4105692547,
+    4105692548,
+    4105711430,
+    4105711433,
+    4105711434,
+    4105711435
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Calle Vista del Cerro",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinica Independencia Norte",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 378243851,
+  "timestamp": "2017-01-03T05:11:21Z",
+  "version": 2,
+  "changeset": 44862409,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.4745657,
+    "lon": -69.9344108
+  },
+  "nodes": [
+    3816476581,
+    3816476579,
+    4586427204,
+    4586427205,
+    3816476580,
+    3816476582,
+    3816476583,
+    3816476584,
+    3816476581
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro de Medicina Avanzada Dr. Abel González",
+    "source": "myself"
+  }
+},
+{
+  "type": "way",
+  "id": 333367778,
+  "timestamp": "2015-03-18T00:44:48Z",
+  "version": 2,
+  "changeset": 29553984,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4759263,
+    "lon": -69.9298756
+  },
+  "nodes": [
+    3404793370,
+    3404793371,
+    3404793372,
+    3404793373,
+    3404794176,
+    3404794173,
+    3404793376,
+    3404793377,
+    3404793378,
+    3404793379,
+    3404793370
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 334778208,
+  "timestamp": "2015-09-23T17:18:57Z",
+  "version": 4,
+  "changeset": 34210596,
+  "user": "Julio Lorenzo",
+  "uid": 3260090,
+  "center": {
+    "lat": 18.4747676,
+    "lon": -69.9255650
+  },
+  "nodes": [
+    3418525697,
+    3418525699,
+    3418525698,
+    3418525696,
+    3418525697
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:housenumber": "22",
+    "addr:postcode": "10107",
+    "addr:street": "Calle Alberto Larancuent",
+    "amenity": "hospital",
+    "building": "Torre Lorenz - C",
+    "building:levels": "12",
+    "emergency": "no",
+    "name": "Cigmed",
+    "phone": "(809) 540-4966",
+    "website": "http://www.cigmed.com"
+  }
+},
+{
+  "type": "way",
+  "id": 302959549,
+  "timestamp": "2016-06-05T22:37:30Z",
+  "version": 5,
+  "changeset": 39826654,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4777745,
+    "lon": -69.9228892
+  },
+  "nodes": [
+    3072416592,
+    4227401197,
+    4227401196,
+    3072416593,
+    3072416594,
+    3072416595,
+    3072416592
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:housenumber": "21",
+    "addr:street": "Padre Fantino Falco",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinica Corazones Unidos",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 386571851,
+  "timestamp": "2015-12-19T00:36:39Z",
+  "version": 1,
+  "changeset": 36038299,
+  "user": "Guvani",
+  "uid": 2379712,
+  "center": {
+    "lat": 18.4780382,
+    "lon": -69.9211270
+  },
+  "nodes": [
+    3899117014,
+    3899117017,
+    3899117015,
+    3899117016,
+    3899117014
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Láser"
+  }
+},
+{
+  "type": "way",
+  "id": 174355947,
+  "timestamp": "2015-12-19T00:38:35Z",
+  "version": 3,
+  "changeset": 36038299,
+  "user": "Guvani",
+  "uid": 2379712,
+  "center": {
+    "lat": 18.4808964,
+    "lon": -69.9211866
+  },
+  "nodes": [
+    1850580824,
+    1850580820,
+    1850580821,
+    1850580822,
+    1850580824
+  ],
+  "tags": {
+    "alt_name": "Hospital de las Fuerzas Armadas",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Central de FFAA"
+  }
+},
+{
+  "type": "way",
+  "id": 164695925,
+  "timestamp": "2013-01-27T23:00:10Z",
+  "version": 2,
+  "changeset": 14814403,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4886936,
+    "lon": -69.9228650
+  },
+  "nodes": [
+    1763126085,
+    1763126076,
+    1763126062,
+    1763126045,
+    1763125933,
+    1763125908,
+    1763125903,
+    1763125914,
+    2131595619,
+    1763125920,
+    1763125927,
+    1763125943,
+    1763125954,
+    1763125960,
+    1763125981,
+    1763125993,
+    1763126012,
+    1763126018,
+    1763126028,
+    1763126068,
+    1763126085
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Plaza de la Salud"
+  }
+},
+{
+  "type": "way",
+  "id": 344633842,
+  "timestamp": "2016-05-10T22:09:59Z",
+  "version": 4,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4872121,
+    "lon": -69.9242790
+  },
+  "nodes": [
+    3513904769,
+    3513904770,
+    3513904771,
+    4147206899,
+    4147206900,
+    3513904773,
+    3513904774,
+    3513904775,
+    3513904769
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital de Atención Primaria",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 343804591,
+  "timestamp": "2015-06-28T01:06:06Z",
+  "version": 4,
+  "changeset": 32253982,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.4963533,
+    "lon": -69.9237211
+  },
+  "nodes": [
+    3506236585,
+    3506236586,
+    3506235361,
+    3506236587,
+    3506236588,
+    3506236589,
+    3506236590,
+    3506236591,
+    3506236592,
+    3506238753,
+    3506238493,
+    3506238494,
+    3506238495,
+    3506236585
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Santo Socorro"
+  }
+},
+{
+  "type": "way",
+  "id": 343804711,
+  "timestamp": "2015-05-09T01:38:30Z",
+  "version": 1,
+  "changeset": 30924290,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.4959245,
+    "lon": -69.9247021
+  },
+  "nodes": [
+    3506238753,
+    3506238754,
+    3506238755,
+    3506238756,
+    3506238757,
+    3506238758,
+    3506238753
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "crued"
+  }
+},
+{
+  "type": "way",
+  "id": 196943500,
+  "timestamp": "2016-12-12T16:20:29Z",
+  "version": 2,
+  "changeset": 44350124,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.4920433,
+    "lon": -69.9248072
+  },
+  "nodes": [
+    2072390133,
+    2072390134,
+    2072390132,
+    2072390135,
+    2072390133
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "S. B. Gautier Alexander",
+    "name:es": "Hospital Salvador Bienvenido Gautier Alexander"
+  }
+},
+{
+  "type": "way",
+  "id": 80445159,
+  "timestamp": "2017-01-03T05:33:36Z",
+  "version": 3,
+  "changeset": 44862644,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.4732197,
+    "lon": -69.9086720
+  },
+  "nodes": [
+    938672923,
+    938672830,
+    938672945,
+    938672791,
+    938672901,
+    938672746,
+    938672908,
+    938672767,
+    938672869,
+    4586441746,
+    4586441745,
+    938672730,
+    4586441741,
+    4586441740,
+    4586441742,
+    4586441743,
+    938672923
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Maternidad Nuestra Señora de la Altragracia",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 328224712,
+  "timestamp": "2015-02-14T16:58:23Z",
+  "version": 1,
+  "changeset": 28846377,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4757564,
+    "lon": -69.9008496
+  },
+  "nodes": [
+    3350343618,
+    3350343619,
+    3350343620,
+    3350343621,
+    3350343622,
+    3350343618
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Sanitario de Santo Domingo"
+  }
+},
+{
+  "type": "way",
+  "id": 174008551,
+  "timestamp": "2015-05-23T13:09:34Z",
+  "version": 3,
+  "changeset": 31397317,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4786695,
+    "lon": -69.9085073
+  },
+  "nodes": [
+    1847509987,
+    1847509985,
+    1847509994,
+    1847509993,
+    1847509992,
+    1847509991,
+    1847509982,
+    1847509990,
+    1847509983,
+    1847509984,
+    1847509987
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Cruz Roja Dominicana",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 229580940,
+  "timestamp": "2013-07-11T17:27:04Z",
+  "version": 1,
+  "changeset": 16915776,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4801896,
+    "lon": -69.9061989
+  },
+  "nodes": [
+    2381519712,
+    2381519716,
+    2381519714,
+    2381519718,
+    2381519708,
+    2381519710,
+    2381519722,
+    2381519704,
+    2381519720,
+    2381519706,
+    2381519712
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Asociacion Dominicana de Rehabilitacion"
+  }
+},
+{
+  "type": "way",
+  "id": 387222236,
+  "timestamp": "2015-12-22T21:07:23Z",
+  "version": 1,
+  "changeset": 36114014,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4814095,
+    "lon": -69.9010832
+  },
+  "nodes": [
+    3905402644,
+    3905402645,
+    3905402646,
+    3905402647,
+    3905402644
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Centro Infantil Antituberculoso"
+  }
+},
+{
+  "type": "way",
+  "id": 227462229,
+  "timestamp": "2013-06-26T07:47:19Z",
+  "version": 2,
+  "changeset": 16709270,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4804599,
+    "lon": -69.9000521
+  },
+  "nodes": [
+    2361275281,
+    2361275279,
+    2361275283,
+    2361275280,
+    2361275281
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinica Rodriguez Santos"
+  }
+},
+{
+  "type": "way",
+  "id": 229024330,
+  "timestamp": "2016-11-28T08:18:07Z",
+  "version": 3,
+  "changeset": 44000772,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.4898428,
+    "lon": -69.9023028
+  },
+  "nodes": [
+    2376639263,
+    2376639260,
+    2376639262,
+    2376639261,
+    2376639263
+  ],
+  "tags": {
+    "addr:street": "Calle Santiago Roguez",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital de Los Billeteros",
+    "name:es": "Hospital Dr. Felix Maria Goico (Los Billeteros)"
+  }
+},
+{
+  "type": "way",
+  "id": 399141920,
+  "timestamp": "2016-02-22T01:41:30Z",
+  "version": 1,
+  "changeset": 37357845,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4955189,
+    "lon": -69.8990876
+  },
+  "nodes": [
+    4018826303,
+    4018825601,
+    4018826304,
+    4018825602,
+    4018826303
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Centro Medico Luperon"
+  }
+},
+{
+  "type": "way",
+  "id": 42742657,
+  "timestamp": "2009-10-17T22:57:01Z",
+  "version": 2,
+  "changeset": 2878653,
+  "user": "Agustin Diaz",
+  "uid": 178469,
+  "center": {
+    "lat": 18.4942962,
+    "lon": -69.8895818
+  },
+  "nodes": [
+    534465712,
+    534465714,
+    534465707,
+    521074844,
+    521074843,
+    521074841,
+    521074840,
+    521074839,
+    534465704,
+    534467217,
+    534467218,
+    534465712
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Instituto Dermatológico"
+  }
+},
+{
+  "type": "way",
+  "id": 42742777,
+  "timestamp": "2009-10-17T22:57:03Z",
+  "version": 1,
+  "changeset": 2878653,
+  "user": "Agustin Diaz",
+  "uid": 178469,
+  "center": {
+    "lat": 18.4947327,
+    "lon": -69.8897568
+  },
+  "nodes": [
+    534467220,
+    534467221,
+    534467222,
+    534467223,
+    534467218,
+    534467217,
+    534467216,
+    534467220
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Para Enfermedades de trasmisión Sexual"
+  }
+},
+{
+  "type": "way",
+  "id": 42009806,
+  "timestamp": "2009-10-17T22:57:00Z",
+  "version": 3,
+  "changeset": 2878653,
+  "user": "Agustin Diaz",
+  "uid": 178469,
+  "center": {
+    "lat": 18.4942979,
+    "lon": -69.8906662
+  },
+  "nodes": [
+    521074837,
+    534467216,
+    521074838,
+    534465704,
+    521074839,
+    521074840,
+    521074841,
+    521074843,
+    521074844,
+    534465707,
+    521074845,
+    521074846,
+    521074847,
+    521074837
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Luis E. Aybar"
+  }
+},
+{
+  "type": "way",
+  "id": 42009797,
+  "timestamp": "2016-05-10T22:09:56Z",
+  "version": 3,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5017050,
+    "lon": -69.9013949
+  },
+  "nodes": [
+    521074754,
+    521074755,
+    521074756,
+    521074757,
+    521074759,
+    521074760,
+    4100417536,
+    4100417537,
+    521074761,
+    4100417534,
+    521074762,
+    521074754
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital General Dr. Francisco Moscoso Puello",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 174344668,
+  "timestamp": "2012-08-03T19:40:07Z",
+  "version": 1,
+  "changeset": 12602041,
+  "user": "fqueliz",
+  "uid": 234222,
+  "center": {
+    "lat": 18.4840610,
+    "lon": -69.8781494
+  },
+  "nodes": [
+    1850437889,
+    1850437891,
+    1850437893,
+    1850437890,
+    1850437892,
+    1850437888,
+    1850437889
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clinica del Dolor"
+  }
+},
+{
+  "type": "way",
+  "id": 344545121,
+  "timestamp": "2016-04-29T23:26:20Z",
+  "version": 6,
+  "changeset": 38991234,
+  "user": "JuanVerde",
+  "uid": 3474216,
+  "center": {
+    "lat": 18.4879058,
+    "lon": -69.8658318
+  },
+  "nodes": [
+    3512836437,
+    4155963624,
+    4155963623,
+    3512836438,
+    4155963627,
+    3512836439,
+    4155963625,
+    4155963628,
+    4155963626,
+    3512836440,
+    3512838860,
+    3512838861,
+    3512836437
+  ],
+  "tags": {
+    "addr:street": "Avenida Sabana Larga",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinica Medico Integral Santana Guzman",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 222854839,
+  "timestamp": "2016-11-28T08:17:30Z",
+  "version": 4,
+  "changeset": 44000756,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.4855569,
+    "lon": -69.8630117
+  },
+  "nodes": [
+    2318007591,
+    2318007594,
+    2318007596,
+    2318007598,
+    2318007600,
+    2318007602,
+    2318007604,
+    2318007606,
+    2318007608,
+    2318007610,
+    2318007613,
+    2318007615,
+    2318007617,
+    2318007619,
+    2318007622,
+    2318007624,
+    2318007626,
+    2318007628,
+    2318007630,
+    2318007632,
+    2318007591
+  ],
+  "tags": {
+    "addr:street": "Autopista Las Américas",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hospital Traumatologico Dr. Dario Contreras",
+    "name:es": "Hospital Traumatologico Dr. Dario D. Contreras",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 414017349,
+  "timestamp": "2016-05-10T22:00:33Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4939620,
+    "lon": -69.8653987
+  },
+  "nodes": [
+    4152095565,
+    4152095566,
+    4152095567,
+    4152095568,
+    4152095569,
+    4152095570,
+    4152095571,
+    4152095572,
+    4152095573,
+    4152095574,
+    4152095575,
+    4152095576,
+    4152095565
+  ],
+  "tags": {
+    "addr:street": "Avenida Sabana Larga",
+    "amenity": "hospital",
+    "area": "yes",
+    "building": "yes",
+    "emergency": "yes",
+    "name": "Clinica La Altagracia",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 224109105,
+  "timestamp": "2015-03-12T14:56:28Z",
+  "version": 3,
+  "changeset": 29428067,
+  "user": "osplace",
+  "uid": 1303553,
+  "center": {
+    "lat": 18.5093636,
+    "lon": -69.8660084
+  },
+  "nodes": [
+    2329405903,
+    2329405901,
+    2329405900,
+    2329405902,
+    2329405903
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo Este",
+    "addr:street": "San Vincente de Paul",
+    "amenity": "hospital",
+    "building": "no",
+    "name": "Hospital Materno Infantil San Lorenzo de Los Mina"
+  }
+},
+{
+  "type": "way",
+  "id": 373014270,
+  "timestamp": "2016-05-10T22:09:59Z",
+  "version": 3,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5030333,
+    "lon": -69.8545924
+  },
+  "nodes": [
+    3765443191,
+    3765443192,
+    3765484675,
+    3765484676,
+    3765443191
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Hospital Universitario Dr. Rafael Vasquez Garcia HURVAG",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 208742258,
+  "timestamp": "2015-05-09T23:12:31Z",
+  "version": 2,
+  "changeset": 30950340,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.5111327,
+    "lon": -69.8500111
+  },
+  "nodes": [
+    2190021310,
+    2190021308,
+    2190021273,
+    2190021270,
+    2190021330,
+    2190021332,
+    2190021326,
+    2190021310
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centro Policlínico Nacional",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 463793310,
+  "timestamp": "2017-01-05T04:20:58Z",
+  "version": 1,
+  "changeset": 44915135,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.5512840,
+    "lon": -69.9007740
+  },
+  "nodes": [
+    4590194561,
+    4590194562,
+    4590194563,
+    4590194569,
+    4590194568,
+    4590194564,
+    4590194561
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 409563258,
+  "timestamp": "2017-01-05T04:23:41Z",
+  "version": 2,
+  "changeset": 44915153,
+  "user": "WasteRD",
+  "uid": 5066301,
+  "center": {
+    "lat": 18.5515675,
+    "lon": -69.9006271
+  },
+  "nodes": [
+    4114513209,
+    4114513210,
+    4114513211,
+    4114513212,
+    4114513209
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 343583921,
+  "timestamp": "2017-01-01T08:31:06Z",
+  "version": 3,
+  "changeset": 44818609,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.5467240,
+    "lon": -69.8827378
+  },
+  "nodes": [
+    3504192401,
+    3504192402,
+    3504192403,
+    3504192404,
+    3504192405,
+    3504192406,
+    1978983285,
+    3509472545,
+    3504192407,
+    3504192401
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Ciudad de la Salud"
+  }
+},
+{
+  "type": "way",
+  "id": 344194828,
+  "timestamp": "2016-04-29T23:26:32Z",
+  "version": 5,
+  "changeset": 38991233,
+  "user": "FoxyMarcie",
+  "uid": 3321091,
+  "center": {
+    "lat": 18.5473568,
+    "lon": -69.8839925
+  },
+  "nodes": [
+    3509487322,
+    3509487323,
+    3509487324,
+    3509487325,
+    3509487326,
+    3509487327,
+    3509487328,
+    3509487329,
+    3509487330,
+    3509487331,
+    3509487332,
+    3509487333,
+    3509487334,
+    3509487335,
+    3509487336,
+    3509487337,
+    3509487338,
+    3509487339,
+    3509487340,
+    3509487341,
+    3509487342,
+    3509487343,
+    3509487344,
+    3509487345,
+    3509487346,
+    3509487347,
+    3509487322
+  ],
+  "tags": {
+    "addr:street": "Ave. Charles de Gaulle",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 344195006,
+  "timestamp": "2017-01-05T15:57:14Z",
+  "version": 7,
+  "changeset": 44928391,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.5467745,
+    "lon": -69.8830363
+  },
+  "nodes": [
+    3509486766,
+    3509486767,
+    3509486768,
+    3509486769,
+    3509486770,
+    3509486771,
+    3509486772,
+    3509486773,
+    3509486774,
+    3509486775,
+    3509486776,
+    3509486777,
+    3509486778,
+    3509486779,
+    3509486780,
+    3509486781,
+    3509486782,
+    3509486783,
+    3509486766
+  ],
+  "tags": {
+    "addr:street": "Avenida Charles de Gaulle",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "hospital materno dr.reynaldo almanzar",
+    "name:es": "Hospital Materno Dr.Reynaldo Almanzar",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 344195007,
+  "timestamp": "2017-01-05T15:57:18Z",
+  "version": 10,
+  "changeset": 44928391,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.5463841,
+    "lon": -69.8819916
+  },
+  "nodes": [
+    3509486784,
+    3509486785,
+    3509486786,
+    3509486787,
+    3509486788,
+    3509486789,
+    3509486790,
+    3509486791,
+    3509472556,
+    3509488793,
+    3509488794,
+    3509488795,
+    3509488796,
+    3509488797,
+    3509488798,
+    3509488799,
+    3509488800,
+    3509488801,
+    3509488802,
+    3509488803,
+    3509486784
+  ],
+  "tags": {
+    "addr:street": "Ave. Charles de Gaulle",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "hospital pediatrico dr.hugo de mendoza",
+    "name:es": "Hospital Pediatrico Dr.Hugo Rafael Mendoza Tapia",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 344186914,
+  "timestamp": "2015-05-11T03:37:51Z",
+  "version": 1,
+  "changeset": 30980446,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.5442184,
+    "lon": -69.8648635
+  },
+  "nodes": [
+    3509433310,
+    3509433311,
+    3509433312,
+    3509433313,
+    3509433310
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clínica Profamilia"
+  }
+},
+{
+  "type": "way",
+  "id": 412811910,
+  "timestamp": "2016-05-11T21:06:49Z",
+  "version": 2,
+  "changeset": 39252887,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5058810,
+    "lon": -69.8271315
+  },
+  "nodes": [
+    4141431754,
+    4141431755,
+    4141431756,
+    4141431757,
+    4141431758,
+    4141431759,
+    4141431754
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hospital United",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 248219413,
+  "timestamp": "2015-05-12T17:53:11Z",
+  "version": 4,
+  "changeset": 31060619,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.5229595,
+    "lon": -69.8302952
+  },
+  "nodes": [
+    2550461513,
+    2550461504,
+    3508801456,
+    3508801457,
+    2550461510,
+    2550461505,
+    2550461507,
+    2550461513
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinica Integral II"
+  }
+},
+{
+  "type": "way",
+  "id": 344011718,
+  "timestamp": "2015-05-10T00:50:39Z",
+  "version": 1,
+  "changeset": 30951334,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.5199988,
+    "lon": -69.8178303
+  },
+  "nodes": [
+    3507828436,
+    3507828437,
+    3507828438,
+    3507828439,
+    3507828436
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 344012054,
+  "timestamp": "2016-11-28T08:17:46Z",
+  "version": 3,
+  "changeset": 44000756,
+  "user": "Enmanuel Antonio Hidalgo Ventura",
+  "uid": 4865233,
+  "center": {
+    "lat": 18.5277901,
+    "lon": -69.8142280
+  },
+  "nodes": [
+    3507830450,
+    3507830451,
+    3507830452,
+    3507830453,
+    3507830450
+  ],
+  "tags": {
+    "addr:street": "Calle Miguel Diaz",
+    "amenity": "hospital",
+    "name": "Santo Tomas de Villa Nueva",
+    "name:es": "Sub-Centro Parroquial de Salud \"Santo Tomas de Villa Nueva\"",
+    "opening_hours": "24/7"
+  }
+}
+
+  ]
+}

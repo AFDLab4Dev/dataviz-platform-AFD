@@ -1,0 +1,170 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/123770924",
+  "properties": {
+    "timestamp": "2013-11-25T21:34:29Z",
+    "version": 2,
+    "changeset": 19117638,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "marketplace",
+    "name": "سوق حد حرارة الأسبوعي",
+    "id": "way/123770924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.1330841,
+      32.4390297
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/128927957",
+  "properties": {
+    "timestamp": "2015-04-14T14:11:35Z",
+    "version": 5,
+    "changeset": 30213624,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "id": "way/128927957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.240747,
+      32.2996012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/128927960",
+  "properties": {
+    "timestamp": "2015-04-14T14:11:35Z",
+    "version": 5,
+    "changeset": 30213624,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "id": "way/128927960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2405881,
+      32.2998736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319549567",
+  "properties": {
+    "timestamp": "2014-12-30T12:19:53Z",
+    "version": 1,
+    "changeset": 27793423,
+    "user": "BADR OUAHBI",
+    "uid": 2295803,
+    "amenity": "marketplace",
+    "name": "Souk Labhayem",
+    "id": "way/319549567"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.1348407,
+      32.4379208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/325190030",
+  "properties": {
+    "timestamp": "2015-01-29T11:36:27Z",
+    "version": 1,
+    "changeset": 28483795,
+    "user": "BADR OUAHBI",
+    "uid": 2295803,
+    "amenity": "marketplace",
+    "id": "way/325190030"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2437129,
+      32.2727735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/370444546",
+  "properties": {
+    "timestamp": "2015-09-13T15:40:42Z",
+    "version": 1,
+    "changeset": 34002360,
+    "user": "Ismail ABI",
+    "uid": 3233624,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/370444546"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2496567,
+      32.2616508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/431525020",
+  "properties": {
+    "timestamp": "2016-07-17T13:37:02Z",
+    "version": 1,
+    "changeset": 40798447,
+    "user": "Moums99",
+    "uid": 1685874,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/431525020"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2431551,
+      32.298551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3741478560",
+  "properties": {
+    "timestamp": "2015-09-13T16:23:19Z",
+    "version": 1,
+    "changeset": 34003365,
+    "user": "Ismail ABI",
+    "uid": 3233624,
+    "amenity": "marketplace",
+    "name": "souk nsaa",
+    "id": "node/3741478560"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2460631,
+      32.2646368
+    ]
+  }
+}
+]
+}

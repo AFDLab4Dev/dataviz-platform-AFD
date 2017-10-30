@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/231919901",
+  "properties": {
+    "timestamp": "2013-07-31T13:19:13Z",
+    "version": 3,
+    "changeset": 17166151,
+    "user": "ndongpotter",
+    "uid": 1158295,
+    "amenity": "townhall",
+    "name": "Hotel de Ville de Tsévié",
+    "office": "administrative",
+    "source": "Bing;survey",
+    "id": "way/231919901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2127909,
+      6.4315868
+    ]
+  }
+}
+]
+}

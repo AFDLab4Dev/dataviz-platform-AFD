@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/435464203",
+  "properties": {
+    "timestamp": "2016-08-03T13:09:10Z",
+    "version": 1,
+    "changeset": 41214364,
+    "user": "CMailly",
+    "uid": 3741436,
+    "amenity": "hospital",
+    "name": "Public Health Center",
+    "id": "way/435464203"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.2722857,
+      7.9154528
+    ]
+  }
+}
+]
+}

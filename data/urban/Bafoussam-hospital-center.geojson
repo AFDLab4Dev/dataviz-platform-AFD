@@ -1,0 +1,627 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/282972539",
+  "properties": {
+    "timestamp": "2014-05-19T18:27:01Z",
+    "version": 1,
+    "changeset": 22430312,
+    "user": "beranger_gilles",
+    "uid": 1834779,
+    "amenity": "hospital",
+    "name": "Dispensaire de Banegang",
+    "id": "way/282972539"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3096889,
+      5.481475
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/317206196",
+  "properties": {
+    "timestamp": "2014-12-14T15:12:51Z",
+    "version": 1,
+    "changeset": 27460311,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hôpital régional de Bafoussam",
+    "id": "way/317206196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4078902,
+      5.489828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/372730708",
+  "properties": {
+    "timestamp": "2015-09-28T16:59:29Z",
+    "version": 1,
+    "changeset": 34308386,
+    "user": "snapping",
+    "uid": 1895849,
+    "amenity": "hospital",
+    "building": "yes",
+    "id": "way/372730708"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4168332,
+      5.4815271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377856655",
+  "properties": {
+    "timestamp": "2015-11-01T14:30:58Z",
+    "version": 1,
+    "changeset": 35012447,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Bamendjou",
+    "amenity": "hospital",
+    "name": "Hôptial de District",
+    "id": "way/377856655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3291239,
+      5.388907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385233868",
+  "properties": {
+    "timestamp": "2016-06-15T09:48:19Z",
+    "version": 2,
+    "changeset": 40035007,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre de Santé la Prudence",
+    "id": "way/385233868"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.438125,
+      5.4579663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385279814",
+  "properties": {
+    "timestamp": "2016-06-15T16:26:46Z",
+    "version": 4,
+    "changeset": 40042074,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé humanitaire de Batoukop",
+    "id": "way/385279814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4765092,
+      5.4743212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385490934",
+  "properties": {
+    "timestamp": "2016-06-15T16:26:46Z",
+    "version": 4,
+    "changeset": 40042074,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré de Bamendzi III",
+    "id": "way/385490934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4574825,
+      5.4802684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/385565926",
+  "properties": {
+    "timestamp": "2016-06-15T16:26:46Z",
+    "version": 4,
+    "changeset": 40042074,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Batoukop",
+    "id": "way/385565926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4843025,
+      5.4816759
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/394596554",
+  "properties": {
+    "timestamp": "2016-06-16T10:49:17Z",
+    "version": 2,
+    "changeset": 40063374,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre de Soigne Paleatifs et de maladies de Lafe",
+    "id": "way/394596554"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3912276,
+      5.5104474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/395447479",
+  "properties": {
+    "timestamp": "2016-06-15T15:01:54Z",
+    "version": 2,
+    "changeset": 40040547,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre Medical de TYO-Ville",
+    "id": "way/395447479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4091506,
+      5.4877804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424078895",
+  "properties": {
+    "timestamp": "2016-06-17T16:47:19Z",
+    "version": 2,
+    "changeset": 40098998,
+    "user": "outing",
+    "uid": 3815652,
+    "addr:city": "B",
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Hopital king place",
+    "id": "way/424078895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4275515,
+      5.4683886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424738511",
+  "properties": {
+    "timestamp": "2016-06-14T21:50:32Z",
+    "version": 2,
+    "changeset": 40027478,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hopital Famla",
+    "id": "way/424738511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4199882,
+      5.4770605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425149110",
+  "properties": {
+    "timestamp": "2016-07-01T11:03:15Z",
+    "version": 3,
+    "changeset": 40413994,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Acha Annex",
+    "id": "way/425149110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4232129,
+      5.4566776
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425149111",
+  "properties": {
+    "timestamp": "2016-06-15T15:55:21Z",
+    "version": 1,
+    "changeset": 40041513,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de Soins Agapé",
+    "id": "way/425149111"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4359175,
+      5.4566196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425149113",
+  "properties": {
+    "timestamp": "2016-06-15T15:55:21Z",
+    "version": 1,
+    "changeset": 40041513,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Ndiembou-Kam",
+    "id": "way/425149113"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4512608,
+      5.4405521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425149114",
+  "properties": {
+    "timestamp": "2016-06-15T15:55:21Z",
+    "version": 1,
+    "changeset": 40041513,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré",
+    "id": "way/425149114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4094767,
+      5.4531401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425149115",
+  "properties": {
+    "timestamp": "2016-06-15T15:55:21Z",
+    "version": 1,
+    "changeset": 40041513,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Hôpital de la Police",
+    "id": "way/425149115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.430668,
+      5.4572948
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425152132",
+  "properties": {
+    "timestamp": "2016-06-15T16:04:28Z",
+    "version": 1,
+    "changeset": 40041684,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "yes",
+    "short_name": "CIRMI",
+    "id": "way/425152132"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4200276,
+      5.4743875
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425155465",
+  "properties": {
+    "timestamp": "2016-06-15T16:09:57Z",
+    "version": 1,
+    "changeset": 40041781,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Ngom Passam",
+    "id": "way/425155465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4268625,
+      5.4723748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425155467",
+  "properties": {
+    "timestamp": "2016-06-15T16:09:57Z",
+    "version": 1,
+    "changeset": 40041781,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Hopital Protestant Petit Mbouo",
+    "id": "way/425155467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4208209,
+      5.4821879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425159778",
+  "properties": {
+    "timestamp": "2016-06-15T16:21:09Z",
+    "version": 1,
+    "changeset": 40041971,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Bingo Baptist Hospital",
+    "id": "way/425159778"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4346322,
+      5.4781766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425159780",
+  "properties": {
+    "timestamp": "2016-06-15T16:21:09Z",
+    "version": 1,
+    "changeset": 40041971,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Islamique",
+    "id": "way/425159780"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4393807,
+      5.4832983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425160351",
+  "properties": {
+    "timestamp": "2016-06-15T16:26:45Z",
+    "version": 1,
+    "changeset": 40042074,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Centre de Santé Intégré de Demgoug",
+    "id": "way/425160351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4519477,
+      5.4725594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425160352",
+  "properties": {
+    "timestamp": "2016-06-15T16:26:45Z",
+    "version": 1,
+    "changeset": 40042074,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "SOS Santé",
+    "id": "way/425160352"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4493514,
+      5.4801528
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425160414",
+  "properties": {
+    "timestamp": "2016-06-15T16:27:31Z",
+    "version": 1,
+    "changeset": 40042098,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé Intégré de Tomdjo",
+    "id": "way/425160414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.5121023,
+      5.4879746
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425308951",
+  "properties": {
+    "timestamp": "2016-06-16T10:51:55Z",
+    "version": 1,
+    "changeset": 40063456,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre Medical d'Arrondissement de Lafe Baleng",
+    "id": "way/425308951"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3938107,
+      5.5079275
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425328363",
+  "properties": {
+    "timestamp": "2016-06-16T13:03:34Z",
+    "version": 1,
+    "changeset": 40066263,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre Medical la Trinite",
+    "id": "way/425328363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3921784,
+      5.50168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425510250",
+  "properties": {
+    "timestamp": "2016-06-17T09:21:55Z",
+    "version": 1,
+    "changeset": 40087338,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "Centre de Sante Islamique",
+    "id": "way/425510250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4393869,
+      5.4831858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4404298342",
+  "properties": {
+    "timestamp": "2016-09-16T14:34:57Z",
+    "version": 1,
+    "changeset": 42204628,
+    "user": "hassanchris",
+    "uid": 703186,
+    "addr:city": "Mbouo, Bandjoun, Bafoussam",
+    "amenity": "hospital",
+    "name": "Hôpital Protestant de Mbouo",
+    "id": "node/4404298342"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4190031,
+      5.4347125
+    ]
+  }
+}
+]
+}

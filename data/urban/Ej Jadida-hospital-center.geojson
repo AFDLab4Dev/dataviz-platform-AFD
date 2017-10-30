@@ -1,0 +1,216 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/167316961",
+  "properties": {
+    "timestamp": "2012-06-14T12:39:17Z",
+    "version": 1,
+    "changeset": 11894832,
+    "user": "meloma",
+    "uid": 557857,
+    "amenity": "hospital",
+    "designation": "Polyclinique",
+    "emergency": "yes",
+    "name": "Polyclinique",
+    "id": "way/167316961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.3539011,
+      33.2840335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320778512",
+  "properties": {
+    "timestamp": "2015-01-07T09:48:59Z",
+    "version": 1,
+    "changeset": 27972857,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Nouveau Hôpital Provincial d'El Jadida",
+    "id": "way/320778512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4793946,
+      33.2360803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320833372",
+  "properties": {
+    "timestamp": "2015-01-07T16:50:41Z",
+    "version": 1,
+    "changeset": 27979847,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Clinique Les Palmiers",
+    "id": "way/320833372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.4926917,
+      33.243736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320939008",
+  "properties": {
+    "timestamp": "2015-01-08T09:17:11Z",
+    "version": 1,
+    "changeset": 27992210,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Hôpital Mohamed V",
+    "id": "way/320939008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5092263,
+      33.2508557
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320947339",
+  "properties": {
+    "timestamp": "2015-01-08T10:10:15Z",
+    "version": 1,
+    "changeset": 27992210,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Polyclinique CNSS",
+    "id": "way/320947339"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.519467,
+      33.24657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320947340",
+  "properties": {
+    "timestamp": "2015-01-08T10:10:16Z",
+    "version": 1,
+    "changeset": 27992210,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Croissant Rouge Marocain",
+    "id": "way/320947340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5119542,
+      33.2459395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320954116",
+  "properties": {
+    "timestamp": "2015-01-08T11:01:13Z",
+    "version": 1,
+    "changeset": 27992210,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Hôpital Essaada",
+    "id": "way/320954116"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5305848,
+      33.2431155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322202369",
+  "properties": {
+    "timestamp": "2015-01-15T09:51:18Z",
+    "version": 1,
+    "changeset": 28155695,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Clinique Doukkala",
+    "id": "way/322202369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5080323,
+      33.2491755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/322202376",
+  "properties": {
+    "timestamp": "2015-01-15T09:51:19Z",
+    "version": 1,
+    "changeset": 28155695,
+    "user": "asatue",
+    "uid": 2511305,
+    "amenity": "hospital",
+    "name": "Centre d'Hémodialyse Moulay Abdellah",
+    "id": "way/322202376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.5104201,
+      33.2487606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1787435914",
+  "properties": {
+    "timestamp": "2012-06-14T14:57:46Z",
+    "version": 1,
+    "changeset": 11895493,
+    "user": "meloma",
+    "uid": 557857,
+    "amenity": "hospital",
+    "id": "node/1787435914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.3538118,
+      33.2839717
+    ]
+  }
+}
+]
+}

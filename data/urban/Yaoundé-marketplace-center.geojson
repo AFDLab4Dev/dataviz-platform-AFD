@@ -1,0 +1,836 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/35968865",
+  "properties": {
+    "timestamp": "2013-09-08T18:00:01Z",
+    "version": 4,
+    "changeset": 17737403,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Madagascar",
+    "opening_hours": "Mo-Su 07:00-17:30; We off",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/35968865"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4927656,
+      3.8803805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/188156910",
+  "properties": {
+    "timestamp": "2013-02-18T11:24:32Z",
+    "version": 4,
+    "changeset": 15075977,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "way/188156910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5190212,
+      3.8500182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/188700997",
+  "properties": {
+    "timestamp": "2013-09-07T09:38:39Z",
+    "version": 2,
+    "changeset": 17715371,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "name": "Marché Artisanal",
+    "id": "way/188700997"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5180466,
+      3.8712073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/191248687",
+  "properties": {
+    "timestamp": "2013-05-04T10:01:31Z",
+    "version": 5,
+    "changeset": 15969246,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché d'Ekounou",
+    "id": "way/191248687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5427563,
+      3.8448539
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192689716",
+  "properties": {
+    "timestamp": "2013-04-22T21:53:02Z",
+    "version": 2,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "building": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/192689716"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.487352,
+      3.8954647
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192819651",
+  "properties": {
+    "timestamp": "2012-11-26T01:24:58Z",
+    "version": 1,
+    "changeset": 14039491,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Central",
+    "source": "sobzeros",
+    "id": "way/192819651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.518022,
+      3.8659305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192826006",
+  "properties": {
+    "timestamp": "2014-08-20T16:30:56Z",
+    "version": 4,
+    "changeset": 24889152,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Marché aux Fleurs",
+    "id": "way/192826006"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5169188,
+      3.8685056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192830581",
+  "properties": {
+    "timestamp": "2013-04-22T21:53:03Z",
+    "version": 2,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/192830581"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.540465,
+      3.8718788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192839039",
+  "properties": {
+    "timestamp": "2013-04-22T21:53:02Z",
+    "version": 2,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/192839039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4782521,
+      3.8627165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/198522361",
+  "properties": {
+    "timestamp": "2013-04-22T21:53:03Z",
+    "version": 2,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/198522361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5305814,
+      3.8899924
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/198684142",
+  "properties": {
+    "timestamp": "2013-08-19T15:19:31Z",
+    "version": 6,
+    "changeset": 17412805,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché d'Essos",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/198684142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5424042,
+      3.8698804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/198805766",
+  "properties": {
+    "timestamp": "2016-04-14T09:28:14Z",
+    "version": 3,
+    "changeset": 38550951,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Nkolndongo",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/198805766"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5321786,
+      3.8618204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/205376234",
+  "properties": {
+    "timestamp": "2013-03-06T15:13:28Z",
+    "version": 2,
+    "changeset": 15271311,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "marketplace",
+    "name": "Marché de Mendong",
+    "id": "way/205376234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4700481,
+      3.8320741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/207490870",
+  "properties": {
+    "timestamp": "2013-09-05T16:02:14Z",
+    "version": 7,
+    "changeset": 17689984,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Mvog-Betsi",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/207490870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863545,
+      3.8662263
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539491",
+  "properties": {
+    "timestamp": "2015-05-25T18:19:09Z",
+    "version": 2,
+    "changeset": 31453306,
+    "user": "tchayep aurélien",
+    "uid": 2923378,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Foire de Tsinga",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4990596,
+      3.8954592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539492",
+  "properties": {
+    "timestamp": "2015-12-08T17:03:47Z",
+    "version": 3,
+    "changeset": 35830099,
+    "user": "mmarks91",
+    "uid": 3361553,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Grand Marché de Biyem-Assi",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539492"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4864623,
+      3.8356854
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539493",
+  "properties": {
+    "timestamp": "2016-09-13T14:05:38Z",
+    "version": 6,
+    "changeset": 42126597,
+    "user": "zaizone",
+    "uid": 1122708,
+    "alt_name": "marché Acacias",
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Grand Marché de Biyem-Assi",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4886476,
+      3.842114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539494",
+  "properties": {
+    "timestamp": "2013-04-22T21:52:47Z",
+    "version": 1,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539494"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5533137,
+      3.8692044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539495",
+  "properties": {
+    "timestamp": "2013-04-22T21:52:47Z",
+    "version": 1,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4677412,
+      3.8829289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539497",
+  "properties": {
+    "timestamp": "2016-10-23T22:28:31Z",
+    "version": 2,
+    "changeset": 43110445,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4711932,
+      3.8360653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539498",
+  "properties": {
+    "timestamp": "2013-04-22T21:52:56Z",
+    "version": 1,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5100817,
+      3.8293039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539499",
+  "properties": {
+    "timestamp": "2015-01-20T12:47:44Z",
+    "version": 3,
+    "changeset": 28275228,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539499"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5178575,
+      3.8662918
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539502",
+  "properties": {
+    "timestamp": "2014-04-09T13:41:29Z",
+    "version": 5,
+    "changeset": 21589540,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Mokolo",
+    "opening_hours": "Mo-Su 08:00-18:00; We off",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539502"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5007543,
+      3.8745874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539503",
+  "properties": {
+    "timestamp": "2013-09-08T18:00:02Z",
+    "version": 2,
+    "changeset": 17737403,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché aux Bestiaux",
+    "opening_hours": "Mo-Sa 07:00-18:00",
+    "ressource": "sheep;goat",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4942623,
+      3.887414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539504",
+  "properties": {
+    "timestamp": "2013-05-03T14:48:52Z",
+    "version": 2,
+    "changeset": 15961371,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché de Bois",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5442616,
+      3.8245639
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539506",
+  "properties": {
+    "timestamp": "2013-04-22T21:52:59Z",
+    "version": 1,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché de Sable et Gravier",
+    "resource": "sand",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5413308,
+      3.8353148
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539507",
+  "properties": {
+    "timestamp": "2014-04-14T16:43:28Z",
+    "version": 3,
+    "changeset": 21689620,
+    "user": "KDRT",
+    "uid": 1842847,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché du 8",
+    "opening_hours": "Mo-Sa 07:00-18:00",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4970379,
+      3.8890327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218539508",
+  "properties": {
+    "timestamp": "2014-04-01T15:26:21Z",
+    "version": 3,
+    "changeset": 21441651,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Étoudi",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "way/218539508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5251636,
+      3.9149377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/223994350",
+  "properties": {
+    "timestamp": "2016-11-20T21:01:18Z",
+    "version": 2,
+    "changeset": 43832223,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "marketplace",
+    "landuse": "retail",
+    "name": "Marché Mfoundi A",
+    "id": "way/223994350"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5231115,
+      3.8643084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/236959045",
+  "properties": {
+    "timestamp": "2013-09-07T09:12:08Z",
+    "version": 1,
+    "changeset": 17715050,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Marché aux Fruits et Légumes",
+    "id": "way/236959045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5190526,
+      3.8696862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295974950",
+  "properties": {
+    "timestamp": "2014-08-05T10:00:18Z",
+    "version": 1,
+    "changeset": 24552168,
+    "user": "TSF Cameroun",
+    "uid": 2141461,
+    "amenity": "marketplace",
+    "source": "Survey TSF Cameroun 2014",
+    "id": "way/295974950"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5936386,
+      3.9756814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1987811293",
+  "properties": {
+    "timestamp": "2012-10-28T23:41:40Z",
+    "version": 1,
+    "changeset": 13668602,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "marketplace",
+    "name": "Marché de Mvog Mbi",
+    "id": "node/1987811293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5208378,
+      3.8505723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2277734243",
+  "properties": {
+    "timestamp": "2013-04-22T21:52:40Z",
+    "version": 1,
+    "changeset": 15830520,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "source": "PFE(IT3) ENSTP Yaoundé - 2010",
+    "id": "node/2277734243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.522377,
+      3.8640044
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2305508607",
+  "properties": {
+    "timestamp": "2013-05-15T19:30:27Z",
+    "version": 1,
+    "changeset": 16143461,
+    "user": "aOne",
+    "uid": 1452475,
+    "amenity": "marketplace",
+    "id": "node/2305508607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5212009,
+      3.8882545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2305512557",
+  "properties": {
+    "timestamp": "2013-05-15T19:34:12Z",
+    "version": 1,
+    "changeset": 16143508,
+    "user": "aOne",
+    "uid": 1452475,
+    "amenity": "marketplace",
+    "id": "node/2305512557"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5240354,
+      3.8641012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2305517441",
+  "properties": {
+    "timestamp": "2013-05-15T19:36:06Z",
+    "version": 1,
+    "changeset": 16143541,
+    "user": "aOne",
+    "uid": 1452475,
+    "amenity": "marketplace",
+    "id": "node/2305517441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5174677,
+      3.8670588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2381896693",
+  "properties": {
+    "timestamp": "2013-07-12T00:03:24Z",
+    "version": 1,
+    "changeset": 16920084,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "marketplace",
+    "name": "Marché de Nkol Eton",
+    "id": "node/2381896693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5200739,
+      3.8883901
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,58 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/251369723",
+  "properties": {
+    "timestamp": "2016-09-24T16:54:15Z",
+    "version": 5,
+    "changeset": 42408107,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Libreville",
+    "addr:housenumber": "680",
+    "addr:postcode": "BP13131",
+    "addr:street": "Boulevard du Président Léon M'ba",
+    "amenity": "university",
+    "name": "Université Omar Bongo",
+    "name:en": "Omar Bongo University",
+    "old_name": "Université nationale du Gabon",
+    "old_name:en": "National University of Gabon",
+    "ref": "Universite Omar Bongo Ondimba",
+    "website": "http://www.uob.ga/",
+    "wikidata": "Q3551470",
+    "wikipedia": "en:Omar Bongo University",
+    "id": "way/251369723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4452503,
+      0.4185627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4752937914",
+  "properties": {
+    "timestamp": "2017-03-24T13:50:34Z",
+    "version": 1,
+    "changeset": 47125278,
+    "user": "pary babey",
+    "uid": 4345490,
+    "amenity": "university",
+    "name": "Campus UOB",
+    "id": "node/4752937914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.4435292,
+      0.4179229
+    ]
+  }
+}
+]
+}

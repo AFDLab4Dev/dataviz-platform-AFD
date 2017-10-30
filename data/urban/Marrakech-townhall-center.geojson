@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/34286463",
+  "properties": {
+    "timestamp": "2015-09-07T12:15:36Z",
+    "version": 3,
+    "changeset": 33854894,
+    "user": "Eebie",
+    "uid": 715684,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hotel de Ville",
+    "id": "way/34286463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9980018,
+      31.6285016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/288220062",
+  "properties": {
+    "timestamp": "2016-06-16T18:47:33Z",
+    "version": 3,
+    "changeset": 40074358,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Annexe Hotel de Ville",
+    "id": "way/288220062"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0151885,
+      31.6264788
+    ]
+  }
+}
+]
+}

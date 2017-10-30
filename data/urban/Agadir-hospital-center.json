@@ -1,0 +1,334 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:43:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1056895892,
+  "lat": 30.4364436,
+  "lon": -9.5906314,
+  "timestamp": "2016-02-19T17:21:35Z",
+  "version": 4,
+  "changeset": 37313078,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Hassan II"
+  }
+},
+{
+  "type": "node",
+  "id": 1509637087,
+  "lat": 30.4111154,
+  "lon": -9.5570751,
+  "timestamp": "2016-01-24T17:04:35Z",
+  "version": 2,
+  "changeset": 36779806,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire de Dakhla"
+  }
+},
+{
+  "type": "node",
+  "id": 3994099031,
+  "lat": 30.3757529,
+  "lon": -9.5502319,
+  "timestamp": "2016-04-20T16:02:14Z",
+  "version": 2,
+  "changeset": 38732585,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "المستشفى العسكري",
+    "name:en": "Military Hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4014963861,
+  "lat": 30.4373574,
+  "lon": -9.5918680,
+  "timestamp": "2016-02-19T17:19:26Z",
+  "version": 1,
+  "changeset": 37313043,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre Oncologie"
+  }
+},
+{
+  "type": "node",
+  "id": 4014963868,
+  "lat": 30.4370606,
+  "lon": -9.5885356,
+  "timestamp": "2016-02-20T11:15:20Z",
+  "version": 2,
+  "changeset": 37326486,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Institut de Formation aux Carrières de Santé (IFCS)",
+    "office": "educational_institution"
+  }
+},
+{
+  "type": "node",
+  "id": 4366415095,
+  "lat": 30.4233322,
+  "lon": -9.5834230,
+  "timestamp": "2016-08-25T15:04:02Z",
+  "version": 1,
+  "changeset": 41690607,
+  "user": "mokyamok",
+  "uid": 4474900,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Tilila"
+  }
+},
+{
+  "type": "way",
+  "id": 381345487,
+  "timestamp": "2016-06-05T10:47:31Z",
+  "version": 3,
+  "changeset": 39813650,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3530517,
+    "lon": -9.5365689
+  },
+  "nodes": [
+    3845650010,
+    3845650011,
+    3845650012,
+    3997584533,
+    3845650013,
+    3845650014,
+    3997584541,
+    3845650010
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "المستشفى الاقليمي لانزكان"
+  }
+},
+{
+  "type": "way",
+  "id": 422929470,
+  "timestamp": "2016-07-02T15:56:49Z",
+  "version": 2,
+  "changeset": 40443169,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3535448,
+    "lon": -9.5349179
+  },
+  "nodes": [
+    4226531120,
+    4278553208,
+    4226531119,
+    4226531118,
+    4226531117,
+    4226531120
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "مركز صحي"
+  }
+},
+{
+  "type": "way",
+  "id": 381294710,
+  "timestamp": "2016-02-25T12:28:57Z",
+  "version": 6,
+  "changeset": 37433913,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3667288,
+    "lon": -9.5412183
+  },
+  "nodes": [
+    3845242158,
+    3845242159,
+    3845242165,
+    3845242160,
+    3845242161,
+    4020817600,
+    4025870397,
+    3845242162,
+    4025870394,
+    3845242163,
+    4020817599,
+    4020817598,
+    3845242164,
+    3845242158
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre de santé Irhalne المركز الصحي إرحالن",
+    "name:ar": "المركز الصحي إرحالن",
+    "name:fr": "Centre de santé Irhalne"
+  }
+},
+{
+  "type": "way",
+  "id": 383480299,
+  "timestamp": "2016-07-23T18:24:43Z",
+  "version": 3,
+  "changeset": 40977006,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3719426,
+    "lon": -9.5324277
+  },
+  "nodes": [
+    3867531174,
+    3867531175,
+    3867531176,
+    3867531177,
+    3867531178,
+    4317374370,
+    3867531174
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Tabarine"
+  }
+},
+{
+  "type": "way",
+  "id": 382248560,
+  "timestamp": "2015-11-29T17:01:53Z",
+  "version": 2,
+  "changeset": 35650396,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3674101,
+    "lon": -9.5258537
+  },
+  "nodes": [
+    3854417085,
+    3854417086,
+    3854417087,
+    3867531169,
+    3867531168,
+    3854417088,
+    3854417085
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé"
+  }
+},
+{
+  "type": "way",
+  "id": 395344587,
+  "timestamp": "2016-02-01T17:34:55Z",
+  "version": 1,
+  "changeset": 36941541,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.3768019,
+    "lon": -9.5029896
+  },
+  "nodes": [
+    3982487279,
+    3982487280,
+    3982487281,
+    3982487282,
+    3982487279
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 381821157,
+  "timestamp": "2015-11-21T21:17:43Z",
+  "version": 1,
+  "changeset": 35497343,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.4282209,
+    "lon": -9.5895525
+  },
+  "nodes": [
+    3849879640,
+    3849879641,
+    3849879642,
+    3849879646,
+    3849879643,
+    3849879644,
+    3849879645,
+    3849879640
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "way",
+  "id": 398750216,
+  "timestamp": "2016-02-19T17:19:26Z",
+  "version": 2,
+  "changeset": 37313043,
+  "user": "Aboudrar Said",
+  "uid": 2209556,
+  "center": {
+    "lat": 30.4363054,
+    "lon": -9.5908043
+  },
+  "nodes": [
+    1055275205,
+    1055275202,
+    1055275212,
+    1055275211,
+    1055275200,
+    1055275193,
+    3921125796,
+    3921125797,
+    1055275195,
+    1055275183,
+    4014963862,
+    1057366381,
+    1085905512,
+    1085907914,
+    1055275190,
+    4014880570,
+    4014880569,
+    4014880568,
+    4014951605,
+    4014951606,
+    4014950258,
+    4014950252,
+    1055275205
+  ],
+  "tags": {
+    "amenity": "hospital"
+  }
+}
+
+  ]
+}

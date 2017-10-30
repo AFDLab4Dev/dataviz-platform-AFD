@@ -1,0 +1,141 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/299537305",
+  "properties": {
+    "timestamp": "2016-11-18T22:46:57Z",
+    "version": 3,
+    "changeset": 43782450,
+    "user": "zaizone",
+    "uid": 1122708,
+    "alt_name": "Mairie Douala IV",
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de ville Douala IV",
+    "source": "Plan polyvalent Douala",
+    "id": "way/299537305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6844972,
+      4.0701733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299539679",
+  "properties": {
+    "timestamp": "2016-11-01T17:57:54Z",
+    "version": 3,
+    "changeset": 43332236,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de Ville",
+    "source": "Plan polyvalent Douala",
+    "id": "way/299539679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6858233,
+      4.0416932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300313662",
+  "properties": {
+    "timestamp": "2016-12-03T23:08:37Z",
+    "version": 4,
+    "changeset": 44148083,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Douala lll",
+    "source": "Plan polyvalent Douala",
+    "id": "way/300313662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7564351,
+      4.0371399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362984924",
+  "properties": {
+    "timestamp": "2015-09-03T15:16:59Z",
+    "version": 2,
+    "changeset": 33775605,
+    "user": "snapping",
+    "uid": 1895849,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Dibombari",
+    "id": "way/362984924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6570604,
+      4.1770466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368954153",
+  "properties": {
+    "timestamp": "2015-09-03T15:16:59Z",
+    "version": 1,
+    "changeset": 33775605,
+    "user": "snapping",
+    "uid": 1895849,
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de Ville de Dibombari en Chantier",
+    "id": "way/368954153"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6570844,
+      4.1777413
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456116146",
+  "properties": {
+    "timestamp": "2016-11-26T21:43:43Z",
+    "version": 1,
+    "changeset": 43972375,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Douala 5",
+    "id": "way/456116146"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7407448,
+      4.0894513
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 306080865,
+  "timestamp": "2015-01-19T10:46:43Z",
+  "version": 3,
+  "changeset": 28249577,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6836147,
+    "lon": -1.9150609
+  },
+  "nodes": [
+    3108925762,
+    3293501263,
+    3108925764,
+    3293500121,
+    3293501171,
+    3108925776,
+    3108925782,
+    3293501069,
+    3108925760,
+    3293501264,
+    3108925759,
+    3108925762
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Siège de la Commune Urbaine Oujda",
+    "name:fr": "Siège de la Commune Urbaine Oujda"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,342 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/202488344",
+  "properties": {
+    "timestamp": "2013-01-22T22:24:45Z",
+    "version": 1,
+    "changeset": 14751567,
+    "user": "FrankKlee",
+    "uid": 678922,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Salaga Market",
+    "id": "way/202488344"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2096873,
+      5.5401817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/261185626",
+  "properties": {
+    "timestamp": "2014-02-12T07:19:20Z",
+    "version": 1,
+    "changeset": 20516811,
+    "user": "oba510",
+    "uid": 933797,
+    "amenity": "marketplace",
+    "name": "Tuesday Market",
+    "id": "way/261185626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2346042,
+      5.5309161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/295106221",
+  "properties": {
+    "timestamp": "2017-03-02T17:46:52Z",
+    "version": 4,
+    "changeset": 46528362,
+    "user": "DoodleBob",
+    "uid": 4339485,
+    "amenity": "marketplace",
+    "name": "Agbogbloshie Onion Market",
+    "id": "way/295106221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2264128,
+      5.555157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/377954173",
+  "properties": {
+    "timestamp": "2015-11-02T09:54:07Z",
+    "version": 1,
+    "changeset": 35029792,
+    "user": "GO_OSM",
+    "uid": 282860,
+    "amenity": "marketplace",
+    "name": "African Market",
+    "id": "way/377954173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1785204,
+      5.6244504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397552322",
+  "properties": {
+    "timestamp": "2016-02-12T22:47:11Z",
+    "version": 1,
+    "changeset": 37178398,
+    "user": "mapChica",
+    "uid": 2023331,
+    "amenity": "marketplace",
+    "building": "residential",
+    "name": "Tsui Bleo Market",
+    "id": "way/397552322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1067765,
+      5.5876045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/414615655",
+  "properties": {
+    "timestamp": "2016-05-24T10:46:23Z",
+    "version": 2,
+    "changeset": 39530342,
+    "user": "GO_OSM",
+    "uid": 282860,
+    "amenity": "marketplace",
+    "name": "Mallam Atta Market",
+    "shop": "greengrocer",
+    "id": "way/414615655"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2083065,
+      5.5798146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/419698151",
+  "properties": {
+    "timestamp": "2017-02-21T07:14:08Z",
+    "version": 2,
+    "changeset": 46265077,
+    "user": "Lexi Johnson",
+    "uid": 4803526,
+    "amenity": "marketplace",
+    "name": "Madina Market",
+    "id": "way/419698151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1694038,
+      5.6793672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1611124269",
+  "properties": {
+    "timestamp": "2016-05-20T12:16:15Z",
+    "version": 2,
+    "changeset": 39449369,
+    "user": "benste",
+    "uid": 358249,
+    "amenity": "marketplace",
+    "id": "node/1611124269"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2032663,
+      5.5490461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148020792",
+  "properties": {
+    "timestamp": "2013-02-09T18:04:46Z",
+    "version": 1,
+    "changeset": 14970604,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "name": "Chantan New Market",
+    "id": "node/2148020792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2564115,
+      5.6081302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148020840",
+  "properties": {
+    "timestamp": "2013-02-09T18:04:47Z",
+    "version": 1,
+    "changeset": 14970604,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "name": "Kisseman Market",
+    "id": "node/2148020840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2138419,
+      5.6392602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2148021097",
+  "properties": {
+    "timestamp": "2013-02-09T18:04:49Z",
+    "version": 1,
+    "changeset": 14970604,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "name": "Sabon Zongo Market",
+    "id": "node/2148021097"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2376556,
+      5.5523258
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944575",
+  "properties": {
+    "timestamp": "2013-02-12T15:20:07Z",
+    "version": 1,
+    "changeset": 15007672,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "name": "La Main Market",
+    "id": "node/2151944575"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1569241,
+      5.5607756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2151944591",
+  "properties": {
+    "timestamp": "2013-02-12T15:20:07Z",
+    "version": 1,
+    "changeset": 15007672,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "name": "Nungua Market",
+    "id": "node/2151944591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0792959,
+      5.6004693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2152138387",
+  "properties": {
+    "timestamp": "2013-02-12T17:55:46Z",
+    "version": 1,
+    "changeset": 15009231,
+    "user": "lowlevel",
+    "uid": 722172,
+    "amenity": "marketplace",
+    "id": "node/2152138387"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1691223,
+      5.6791257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3109282498",
+  "properties": {
+    "timestamp": "2014-10-03T12:58:58Z",
+    "version": 1,
+    "changeset": 25830724,
+    "user": "sylverhawk",
+    "uid": 726142,
+    "amenity": "marketplace",
+    "name": "Odoornaa Market",
+    "id": "node/3109282498"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2168619,
+      5.5686389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3154426148",
+  "properties": {
+    "timestamp": "2014-10-28T16:00:29Z",
+    "version": 1,
+    "changeset": 26387565,
+    "user": "sylverhawk",
+    "uid": 726142,
+    "amenity": "marketplace",
+    "name": "Lapaz Street Market",
+    "id": "node/3154426148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2480086,
+      5.60747
+    ]
+  }
+}
+]
+}

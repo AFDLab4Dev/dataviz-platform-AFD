@@ -1,0 +1,46 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/452069378",
+  "properties": {
+    "timestamp": "2016-11-08T13:35:52Z",
+    "version": 1,
+    "changeset": 43487278,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "university",
+    "name": "Universite Ibn Tofail",
+    "id": "way/452069378"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5857577,
+      34.2460729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452069470",
+  "properties": {
+    "timestamp": "2016-11-08T13:38:21Z",
+    "version": 2,
+    "changeset": 43487326,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "university",
+    "id": "way/452069470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5826488,
+      34.2465576
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,165 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/222937228",
+  "properties": {
+    "timestamp": "2013-05-24T19:44:59Z",
+    "version": 1,
+    "changeset": 16270530,
+    "user": "Josuefiallo",
+    "uid": 210945,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Senado de la República Dominicana",
+    "id": "way/222937228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9250169,
+      18.4489133
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222937932",
+  "properties": {
+    "timestamp": "2013-05-24T19:47:48Z",
+    "version": 1,
+    "changeset": 16270568,
+    "user": "Josuefiallo",
+    "uid": 210945,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Salón de la Asamblea Nacional",
+    "id": "way/222937932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9251007,
+      18.4493713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222939565",
+  "properties": {
+    "timestamp": "2013-05-24T20:03:33Z",
+    "version": 2,
+    "changeset": 16270771,
+    "user": "Josuefiallo",
+    "uid": 210945,
+    "addr:city": "Santo Domingo",
+    "addr:postcode": "10101",
+    "addr:street": "Avenida Jiménez Moya",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Cámara de Diputados",
+    "phone": "809-535-2626",
+    "website": "http://www.camaradediputados.gob.do/",
+    "id": "way/222939565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9254809,
+      18.4495916
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/301809368",
+  "properties": {
+    "timestamp": "2015-12-09T01:46:00Z",
+    "version": 2,
+    "changeset": 35837878,
+    "user": "renesigma",
+    "uid": 1139318,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ayuntamiento Santo Domingo Este (nuevo)",
+    "id": "way/301809368"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8587521,
+      18.5048127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/304020254",
+  "properties": {
+    "timestamp": "2016-05-10T21:52:11Z",
+    "version": 3,
+    "changeset": 39229102,
+    "user": "Canyonsrcool",
+    "uid": 126508,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ayuntamiento de Santo Domingo Norte",
+    "source": "KG Ground Survey 2016",
+    "id": "way/304020254"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9153714,
+      18.5208448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1878164591",
+  "properties": {
+    "timestamp": "2013-06-24T02:08:27Z",
+    "version": 3,
+    "changeset": 16677851,
+    "user": "NelfiNova",
+    "uid": 1573875,
+    "amenity": "townhall",
+    "leisure": "sports_centre",
+    "name": "Club de los Legisladores",
+    "wheelchair": "yes",
+    "id": "node/1878164591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.8490413,
+      18.4702805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4618262611",
+  "properties": {
+    "timestamp": "2017-01-19T12:39:33Z",
+    "version": 1,
+    "changeset": 45296454,
+    "user": "luis alfonso",
+    "uid": 2534829,
+    "amenity": "townhall",
+    "name": "Consulado Americano",
+    "id": "node/4618262611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.9640114,
+      18.5091969
+    ]
+  }
+}
+]
+}

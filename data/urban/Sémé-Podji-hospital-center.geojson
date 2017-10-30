@@ -1,0 +1,356 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/376980825",
+  "properties": {
+    "timestamp": "2016-04-28T13:10:07Z",
+    "version": 5,
+    "changeset": 38950149,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Hopital de Zone d'EKPE",
+    "source": "bing",
+    "source:date": "12/16/2013",
+    "id": "way/376980825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5415107,
+      6.3867284
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/379586649",
+  "properties": {
+    "timestamp": "2016-11-10T09:43:15Z",
+    "version": 4,
+    "changeset": 43529491,
+    "user": "Marian_Hoi",
+    "uid": 4751876,
+    "amenity": "hospital",
+    "name": "Islamic Hospital",
+    "name:fr": "Hôpital Musulman",
+    "id": "way/379586649"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6022948,
+      6.517814
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415781860",
+  "properties": {
+    "timestamp": "2016-09-13T18:39:02Z",
+    "version": 3,
+    "changeset": 42133006,
+    "user": "IbnTēšfīn",
+    "uid": 4260390,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé de Tohoué",
+    "id": "way/415781860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6660667,
+      6.4325059
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619439185",
+  "properties": {
+    "timestamp": "2014-01-14T14:19:30Z",
+    "version": 2,
+    "changeset": 19991636,
+    "user": "slyon",
+    "uid": 54377,
+    "amenity": "hospital",
+    "name": "Centre Medico Social \"Salem\"",
+    "id": "node/2619439185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6348347,
+      6.5149012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619439229",
+  "properties": {
+    "timestamp": "2014-01-12T09:08:51Z",
+    "version": 1,
+    "changeset": 19948594,
+    "user": "slyon",
+    "uid": 54377,
+    "amenity": "hospital",
+    "name": "St. Nom de Jesus",
+    "id": "node/2619439229"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.630456,
+      6.5085373
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2619447817",
+  "properties": {
+    "timestamp": "2014-01-12T09:23:52Z",
+    "version": 1,
+    "changeset": 19948775,
+    "user": "slyon",
+    "uid": 54377,
+    "amenity": "hospital",
+    "name": "Les Oliviers",
+    "id": "node/2619447817"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6300123,
+      6.4940863
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3629965075",
+  "properties": {
+    "timestamp": "2016-02-19T18:56:02Z",
+    "version": 2,
+    "changeset": 37315190,
+    "user": "linda91",
+    "uid": 3642382,
+    "amenity": "hospital",
+    "name": "Antonio",
+    "id": "node/3629965075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6239369,
+      6.5112614
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3995348459",
+  "properties": {
+    "timestamp": "2016-02-08T12:48:07Z",
+    "version": 1,
+    "changeset": 37078855,
+    "user": "okeimute",
+    "uid": 3536367,
+    "addr:street": "AVRANKOU",
+    "amenity": "hospital",
+    "name": "CLINIQUE LA PAIX",
+    "id": "node/3995348459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.73156,
+      6.5379257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4113030008",
+  "properties": {
+    "timestamp": "2016-04-11T01:20:12Z",
+    "version": 1,
+    "changeset": 38463710,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "abandoned": "no",
+    "amenity": "hospital",
+    "disused": "no",
+    "health_facility:type": "hospital",
+    "name": "CENTRE MEDICO SOCIAL DE HOULAZOUME",
+    "operator": "CROIX ROUGE",
+    "operator:type": "ngo",
+    "source": "Bing;survey",
+    "id": "node/4113030008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.541073,
+      6.4524724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4167450224",
+  "properties": {
+    "timestamp": "2016-09-13T18:39:01Z",
+    "version": 2,
+    "changeset": 42133006,
+    "user": "IbnTēšfīn",
+    "uid": 4260390,
+    "amenity": "hospital",
+    "name": "Maternité de Tohoué",
+    "id": "node/4167450224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6615525,
+      6.4298099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4172329288",
+  "properties": {
+    "timestamp": "2016-05-08T00:59:24Z",
+    "version": 1,
+    "changeset": 39173478,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "hospital",
+    "name": "Hopital de Zone de SURU LERE",
+    "id": "node/4172329288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4629357,
+      6.3819772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4228082414",
+  "properties": {
+    "timestamp": "2016-09-08T10:44:21Z",
+    "version": 3,
+    "changeset": 42000731,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Hopitalier Universitaire Départemental de l'Ouémé-Plateau",
+    "source": "bing",
+    "id": "node/4228082414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6131516,
+      6.474103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4228452693",
+  "properties": {
+    "timestamp": "2016-06-06T14:49:46Z",
+    "version": 1,
+    "changeset": 39840228,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "hospital",
+    "name": "Hopital de Zone Ayélawadjè",
+    "id": "node/4228452693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4498446,
+      6.3781288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4312742170",
+  "properties": {
+    "timestamp": "2016-07-20T12:44:14Z",
+    "version": 1,
+    "changeset": 40895418,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "addr:hamlet": "Houedo-Aguekon",
+    "amenity": "hospital",
+    "name": "Centre de santé de Houedo-Aguekon",
+    "id": "node/4312742170"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4575849,
+      6.4982139
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4323401508",
+  "properties": {
+    "timestamp": "2016-07-27T15:13:04Z",
+    "version": 1,
+    "changeset": 41065021,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "hospital",
+    "id": "node/4323401508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5440858,
+      6.4547159
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4405020928",
+  "properties": {
+    "timestamp": "2016-09-16T21:56:33Z",
+    "version": 1,
+    "changeset": 42215705,
+    "user": "saliousoft",
+    "uid": 1717441,
+    "amenity": "hospital",
+    "name": "Médécine Générale",
+    "operator": "CHUD-OP",
+    "id": "node/4405020928"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6136117,
+      6.4729714
+    ]
+  }
+}
+]
+}

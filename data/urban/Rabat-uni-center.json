@@ -1,0 +1,469 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1421448836,
+  "lat": 33.9995918,
+  "lon": -6.8431746,
+  "timestamp": "2016-11-13T14:02:50Z",
+  "version": 2,
+  "changeset": 43605737,
+  "user": "devincia1",
+  "uid": 2949841,
+  "tags": {
+    "amenity": "university",
+    "name": "Université mohamed V"
+  }
+},
+{
+  "type": "node",
+  "id": 1761182094,
+  "lat": 34.0077440,
+  "lon": -6.8381851,
+  "timestamp": "2013-12-20T14:35:47Z",
+  "version": 4,
+  "changeset": 19550856,
+  "user": "ennabbadi reda",
+  "uid": 1644161,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Mohamed 5 Rabat"
+  }
+},
+{
+  "type": "node",
+  "id": 2008210234,
+  "lat": 33.9980155,
+  "lon": -6.8531191,
+  "timestamp": "2012-11-11T11:43:48Z",
+  "version": 1,
+  "changeset": 13831355,
+  "user": "Bert Bos",
+  "uid": 155462,
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole Mohammadia d'Ingénieurs"
+  }
+},
+{
+  "type": "node",
+  "id": 2957026907,
+  "lat": 34.0548623,
+  "lon": -6.8081139,
+  "timestamp": "2014-07-10T10:23:39Z",
+  "version": 1,
+  "changeset": 24060919,
+  "user": "RedFox",
+  "uid": 10610,
+  "tags": {
+    "amenity": "university",
+    "name": "École d'Enseignement Supérieur de Technologie"
+  }
+},
+{
+  "type": "way",
+  "id": 250470220,
+  "timestamp": "2016-10-27T08:05:43Z",
+  "version": 3,
+  "changeset": 43211312,
+  "user": "devincia1",
+  "uid": 2949841,
+  "center": {
+    "lat": 33.9312104,
+    "lon": -6.8931469
+  },
+  "nodes": [
+    2569032559,
+    2569032560,
+    2569032561,
+    2569032562,
+    2569032563,
+    2569032567,
+    2569032568,
+    2569032569,
+    2569032564,
+    4465958644,
+    2569032565,
+    2569032566,
+    4465958643,
+    2569032559
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ISTA Temara"
+  }
+},
+{
+  "type": "way",
+  "id": 280285432,
+  "timestamp": "2014-05-08T16:44:00Z",
+  "version": 3,
+  "changeset": 22213119,
+  "user": "abde01",
+  "uid": 702180,
+  "center": {
+    "lat": 33.9667628,
+    "lon": -6.8809400
+  },
+  "nodes": [
+    2844263603,
+    2844261794,
+    2844272737,
+    2844261795,
+    2844261796,
+    2844261797,
+    2844261798,
+    2844261799,
+    2844272740,
+    2844261800,
+    2844272743,
+    2844263601,
+    2844271327,
+    2844271318,
+    2844263602,
+    2844263603
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut Spécialisé de Technologie Appliquée"
+  }
+},
+{
+  "type": "way",
+  "id": 280121158,
+  "timestamp": "2016-02-16T15:20:26Z",
+  "version": 3,
+  "changeset": 37247905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.9690008,
+    "lon": -6.8767504
+  },
+  "nodes": [
+    2842876040,
+    2842829692,
+    2842829691,
+    2842829690,
+    2842876034,
+    2842876035,
+    2842876036,
+    2842876037,
+    2842876038,
+    2842876039,
+    2843587659,
+    2842876040
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Enset - Ecole Normale Supérieure de l'Enseignement Technique de Rabat"
+  }
+},
+{
+  "type": "way",
+  "id": 482731506,
+  "timestamp": "2017-03-25T20:32:56Z",
+  "version": 1,
+  "changeset": 47161576,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 33.9803532,
+    "lon": -6.8703440
+  },
+  "nodes": [
+    4755300020,
+    4755300286,
+    4755300184,
+    4755300218,
+    4755300019,
+    4755300330,
+    4755300020
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté de Médecine Dentaire"
+  }
+},
+{
+  "type": "way",
+  "id": 152609309,
+  "timestamp": "2012-03-01T09:58:36Z",
+  "version": 1,
+  "changeset": 10835955,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 33.9902907,
+    "lon": -6.8619623
+  },
+  "nodes": [
+    1654173963,
+    1654173951,
+    1654173971,
+    1654173973,
+    1654173975,
+    1654173979,
+    1654173977,
+    1654173966,
+    1654173963
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté des Sciences de l'Éducation"
+  }
+},
+{
+  "type": "way",
+  "id": 152609313,
+  "timestamp": "2012-03-01T09:58:37Z",
+  "version": 1,
+  "changeset": 10835955,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 33.9820211,
+    "lon": -6.8626575
+  },
+  "nodes": [
+    1654173815,
+    1654173806,
+    1654173804,
+    1654173808,
+    1654173836,
+    1654173815
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Institut National de Statistique et d'Economie Appliquée",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 152609320,
+  "timestamp": "2012-03-01T09:58:38Z",
+  "version": 1,
+  "changeset": 10835955,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 33.9872390,
+    "lon": -6.8614333
+  },
+  "nodes": [
+    1654173930,
+    1654173923,
+    1654173931,
+    1654173945,
+    1654173940,
+    1654173942,
+    1654173930
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "École nationale d'architecture"
+  }
+},
+{
+  "type": "way",
+  "id": 152610309,
+  "timestamp": "2012-03-01T10:09:46Z",
+  "version": 1,
+  "changeset": 10836057,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 33.9840562,
+    "lon": -6.8570395
+  },
+  "nodes": [
+    1654185973,
+    1654185944,
+    1654185969,
+    1654185966,
+    1654185990,
+    1654186009,
+    1654186021,
+    1654185973
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté de Médecine et de Pharmacie"
+  }
+},
+{
+  "type": "way",
+  "id": 152609311,
+  "timestamp": "2012-03-01T09:58:36Z",
+  "version": 1,
+  "changeset": 10835955,
+  "user": "Esperanza36",
+  "uid": 83557,
+  "center": {
+    "lat": 33.9873156,
+    "lon": -6.8645447
+  },
+  "nodes": [
+    1654173928,
+    1654173921,
+    1654173932,
+    1654173949,
+    1654173928
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Faculté des sciences juridiques, économiques et sociales"
+  }
+},
+{
+  "type": "way",
+  "id": 198052509,
+  "timestamp": "2015-08-28T22:13:52Z",
+  "version": 3,
+  "changeset": 33653932,
+  "user": "عقبة بن نافع",
+  "uid": 1823346,
+  "center": {
+    "lat": 34.0001802,
+    "lon": -6.8548466
+  },
+  "nodes": [
+    2082427278,
+    2082427270,
+    2082427271,
+    2082427277,
+    2082427273,
+    2082427269,
+    2082427272,
+    2082427275,
+    2082427274,
+    2082427276,
+    2082427268,
+    2082427278
+  ],
+  "tags": {
+    "alt_name": "Mines Rabat",
+    "amenity": "university",
+    "name": "École Nationale Supérieure des Mines de Rabat",
+    "name:ar": "المدرسة الوطنية العليا للمعادن بالرباط",
+    "name:ber": "ⵜⵉⵏⵎⵍ ⵜⴰⵏⴰⵎⵓⵔⵜ ⵜⴰⵏⴰⴼⵍⴰⵜ ⵏ ⵉⵣⵓⵖⴰⵣ ⵕⵕⴱⴰⵟ",
+    "name:fr": "École Nationale Supérieure des Mines de Rabat",
+    "old_name": "المدرسة الوطنية للصناعات المعدنية",
+    "old_name:fr": "Ecole Nationale de l'Industrie Minérale"
+  }
+},
+{
+  "type": "way",
+  "id": 88482382,
+  "timestamp": "2016-11-11T17:21:44Z",
+  "version": 5,
+  "changeset": 43563719,
+  "user": "devincia1",
+  "uid": 2949841,
+  "center": {
+    "lat": 34.0049149,
+    "lon": -6.8553036
+  },
+  "nodes": [
+    1027815882,
+    1027815880,
+    4463158200,
+    4494680686,
+    4494680685,
+    1027815873,
+    1027815874,
+    1027815882
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Iav - Apesa"
+  }
+},
+{
+  "type": "way",
+  "id": 150144726,
+  "timestamp": "2016-02-16T15:20:30Z",
+  "version": 2,
+  "changeset": 37247905,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 33.9929925,
+    "lon": -6.7409439
+  },
+  "nodes": [
+    1630617479,
+    1630617469,
+    1630617458,
+    1630617481,
+    1630617479
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Istea Sala Al Jadida"
+  }
+},
+{
+  "type": "way",
+  "id": 251169805,
+  "timestamp": "2016-09-26T14:50:31Z",
+  "version": 2,
+  "changeset": 42447234,
+  "user": "ennabbadi reda",
+  "uid": 1644161,
+  "center": {
+    "lat": 34.0200858,
+    "lon": -6.7367378
+  },
+  "nodes": [
+    2574440573,
+    2574440574,
+    2574440576,
+    2574440565,
+    2574440567,
+    2574440569,
+    2574440571,
+    4419102779,
+    2574440573
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 384086919,
+  "timestamp": "2016-04-01T15:20:55Z",
+  "version": 2,
+  "changeset": 38228623,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.0498425,
+    "lon": -6.8124476
+  },
+  "nodes": [
+    3873804869,
+    3873804870,
+    3873804871,
+    4090208791,
+    4090208793,
+    3873804873,
+    3873804869
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Ecole Supérieure de Technologie - Salé"
+  }
+}
+
+  ]
+}

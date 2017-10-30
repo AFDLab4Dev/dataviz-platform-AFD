@@ -1,0 +1,2609 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/6673476",
+  "properties": {
+    "timestamp": "2016-10-27T07:25:57Z",
+    "version": 1,
+    "changeset": 43210577,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "amenity": "marketplace",
+    "name": "Sentra Ikan Bulak",
+    "type": "multipolygon",
+    "id": "relation/6673476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7869259,
+      -7.2252865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6690143",
+  "properties": {
+    "timestamp": "2016-11-04T04:15:24Z",
+    "version": 1,
+    "changeset": 43394491,
+    "user": "Desta Fauzan Arif",
+    "uid": 4706378,
+    "addr:full": "Jalan Nambangan",
+    "amenity": "marketplace",
+    "name": "Pasar Surya Kedinding",
+    "type": "multipolygon",
+    "id": "relation/6690143"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7770935,
+      -7.2227477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6755259",
+  "properties": {
+    "timestamp": "2016-12-02T03:52:16Z",
+    "version": 1,
+    "changeset": 44103643,
+    "user": "Desta Fauzan Arif",
+    "uid": 4706378,
+    "access:roof": "no",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "name": "Pasar Gundih",
+    "type": "multipolygon",
+    "id": "relation/6755259"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7286967,
+      -7.2494949
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6812383",
+  "properties": {
+    "timestamp": "2016-12-22T11:54:04Z",
+    "version": 1,
+    "changeset": 44589013,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "simohilir utara iii",
+    "amenity": "marketplace",
+    "name": "Pasar Simo Hilir",
+    "type": "multipolygon",
+    "id": "relation/6812383"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7063033,
+      -7.2715788
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6814334",
+  "properties": {
+    "timestamp": "2017-01-09T02:57:58Z",
+    "version": 3,
+    "changeset": 45016404,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Raya Kandangan",
+    "amenity": "marketplace",
+    "name": "Pasar Kandangan",
+    "type": "multipolygon",
+    "id": "relation/6814334"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6512881,
+      -7.2518595
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6843809",
+  "properties": {
+    "timestamp": "2017-02-24T01:09:21Z",
+    "version": 2,
+    "changeset": 46354505,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Pagesangan Timur",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "name": "Pasar LKMK Pageasangan",
+    "type": "multipolygon",
+    "id": "relation/6843809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7104958,
+      -7.3334849
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6852234",
+  "properties": {
+    "timestamp": "2017-01-06T02:58:19Z",
+    "version": 1,
+    "changeset": 44942121,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Gunung Sari nomor 71",
+    "amenity": "marketplace",
+    "name": "Pasar Ikan Hias Gunung Sari",
+    "type": "multipolygon",
+    "id": "relation/6852234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7243718,
+      -7.3060063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6852255",
+  "properties": {
+    "timestamp": "2017-01-19T04:23:20Z",
+    "version": 3,
+    "changeset": 45287940,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Bandarejo",
+    "amenity": "marketplace",
+    "name": "Pasar Bandarejo",
+    "type": "multipolygon",
+    "id": "relation/6852255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6456519,
+      -7.2512471
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6852323",
+  "properties": {
+    "timestamp": "2017-01-06T05:58:04Z",
+    "version": 1,
+    "changeset": 44944526,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Bendul Merisi",
+    "amenity": "marketplace",
+    "name": "Kawasan Pasar Bendul Merisi",
+    "type": "multipolygon",
+    "id": "relation/6852323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7364664,
+      -7.3066236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6852559",
+  "properties": {
+    "timestamp": "2017-01-19T06:54:04Z",
+    "version": 2,
+    "changeset": 45289608,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Tambakoso Wilangon XIV",
+    "amenity": "marketplace",
+    "name": "Pasar Induk Oso Wilangon",
+    "type": "multipolygon",
+    "id": "relation/6852559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6541557,
+      -7.2118123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6861695",
+  "properties": {
+    "timestamp": "2017-01-09T04:34:52Z",
+    "version": 1,
+    "changeset": 45017444,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "Jalan Jagir Wonokromo",
+    "amenity": "marketplace",
+    "name": "Pasar Jagir",
+    "type": "multipolygon",
+    "id": "relation/6861695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7426904,
+      -7.3029323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6868033",
+  "properties": {
+    "timestamp": "2017-01-11T02:37:16Z",
+    "version": 1,
+    "changeset": 45066802,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "addr:full": "Jalan Gayungsari XI",
+    "amenity": "marketplace",
+    "name": "Pasar Surya Gayungsari",
+    "type": "multipolygon",
+    "id": "relation/6868033"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7208415,
+      -7.3322047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6868330",
+  "properties": {
+    "timestamp": "2017-01-11T07:17:00Z",
+    "version": 1,
+    "changeset": 45069675,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:full": "jalan Patmosusatro",
+    "amenity": "marketplace",
+    "name": "Pasar Pagi Darmo",
+    "type": "multipolygon",
+    "id": "relation/6868330"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.730378,
+      -7.2857921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6873245",
+  "properties": {
+    "timestamp": "2017-01-18T08:54:59Z",
+    "version": 2,
+    "changeset": 45264963,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "addr:full": "Jalan Raya Kedung Sememi",
+    "amenity": "marketplace",
+    "name": "Pasar Kendung",
+    "type": "multipolygon",
+    "id": "relation/6873245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6353126,
+      -7.2501127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6873363",
+  "properties": {
+    "timestamp": "2017-01-12T05:13:52Z",
+    "version": 1,
+    "changeset": 45094904,
+    "user": "gafuri",
+    "uid": 1588993,
+    "amenity": "marketplace",
+    "name": "Pasar Permai",
+    "type": "multipolygon",
+    "id": "relation/6873363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6838039,
+      -7.2759452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6892211",
+  "properties": {
+    "timestamp": "2017-01-28T18:46:41Z",
+    "version": 2,
+    "changeset": 45600984,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "addr:full": "Jalan Siwalankerto Utara II",
+    "amenity": "marketplace",
+    "name": "Pasar Siwalankerto",
+    "type": "multipolygon",
+    "id": "relation/6892211"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7342474,
+      -7.3331431
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6904945",
+  "properties": {
+    "timestamp": "2017-01-24T03:05:09Z",
+    "version": 1,
+    "changeset": 45419115,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "marketplace",
+    "name": "Pasar Wiyung",
+    "type": "multipolygon",
+    "id": "relation/6904945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6940919,
+      -7.3141678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6905403",
+  "properties": {
+    "timestamp": "2017-02-09T11:14:55Z",
+    "version": 2,
+    "changeset": 45944405,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "Jalan Diponegoro",
+    "amenity": "marketplace",
+    "name": "Pasar Kupang",
+    "type": "multipolygon",
+    "id": "relation/6905403"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7271338,
+      -7.2746784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6905439",
+  "properties": {
+    "timestamp": "2017-01-24T09:15:34Z",
+    "version": 1,
+    "changeset": 45425952,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "marketplace",
+    "name": "Pasar Pahing",
+    "opening_hours": "Sa-Su 04:00-17:00",
+    "type": "multipolygon",
+    "id": "relation/6905439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7709208,
+      -7.3306478
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6908244",
+  "properties": {
+    "timestamp": "2017-01-25T05:53:08Z",
+    "version": 1,
+    "changeset": 45462961,
+    "user": "gafuri",
+    "uid": 1588993,
+    "amenity": "marketplace",
+    "name": "Pasar Tradisional Benowo",
+    "type": "multipolygon",
+    "id": "relation/6908244"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6110461,
+      -7.2346081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6938380",
+  "properties": {
+    "timestamp": "2017-02-02T06:35:31Z",
+    "version": 2,
+    "changeset": 45737112,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "marketplace",
+    "name": "Pasar Burung Bratang",
+    "type": "multipolygon",
+    "id": "relation/6938380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7607245,
+      -7.2978135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6938381",
+  "properties": {
+    "timestamp": "2017-02-02T04:44:15Z",
+    "version": 1,
+    "changeset": 45735174,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "addr:full": "Jalan Bratang",
+    "amenity": "marketplace",
+    "name": "Pasar Bunga bratang",
+    "type": "multipolygon",
+    "id": "relation/6938381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.760121,
+      -7.2977451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/6979340",
+  "properties": {
+    "timestamp": "2017-02-14T01:58:37Z",
+    "version": 1,
+    "changeset": 46066500,
+    "user": "Ramadyan",
+    "uid": 892415,
+    "amenity": "marketplace",
+    "type": "multipolygon",
+    "id": "relation/6979340"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7425696,
+      -7.2750453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/30411458",
+  "properties": {
+    "timestamp": "2017-03-22T05:09:19Z",
+    "version": 13,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "Jalan Waspada",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "ceramics",
+    "building:levels": "5",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Atum",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "id": "way/30411458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7440578,
+      -7.241396
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/215101231",
+  "properties": {
+    "timestamp": "2014-05-05T15:56:01Z",
+    "version": 2,
+    "changeset": 22149263,
+    "user": "_DMKM",
+    "uid": 2060321,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Surya",
+    "id": "way/215101231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7135024,
+      -7.268732
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219077459",
+  "properties": {
+    "timestamp": "2017-02-23T06:30:29Z",
+    "version": 4,
+    "changeset": 46327682,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Keputran",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Pasar Keputran Utama",
+    "id": "way/219077459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7428491,
+      -7.2747834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302536201",
+  "properties": {
+    "timestamp": "2014-09-09T05:12:37Z",
+    "version": 1,
+    "changeset": 25320506,
+    "user": "Laksa Guko",
+    "uid": 2321305,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Semolowaru",
+    "id": "way/302536201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7793331,
+      -7.3025147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311401434",
+  "properties": {
+    "timestamp": "2016-12-16T03:25:31Z",
+    "version": 2,
+    "changeset": 44437326,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "marketplace",
+    "name": "Giant",
+    "opening_hours": "Sa-Su 07:00-10:00",
+    "website": "http://www.giant.com.my/",
+    "id": "way/311401434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.775682,
+      -7.3318394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311401436",
+  "properties": {
+    "timestamp": "2016-12-16T03:25:31Z",
+    "version": 2,
+    "changeset": 44437326,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "marketplace",
+    "name": "Yakaya",
+    "opening_hours": "Sa-Su 07:00-22:00",
+    "operator": "Superindo",
+    "website": "http://www.superindo.co.id/",
+    "id": "way/311401436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7750545,
+      -7.3318256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/311980592",
+  "properties": {
+    "timestamp": "2014-11-09T20:12:51Z",
+    "version": 1,
+    "changeset": 26673288,
+    "user": "catursp",
+    "uid": 2424849,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Tempat Pelelangan Ikan",
+    "id": "way/311980592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6648548,
+      -7.1986015
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320356645",
+  "properties": {
+    "timestamp": "2015-01-12T22:00:26Z",
+    "version": 2,
+    "changeset": 28099112,
+    "user": "iman shad",
+    "uid": 2318760,
+    "amenity": "marketplace",
+    "name": "Pasar Gedangan",
+    "id": "way/320356645"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7329772,
+      -7.3883205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/349650754",
+  "properties": {
+    "timestamp": "2017-02-21T02:19:22Z",
+    "version": 4,
+    "changeset": 46261432,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Manukan Lor",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "100-250",
+    "name": "Pasar Manukan Kulon",
+    "id": "way/349650754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.662212,
+      -7.2599552
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/446941410",
+  "properties": {
+    "timestamp": "2016-10-31T08:56:43Z",
+    "version": 2,
+    "changeset": 43298970,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "access:roof": "no",
+    "addr:full": "Jalan Raya Kedung Asem",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "50-100",
+    "name": "Pasar Sinar Baru",
+    "id": "way/446941410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7778748,
+      -7.3218274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/447608021",
+  "properties": {
+    "timestamp": "2017-02-14T08:02:54Z",
+    "version": 3,
+    "changeset": 46071347,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "addr:full": "Jalan Gubeng masjid",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Pasar Gubeng Masjid",
+    "id": "way/447608021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7529323,
+      -7.2677089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/447623735",
+  "properties": {
+    "timestamp": "2017-03-22T05:09:35Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "Jalan Pecindilan 2",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "ground",
+    "building:levels": "1",
+    "building:roof": "concrete",
+    "building:structure": "wood_frame",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Pasar Pecindilan",
+    "id": "way/447623735"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7492569,
+      -7.2475354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/447644640",
+  "properties": {
+    "timestamp": "2017-03-22T05:09:39Z",
+    "version": 5,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100-250",
+    "name": "Sentra Ikan Bulak",
+    "id": "way/447644640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7867697,
+      -7.2256813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/447712076",
+  "properties": {
+    "timestamp": "2016-11-11T03:45:32Z",
+    "version": 2,
+    "changeset": 43549916,
+    "user": "Fadlilaa",
+    "uid": 4706334,
+    "access:roof": "no",
+    "addr:full": "Jalan Dinoyo Baru",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "average",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "50-100",
+    "name": "Pasar Dinoyo Tangsi",
+    "id": "way/447712076"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7432218,
+      -7.2863548
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448271628",
+  "properties": {
+    "timestamp": "2017-02-17T04:33:20Z",
+    "version": 3,
+    "changeset": 46154244,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Pasar Kembang",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Pasar Kembang",
+    "id": "way/448271628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7294227,
+      -7.2694952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449182769",
+  "properties": {
+    "timestamp": "2017-02-17T04:33:25Z",
+    "version": 2,
+    "changeset": 46154244,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Kedungsari",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "<50",
+    "name": "Pasar Kedungsari",
+    "id": "way/449182769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7363881,
+      -7.2678998
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449294401",
+  "properties": {
+    "timestamp": "2016-10-25T03:07:13Z",
+    "version": 1,
+    "changeset": 43147031,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "access:roof": "no",
+    "addr:full": "Jalan Kaliasin VI",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "poor",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "50-100",
+    "name": "Pasar Kaliasin",
+    "id": "way/449294401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7379294,
+      -7.264318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449519092",
+  "properties": {
+    "timestamp": "2016-10-27T07:25:59Z",
+    "version": 2,
+    "changeset": 43210577,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "access:roof": "no",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "buildings:floor": "ground",
+    "name": "Pasar Setro Makmur",
+    "id": "way/449519092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7786128,
+      -7.2390892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449624547",
+  "properties": {
+    "timestamp": "2017-03-22T05:10:35Z",
+    "version": 3,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "addr:full": "Jalan Bulak Rukem Timur",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Rabardjo",
+    "id": "way/449624547"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7734123,
+      -7.2336631
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449624585",
+  "properties": {
+    "timestamp": "2016-10-27T08:28:47Z",
+    "version": 2,
+    "changeset": 43211771,
+    "user": "Febrina Dewi",
+    "uid": 617262,
+    "access:roof": "no",
+    "addr:full": "Jalan Pacar Keling",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "poor",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "bamboo_frame",
+    "building:walls": "brick",
+    "buildings:floor": "ground",
+    "capacity": "100-250",
+    "name": "Pasar Pacar Keling",
+    "id": "way/449624585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7583497,
+      -7.2605644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449639964",
+  "properties": {
+    "timestamp": "2017-02-23T08:03:07Z",
+    "version": 2,
+    "changeset": 46329323,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "addr:full": "Genteng Besar",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "tekhel",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "Pasar Genteng",
+    "id": "way/449639964"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7407698,
+      -7.2585179
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449650272",
+  "properties": {
+    "timestamp": "2017-03-22T05:10:42Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Kramat Gantung",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:roof": "tin",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Kepatihan",
+    "id": "way/449650272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7390015,
+      -7.2493591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/449832222",
+  "properties": {
+    "timestamp": "2017-03-22T05:10:54Z",
+    "version": 3,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "lebih dari 500",
+    "name": "Pasar Pegirian",
+    "id": "way/449832222"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.745577,
+      -7.2270111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450294237",
+  "properties": {
+    "timestamp": "2017-03-22T05:11:03Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "yes",
+    "addr:full": "Jalan Kapas Krampumg",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "good",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "buildings:floor": "ceramics",
+    "capacity:persons": ">500",
+    "name": "Pasar Kapasan",
+    "id": "way/450294237"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7495085,
+      -7.2392326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450509693",
+  "properties": {
+    "timestamp": "2017-02-17T04:10:16Z",
+    "version": 2,
+    "changeset": 46154041,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Pucang Anom",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Pasar Pucang Anom",
+    "id": "way/450509693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7533897,
+      -7.2840031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450521503",
+  "properties": {
+    "timestamp": "2017-03-13T03:14:29Z",
+    "version": 4,
+    "changeset": 46800694,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Pogot No. 66-69",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "wood",
+    "name": "Pasar Pogot",
+    "id": "way/450521503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.768445,
+      -7.2323513
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450537996",
+  "properties": {
+    "timestamp": "2016-11-01T07:39:17Z",
+    "version": 1,
+    "changeset": 43320168,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "addr:city": "Surabaya",
+    "addr:postcode": "60285",
+    "addr:street": "Jalan Menur",
+    "amenity": "marketplace",
+    "name": "Pasar Manyar Surabaya",
+    "id": "way/450537996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7623398,
+      -7.2808317
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450698653",
+  "properties": {
+    "timestamp": "2017-02-21T13:15:23Z",
+    "version": 2,
+    "changeset": 46274759,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Tempurejo",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "name": "Pasar Tradisional Tempurejo",
+    "id": "way/450698653"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7953533,
+      -7.2558368
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450712268",
+  "properties": {
+    "timestamp": "2016-12-11T08:43:23Z",
+    "version": 2,
+    "changeset": 44317687,
+    "user": "Thibaut75011",
+    "uid": 1556219,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Pabean",
+    "id": "way/450712268"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7406108,
+      -7.2347029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/450712273",
+  "properties": {
+    "timestamp": "2016-12-11T08:43:23Z",
+    "version": 3,
+    "changeset": 44317687,
+    "user": "Thibaut75011",
+    "uid": 1556219,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Pabean",
+    "id": "way/450712273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.741271,
+      -7.2349799
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451492077",
+  "properties": {
+    "timestamp": "2016-11-22T04:44:55Z",
+    "version": 2,
+    "changeset": 43861884,
+    "user": "irma atus",
+    "uid": 2789677,
+    "addr:full": "Jalan Krembangan Besar",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Krembangan",
+    "id": "way/451492077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7325379,
+      -7.2368075
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558997",
+  "properties": {
+    "timestamp": "2016-11-05T12:34:22Z",
+    "version": 1,
+    "changeset": 43420511,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "access:roof": "no",
+    "addr:full": "Jalan Rungkut Alang-Alang",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "cement",
+    "capacity": "50-100",
+    "name": "Pasar Rungkut Baru",
+    "id": "way/451558997"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7722678,
+      -7.323106
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451558998",
+  "properties": {
+    "timestamp": "2016-11-05T12:34:22Z",
+    "version": 1,
+    "changeset": 43420511,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "access:roof": "no",
+    "addr:full": "Jalan Rungkut Alang-Alang",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "cement",
+    "capacity": "100-250",
+    "name": "Pasar Soponyono",
+    "id": "way/451558998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7716157,
+      -7.3229964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451826906",
+  "properties": {
+    "timestamp": "2017-03-22T05:12:37Z",
+    "version": 3,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Kebalen Timur",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "good",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity:persons": "100-250",
+    "name": "Pasar Baba'an Baru",
+    "id": "way/451826906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7354556,
+      -7.2284193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/451857622",
+  "properties": {
+    "timestamp": "2017-02-23T00:36:23Z",
+    "version": 2,
+    "changeset": 46323198,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "Jalan Brawijaya",
+    "amenity": "marketplace",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "ground",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Pasar Wonokitri",
+    "id": "way/451857622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7256896,
+      -7.2945625
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452173173",
+  "properties": {
+    "timestamp": "2017-03-22T05:12:52Z",
+    "version": 3,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Bulak Banteng",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Bulak Banteng",
+    "id": "way/452173173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7610529,
+      -7.2179311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452371764",
+  "properties": {
+    "timestamp": "2017-03-22T05:13:06Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Bulak Banteng Bhineka Raya",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Bulak Banteng",
+    "id": "way/452371764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.765322,
+      -7.2124181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452580518",
+  "properties": {
+    "timestamp": "2017-03-17T04:12:57Z",
+    "version": 3,
+    "changeset": 46916655,
+    "user": "everyone_sinks_starco",
+    "uid": 165040,
+    "access:roof": "no",
+    "addr:full": "Jalan Dinoyo",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "capacity": "250-500",
+    "landuse": "retail",
+    "name": "Pasar Keputran Selatan",
+    "id": "way/452580518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7437499,
+      -7.2778157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/452601173",
+  "properties": {
+    "timestamp": "2017-03-22T05:13:16Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "Jalan Wonokusumo",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "capacity:persons": "100-250",
+    "name": "Pasar Buah Pegirian",
+    "id": "way/452601173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7519682,
+      -7.2236596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453439341",
+  "properties": {
+    "timestamp": "2017-03-22T05:13:24Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Bulak Banteng Sekolahan",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "poor",
+    "building:floor": "tekhel",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Podomoro",
+    "id": "way/453439341"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7667668,
+      -7.2187068
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/453890072",
+  "properties": {
+    "timestamp": "2016-12-22T03:21:46Z",
+    "version": 2,
+    "changeset": 44580753,
+    "user": "irma atus",
+    "uid": 2789677,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar",
+    "id": "way/453890072"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7148142,
+      -7.2456174
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454132663",
+  "properties": {
+    "timestamp": "2017-03-22T05:13:46Z",
+    "version": 5,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Babadan",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "50-100",
+    "name": "Pasar",
+    "id": "way/454132663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7226284,
+      -7.2436016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454182588",
+  "properties": {
+    "timestamp": "2017-03-22T05:13:49Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dupak Masigit VI",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:floor": "tekhel",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity:persons": "50-100",
+    "name": "Pasar Dupak Jaya",
+    "id": "way/454182588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7258328,
+      -7.2427652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455037163",
+  "properties": {
+    "timestamp": "2016-12-08T08:32:21Z",
+    "version": 2,
+    "changeset": 44252839,
+    "user": "irma atus",
+    "uid": 2789677,
+    "addr:full": "Jalan Kranggan",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Blauran",
+    "id": "way/455037163"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7335163,
+      -7.2565646
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455426669",
+  "properties": {
+    "timestamp": "2017-03-22T05:14:03Z",
+    "version": 4,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Alun alun Bangunsari utara",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "250-500",
+    "name": "Pasar Bangun Rejo",
+    "id": "way/455426669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7171834,
+      -7.2390493
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455437293",
+  "properties": {
+    "timestamp": "2017-02-15T05:42:24Z",
+    "version": 3,
+    "changeset": 46096634,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "jalan darmo permai timur iii",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "capacity": "50-100",
+    "name": "Pasar Tradisional Darmo Permai",
+    "id": "way/455437293"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.698861,
+      -7.2841461
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455599080",
+  "properties": {
+    "timestamp": "2016-11-25T02:48:06Z",
+    "version": 1,
+    "changeset": 43935313,
+    "user": "Fadlilaa",
+    "uid": 4706334,
+    "access:roof": "no",
+    "addr:full": "Jalan Manukan",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:roof": "asbentos",
+    "building:structure": "confined_masonry",
+    "building:walls": "wood",
+    "buildings:floor": "cement",
+    "capacity": "50-100",
+    "name": "Pasar Dorowati",
+    "id": "way/455599080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6689423,
+      -7.2686518
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455662485",
+  "properties": {
+    "timestamp": "2016-11-25T07:23:32Z",
+    "version": 1,
+    "changeset": 43937916,
+    "user": "endang_p",
+    "uid": 4706330,
+    "access:roof": "no",
+    "addr:full": "jalan putat jaya",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "Pasar Kupang Gunung",
+    "id": "way/455662485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7221691,
+      -7.2785928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456503375",
+  "properties": {
+    "timestamp": "2017-02-21T08:24:44Z",
+    "version": 3,
+    "changeset": 46266772,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Kalibutuh",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "wood",
+    "capacity": "50-100",
+    "name": "Pasar Tembok Dukuh",
+    "id": "way/456503375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7268083,
+      -7.2555002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456691659",
+  "properties": {
+    "timestamp": "2017-03-12T15:05:43Z",
+    "version": 2,
+    "changeset": 46786979,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "jalan raya mastrip",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "cement",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Pasar Karang Pilang",
+    "id": "way/456691659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6950509,
+      -7.3417262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456691660",
+  "properties": {
+    "timestamp": "2017-03-12T15:05:43Z",
+    "version": 2,
+    "changeset": 46786979,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "jalan raya mastrip",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "cement",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Pasar Karang Pilang",
+    "id": "way/456691660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6950972,
+      -7.3417769
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/457112884",
+  "properties": {
+    "timestamp": "2016-12-06T04:43:32Z",
+    "version": 2,
+    "changeset": 44198974,
+    "user": "Ficky Aditya Romansya",
+    "uid": 4706329,
+    "addr:full": "Jalan Tanjungsari 26 a",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "building:levels": "1",
+    "building:structure": "confined_masonry",
+    "capacity": "50-100",
+    "name": "Pasar Buah Tradisional",
+    "id": "way/457112884"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7011782,
+      -7.2560316
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/458603907",
+  "properties": {
+    "timestamp": "2016-12-23T03:05:53Z",
+    "version": 2,
+    "changeset": 44609734,
+    "user": "Anjar Akrimullah",
+    "uid": 4159996,
+    "access:roof": "no",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "brick",
+    "buildings:floor": "cement",
+    "capacity": "50-100",
+    "name": "Pasar Surya Kendangsari",
+    "id": "way/458603907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7505321,
+      -7.3247979
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459482009",
+  "properties": {
+    "timestamp": "2017-02-23T00:36:29Z",
+    "version": 2,
+    "changeset": 46323198,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Gunungsari IV",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "brick",
+    "capacity": "<50",
+    "name": "Pasar Gunungsari",
+    "id": "way/459482009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7201427,
+      -7.3051218
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459701260",
+  "properties": {
+    "timestamp": "2017-02-21T02:19:44Z",
+    "version": 4,
+    "changeset": 46261432,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "banjar sugihan telaga",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "100-250",
+    "name": "Pasar Banjar Sugihan",
+    "id": "way/459701260"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6583737,
+      -7.2552984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459921941",
+  "properties": {
+    "timestamp": "2017-02-23T02:55:23Z",
+    "version": 3,
+    "changeset": 46325035,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Dukuh Kupang Barat",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "250-500",
+    "name": "Pasar Dukuh Kupang",
+    "id": "way/459921941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7112939,
+      -7.2808954
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459961189",
+  "properties": {
+    "timestamp": "2017-02-20T13:09:41Z",
+    "version": 3,
+    "changeset": 46243636,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "jalan balomgsari",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "yes",
+    "building:floor": "cement",
+    "building:roof": "asbentos",
+    "capacity": "100-250",
+    "name": "Pasar Surya Balongsari",
+    "id": "way/459961189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6791202,
+      -7.2594087
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/461091820",
+  "properties": {
+    "timestamp": "2017-01-24T04:55:46Z",
+    "version": 2,
+    "changeset": 45420769,
+    "user": "DedyKur",
+    "uid": 2389711,
+    "access:roof": "no",
+    "addr:full": "Jalan Sidosermo PDK V",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "buildings:floor": "cement",
+    "capacity": "<50",
+    "name": "Pasar Krempyeng Sidosermo",
+    "id": "way/461091820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7519965,
+      -7.3095612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/466534433",
+  "properties": {
+    "timestamp": "2017-01-16T23:54:31Z",
+    "version": 1,
+    "changeset": 45230632,
+    "user": "ewaru",
+    "uid": 2486283,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Sukodono",
+    "id": "way/466534433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6722655,
+      -7.4041554
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/468664312",
+  "properties": {
+    "timestamp": "2017-02-23T03:10:48Z",
+    "version": 3,
+    "changeset": 46325274,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Jalan Bambe Dukuh Menanggal",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "1",
+    "building:roof": "asbentos",
+    "building:structure": "steel_frame",
+    "building:walls": "concrete",
+    "capacity": "50-100",
+    "name": "Pasar Dukuh Menanggal",
+    "id": "way/468664312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7199113,
+      -7.3423915
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/472077909",
+  "properties": {
+    "timestamp": "2017-02-04T12:16:00Z",
+    "version": 2,
+    "changeset": 45803593,
+    "user": "hatnowiyanto",
+    "uid": 5249822,
+    "addr:city": "Sedati",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Terminal dan Pertokoan Sedati",
+    "id": "way/472077909"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7618985,
+      -7.3845914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2065700408",
+  "properties": {
+    "timestamp": "2012-12-14T00:27:09Z",
+    "version": 5,
+    "changeset": 14266275,
+    "user": "arjuna76",
+    "uid": 1135001,
+    "amenity": "marketplace",
+    "designation": "Jl Raya Sepanjang No.97 Sepanjang Taman Sidoarjo",
+    "name": "ISTANA MEBEL",
+    "id": "node/2065700408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6946879,
+      -7.3443197
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2332788507",
+  "properties": {
+    "timestamp": "2013-06-05T07:52:36Z",
+    "version": 1,
+    "changeset": 16428336,
+    "user": "suarsana",
+    "uid": 1515786,
+    "amenity": "marketplace",
+    "name": "DUPAK GROSIR PASAR TURI BARU",
+    "id": "node/2332788507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7279662,
+      -7.2466392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2803070820",
+  "properties": {
+    "timestamp": "2014-04-20T08:40:24Z",
+    "version": 1,
+    "changeset": 21811858,
+    "user": "supergaban",
+    "uid": 2039683,
+    "addr:city": "Sidoarjo",
+    "addr:housenumber": "177 – 183",
+    "addr:street": "Jl. Sawunggaling",
+    "amenity": "marketplace",
+    "name": "Komplek Pasar Induk Agro puspo",
+    "name:en": "Agro puspo Central Market",
+    "id": "node/2803070820"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6852808,
+      -7.3719768
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4189024751",
+  "properties": {
+    "timestamp": "2016-05-16T08:08:04Z",
+    "version": 1,
+    "changeset": 39345922,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Surabaya, Jawa Timur",
+    "addr:postcode": "60271",
+    "addr:street": "Jln urip sumoharjo",
+    "amenity": "marketplace",
+    "name": "Keputran Pasar Kecil IV",
+    "id": "node/4189024751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7407777,
+      -7.2744043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4192735789",
+  "properties": {
+    "timestamp": "2016-05-18T02:35:37Z",
+    "version": 1,
+    "changeset": 39390082,
+    "user": "Tan William",
+    "uid": 3944348,
+    "addr:city": "Babatan, Wiyung, Kota SBY, Jawa Timur, Indonesia",
+    "addr:postcode": "60227",
+    "addr:street": "Jl. Raya Menganti Karangan",
+    "amenity": "marketplace",
+    "name": "Mitra 10",
+    "id": "node/4192735789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6805077,
+      -7.3105155
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4192930099",
+  "properties": {
+    "timestamp": "2016-05-18T06:28:42Z",
+    "version": 1,
+    "changeset": 39392326,
+    "user": "bleumeltha",
+    "uid": 3873217,
+    "addr:city": "Gundih, Bubutan, Surabaya, East Java",
+    "addr:housenumber": "Blok B No.15",
+    "addr:postcode": "60174",
+    "addr:street": "Jalan Semarang",
+    "amenity": "marketplace",
+    "name": "Surabaya Pasar Turi",
+    "id": "node/4192930099"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7318105,
+      -7.2490206
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4461489614",
+  "properties": {
+    "timestamp": "2017-02-23T06:30:23Z",
+    "version": 2,
+    "changeset": 46327682,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "Kedondong",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "marketplace",
+    "building:condition": "poor",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "wood_frame",
+    "building:walls": "wood",
+    "capacity": "<50",
+    "name": "Pasar Kedondong",
+    "id": "node/4461489614"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7395668,
+      -7.2721326
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4486249271",
+  "properties": {
+    "timestamp": "2016-11-09T08:20:35Z",
+    "version": 2,
+    "changeset": 43506316,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "jalan slompretan",
+    "amenity": "marketplace",
+    "name": "Pasar Bong",
+    "id": "node/4486249271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7408195,
+      -7.2385318
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4489735255",
+  "properties": {
+    "timestamp": "2017-03-22T05:09:18Z",
+    "version": 6,
+    "changeset": 47058271,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "access:roof": "no",
+    "addr:full": "jalan dukuh gili",
+    "amenity": "marketplace",
+    "backup_generator": "no",
+    "building": "supermarket",
+    "building:condition": "average",
+    "building:floor": "cement",
+    "building:levels": "1",
+    "building:roof": "tin",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "50-100",
+    "name": "Pasar Surya",
+    "id": "node/4489735255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7428073,
+      -7.2349226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4511330792",
+  "properties": {
+    "timestamp": "2016-11-20T02:38:51Z",
+    "version": 2,
+    "changeset": 43813762,
+    "user": "Thibaut75011",
+    "uid": 1556219,
+    "amenity": "marketplace",
+    "name": "Fresh Market Citraland",
+    "opening_hours": "Mo-Su 05:30-15:00",
+    "id": "node/4511330792"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6455396,
+      -7.2759244
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4580557585",
+  "properties": {
+    "timestamp": "2017-01-09T02:21:01Z",
+    "version": 2,
+    "changeset": 45016009,
+    "user": "Yudha Sidhikoro",
+    "uid": 4706322,
+    "addr:full": "Jalan Kutisari Selatan V",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "name": "Pasar Kutisari",
+    "id": "node/4580557585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7461195,
+      -7.3369292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4580573991",
+  "properties": {
+    "timestamp": "2017-01-26T09:47:08Z",
+    "version": 2,
+    "changeset": 45506249,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "jalan sikatan pasar",
+    "amenity": "marketplace",
+    "building": "marketplace",
+    "name": "Pasar Sikatan",
+    "id": "node/4580573991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6719081,
+      -7.2594481
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4620142013",
+  "properties": {
+    "timestamp": "2017-01-30T04:53:06Z",
+    "version": 3,
+    "changeset": 45639679,
+    "user": "gafuri",
+    "uid": 1588993,
+    "addr:full": "manukan Yoso",
+    "amenity": "marketplace",
+    "building:structure": "confined_masonry",
+    "name": "Pasar Darurat (Manukan Kulon)",
+    "id": "node/4620142013"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.6624319,
+      -7.2620715
+    ]
+  }
+}
+]
+}

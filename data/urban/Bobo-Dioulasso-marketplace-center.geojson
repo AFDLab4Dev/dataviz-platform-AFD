@@ -1,0 +1,244 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/49526109",
+  "properties": {
+    "timestamp": "2015-04-15T12:21:47Z",
+    "version": 4,
+    "changeset": 30235670,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "marketplace",
+    "name": "Grand Marché de BOBO",
+    "id": "way/49526109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3002335,
+      11.1772485
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/286355902",
+  "properties": {
+    "timestamp": "2014-06-08T19:44:14Z",
+    "version": 2,
+    "changeset": 22816418,
+    "user": "Aurimas Fišeras",
+    "uid": 651869,
+    "amenity": "marketplace",
+    "name": "Marché de Colsama",
+    "operator": "Public",
+    "source": "MapBox",
+    "id": "way/286355902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3227613,
+      11.1859056
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/337661521",
+  "properties": {
+    "timestamp": "2015-04-09T19:31:01Z",
+    "version": 1,
+    "changeset": 30101601,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "marketplace",
+    "id": "way/337661521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3075119,
+      11.2036522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/338830676",
+  "properties": {
+    "timestamp": "2015-04-16T16:25:24Z",
+    "version": 1,
+    "changeset": 30269126,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "marketplace",
+    "source": "survey",
+    "id": "way/338830676"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3105565,
+      11.1881541
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/339538999",
+  "properties": {
+    "timestamp": "2015-04-20T11:47:01Z",
+    "version": 1,
+    "changeset": 30352380,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Marche de Fruits",
+    "id": "way/339538999"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.315199,
+      11.1760681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/343200255",
+  "properties": {
+    "timestamp": "2015-05-06T11:43:53Z",
+    "version": 1,
+    "changeset": 30838604,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail",
+    "id": "way/343200255"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2904367,
+      11.1984497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/343200266",
+  "properties": {
+    "timestamp": "2015-05-06T13:40:40Z",
+    "version": 2,
+    "changeset": 30842696,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail",
+    "id": "way/343200266"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2881742,
+      11.1901188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/343211378",
+  "properties": {
+    "timestamp": "2015-05-06T12:47:24Z",
+    "version": 1,
+    "changeset": 30838604,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "marketplace",
+    "area": "yes",
+    "landuse": "retail",
+    "id": "way/343211378"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2736901,
+      11.1872684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/352617031",
+  "properties": {
+    "timestamp": "2015-07-21T20:18:56Z",
+    "version": 2,
+    "changeset": 32787720,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "marketplace",
+    "source": "bing;survey",
+    "id": "way/352617031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3441737,
+      11.1793117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2899717816",
+  "properties": {
+    "timestamp": "2014-06-04T20:00:17Z",
+    "version": 1,
+    "changeset": 22742183,
+    "user": "Lessi Lassina",
+    "uid": 2103064,
+    "amenity": "marketplace",
+    "name": "Marche de St Etienne",
+    "opening_hours": "24/7",
+    "operator": "Bobo-Dioulasso",
+    "id": "node/2899717816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2784265,
+      11.1787568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3631472950",
+  "properties": {
+    "timestamp": "2015-07-02T12:18:39Z",
+    "version": 1,
+    "changeset": 32353207,
+    "user": "Innocent DJARRA",
+    "uid": 3025752,
+    "amenity": "marketplace",
+    "name": "Marche des Bissas",
+    "source": "bing,knowledge",
+    "id": "node/3631472950"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2779044,
+      11.1555874
+    ]
+  }
+}
+]
+}

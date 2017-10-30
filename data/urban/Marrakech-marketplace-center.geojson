@@ -1,0 +1,384 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/220480616",
+  "properties": {
+    "timestamp": "2013-05-08T14:13:39Z",
+    "version": 1,
+    "changeset": 16030441,
+    "user": "ajk",
+    "uid": 227502,
+    "amenity": "marketplace",
+    "id": "way/220480616"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9883017,
+      31.6258126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220480617",
+  "properties": {
+    "timestamp": "2014-08-11T04:59:16Z",
+    "version": 2,
+    "changeset": 24669421,
+    "user": "Ludovic Drouard",
+    "uid": 1151930,
+    "amenity": "marketplace",
+    "id": "way/220480617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9892996,
+      31.6261781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302781460",
+  "properties": {
+    "timestamp": "2014-09-10T18:23:42Z",
+    "version": 1,
+    "changeset": 25353571,
+    "user": "abarom",
+    "uid": 2325531,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de gros aux légumes et fruits de Marrakech",
+    "id": "way/302781460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0327989,
+      31.6785659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/369523444",
+  "properties": {
+    "timestamp": "2015-09-07T12:15:31Z",
+    "version": 1,
+    "changeset": 33854894,
+    "user": "Eebie",
+    "uid": 715684,
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Marche Central",
+    "id": "way/369523444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0065815,
+      31.6336467
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/388308627",
+  "properties": {
+    "timestamp": "2015-12-30T11:53:12Z",
+    "version": 2,
+    "changeset": 36259530,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/388308627"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9636385,
+      31.6080861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/428946069",
+  "properties": {
+    "timestamp": "2016-07-03T17:00:59Z",
+    "version": 1,
+    "changeset": 40462296,
+    "user": "siaud xavier",
+    "uid": 189397,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "marché aux plantes",
+    "id": "way/428946069"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9895328,
+      31.6264771
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1944416462",
+  "properties": {
+    "timestamp": "2012-10-03T14:39:20Z",
+    "version": 1,
+    "changeset": 13348413,
+    "user": "cybersg",
+    "uid": 616845,
+    "amenity": "marketplace",
+    "name": "Super Marché",
+    "id": "node/1944416462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.8482067,
+      31.5163018
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2197688035",
+  "properties": {
+    "timestamp": "2013-03-12T14:12:32Z",
+    "version": 1,
+    "changeset": 15340512,
+    "user": "Heinz",
+    "uid": 37693,
+    "amenity": "marketplace",
+    "note": "sieht aus wie Flohmarkt, jeder verkauft alles",
+    "id": "node/2197688035"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9839486,
+      31.6401529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2331294201",
+  "properties": {
+    "timestamp": "2016-03-29T17:05:07Z",
+    "version": 3,
+    "changeset": 38147921,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Souika Boussekri",
+    "id": "node/2331294201"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9732602,
+      31.6251809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2343309240",
+  "properties": {
+    "timestamp": "2013-06-13T13:43:43Z",
+    "version": 1,
+    "changeset": 16537557,
+    "user": "MARKORAK",
+    "uid": 1543700,
+    "amenity": "marketplace",
+    "id": "node/2343309240"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.98765,
+      31.6256804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3314159678",
+  "properties": {
+    "timestamp": "2015-01-27T11:10:04Z",
+    "version": 1,
+    "changeset": 28439684,
+    "user": "ecatmur",
+    "uid": 352985,
+    "amenity": "marketplace",
+    "id": "node/3314159678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.0092494,
+      31.631724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3370583723",
+  "properties": {
+    "timestamp": "2015-02-24T17:45:37Z",
+    "version": 1,
+    "changeset": 29072856,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "amenity": "marketplace",
+    "name": "Souk el Maasi",
+    "id": "node/3370583723"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9872974,
+      31.6289761
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3370584841",
+  "properties": {
+    "timestamp": "2017-03-02T19:35:34Z",
+    "version": 2,
+    "changeset": 46531153,
+    "user": "Matthieu Gaudé",
+    "uid": 538381,
+    "amenity": "marketplace",
+    "name": "leather",
+    "name:fr": "Souk des maroquiniers",
+    "id": "node/3370584841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9873271,
+      31.6294598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3370584893",
+  "properties": {
+    "timestamp": "2015-02-24T17:45:38Z",
+    "version": 1,
+    "changeset": 29072856,
+    "user": "Niels Elgaard Larsen",
+    "uid": 1288,
+    "amenity": "marketplace",
+    "name": "Souq El Kessabine",
+    "id": "node/3370584893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9867229,
+      31.6270836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3593980446",
+  "properties": {
+    "timestamp": "2015-06-14T07:59:57Z",
+    "version": 1,
+    "changeset": 31956955,
+    "user": "Hernán Maglione",
+    "uid": 652752,
+    "amenity": "marketplace",
+    "name": "Miâara",
+    "id": "node/3593980446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9801803,
+      31.6193869
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4011733182",
+  "properties": {
+    "timestamp": "2017-03-02T19:35:38Z",
+    "version": 2,
+    "changeset": 46531153,
+    "user": "Matthieu Gaudé",
+    "uid": 538381,
+    "amenity": "marketplace",
+    "name": "Fruit and Veg",
+    "name:fr": "Marché légumes et fruits",
+    "id": "node/4011733182"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9859931,
+      31.630222
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4622328497",
+  "properties": {
+    "timestamp": "2017-01-28T20:19:37Z",
+    "version": 2,
+    "changeset": 45602522,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "note": "Cheap Stuff",
+    "id": "node/4622328497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9824414,
+      31.6279021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4622328500",
+  "properties": {
+    "timestamp": "2017-01-28T20:24:19Z",
+    "version": 2,
+    "changeset": 45602522,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "note": "Earrings",
+    "id": "node/4622328500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.9895542,
+      31.6303498
+    ]
+  }
+}
+]
+}

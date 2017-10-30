@@ -1,0 +1,216 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:41:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1298725783,
+  "lat": -21.4529059,
+  "lon": 47.0843611,
+  "timestamp": "2015-08-22T11:11:02Z",
+  "version": 2,
+  "changeset": 33502774,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut des Sciences et Techniques de l'Environnement",
+    "operator": "Université de Fianarantsoa"
+  }
+},
+{
+  "type": "node",
+  "id": 1298750578,
+  "lat": -21.4505835,
+  "lon": 47.0889143,
+  "timestamp": "2011-05-24T20:03:42Z",
+  "version": 1,
+  "changeset": 8237491,
+  "user": "Eric S",
+  "uid": 45284,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Privée de Madagascar"
+  }
+},
+{
+  "type": "node",
+  "id": 1298774632,
+  "lat": -21.4524341,
+  "lon": 47.0836282,
+  "timestamp": "2011-05-24T20:31:56Z",
+  "version": 1,
+  "changeset": 8237491,
+  "user": "Eric S",
+  "uid": 45284,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut de Formation Technique"
+  }
+},
+{
+  "type": "node",
+  "id": 1821258509,
+  "lat": -21.4550958,
+  "lon": 47.0933461,
+  "timestamp": "2015-08-22T11:11:02Z",
+  "version": 5,
+  "changeset": 33502774,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "addr:housename": "ENI",
+    "addr:postcode": "BP 1487",
+    "addr:street": "Fianarantsoa",
+    "amenity": "university",
+    "designation": "Etablissement public d'enseignement supérieur",
+    "name": "École Nationale d'Informatique",
+    "operator": "Université de Fianarantsoa",
+    "source": "http://www.univ-fianar.mg"
+  }
+},
+{
+  "type": "node",
+  "id": 3696424754,
+  "lat": -21.4519831,
+  "lon": 47.0847111,
+  "timestamp": "2015-08-14T07:09:58Z",
+  "version": 1,
+  "changeset": 33330058,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "university",
+    "name": "Institut de Formation Technique"
+  }
+},
+{
+  "type": "node",
+  "id": 3700732626,
+  "lat": -21.4564654,
+  "lon": 47.0860007,
+  "timestamp": "2015-08-17T08:54:16Z",
+  "version": 1,
+  "changeset": 33385034,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "university",
+    "name": "CRTE-CNTEMAD"
+  }
+},
+{
+  "type": "node",
+  "id": 3709114326,
+  "lat": -21.4647770,
+  "lon": 47.1096568,
+  "timestamp": "2015-09-08T04:03:26Z",
+  "version": 2,
+  "changeset": 33872186,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "university",
+    "name": "Campus Universitaire Andrainjato",
+    "operator": "Université de Fianarantsoa",
+    "website": "http://www.univ-fianar.mg/",
+    "wikipedia": "fr:Université de Fianarantsoa"
+  }
+},
+{
+  "type": "node",
+  "id": 3712496519,
+  "lat": -21.4586791,
+  "lon": 47.0886243,
+  "timestamp": "2016-01-16T18:14:51Z",
+  "version": 2,
+  "changeset": 36620717,
+  "user": "@dolly",
+  "uid": 3107789,
+  "tags": {
+    "amenity": "university",
+    "name": "INSPNMAD"
+  }
+},
+{
+  "type": "way",
+  "id": 391709293,
+  "timestamp": "2016-01-16T08:53:41Z",
+  "version": 1,
+  "changeset": 36610115,
+  "user": "@dolly",
+  "uid": 3107789,
+  "center": {
+    "lat": -21.4549398,
+    "lon": 47.0933860
+  },
+  "nodes": [
+    1886809967,
+    1300055111,
+    1300054941,
+    3688293871,
+    3688293870,
+    3688293876,
+    3949514075,
+    3949514076,
+    3949514077,
+    3699533291,
+    3699533290,
+    3699533289,
+    1886810325,
+    3699533298,
+    1886809690,
+    1886809255,
+    1886809301,
+    3693624169,
+    1886809967
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "École Nationale d'Informatique",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 363367340,
+  "timestamp": "2017-01-27T09:23:06Z",
+  "version": 5,
+  "changeset": 45550523,
+  "user": "Eva Blue",
+  "uid": 4803528,
+  "center": {
+    "lat": -21.4468427,
+    "lon": 47.0935838
+  },
+  "nodes": [
+    3675388435,
+    3675388436,
+    3949475005,
+    3949475011,
+    3949475010,
+    3949475008,
+    3675388437,
+    3675388438,
+    3949475013,
+    3949475014,
+    3949475015,
+    3949475012,
+    3675388435
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Sekoly Ambony Loterana momba ny Teolojia",
+    "name:fr": "Faculté de théologie luthérienne",
+    "source": "Bing"
+  }
+}
+
+  ]
+}

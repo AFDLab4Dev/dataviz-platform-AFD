@@ -1,0 +1,188 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1859399455,
+  "lat": 36.4491858,
+  "lon": 10.7441620,
+  "timestamp": "2012-08-09T21:18:39Z",
+  "version": 2,
+  "changeset": 12673543,
+  "user": "MichaelUbuntu",
+  "uid": 781415,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1859403682,
+  "lat": 36.4300893,
+  "lon": 10.6834366,
+  "timestamp": "2012-08-09T21:16:08Z",
+  "version": 1,
+  "changeset": 12673543,
+  "user": "MichaelUbuntu",
+  "uid": 781415,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1863150860,
+  "lat": 36.4699846,
+  "lon": 10.7813350,
+  "timestamp": "2012-08-12T15:37:17Z",
+  "version": 1,
+  "changeset": 12703112,
+  "user": "Hedi_B",
+  "uid": 799200,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 1865620937,
+  "lat": 36.4661516,
+  "lon": 10.8081503,
+  "timestamp": "2012-08-14T12:24:27Z",
+  "version": 1,
+  "changeset": 12726240,
+  "user": "Hedi_B",
+  "uid": 799200,
+  "tags": {
+    "amenity": "hospital"
+  }
+},
+{
+  "type": "node",
+  "id": 4559010284,
+  "lat": 36.4471672,
+  "lon": 10.7286061,
+  "timestamp": "2016-12-17T20:00:02Z",
+  "version": 1,
+  "changeset": 44477708,
+  "user": "Tartarugatn",
+  "uid": 4983509,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Dispensaire"
+  }
+},
+{
+  "type": "node",
+  "id": 4559018694,
+  "lat": 36.4545129,
+  "lon": 10.7400136,
+  "timestamp": "2016-12-17T20:08:43Z",
+  "version": 1,
+  "changeset": 44477876,
+  "user": "Tartarugatn",
+  "uid": 4983509,
+  "tags": {
+    "addr:city": "Nabeul",
+    "addr:housenumber": "24",
+    "addr:postcode": "8000",
+    "addr:street": "Rue Habib Karma",
+    "amenity": "hospital",
+    "name": "Pharmacie Laouiti",
+    "operator": "Mme Naïma Chaarani Laouiti"
+  }
+},
+{
+  "type": "way",
+  "id": 176163176,
+  "timestamp": "2016-03-08T00:31:47Z",
+  "version": 4,
+  "changeset": 37677385,
+  "user": "MoeizHa",
+  "uid": 2842751,
+  "center": {
+    "lat": 36.4375334,
+    "lon": 10.6742717
+  },
+  "nodes": [
+    1867181810,
+    1867181790,
+    1867181769,
+    1867181776,
+    1867181782,
+    1867181817,
+    1867181763,
+    1867181793,
+    1867181778,
+    1867181810
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Universitaire Mohamed Taher Maamouri Nabeul",
+    "name:ar": "المستشفى الجامعي محمد الطاهر المعموري بنابل"
+  }
+},
+{
+  "type": "way",
+  "id": 244662752,
+  "timestamp": "2013-11-04T09:37:51Z",
+  "version": 1,
+  "changeset": 18708623,
+  "user": "ulrichm",
+  "uid": 192829,
+  "center": {
+    "lat": 36.4536399,
+    "lon": 10.7317946
+  },
+  "nodes": [
+    2519570145,
+    2519570157,
+    2519570151,
+    2519570156,
+    2519570153,
+    2519570155,
+    2519570103,
+    2519570097,
+    2519569975,
+    2519569979,
+    2519570145
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "barrier": "wall"
+  }
+},
+{
+  "type": "way",
+  "id": 477096434,
+  "timestamp": "2017-02-25T11:13:48Z",
+  "version": 1,
+  "changeset": 46390214,
+  "user": "Baha Baghdadi",
+  "uid": 5383596,
+  "center": {
+    "lat": 36.5699172,
+    "lon": 10.8537347
+  },
+  "nodes": [
+    4705010788,
+    4705010889,
+    4705010890,
+    4705010891,
+    4705010788
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital de Korba"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 316630932,
+  "timestamp": "2015-04-13T14:00:56Z",
+  "version": 4,
+  "changeset": 30188444,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 27.1603222,
+    "lon": -13.2180808
+  },
+  "nodes": [
+    3227737592,
+    3227737595,
+    3227737594,
+    3227737593,
+    3227737596,
+    3227737597,
+    3227737592
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Municipal"
+  }
+},
+{
+  "type": "way",
+  "id": 316764969,
+  "timestamp": "2015-07-19T12:36:11Z",
+  "version": 2,
+  "changeset": 32732078,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 27.1295263,
+    "lon": -13.1970406
+  },
+  "nodes": [
+    3229424732,
+    3229424730,
+    3229424731,
+    3229424729,
+    3229424732
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "area": "yes"
+  }
+}
+
+  ]
+}

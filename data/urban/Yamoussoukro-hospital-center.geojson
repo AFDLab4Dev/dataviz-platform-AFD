@@ -1,0 +1,94 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/94224466",
+  "properties": {
+    "timestamp": "2016-02-24T09:07:38Z",
+    "version": 3,
+    "changeset": 37407649,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "CHR de Yamoussoukro",
+    "source": "bing",
+    "id": "way/94224466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2772611,
+      6.8175123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/282802432",
+  "properties": {
+    "timestamp": "2014-05-18T21:55:29Z",
+    "version": 2,
+    "changeset": 22415473,
+    "user": "Ouleur",
+    "uid": 2081270,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Infirmerie INP centre",
+    "id": "way/282802432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2274062,
+      6.8787274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/399788313",
+  "properties": {
+    "timestamp": "2016-02-25T01:04:16Z",
+    "version": 3,
+    "changeset": 37425600,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "hospital",
+    "barrier": "fence",
+    "landuse": "grass",
+    "name": "Hôpital Saint-Joseph Moscati",
+    "id": "way/399788313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.2909602,
+      6.8132072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2867499856",
+  "properties": {
+    "timestamp": "2014-10-22T09:43:12Z",
+    "version": 2,
+    "changeset": 26251744,
+    "user": "fennikusu",
+    "uid": 595138,
+    "amenity": "hospital",
+    "name": "Infirmerie INPHB Centre",
+    "id": "node/2867499856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.227425,
+      6.8787194
+    ]
+  }
+}
+]
+}

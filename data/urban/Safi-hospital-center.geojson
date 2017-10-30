@@ -1,0 +1,214 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/119921404",
+  "properties": {
+    "timestamp": "2011-07-25T16:04:31Z",
+    "version": 3,
+    "changeset": 8827482,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "مستشفى سيدي عبد الكريم",
+    "id": "way/119921404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2280441,
+      32.3130978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119922893",
+  "properties": {
+    "timestamp": "2011-07-25T16:04:30Z",
+    "version": 2,
+    "changeset": 8827482,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "مستشفى محمد الخامس",
+    "id": "way/119922893"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2374938,
+      32.2878762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/121105742",
+  "properties": {
+    "timestamp": "2011-07-26T15:21:46Z",
+    "version": 2,
+    "changeset": 8836364,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "مستشفى بياضة",
+    "id": "way/121105742"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2341806,
+      32.3069702
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/121113161",
+  "properties": {
+    "timestamp": "2011-07-10T14:27:51Z",
+    "version": 1,
+    "changeset": 8683283,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "id": "way/121113161"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2197708,
+      32.2941381
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122269828",
+  "properties": {
+    "timestamp": "2011-07-19T16:43:51Z",
+    "version": 1,
+    "changeset": 8769374,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "abda",
+    "id": "way/122269828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2338541,
+      32.2916669
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122269829",
+  "properties": {
+    "timestamp": "2011-07-19T16:43:51Z",
+    "version": 1,
+    "changeset": 8769374,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "ocp",
+    "id": "way/122269829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2302002,
+      32.2925375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122272775",
+  "properties": {
+    "timestamp": "2016-02-16T15:20:20Z",
+    "version": 3,
+    "changeset": 37247905,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "Centre De Sante Sfa (Safi",
+    "id": "way/122272775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2186426,
+      32.2882975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122461741",
+  "properties": {
+    "timestamp": "2011-07-20T21:53:35Z",
+    "version": 1,
+    "changeset": 8783086,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "jrayefate",
+    "id": "way/122461741"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2219147,
+      32.2845726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/123361846",
+  "properties": {
+    "timestamp": "2011-07-27T15:58:21Z",
+    "version": 1,
+    "changeset": 8845627,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "hospital",
+    "name": "مستشفى المطار",
+    "id": "way/123361846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.235071,
+      32.2664339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3740757154",
+  "properties": {
+    "timestamp": "2016-09-14T07:40:52Z",
+    "version": 2,
+    "changeset": 42142723,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "name": "koliaa",
+    "id": "node/3740757154"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2491529,
+      32.2615929
+    ]
+  }
+}
+]
+}

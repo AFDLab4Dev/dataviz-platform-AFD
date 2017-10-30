@@ -1,0 +1,90 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 272049512,
+  "timestamp": "2014-04-05T14:44:07Z",
+  "version": 1,
+  "changeset": 21515196,
+  "user": "fetch_1999",
+  "uid": 2006479,
+  "center": {
+    "lat": 0.3855745,
+    "lon": 9.4467089
+  },
+  "nodes": [
+    2769814375,
+    2769814378,
+    2769814379,
+    2769814380,
+    2769814375
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Village Artisanal mini"
+  }
+},
+{
+  "type": "way",
+  "id": 174085435,
+  "timestamp": "2015-01-04T15:32:00Z",
+  "version": 2,
+  "changeset": 27912370,
+  "user": "msdess",
+  "uid": 593205,
+  "center": {
+    "lat": 0.3868617,
+    "lon": 9.4465690
+  },
+  "nodes": [
+    1848271905,
+    1848271898,
+    1848271902,
+    1848271908,
+    1848271905
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Village Artisanal",
+    "shop": "gift"
+  }
+},
+{
+  "type": "way",
+  "id": 270078850,
+  "timestamp": "2014-03-29T11:59:40Z",
+  "version": 1,
+  "changeset": 21381661,
+  "user": "yaho",
+  "uid": 385987,
+  "center": {
+    "lat": 0.4118577,
+    "lon": 9.4547960
+  },
+  "nodes": [
+    2751678772,
+    2751678771,
+    2751678769,
+    2751678766,
+    2751678763,
+    2751678765,
+    2751678767,
+    2751678768,
+    2751678772
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "N'kembo Market"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,466 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/153283538",
+  "properties": {
+    "timestamp": "2012-03-05T01:06:34Z",
+    "version": 1,
+    "changeset": 10875620,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "marketplace",
+    "name": "Pasar Sederhana",
+    "id": "way/153283538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5992971,
+      -6.8904495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/182985175",
+  "properties": {
+    "timestamp": "2012-09-26T10:13:25Z",
+    "version": 1,
+    "changeset": 13257455,
+    "user": "Perdana Firmansyah",
+    "uid": 913389,
+    "amenity": "marketplace",
+    "name": "Penampungan Susu",
+    "id": "way/182985175"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6364377,
+      -6.8113781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/182987701",
+  "properties": {
+    "timestamp": "2012-09-26T10:47:00Z",
+    "version": 1,
+    "changeset": 13257775,
+    "user": "emirhartato",
+    "uid": 452826,
+    "amenity": "marketplace",
+    "name": "Pasar Panorama",
+    "operator": "government",
+    "id": "way/182987701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6227669,
+      -6.8167434
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/182987703",
+  "properties": {
+    "timestamp": "2012-09-26T10:47:01Z",
+    "version": 1,
+    "changeset": 13257775,
+    "user": "emirhartato",
+    "uid": 452826,
+    "amenity": "marketplace",
+    "name": "Pasar Panorama",
+    "operator": "government",
+    "id": "way/182987703"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6229168,
+      -6.8173978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/182987707",
+  "properties": {
+    "timestamp": "2012-09-27T08:29:16Z",
+    "version": 2,
+    "changeset": 13268767,
+    "user": "asepsetiadi",
+    "uid": 913555,
+    "amenity": "marketplace",
+    "building": "yes",
+    "ele": "10",
+    "name": "Pasar Panorama",
+    "operator": "government",
+    "id": "way/182987707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6236123,
+      -6.8177016
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/185039739",
+  "properties": {
+    "timestamp": "2016-05-29T03:40:46Z",
+    "version": 2,
+    "changeset": 39634805,
+    "user": "everyone_sinks_starco",
+    "uid": 165040,
+    "addr:city": "Bandung",
+    "addr:street": "Jalan ABC",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Pasar Cikapundung",
+    "id": "way/185039739"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6088534,
+      -6.9189841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/263441027",
+  "properties": {
+    "timestamp": "2014-12-12T05:03:47Z",
+    "version": 2,
+    "changeset": 27414230,
+    "user": "Dewi Sulistioningrum",
+    "uid": 615320,
+    "amenity": "marketplace",
+    "name": "PASAR CIHAUR GEULIS",
+    "id": "way/263441027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6276866,
+      -6.8992897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/374697406",
+  "properties": {
+    "timestamp": "2016-03-30T14:14:05Z",
+    "version": 3,
+    "changeset": 38167602,
+    "user": "mgrobinson",
+    "uid": 3762002,
+    "amenity": "marketplace",
+    "name": "Pasar Induk Gedebage",
+    "id": "way/374697406"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6978777,
+      -6.9345653
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382982559",
+  "properties": {
+    "timestamp": "2015-11-30T19:14:19Z",
+    "version": 3,
+    "changeset": 35672443,
+    "user": "Aditya Prayoga",
+    "uid": 3416870,
+    "addr:city": "Bandung",
+    "addr:housenumber": "3",
+    "addr:postcode": "40286",
+    "addr:street": "Rancabolang",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "name": "Pasar Sumber Hurip",
+    "operator": "PD. Pasar Bermartabat Kota Bandung",
+    "id": "way/382982559"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6643091,
+      -6.940171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416041501",
+  "properties": {
+    "timestamp": "2016-05-06T07:40:08Z",
+    "version": 1,
+    "changeset": 39137058,
+    "user": "mgeh",
+    "uid": 1819255,
+    "amenity": "marketplace",
+    "name": "Pasar makanan",
+    "id": "way/416041501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6200645,
+      -6.8975403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425979899",
+  "properties": {
+    "timestamp": "2016-06-19T16:20:12Z",
+    "version": 1,
+    "changeset": 40139072,
+    "user": "mgeh",
+    "uid": 1819255,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/425979899"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.582282,
+      -6.8029894
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425979901",
+  "properties": {
+    "timestamp": "2016-06-19T16:20:12Z",
+    "version": 1,
+    "changeset": 40139072,
+    "user": "mgeh",
+    "uid": 1819255,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/425979901"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5818995,
+      -6.8028766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462559612",
+  "properties": {
+    "timestamp": "2016-12-29T16:18:33Z",
+    "version": 2,
+    "changeset": 44761634,
+    "user": "ArjanO",
+    "uid": 38066,
+    "amenity": "marketplace",
+    "covered": "yes",
+    "name": "Pasar Antri Baru Cimahi",
+    "id": "way/462559612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5382594,
+      -6.8802864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342928034",
+  "properties": {
+    "timestamp": "2015-10-28T14:06:34Z",
+    "version": 2,
+    "changeset": 34927197,
+    "user": "okono0403",
+    "uid": 421748,
+    "amenity": "marketplace",
+    "name": "Pasar Simpang Dago",
+    "id": "node/1342928034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.61415,
+      -6.8848062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1870972248",
+  "properties": {
+    "timestamp": "2012-08-18T07:29:54Z",
+    "version": 1,
+    "changeset": 12769956,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "marketplace",
+    "name": "Pasar Sarijadi",
+    "id": "node/1870972248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5749695,
+      -6.8839529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1879485856",
+  "properties": {
+    "timestamp": "2012-08-23T15:56:48Z",
+    "version": 1,
+    "changeset": 12834405,
+    "user": "Muhammad Saiful Islam",
+    "uid": 827504,
+    "amenity": "marketplace",
+    "name": "Pasar Atas Kota Cimahi",
+    "id": "node/1879485856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5426212,
+      -6.8692154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1919646280",
+  "properties": {
+    "timestamp": "2012-09-18T04:55:08Z",
+    "version": 1,
+    "changeset": 13151312,
+    "user": "asilentboy",
+    "uid": 892427,
+    "amenity": "marketplace",
+    "id": "node/1919646280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6065555,
+      -6.9280313
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1966181176",
+  "properties": {
+    "timestamp": "2012-10-15T03:41:44Z",
+    "version": 1,
+    "changeset": 13500903,
+    "user": "ridwanarjuna",
+    "uid": 913382,
+    "amenity": "marketplace",
+    "name": "Pasar Kordon",
+    "opening_hours": "02.00-12.00",
+    "operator": "Kordon",
+    "id": "node/1966181176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6393052,
+      -6.9541302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2429244622",
+  "properties": {
+    "timestamp": "2016-06-21T10:28:37Z",
+    "version": 2,
+    "changeset": 40177500,
+    "user": "Dorin Amanda",
+    "uid": 4144946,
+    "addr:city": "Bandung",
+    "addr:housenumber": "#33E",
+    "addr:postcode": "40391",
+    "addr:street": "Jl. Grand Hotel",
+    "amenity": "marketplace",
+    "name": "Lembang Floating Market",
+    "id": "node/2429244622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6185906,
+      -6.8188423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2503856213",
+  "properties": {
+    "timestamp": "2015-02-19T10:55:05Z",
+    "version": 2,
+    "changeset": 28953599,
+    "user": "gunaones",
+    "uid": 2683699,
+    "amenity": "marketplace",
+    "name": "Pasar Kiaracondong",
+    "id": "node/2503856213"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6450363,
+      -6.9263499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2669874511",
+  "properties": {
+    "timestamp": "2014-02-13T09:45:23Z",
+    "version": 1,
+    "changeset": 20537775,
+    "user": "buluksapi",
+    "uid": 1863375,
+    "amenity": "marketplace",
+    "name": "Pasar Margahayu",
+    "id": "node/2669874511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5612858,
+      -6.9747403
+    ]
+  }
+}
+]
+}

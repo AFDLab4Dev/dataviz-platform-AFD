@@ -1,0 +1,165 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 763245718,
+  "lat": 35.7344162,
+  "lon": -5.8918000,
+  "timestamp": "2016-02-16T15:10:30Z",
+  "version": 3,
+  "changeset": 37247417,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "university",
+    "name": "University Abdelmalek Essaadi"
+  }
+},
+{
+  "type": "way",
+  "id": 292666270,
+  "timestamp": "2014-07-14T01:47:07Z",
+  "version": 1,
+  "changeset": 24131447,
+  "user": "FablabTanger",
+  "uid": 2184439,
+  "center": {
+    "lat": 35.7348539,
+    "lon": -5.8921781
+  },
+  "nodes": [
+    2962058945,
+    2962058944,
+    2962058938,
+    2962058943,
+    2962058940,
+    2962058942,
+    2962058939,
+    2962058941,
+    2962058945
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "public",
+    "name": "Atelier génie mécanique"
+  }
+},
+{
+  "type": "way",
+  "id": 274100058,
+  "timestamp": "2016-02-06T11:42:36Z",
+  "version": 3,
+  "changeset": 37039180,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 35.7365551,
+    "lon": -5.8958564
+  },
+  "nodes": [
+    2788717263,
+    2788717261,
+    2788717260,
+    2962058985,
+    2788717266,
+    2788717265,
+    2788717256,
+    2788717258,
+    2788717262,
+    2788717259,
+    2788717255,
+    2788717264,
+    2788717254,
+    2788717263
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "Extension de la FST de Tanger"
+  }
+},
+{
+  "type": "way",
+  "id": 292666306,
+  "timestamp": "2016-02-06T11:42:36Z",
+  "version": 3,
+  "changeset": 37039180,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 35.7365491,
+    "lon": -5.8955695
+  },
+  "nodes": [
+    2788717260,
+    2962058985,
+    3991859583,
+    2962058987,
+    2788717260
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "manufacture",
+    "designation": "FabLab",
+    "name": "FabLabTanger"
+  }
+},
+{
+  "type": "way",
+  "id": 274100247,
+  "timestamp": "2016-10-22T10:56:46Z",
+  "version": 3,
+  "changeset": 43078642,
+  "user": "A_ Azyat",
+  "uid": 2429951,
+  "center": {
+    "lat": 35.7369901,
+    "lon": -5.8949770
+  },
+  "nodes": [
+    2788721533,
+    2788721554,
+    2788721519,
+    2788721535,
+    2788721520,
+    2788721531,
+    2788721540,
+    2788721544,
+    2788721522,
+    2788721552,
+    2788721550,
+    2788721507,
+    2788721525,
+    2788721537,
+    2788721505,
+    2788721517,
+    2788721548,
+    2788721538,
+    2788721542,
+    2788721546,
+    2788721512,
+    4458977828,
+    4458977826,
+    4458977829,
+    4458977827,
+    2788721514,
+    2788721510,
+    2788721527,
+    2788721533
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "school",
+    "name": "ENSA de Tanger"
+  }
+}
+
+  ]
+}

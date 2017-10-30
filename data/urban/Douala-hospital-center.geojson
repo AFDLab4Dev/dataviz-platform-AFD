@@ -1,0 +1,672 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/299547547",
+  "properties": {
+    "timestamp": "2016-11-21T15:54:07Z",
+    "version": 4,
+    "changeset": 43850359,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Militaire",
+    "source": "Plan polyvalent Douala",
+    "id": "way/299547547"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6851314,
+      4.0338218
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300477787",
+  "properties": {
+    "timestamp": "2016-09-09T22:14:19Z",
+    "version": 2,
+    "changeset": 42049101,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "hospital",
+    "name": "PHARMACY DE LA  REPUBLIC PK 14",
+    "source": "Plan polyvalent Douala",
+    "id": "way/300477787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7934699,
+      4.0782897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300482904",
+  "properties": {
+    "timestamp": "2016-11-21T16:10:55Z",
+    "version": 3,
+    "changeset": 43850751,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Ad Lucem Hospital Logbessou",
+    "source": "Plan polyvalent Douala",
+    "id": "way/300482904"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.783799,
+      4.0831988
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166312",
+  "properties": {
+    "timestamp": "2016-11-21T16:10:56Z",
+    "version": 3,
+    "changeset": 43850751,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Catholique Notre Dame de l'Amour",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7677888,
+      4.0786052
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166313",
+  "properties": {
+    "timestamp": "2016-11-21T15:54:10Z",
+    "version": 3,
+    "changeset": 43850359,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:street": "Rue Dika Mpondo(N°1151)",
+    "amenity": "hospital",
+    "name": "Hôpital Laquintinie",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7031748,
+      4.0478559
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166314",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:37Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Hôpital de District Cité des Palmiers",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7619932,
+      4.0518254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166315",
+  "properties": {
+    "timestamp": "2016-12-03T23:08:38Z",
+    "version": 3,
+    "changeset": 44148083,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "contact:phone": "233370536",
+    "name": "Hôpital de District de Logbaba",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7540543,
+      4.0357401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166316",
+  "properties": {
+    "timestamp": "2016-11-19T01:13:25Z",
+    "version": 3,
+    "changeset": 43786187,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital de District de Nylon",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7315948,
+      4.0310389
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166317",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:37Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Léproserie de La Dibamba",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8167609,
+      3.9649463
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166318",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:38Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Léproserie de La Dibamba",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166318"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.8165942,
+      3.9673748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/319166319",
+  "properties": {
+    "timestamp": "2016-11-21T15:54:11Z",
+    "version": 2,
+    "changeset": 43850359,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Maternité Saint Paul de Nylon",
+    "source": "Plan polyvalent Douala",
+    "id": "way/319166319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7254494,
+      4.0380289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/363191245",
+  "properties": {
+    "timestamp": "2015-08-18T12:10:10Z",
+    "version": 2,
+    "changeset": 33413708,
+    "user": "snapping",
+    "uid": 1895849,
+    "Descriptio": "Dispensaire CEBEC",
+    "Localisati": "Bwassalo",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Dispensaire CEBEC",
+    "id": "way/363191245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6191513,
+      4.1607873
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368961365",
+  "properties": {
+    "timestamp": "2015-09-03T16:30:17Z",
+    "version": 1,
+    "changeset": 33777143,
+    "user": "snapping",
+    "uid": 1895849,
+    "amenity": "hospital",
+    "name": "Hôpital de District de Dibombari - MINSANTE",
+    "id": "way/368961365"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6553691,
+      4.1869427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/375109987",
+  "properties": {
+    "timestamp": "2015-10-13T16:49:32Z",
+    "version": 1,
+    "changeset": 34616642,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Gynéco-Obstétrique et Pédiatrique de Douala",
+    "short_name": "HGOPED",
+    "id": "way/375109987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7976211,
+      3.9895935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/409973322",
+  "properties": {
+    "timestamp": "2016-11-22T19:12:18Z",
+    "version": 3,
+    "changeset": 43878398,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Protestant Bonaberi CEBEC",
+    "id": "way/409973322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6530354,
+      4.0939026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/410032748",
+  "properties": {
+    "timestamp": "2016-11-24T20:41:58Z",
+    "version": 2,
+    "changeset": 43931474,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "contact:email": "hopitalsh2013@yahoo.fr",
+    "contact:phone": "233372650/233372651",
+    "contact:website": "www.santahelena.com",
+    "name": "Hopital Santa Helena",
+    "id": "way/410032748"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7814089,
+      4.0576527
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/410035724",
+  "properties": {
+    "timestamp": "2016-11-24T20:41:59Z",
+    "version": 2,
+    "changeset": 43931474,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:postcode": "7746 Dla",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Dispensaire et Maternité Sainte Rita",
+    "id": "way/410035724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7676444,
+      4.0462152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/410045617",
+  "properties": {
+    "timestamp": "2016-11-24T20:41:59Z",
+    "version": 2,
+    "changeset": 43931474,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:postcode": "7347 Dla",
+    "amenity": "hospital",
+    "name": "Hôpital de District de la Cité Des Palmiers",
+    "id": "way/410045617"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7621068,
+      4.0526117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454385526",
+  "properties": {
+    "timestamp": "2016-11-21T15:23:55Z",
+    "version": 2,
+    "changeset": 43849495,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital de District de Bonassama",
+    "source": "Plan polyvalent Douala",
+    "id": "way/454385526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6858318,
+      4.0718497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455175975",
+  "properties": {
+    "timestamp": "2016-11-22T22:54:24Z",
+    "version": 1,
+    "changeset": 43882952,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "contact:phone": "233500101",
+    "name": "Hôpital Général de Douala",
+    "name:en": "General Hospital of Douala",
+    "website": "http://www.hgdcam.com/",
+    "id": "way/455175975"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7584833,
+      4.0647935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/456089133",
+  "properties": {
+    "timestamp": "2016-11-26T18:07:48Z",
+    "version": 1,
+    "changeset": 43968678,
+    "user": "zaizone",
+    "uid": 1122708,
+    "alt_name": "Shisong Sisters Hospital",
+    "amenity": "hospital",
+    "name": "Saint Padre Pio Hospital",
+    "source": "Plan polyvalent Douala",
+    "id": "way/456089133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7176932,
+      4.0757699
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/458336332",
+  "properties": {
+    "timestamp": "2016-12-07T19:35:47Z",
+    "version": 1,
+    "changeset": 44243112,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Centre de Pédiatrie Emilie Saker",
+    "source": "Plan polyvalent Douala",
+    "id": "way/458336332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7018383,
+      4.0548557
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758370",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:30Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Centre Hospitalier",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7061828,
+      4.0341254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758382",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:30Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Centre Neuro-Psychiatrique Sainte Jeanne",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758382"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7436006,
+      4.0786717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758415",
+  "properties": {
+    "timestamp": "2016-11-21T15:54:06Z",
+    "version": 2,
+    "changeset": 43850359,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Ad Lucem de Bali",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.6994779,
+      4.0361711
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758418",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:33Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Hôpital Protestant Cité SIC",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7276385,
+      4.0487119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758422",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:33Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "Hôpital de District de DEIDO",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758422"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7140192,
+      4.0648211
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758423",
+  "properties": {
+    "timestamp": "2016-11-21T15:54:06Z",
+    "version": 2,
+    "changeset": 43850359,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital de District de New Bell",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7109514,
+      4.0292178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3255758426",
+  "properties": {
+    "timestamp": "2014-12-27T20:42:33Z",
+    "version": 1,
+    "changeset": 27739982,
+    "user": "sobzeros",
+    "uid": 479788,
+    "amenity": "hospital",
+    "name": "PAD Centre Medico-Social",
+    "source": "Plan polyvalent Douala",
+    "id": "node/3255758426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7036145,
+      4.0659212
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4394643444",
+  "properties": {
+    "timestamp": "2016-11-22T21:21:54Z",
+    "version": 3,
+    "changeset": 43881048,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "hospital",
+    "name": "Hôpital Ad Lucem",
+    "id": "node/4394643444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      9.7253608,
+      4.0836334
+    ]
+  }
+}
+]
+}

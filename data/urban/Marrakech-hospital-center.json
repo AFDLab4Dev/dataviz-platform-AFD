@@ -1,0 +1,359 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1944406985,
+  "lat": 31.5190593,
+  "lon": -7.8483569,
+  "timestamp": "2012-10-03T14:30:43Z",
+  "version": 1,
+  "changeset": 13348413,
+  "user": "cybersg",
+  "uid": 616845,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Dispensaire Sidi Ghiate"
+  }
+},
+{
+  "type": "node",
+  "id": 2255736108,
+  "lat": 31.6496946,
+  "lon": -8.0542668,
+  "timestamp": "2013-04-07T16:34:35Z",
+  "version": 1,
+  "changeset": 15643014,
+  "user": "alain2003",
+  "uid": 578772,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Toubkal"
+  }
+},
+{
+  "type": "node",
+  "id": 2481427727,
+  "lat": 31.6228327,
+  "lon": -7.9880222,
+  "timestamp": "2013-10-03T17:37:20Z",
+  "version": 1,
+  "changeset": 18165727,
+  "user": "sulagaloh",
+  "uid": 290723,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital Riad Al Mokha"
+  }
+},
+{
+  "type": "node",
+  "id": 3080018256,
+  "lat": 31.6121648,
+  "lon": -7.9980641,
+  "timestamp": "2016-01-05T06:35:20Z",
+  "version": 4,
+  "changeset": 36374174,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique Internationale Marrakech",
+    "website": "http://www.clinique-internationale-marrakech.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3358339104,
+  "lat": 31.6344893,
+  "lon": -8.0213497,
+  "timestamp": "2015-10-15T07:22:34Z",
+  "version": 2,
+  "changeset": 34648426,
+  "user": "pascal_cyclist",
+  "uid": 3292520,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Militaire Moulay Ismail"
+  }
+},
+{
+  "type": "node",
+  "id": 3556568002,
+  "lat": 31.6365765,
+  "lon": -7.9852668,
+  "timestamp": "2016-06-19T14:33:13Z",
+  "version": 5,
+  "changeset": 40137065,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hôpital El Antaki مستشفى الأنطاكي",
+    "name:ar": "مستشفى الأنطاكي",
+    "name:en": "Antaki Hospital",
+    "name:fr": "Hôpital El Antaki"
+  }
+},
+{
+  "type": "node",
+  "id": 4361734090,
+  "lat": 31.6318134,
+  "lon": -8.0572744,
+  "timestamp": "2016-08-22T15:38:49Z",
+  "version": 1,
+  "changeset": 41617359,
+  "user": "Moulay Ahmed Essoualeh Elidrissi",
+  "uid": 4459149,
+  "tags": {
+    "amenity": "hospital",
+    "name": "الترويض الطبي",
+    "name:ar": "الترويض الطبي"
+  }
+},
+{
+  "type": "way",
+  "id": 46791011,
+  "timestamp": "2016-12-19T22:33:57Z",
+  "version": 4,
+  "changeset": 44526899,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 31.6181663,
+    "lon": -7.9954822
+  },
+  "nodes": [
+    597875259,
+    597875326,
+    597875318,
+    597875322,
+    1400506489,
+    1400506495,
+    309968085,
+    1400506469,
+    597875273,
+    597875271,
+    1400506456,
+    1400506447,
+    1400506446,
+    384664648,
+    596634878,
+    384664651,
+    1400506437,
+    1400506442,
+    1400506445,
+    1400506451,
+    1400506453,
+    597875259
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Ibn Zohr"
+  }
+},
+{
+  "type": "way",
+  "id": 328555735,
+  "timestamp": "2015-02-18T18:29:58Z",
+  "version": 2,
+  "changeset": 28939576,
+  "user": "seba85",
+  "uid": 607947,
+  "center": {
+    "lat": 31.6378212,
+    "lon": -8.0147083
+  },
+  "nodes": [
+    3353793507,
+    3358339334,
+    3353793512,
+    3358339330,
+    3353793486,
+    3353793428,
+    3353793420,
+    3353793405,
+    3358339230,
+    3353793393,
+    3358339274,
+    3353793498,
+    3353793507
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique du Sud"
+  }
+},
+{
+  "type": "way",
+  "id": 328555734,
+  "timestamp": "2016-06-18T09:38:46Z",
+  "version": 3,
+  "changeset": 40112106,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 31.6415953,
+    "lon": -8.0156193
+  },
+  "nodes": [
+    3353793979,
+    3353793969,
+    3353793962,
+    3353793929,
+    3353793889,
+    3353793936,
+    3353793941,
+    3353793952,
+    3353793961,
+    3353793982,
+    3353793980,
+    3353793988,
+    3353794085,
+    3353794208,
+    3353794218,
+    3353794282,
+    3353794277,
+    3353794275,
+    3353794265,
+    3353794262,
+    3353794260,
+    3353794253,
+    4250052764,
+    3353794073,
+    3353794031,
+    3353793990,
+    3353793979
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital Ibn Torfael"
+  }
+},
+{
+  "type": "way",
+  "id": 339711680,
+  "timestamp": "2015-04-21T09:30:36Z",
+  "version": 1,
+  "changeset": 30373202,
+  "user": "seba85",
+  "uid": 607947,
+  "center": {
+    "lat": 31.6402436,
+    "lon": -8.0197303
+  },
+  "nodes": [
+    3469171453,
+    3469171458,
+    3469171457,
+    3469171455,
+    3469171454,
+    3469171449,
+    3469171447,
+    3469171453
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique les Narcisses"
+  }
+},
+{
+  "type": "way",
+  "id": 390401950,
+  "timestamp": "2016-01-09T10:40:33Z",
+  "version": 1,
+  "changeset": 36460971,
+  "user": "seba85",
+  "uid": 607947,
+  "center": {
+    "lat": 31.6410721,
+    "lon": -8.0122087
+  },
+  "nodes": [
+    3935631929,
+    3935631926,
+    3935631927,
+    3935631928,
+    3935631931,
+    3353794035,
+    3353794025,
+    3357810604,
+    3357810603,
+    3935631930,
+    3935631929
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clinique les Narcisses"
+  }
+},
+{
+  "type": "way",
+  "id": 150782355,
+  "timestamp": "2012-02-17T13:50:55Z",
+  "version": 1,
+  "changeset": 10711329,
+  "user": "johanemilsson",
+  "uid": 559500,
+  "center": {
+    "lat": 31.6633665,
+    "lon": -7.9956027
+  },
+  "nodes": [
+    1636594239,
+    1636594213,
+    1636594215,
+    1636594211,
+    1636594209,
+    1636594241,
+    1636594229,
+    1636594208,
+    1636594214,
+    1636594219,
+    1636594224,
+    1636594223,
+    1636594222,
+    1636594237,
+    1636594227,
+    1636594243,
+    1636594236,
+    1636594217,
+    1636594231,
+    1636594210,
+    1636594245,
+    1636594228,
+    1636594230,
+    1636594232,
+    1636594221,
+    1636594220,
+    1636594238,
+    1636594235,
+    1636594216,
+    1636594218,
+    1636594244,
+    1636594242,
+    1636594212,
+    1636594225,
+    1636594234,
+    1636594226,
+    1636594240,
+    1636594233,
+    1636594239
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Hospitalier Universitaire Mohammed VI",
+    "source": "bing"
+  }
+}
+
+  ]
+}

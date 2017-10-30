@@ -1,0 +1,69 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/375127332",
+  "properties": {
+    "timestamp": "2016-04-22T12:00:01Z",
+    "version": 2,
+    "changeset": 38783655,
+    "user": "martine lilika",
+    "uid": 3544632,
+    "amenity": "university",
+    "landuse": "construction",
+    "name": "Université de Maroua campus de Kongola",
+    "id": "way/375127332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.4133563,
+      10.6408401
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417560134",
+  "properties": {
+    "timestamp": "2016-05-12T11:14:50Z",
+    "version": 1,
+    "changeset": 39264330,
+    "user": "Atangana Jacques Landry",
+    "uid": 1281635,
+    "amenity": "university",
+    "name": "Université de Maroua cours de Nkalbassou",
+    "id": "way/417560134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3233549,
+      10.5852388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/417560164",
+  "properties": {
+    "timestamp": "2016-05-12T11:14:53Z",
+    "version": 1,
+    "changeset": 39264330,
+    "user": "Atangana Jacques Landry",
+    "uid": 1281635,
+    "amenity": "university",
+    "name": "Université de Maroua",
+    "id": "way/417560164"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3201172,
+      10.5870648
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,219 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/300706381",
+  "properties": {
+    "timestamp": "2014-08-28T21:00:35Z",
+    "version": 1,
+    "changeset": 25083489,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "marketplace",
+    "id": "way/300706381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5185647,
+      34.2263558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/454568426",
+  "properties": {
+    "timestamp": "2016-11-25T23:11:11Z",
+    "version": 3,
+    "changeset": 43955250,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Tidass",
+    "id": "way/454568426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6133727,
+      34.2586194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455837599",
+  "properties": {
+    "timestamp": "2016-11-25T22:56:23Z",
+    "version": 3,
+    "changeset": 43955015,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Al Houria",
+    "name:ar": "سوق الحرية",
+    "id": "way/455837599"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5649017,
+      34.2603978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/455838335",
+  "properties": {
+    "timestamp": "2017-03-08T12:21:04Z",
+    "version": 3,
+    "changeset": 46679102,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souq Al Hofra",
+    "id": "way/455838335"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5579337,
+      34.266367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/479567926",
+  "properties": {
+    "timestamp": "2017-03-09T18:33:23Z",
+    "version": 1,
+    "changeset": 46717965,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/479567926"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.564371,
+      34.2605132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499158196",
+  "properties": {
+    "timestamp": "2016-11-28T23:14:38Z",
+    "version": 2,
+    "changeset": 44021782,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "name": "سوق سمك بتقسيط ميناء مهدية",
+    "id": "node/4499158196"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.6562289,
+      34.2666536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499239679",
+  "properties": {
+    "timestamp": "2016-11-13T22:10:39Z",
+    "version": 1,
+    "changeset": 43616852,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "name": "Souq",
+    "id": "node/4499239679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5934849,
+      34.2621459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4499242133",
+  "properties": {
+    "timestamp": "2016-11-13T22:13:16Z",
+    "version": 1,
+    "changeset": 43616898,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "name": "Souq",
+    "id": "node/4499242133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.624184,
+      34.2540804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4659781226",
+  "properties": {
+    "timestamp": "2017-02-03T15:46:08Z",
+    "version": 4,
+    "changeset": 45782103,
+    "user": "osm10005",
+    "uid": 4816089,
+    "amenity": "marketplace",
+    "name": "Souq Sebta",
+    "id": "node/4659781226"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5647024,
+      34.2642335
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4661014857",
+  "properties": {
+    "timestamp": "2017-03-12T15:42:58Z",
+    "version": 3,
+    "changeset": 46787909,
+    "user": "nasa1949",
+    "uid": 5435048,
+    "amenity": "marketplace",
+    "name": "Marché Centrale",
+    "name:fr": "Marché central.",
+    "id": "node/4661014857"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.5850566,
+      34.2635987
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,243 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/155884101",
+  "properties": {
+    "timestamp": "2017-02-23T07:52:17Z",
+    "version": 7,
+    "changeset": 46329105,
+    "user": "wulankhairunisa",
+    "uid": 617233,
+    "addr:full": "j merto",
+    "addr:housename": "Jalan Jimerto",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": ">500",
+    "name": "Kantor Bappeko Surabaya",
+    "office": "government",
+    "id": "way/155884101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.747481,
+      -7.2576937
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/155884166",
+  "properties": {
+    "timestamp": "2017-03-13T15:24:15Z",
+    "version": 5,
+    "changeset": 46815946,
+    "user": "everyone_sinks_starco",
+    "uid": 165040,
+    "addr:city": "Surabaya",
+    "addr:full": "jalan sedap malam",
+    "addr:street": "Jalan Sedap Malam",
+    "admin_level": "5",
+    "amenity": "townhall",
+    "building": "townhall",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Balai Kota Surabaya",
+    "office": "government",
+    "official_name": "Kantor Pemerintah Kota Surabaya",
+    "id": "way/155884166"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7470974,
+      -7.2592138
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307391957",
+  "properties": {
+    "timestamp": "2016-10-18T09:50:05Z",
+    "version": 2,
+    "changeset": 42979450,
+    "user": "Desta Fauzan Arif",
+    "uid": 4706378,
+    "addr:full": "Jalan Abdul Latif Nomor 1",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Graha Persatuan Purnawirawan Angkatan Laut",
+    "id": "way/307391957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7937057,
+      -7.241606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/422089746",
+  "properties": {
+    "timestamp": "2017-02-10T02:33:02Z",
+    "version": 3,
+    "changeset": 45962206,
+    "user": "gafuri",
+    "uid": 1588993,
+    "amenity": "townhall",
+    "building": "townhall",
+    "name": "Gedung Juang 45",
+    "id": "way/422089746"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7212401,
+      -7.2914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/448176177",
+  "properties": {
+    "timestamp": "2016-10-18T16:48:20Z",
+    "version": 2,
+    "changeset": 42988598,
+    "user": "Desta Fauzan Arif",
+    "uid": 4706378,
+    "addr:full": "Jalan Wiratno",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Pusdiklat Hanudnas",
+    "id": "way/448176177"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7936924,
+      -7.248952
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/459262749",
+  "properties": {
+    "timestamp": "2017-01-25T04:20:26Z",
+    "version": 2,
+    "changeset": 45460563,
+    "user": "adiatmad",
+    "uid": 2901733,
+    "access:roof": "no",
+    "addr:full": "Jalan Medokan Ayu Utara VII",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "2",
+    "building:roof": "asbestos",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity": "100-250",
+    "name": "Gedung Serba Guna Medokan Ayu",
+    "id": "way/459262749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7952898,
+      -7.3236797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/466870408",
+  "properties": {
+    "timestamp": "2017-02-16T10:42:11Z",
+    "version": 3,
+    "changeset": 46133458,
+    "user": "Ms Kiara",
+    "uid": 3682550,
+    "amenity": "townhall",
+    "building": "village_office",
+    "building:condition": "good",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": "<50",
+    "name": "Kantor Kelurahan Rungkut Kidul",
+    "id": "way/466870408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7762911,
+      -7.3272909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/472305195",
+  "properties": {
+    "timestamp": "2017-02-05T12:06:41Z",
+    "version": 1,
+    "changeset": 45827153,
+    "user": "hatnowiyanto",
+    "uid": 5249822,
+    "amenity": "townhall",
+    "building": "yes",
+    "id": "way/472305195"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7337218,
+      -7.3923147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1609173014",
+  "properties": {
+    "timestamp": "2014-10-10T08:04:55Z",
+    "version": 4,
+    "changeset": 25977338,
+    "user": "anisahputri",
+    "uid": 2389706,
+    "amenity": "townhall",
+    "name": "Rektorat",
+    "id": "node/1609173014"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.7946781,
+      -7.2816462
+    ]
+  }
+}
+]
+}

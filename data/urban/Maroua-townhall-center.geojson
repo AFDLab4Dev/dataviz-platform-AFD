@@ -1,0 +1,114 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/399973349",
+  "properties": {
+    "timestamp": "2016-05-06T14:34:09Z",
+    "version": 2,
+    "changeset": 39145343,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "COMMUNE URBAINE de MAROUA I",
+    "id": "way/399973349"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3139296,
+      10.6032134
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400004822",
+  "properties": {
+    "timestamp": "2016-05-06T16:08:32Z",
+    "version": 2,
+    "changeset": 39147434,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Maroua 3",
+    "source": "Plan polyvalent Maroua",
+    "id": "way/400004822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.337727,
+      10.6036843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416118856",
+  "properties": {
+    "timestamp": "2016-05-06T11:46:32Z",
+    "version": 1,
+    "changeset": 39141865,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Communauté urbaine de Maroua 1er",
+    "id": "way/416118856"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3054103,
+      10.5869909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416168891",
+  "properties": {
+    "timestamp": "2016-05-06T16:08:29Z",
+    "version": 1,
+    "changeset": 39147434,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Nouvelle Mairie de Maroua",
+    "id": "way/416168891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.3345562,
+      10.6121757
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2162428395",
+  "properties": {
+    "timestamp": "2013-02-19T10:31:44Z",
+    "version": 1,
+    "changeset": 15087554,
+    "user": "Jorieke V",
+    "uid": 378610,
+    "amenity": "townhall",
+    "id": "node/2162428395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.2928213,
+      10.5885126
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1067306351,
+  "lat": 9.3859489,
+  "lon": 13.5078791,
+  "timestamp": "2010-12-27T07:19:29Z",
+  "version": 1,
+  "changeset": 6774668,
+  "user": "Ernest Gwanvoma",
+  "uid": 331593,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Inspection d'arrondissement des ensigngnement premiere"
+  }
+},
+{
+  "type": "node",
+  "id": 1067306380,
+  "lat": 9.3884739,
+  "lon": 13.5095058,
+  "timestamp": "2010-12-27T07:19:29Z",
+  "version": 1,
+  "changeset": 6774668,
+  "user": "Ernest Gwanvoma",
+  "uid": 331593,
+  "tags": {
+    "amenity": "townhall",
+    "name": "MinaderDelegation d'arrondissement de Pitoa"
+  }
+},
+{
+  "type": "way",
+  "id": 221970522,
+  "timestamp": "2013-05-18T11:59:55Z",
+  "version": 1,
+  "changeset": 16179169,
+  "user": "Meaden-asm",
+  "uid": 1207501,
+  "center": {
+    "lat": 9.3069491,
+    "lon": 13.3942788
+  },
+  "nodes": [
+    2309474551,
+    2309474557,
+    2309474536,
+    2309474529,
+    2309474551
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hotel de ville"
+  }
+},
+{
+  "type": "way",
+  "id": 222778716,
+  "timestamp": "2013-05-24T12:00:49Z",
+  "version": 2,
+  "changeset": 16264684,
+  "user": "Meaden-asm",
+  "uid": 1207501,
+  "center": {
+    "lat": 9.3190735,
+    "lon": 13.3985283
+  },
+  "nodes": [
+    2317164657,
+    2317164647,
+    2317164639,
+    2317164651,
+    2317164649,
+    2317164659,
+    2317164660,
+    2317164675,
+    2317164688,
+    2317164668,
+    2317164678,
+    2317164670,
+    2317164663,
+    2317164653,
+    2317164657
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Commune urbaine Garoua II",
+    "source": "MEADEN"
+  }
+}
+
+  ]
+}

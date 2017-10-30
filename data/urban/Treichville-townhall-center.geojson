@@ -1,0 +1,381 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/236449346",
+  "properties": {
+    "timestamp": "2013-09-03T18:07:23Z",
+    "version": 1,
+    "changeset": 17658550,
+    "user": "desmanois",
+    "uid": 1634648,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie d'Adjamé",
+    "id": "way/236449346"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0269331,
+      5.3428733
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/276428135",
+  "properties": {
+    "timestamp": "2014-10-16T15:17:54Z",
+    "version": 2,
+    "changeset": 26121165,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Yopougon - Annexe de Niangon",
+    "id": "way/276428135"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.091943,
+      5.3270644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302529377",
+  "properties": {
+    "timestamp": "2016-03-08T11:30:45Z",
+    "version": 3,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique Yopougon",
+    "id": "way/302529377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.076405,
+      5.3312591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302688551",
+  "properties": {
+    "timestamp": "2016-03-08T02:00:53Z",
+    "version": 3,
+    "changeset": 37677846,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue M24",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Technique de Yopougon Toits-Rouges",
+    "id": "way/302688551"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0536344,
+      5.3268553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302862292",
+  "properties": {
+    "timestamp": "2016-03-08T02:00:53Z",
+    "version": 5,
+    "changeset": 37677846,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Treichville",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "name": "Mairie de Treichville",
+    "id": "way/302862292"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0128499,
+      5.3101966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/309064574",
+  "properties": {
+    "timestamp": "2015-07-12T15:42:07Z",
+    "version": 2,
+    "changeset": 32583414,
+    "user": "Johnprof@Ayiyikoh",
+    "uid": 2548512,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Socio-culturel Mairie d'Adjamé",
+    "id": "way/309064574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.026257,
+      5.3432262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/321988362",
+  "properties": {
+    "timestamp": "2016-03-08T11:30:45Z",
+    "version": 5,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Plateau",
+    "addr:country": "CI",
+    "addr:housename": "Mairie du Plateau",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard Cadre",
+    "amenity": "townhall",
+    "barrier": "wall",
+    "name": "Mairie du Plateau",
+    "id": "way/321988362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.02389,
+      5.3236644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/401437787",
+  "properties": {
+    "timestamp": "2016-07-02T19:03:53Z",
+    "version": 3,
+    "changeset": 40446207,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard des Martyrs",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "townhall",
+    "barrier": "fence",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Mairie de Cocody",
+    "id": "way/401437787"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0036801,
+      5.3327417
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/401437802",
+  "properties": {
+    "timestamp": "2016-03-08T14:38:37Z",
+    "version": 2,
+    "changeset": 37687571,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Boulevard des Martyrs",
+    "addr:suburb": "Vieux Cocody",
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "1",
+    "is_in": "Vieux Cocody;Cocody;Abidjan;Côte d'Ivoire",
+    "name": "Mairie de Cocody",
+    "id": "way/401437802"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0037529,
+      5.3328992
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1140749261",
+  "properties": {
+    "timestamp": "2015-11-26T12:51:25Z",
+    "version": 3,
+    "changeset": 35590292,
+    "user": "racky",
+    "uid": 1730834,
+    "amenity": "townhall",
+    "name": "Mairie Abobo",
+    "id": "node/1140749261"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.016696,
+      5.4211667
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1959286274",
+  "properties": {
+    "timestamp": "2012-10-11T20:43:14Z",
+    "version": 1,
+    "changeset": 13459697,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "townhall",
+    "name": "Mairie de Bingerville",
+    "id": "node/1959286274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.8891286,
+      5.3567446
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2082753726",
+  "properties": {
+    "timestamp": "2015-05-08T13:05:00Z",
+    "version": 4,
+    "changeset": 30903815,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "townhall",
+    "name": "Hôtel Communal de Port-Bouët",
+    "id": "node/2082753726"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9652499,
+      5.2590981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3396929158",
+  "properties": {
+    "timestamp": "2015-03-13T15:52:23Z",
+    "version": 1,
+    "changeset": 29452085,
+    "user": "Emmanuel Bama",
+    "uid": 1704472,
+    "amenity": "townhall",
+    "name": "Mairie de Koumassi",
+    "id": "node/3396929158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.969117,
+      5.2907225
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3417574370",
+  "properties": {
+    "timestamp": "2015-03-25T15:42:24Z",
+    "version": 1,
+    "changeset": 29730328,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "townhall",
+    "name": "Hôtel du District",
+    "id": "node/3417574370"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.020374,
+      5.3214336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4517407179",
+  "properties": {
+    "timestamp": "2016-11-23T17:08:57Z",
+    "version": 1,
+    "changeset": 43900977,
+    "user": "aurelien kouame",
+    "uid": 1730363,
+    "amenity": "townhall",
+    "name": "Mairie de Yopougon",
+    "id": "node/4517407179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0674479,
+      5.3438879
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4728603989",
+  "properties": {
+    "timestamp": "2017-03-12T16:59:06Z",
+    "version": 2,
+    "changeset": 46789875,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "addr:city": "Attécoubé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "townhall",
+    "name": "Mairie d’Attecoubé",
+    "name:fr": "Mairie d’Attecoubé",
+    "id": "node/4728603989"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0341157,
+      5.3474975
+    ]
+  }
+}
+]
+}

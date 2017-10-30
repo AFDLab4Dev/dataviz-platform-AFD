@@ -1,0 +1,224 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/381114501",
+  "properties": {
+    "timestamp": "2016-07-30T00:05:06Z",
+    "version": 15,
+    "changeset": 41120248,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "name": "Faculté des Sciences ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ كلية العلوم",
+    "name:ar": "كلية العلوم",
+    "name:ber": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ",
+    "name:fr": "Faculté des Sciences",
+    "name:zgh": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ",
+    "short_name:fr": "FSA",
+    "id": "way/381114501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5448692,
+      30.4069833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381147938",
+  "properties": {
+    "timestamp": "2016-01-24T16:46:52Z",
+    "version": 5,
+    "changeset": 36779464,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "name": "Cité universitaire الحي الجامعي",
+    "name:ar": "الحي الجامعي",
+    "name:fr": "Cité universitaire",
+    "id": "way/381147938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5412899,
+      30.4070459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381148594",
+  "properties": {
+    "timestamp": "2016-03-20T12:56:07Z",
+    "version": 8,
+    "changeset": 37955107,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "barrier": "wall",
+    "name": "Faculté des Sciences juridiques Économiques et Sociales كلية العلوم القانونية والاقتصادية والاجتماعية",
+    "name:ar": "كلية العلوم القانونية والاقتصادية والاجتماعية",
+    "name:fr": "Faculté des Sciences juridiques Économiques et Sociales",
+    "short_name:fr": "FSJES",
+    "id": "way/381148594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5425294,
+      30.4097977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381149171",
+  "properties": {
+    "timestamp": "2015-11-18T23:51:23Z",
+    "version": 1,
+    "changeset": 35423461,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "name": "ملحق جامعي",
+    "id": "way/381149171"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5431875,
+      30.4111051
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381332272",
+  "properties": {
+    "timestamp": "2016-03-20T12:56:07Z",
+    "version": 7,
+    "changeset": 37955107,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "addr:city": "Agadir",
+    "amenity": "university",
+    "name": "Ecole Nationale de Commerce et de Gestion المدرسة الوطنية للتجارة و التسيير",
+    "name:ar": "المدرسة الوطنية للتجارة و التسيير",
+    "name:fr": "Ecole Nationale de Commerce et de Gestion",
+    "short_name:fr": "ENCG",
+    "id": "way/381332272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5552287,
+      30.4022466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381730952",
+  "properties": {
+    "timestamp": "2016-08-26T18:27:07Z",
+    "version": 3,
+    "changeset": 41720974,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "addr:street": "Bab Al Madina, Agadir",
+    "amenity": "university",
+    "name": "Universiapolis",
+    "name:en": "Universiapolis",
+    "name:fr": "Universiapolis",
+    "opening_hours": "Mo-Fr 08:00-06:00; Sa 08:00-12:00",
+    "phone": "05282-30230",
+    "website": "http://universiapolis.ma/",
+    "id": "way/381730952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5295556,
+      30.4036642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/384001407",
+  "properties": {
+    "timestamp": "2015-12-02T15:03:22Z",
+    "version": 1,
+    "changeset": 35707966,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "name": "كلية الشريعة",
+    "id": "way/384001407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.518699,
+      30.3256039
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/387901232",
+  "properties": {
+    "timestamp": "2016-01-01T13:51:10Z",
+    "version": 3,
+    "changeset": 36298111,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "university",
+    "name": "Annexe de l'Université Ibn Zohr",
+    "id": "way/387901232"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.4731537,
+      30.3564196
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/406698001",
+  "properties": {
+    "timestamp": "2016-07-30T00:05:05Z",
+    "version": 3,
+    "changeset": 41120248,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "addr:borough": "Dakhla",
+    "addr:city": "Agadir",
+    "amenity": "university",
+    "name": "Faculté des Lettres et des Sciences Humaines ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵙⴽⵍⴰ ⴷ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ ⵜⵉⵏⴼⴳⴰⵏⵉⵏ كلية الآداب و العلوم الانسانية",
+    "name:ar": "كلية الاداب و العلوم الانسانية",
+    "name:ber": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵙⴽⵍⴰ ⴷ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ ⵜⵉⵏⴼⴳⴰⵏⵉⵏ",
+    "name:fr": "Faculté des Lettres et des Sciences Humaines",
+    "name:zgh": "ⵜⴰⵖⵉⵡⴰⵏⵜ ⵏ ⵜⵙⴽⵍⴰ ⴷ ⵜⵎⴰⵙⵙⴰⵏⵉⵏ ⵜⵉⵏⴼⴳⴰⵏⵉⵏ",
+    "phone": "+212 5 28 22 09 57",
+    "short_name:fr": "FLSH",
+    "website": "http://www.fsa.ac.ma/",
+    "id": "way/406698001"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5466144,
+      30.406656
+    ]
+  }
+}
+]
+}

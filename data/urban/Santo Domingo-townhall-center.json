@@ -1,0 +1,249 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1878164591,
+  "lat": 18.4702805,
+  "lon": -69.8490413,
+  "timestamp": "2013-06-24T02:08:27Z",
+  "version": 3,
+  "changeset": 16677851,
+  "user": "NelfiNova",
+  "uid": 1573875,
+  "tags": {
+    "amenity": "townhall",
+    "leisure": "sports_centre",
+    "name": "Club de los Legisladores",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4618262611,
+  "lat": 18.5091969,
+  "lon": -69.9640114,
+  "timestamp": "2017-01-19T12:39:33Z",
+  "version": 1,
+  "changeset": 45296454,
+  "user": "luis alfonso",
+  "uid": 2534829,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Consulado Americano"
+  }
+},
+{
+  "type": "way",
+  "id": 222937228,
+  "timestamp": "2013-05-24T19:44:59Z",
+  "version": 1,
+  "changeset": 16270530,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.4489133,
+    "lon": -69.9250169
+  },
+  "nodes": [
+    2318817048,
+    2318817049,
+    2318817050,
+    2318817051,
+    2318817052,
+    2318817053,
+    2318817054,
+    2318817055,
+    2318817056,
+    2318817057,
+    2318817058,
+    2318817048
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Senado de la República Dominicana"
+  }
+},
+{
+  "type": "way",
+  "id": 222937932,
+  "timestamp": "2013-05-24T19:47:48Z",
+  "version": 1,
+  "changeset": 16270568,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.4493713,
+    "lon": -69.9251007
+  },
+  "nodes": [
+    2318822083,
+    2318822084,
+    2318822085,
+    2318822086,
+    2318822087,
+    2318822088,
+    2318822089,
+    2318822090,
+    2318822083
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Salón de la Asamblea Nacional"
+  }
+},
+{
+  "type": "way",
+  "id": 222939565,
+  "timestamp": "2013-05-24T20:03:33Z",
+  "version": 2,
+  "changeset": 16270771,
+  "user": "Josuefiallo",
+  "uid": 210945,
+  "center": {
+    "lat": 18.4495916,
+    "lon": -69.9254809
+  },
+  "nodes": [
+    2318835714,
+    2318835716,
+    2318835718,
+    2318835720,
+    2318835722,
+    2318835724,
+    2318835730,
+    2318835731,
+    2318835732,
+    2318835733,
+    2318835734,
+    2318835735,
+    2318835736,
+    2318835737,
+    2318835738,
+    2318835739,
+    2318835740,
+    2318835741,
+    2318835742,
+    2318835743,
+    2318835744,
+    2318835745,
+    2318835746,
+    2318835747,
+    2318835748,
+    2318835749,
+    2318835750,
+    2318835751,
+    2318835752,
+    2318835753,
+    2318835754,
+    2318835755,
+    2318835756,
+    2318835757,
+    2318835758,
+    2318835759,
+    2318835760,
+    2318835761,
+    2318835762,
+    2318835763,
+    2318835714
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:postcode": "10101",
+    "addr:street": "Avenida Jiménez Moya",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Cámara de Diputados",
+    "phone": "809-535-2626",
+    "website": "http://www.camaradediputados.gob.do/"
+  }
+},
+{
+  "type": "way",
+  "id": 304020254,
+  "timestamp": "2016-05-10T21:52:11Z",
+  "version": 3,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.5208448,
+    "lon": -69.9153714
+  },
+  "nodes": [
+    3085381436,
+    3085381437,
+    3085381438,
+    4103404987,
+    3085381439,
+    3085381436
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ayuntamiento de Santo Domingo Norte",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 301809368,
+  "timestamp": "2015-12-09T01:46:00Z",
+  "version": 2,
+  "changeset": 35837878,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.5048127,
+    "lon": -69.8587521
+  },
+  "nodes": [
+    3059575055,
+    3059575056,
+    3059575057,
+    3059575058,
+    3059575059,
+    3059575060,
+    3059575061,
+    3059575062,
+    3059575063,
+    3059575064,
+    3059575065,
+    3059575066,
+    3059575067,
+    3059575068,
+    3059575069,
+    3059575070,
+    3059575071,
+    3059575072,
+    3059575073,
+    3059575074,
+    3059575075,
+    3059575076,
+    3059575077,
+    3059575078,
+    3059575079,
+    3059575080,
+    3059575081,
+    3059575082,
+    3059575083,
+    3059575084,
+    3059575055
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Ayuntamiento Santo Domingo Este (nuevo)"
+  }
+}
+
+  ]
+}

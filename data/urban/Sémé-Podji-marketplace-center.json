@@ -1,0 +1,265 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4172381291,
+  "lat": 6.3745678,
+  "lon": 2.4598064,
+  "timestamp": "2016-05-08T01:20:28Z",
+  "version": 1,
+  "changeset": 39173646,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de N'vènamedé"
+  }
+},
+{
+  "type": "node",
+  "id": 4207422049,
+  "lat": 6.3756425,
+  "lon": 2.5074534,
+  "timestamp": "2016-05-25T16:46:19Z",
+  "version": 1,
+  "changeset": 39560683,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Sekandji"
+  }
+},
+{
+  "type": "node",
+  "id": 4254736032,
+  "lat": 6.3708036,
+  "lon": 2.4615510,
+  "timestamp": "2016-06-20T17:28:49Z",
+  "version": 1,
+  "changeset": 40162522,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché PK3",
+    "operator": "SOGEMA"
+  }
+},
+{
+  "type": "node",
+  "id": 4323430692,
+  "lat": 6.4564482,
+  "lon": 2.5440886,
+  "timestamp": "2016-07-27T15:20:40Z",
+  "version": 1,
+  "changeset": 41065199,
+  "user": "PhidiasAZO",
+  "uid": 3216072,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "KINTOCOME"
+  }
+},
+{
+  "type": "node",
+  "id": 4431338551,
+  "lat": 6.4711879,
+  "lon": 2.6269016,
+  "timestamp": "2016-10-04T18:43:41Z",
+  "version": 1,
+  "changeset": 42639276,
+  "user": "sommerluk",
+  "uid": 1700634,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché central"
+  }
+},
+{
+  "type": "way",
+  "id": 377325432,
+  "timestamp": "2015-10-28T17:39:22Z",
+  "version": 1,
+  "changeset": 34931855,
+  "user": "nerus1er",
+  "uid": 3323102,
+  "center": {
+    "lat": 6.3953867,
+    "lon": 2.5397009
+  },
+  "nodes": [
+    3807016857,
+    3807016856,
+    3807016855,
+    3807016853,
+    3807016852,
+    3807016850,
+    3807016849,
+    3807016854,
+    3807016862,
+    3807016868,
+    3807016876,
+    3807016881,
+    3807016880,
+    3807016879,
+    3807016878,
+    3807016873,
+    3807016857
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Houéssi",
+    "operator": "Marché Houéssi"
+  }
+},
+{
+  "type": "way",
+  "id": 398778218,
+  "timestamp": "2016-06-03T07:19:24Z",
+  "version": 2,
+  "changeset": 39771821,
+  "user": "FrancoDewez",
+  "uid": 4056607,
+  "center": {
+    "lat": 6.4730288,
+    "lon": 2.6089867
+  },
+  "nodes": [
+    4015184561,
+    4015184562,
+    4015184563,
+    4015184564,
+    4015184565,
+    4015184566,
+    4015184561
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 256270415,
+  "timestamp": "2016-01-09T16:22:23Z",
+  "version": 7,
+  "changeset": 36466396,
+  "user": "dalmond",
+  "uid": 36223,
+  "center": {
+    "lat": 6.5064313,
+    "lon": 2.6109511
+  },
+  "nodes": [
+    2619439032,
+    3899077080,
+    3242555988,
+    3911027508,
+    3911027673,
+    2619439036,
+    2619439038,
+    2619439032
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Ouando",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 356471210,
+  "timestamp": "2015-06-26T07:52:51Z",
+  "version": 1,
+  "changeset": 32220150,
+  "user": "benoitberlin",
+  "uid": 1197015,
+  "center": {
+    "lat": 6.5020843,
+    "lon": 2.6459074
+  },
+  "nodes": [
+    3619074089,
+    3619074088,
+    3619074090,
+    3619074091,
+    3619074089
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché"
+  }
+},
+{
+  "type": "way",
+  "id": 256268159,
+  "timestamp": "2015-12-28T02:17:55Z",
+  "version": 4,
+  "changeset": 36210351,
+  "user": "Wim L",
+  "uid": 223681,
+  "center": {
+    "lat": 6.5316559,
+    "lon": 2.6641288
+  },
+  "nodes": [
+    2619415722,
+    3913804188,
+    2619415723,
+    3913804158,
+    3242556019,
+    2619415724,
+    3242556017,
+    2619415725,
+    2619415726,
+    2619415727,
+    3242556021,
+    2619415722
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "landuse": "commercial",
+    "name": "Marché d'Adjerra"
+  }
+},
+{
+  "type": "way",
+  "id": 364745356,
+  "timestamp": "2016-01-23T21:16:01Z",
+  "version": 2,
+  "changeset": 36766067,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "center": {
+    "lat": 6.5511246,
+    "lon": 2.6539135
+  },
+  "nodes": [
+    3687923786,
+    3687923785,
+    3687923783,
+    3687923784,
+    3687923786
+  ],
+  "tags": {
+    "addr:city": "Avrankou",
+    "amenity": "marketplace",
+    "fixme": "check",
+    "name": "Marché central d'Avrankou",
+    "source": "bing",
+    "source:date": "12/16/2013"
+  }
+}
+
+  ]
+}

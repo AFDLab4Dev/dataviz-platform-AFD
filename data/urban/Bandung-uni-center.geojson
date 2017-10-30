@@ -1,0 +1,1597 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/3138343",
+  "properties": {
+    "timestamp": "2013-08-13T01:33:55Z",
+    "version": 1,
+    "changeset": 17325139,
+    "user": "Almi Raisman",
+    "uid": 1712472,
+    "amenity": "university",
+    "id": "relation/3138343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5618668,
+      -6.8734327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/29392601",
+  "properties": {
+    "timestamp": "2012-08-24T08:15:42Z",
+    "version": 2,
+    "changeset": 12842020,
+    "user": "Muhammad Saiful Islam",
+    "uid": 827504,
+    "amenity": "university",
+    "name": "Universitas Islam Bandung",
+    "id": "node/29392601"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6078527,
+      -6.9038225
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/29392607",
+  "properties": {
+    "timestamp": "2007-05-20T18:10:01Z",
+    "version": 1,
+    "changeset": 59876,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "university",
+    "name": "Universitas Pasundan",
+    "id": "node/29392607"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6084706,
+      -6.9042997
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/30236642",
+  "properties": {
+    "timestamp": "2012-07-20T20:09:23Z",
+    "version": 3,
+    "changeset": 12389608,
+    "user": "OSMF Redaction Account",
+    "uid": 722137,
+    "amenity": "university",
+    "name": "Universitas Widyatama",
+    "id": "node/30236642"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6450259,
+      -6.8980283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32042131",
+  "properties": {
+    "timestamp": "2007-07-16T21:25:27Z",
+    "version": 1,
+    "changeset": 147858,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "university",
+    "created_by": "JOSM",
+    "name": "Ariyanti",
+    "id": "node/32042131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5973817,
+      -6.9050969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32042180",
+  "properties": {
+    "timestamp": "2011-01-12T08:08:34Z",
+    "version": 2,
+    "changeset": 6944769,
+    "user": "azureru",
+    "uid": 384731,
+    "amenity": "university",
+    "created_by": "JOSM",
+    "name": "Universitas Padjajaran",
+    "id": "node/32042180"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6168803,
+      -6.8932162
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119422833",
+  "properties": {
+    "timestamp": "2012-07-29T08:23:20Z",
+    "version": 2,
+    "changeset": 12531585,
+    "user": "Niko Simamora",
+    "uid": 767078,
+    "addr:housename": "Gedung Labtek IX C, ITB",
+    "addr:housenumber": "10",
+    "addr:postcode": "40133",
+    "addr:street": "Ganesha",
+    "amenity": "university",
+    "building": "school",
+    "building:levels": "6",
+    "building:roof": "sirap",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education-laboratorium",
+    "building:walls": "brick",
+    "internet_access": "wlan",
+    "name": "Labtek IX C, Teknik Geodesi dan Geomatika,Institut Teknologi Bandung",
+    "id": "way/119422833"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6118996,
+      -6.8915201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119446867",
+  "properties": {
+    "timestamp": "2011-06-28T12:14:36Z",
+    "version": 1,
+    "changeset": 8571158,
+    "user": "Juniansyah Fauzi",
+    "uid": 478196,
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "MBA ITB",
+    "id": "way/119446867"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6093645,
+      -6.8944568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119763460",
+  "properties": {
+    "timestamp": "2011-06-30T13:50:23Z",
+    "version": 1,
+    "changeset": 8590886,
+    "user": "Juniansyah Fauzi",
+    "uid": 478196,
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Teknik Kima dan Desain Itenas",
+    "id": "way/119763460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6359421,
+      -6.8965779
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119763461",
+  "properties": {
+    "timestamp": "2011-06-30T13:50:23Z",
+    "version": 1,
+    "changeset": 8590886,
+    "user": "Juniansyah Fauzi",
+    "uid": 478196,
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "atap sirap",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Jurusan Arsitektur Itenas",
+    "id": "way/119763461"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6359312,
+      -6.896839
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152783409",
+  "properties": {
+    "timestamp": "2012-08-07T09:39:29Z",
+    "version": 3,
+    "changeset": 12643101,
+    "user": "Anom",
+    "uid": 504412,
+    "amenity": "university",
+    "name": "Sekolah Tinggi Pariwisata Bandung",
+    "id": "way/152783409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5946631,
+      -6.8690826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152792941",
+  "properties": {
+    "timestamp": "2013-07-05T09:34:04Z",
+    "version": 3,
+    "changeset": 16833146,
+    "user": "Imunk",
+    "uid": 1611136,
+    "amenity": "university",
+    "name": "Universitas Pasundan (UNPAS) Kampus IV",
+    "id": "way/152792941"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5929064,
+      -6.8663354
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152981734",
+  "properties": {
+    "timestamp": "2015-12-03T03:01:01Z",
+    "version": 3,
+    "changeset": 35718831,
+    "user": "Aditya Prayoga",
+    "uid": 3416870,
+    "addr:street": "Jalan Surya Sumantri",
+    "amenity": "university",
+    "name": "Universitas Kristen Maranatha",
+    "id": "way/152981734"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5804308,
+      -6.8866151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/153882684",
+  "properties": {
+    "timestamp": "2012-09-03T12:03:48Z",
+    "version": 3,
+    "changeset": 12965938,
+    "user": "Muhammad Saiful Islam",
+    "uid": 827504,
+    "amenity": "university",
+    "building": "yes",
+    "name": "STBA Yapari Aba",
+    "id": "way/153882684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6046065,
+      -6.8921749
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154080971",
+  "properties": {
+    "timestamp": "2012-03-09T04:27:39Z",
+    "version": 1,
+    "changeset": 10915938,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "university",
+    "name": "Politeknik Negeri Bandung (POLBAN)",
+    "id": "way/154080971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5727896,
+      -6.8713395
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154217967",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154217967"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6470669,
+      -6.9341492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154217969",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154217969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6462679,
+      -6.9345171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154218280",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154218280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6469867,
+      -6.9347203
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154218411",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154218411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6472208,
+      -6.934566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154218448",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154218448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6465015,
+      -6.9336776
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/154218816",
+  "properties": {
+    "timestamp": "2012-09-06T07:56:32Z",
+    "version": 2,
+    "changeset": 13006616,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Unjani (Fakultas Teknik)",
+    "id": "way/154218816"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6470452,
+      -6.9343459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/177629384",
+  "properties": {
+    "timestamp": "2016-08-26T15:49:03Z",
+    "version": 7,
+    "changeset": 41717841,
+    "user": "Takefumi Minato",
+    "uid": 4480533,
+    "addr:city": "Bandung",
+    "addr:housenumber": "10-12",
+    "addr:postcode": "40132",
+    "addr:street": "Ganesha",
+    "alt_name": "ITB",
+    "amenity": "university",
+    "int_name": "Bandung Technology Institute",
+    "name": "Institut Teknologi Bandung",
+    "name:en": "Bandung Institute of Technology",
+    "name:ja": "バンドゥン工科大学",
+    "operator": "Kementerian Riset, Teknologi dan Pendidikan Tinggi",
+    "id": "way/177629384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6104374,
+      -6.8904634
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746319",
+  "properties": {
+    "timestamp": "2014-12-12T05:03:49Z",
+    "version": 2,
+    "changeset": 27414230,
+    "user": "Dewi Sulistioningrum",
+    "uid": 615320,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6441266,
+      -6.9456341
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746320",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:42Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6447613,
+      -6.9462539
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746321",
+  "properties": {
+    "timestamp": "2014-12-12T05:03:49Z",
+    "version": 2,
+    "changeset": 27414230,
+    "user": "Dewi Sulistioningrum",
+    "uid": 615320,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6450792,
+      -6.9456178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746322",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:42Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746322"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.64497,
+      -6.9462074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746324",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:42Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746324"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6449907,
+      -6.9452817
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746326",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:42Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6440664,
+      -6.9460111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746331",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:43Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746331"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6441104,
+      -6.9451701
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746332",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:43Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6446995,
+      -6.9449834
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746333",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:43Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746333"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6449143,
+      -6.9458041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179746334",
+  "properties": {
+    "timestamp": "2012-09-06T08:07:43Z",
+    "version": 1,
+    "changeset": 13006739,
+    "user": "ivan elangrawa",
+    "uid": 771585,
+    "amenity": "university",
+    "name": "Uninus",
+    "id": "way/179746334"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6446531,
+      -6.946094
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193248752",
+  "properties": {
+    "timestamp": "2012-12-20T09:23:54Z",
+    "version": 7,
+    "changeset": 14340691,
+    "user": "Dani Gustiawan",
+    "uid": 1140300,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Gedung N",
+    "id": "way/193248752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6295523,
+      -6.9766427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204551991",
+  "properties": {
+    "timestamp": "2015-10-29T19:04:54Z",
+    "version": 8,
+    "changeset": 34956640,
+    "user": "brogo",
+    "uid": 63107,
+    "amenity": "university",
+    "id": "way/204551991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5263978,
+      -6.8881268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/233328791",
+  "properties": {
+    "timestamp": "2013-09-18T01:41:33Z",
+    "version": 2,
+    "changeset": 17896706,
+    "user": "Almi Raisman",
+    "uid": 1712472,
+    "amenity": "university",
+    "name": "Politeknik TEDC Bandung",
+    "id": "way/233328791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5621037,
+      -6.8735602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/287215117",
+  "properties": {
+    "timestamp": "2014-06-27T06:39:48Z",
+    "version": 5,
+    "changeset": 23206718,
+    "user": "fachrifaul",
+    "uid": 2115404,
+    "amenity": "university",
+    "name": "UIN Sunan Gunung Djati Bandung",
+    "id": "way/287215117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.7174603,
+      -6.9308892
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299052871",
+  "properties": {
+    "timestamp": "2014-08-20T15:46:32Z",
+    "version": 1,
+    "changeset": 24888142,
+    "user": "Vitria",
+    "uid": 2276259,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "12",
+    "addr:street": "Jalan Dipatiukur",
+    "amenity": "university",
+    "name": "Universitas Komputer Indonesia",
+    "phone": "+62 22 2504119",
+    "website": "unikom.ac.id‎",
+    "id": "way/299052871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.615415,
+      -6.8867414
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299053014",
+  "properties": {
+    "timestamp": "2014-08-20T15:46:43Z",
+    "version": 1,
+    "changeset": 24888145,
+    "user": "Vitria",
+    "uid": 2276259,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "12",
+    "addr:street": "Jalan Dipatiukur",
+    "amenity": "university",
+    "name": "Universitas Komputer Indonesia",
+    "phone": "+62 22 2504119",
+    "website": "unikom.ac.id‎",
+    "id": "way/299053014"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6154545,
+      -6.8869947
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/299054017",
+  "properties": {
+    "timestamp": "2014-08-20T15:50:32Z",
+    "version": 1,
+    "changeset": 24888229,
+    "user": "Vitria",
+    "uid": 2276259,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "82",
+    "addr:street": "Jalan Dipatiukur",
+    "amenity": "university",
+    "name": "Institute Teknologi Harapan Bangsa",
+    "id": "way/299054017"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6159872,
+      -6.8888759
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/369620109",
+  "properties": {
+    "timestamp": "2015-09-08T11:53:34Z",
+    "version": 2,
+    "changeset": 33879820,
+    "user": "Zefa Yullah",
+    "uid": 3222347,
+    "addr:housename": "GEDUNG REKTORAT",
+    "amenity": "university",
+    "building": "school",
+    "designation": "REKTORAT",
+    "name": "REKTORAT",
+    "source": "REKTORAT",
+    "id": "way/369620109"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5274507,
+      -6.8873766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/416542356",
+  "properties": {
+    "timestamp": "2016-05-08T14:09:25Z",
+    "version": 1,
+    "changeset": 39181967,
+    "user": "mgeh",
+    "uid": 1819255,
+    "amenity": "university",
+    "name": "Universitas Islam Bandung",
+    "id": "way/416542356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6078869,
+      -6.9034723
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425979889",
+  "properties": {
+    "timestamp": "2016-06-19T16:20:11Z",
+    "version": 1,
+    "changeset": 40139072,
+    "user": "mgeh",
+    "uid": 1819255,
+    "amenity": "university",
+    "name": "Universitas Advent Indonesia",
+    "id": "way/425979889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.579513,
+      -6.8018193
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1107733639",
+  "properties": {
+    "timestamp": "2012-12-20T09:23:51Z",
+    "version": 6,
+    "changeset": 14340691,
+    "user": "Dani Gustiawan",
+    "uid": 1140300,
+    "amenity": "university",
+    "name": "Institut Teknologi Telkom",
+    "id": "node/1107733639"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6307261,
+      -6.975422
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342944408",
+  "properties": {
+    "timestamp": "2016-07-30T17:06:54Z",
+    "version": 2,
+    "changeset": 41130949,
+    "user": "Stefanus5",
+    "uid": 4324978,
+    "addr:city": "Bandung",
+    "addr:housenumber": "4",
+    "addr:street": "Jl. Ir. H. Juanda",
+    "amenity": "university",
+    "name": "Universitas Padjajaran - Djuanda",
+    "id": "node/1342944408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6109516,
+      -6.9061025
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342970055",
+  "properties": {
+    "timestamp": "2012-10-10T16:30:03Z",
+    "version": 2,
+    "changeset": 13443291,
+    "user": "hers",
+    "uid": 913401,
+    "amenity": "university",
+    "name": "Universitas Katolik Parahyangan",
+    "id": "node/1342970055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6108713,
+      -6.9116663
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1352122684",
+  "properties": {
+    "timestamp": "2011-07-07T03:20:37Z",
+    "version": 1,
+    "changeset": 8653766,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "university",
+    "name": "Institut Teknologi Nasional",
+    "id": "node/1352122684"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6363552,
+      -6.897292
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1383647419",
+  "properties": {
+    "timestamp": "2011-08-02T23:45:41Z",
+    "version": 1,
+    "changeset": 8906056,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "university",
+    "name": "Universitas Padjajaran",
+    "id": "node/1383647419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6173416,
+      -6.8934028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1450239568",
+  "properties": {
+    "timestamp": "2014-12-12T07:28:49Z",
+    "version": 2,
+    "changeset": 27415625,
+    "user": "Dewi Sulistioningrum",
+    "uid": 615320,
+    "amenity": "university",
+    "name": "Institut Pemerintahan Dalam Negeri",
+    "id": "node/1450239568"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.7639704,
+      -6.9341594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315331597",
+  "properties": {
+    "timestamp": "2016-07-22T06:26:14Z",
+    "version": 1,
+    "changeset": 40942102,
+    "user": "Dorin Amanda",
+    "uid": 4144946,
+    "addr:city": "Bandung",
+    "addr:housenumber": "No. 23",
+    "addr:street": "Jalan PH.H. Mustofa, Cikutra, Cibeunying Kidul, Neglasari, Cibeunying Kaler,",
+    "amenity": "university",
+    "name": "Institut Teknologi Nasional",
+    "id": "node/4315331597"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6358327,
+      -6.8981327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315338668",
+  "properties": {
+    "timestamp": "2016-07-22T06:35:48Z",
+    "version": 1,
+    "changeset": 40942219,
+    "user": "Dorin Amanda",
+    "uid": 4144946,
+    "addr:city": "Bandung",
+    "addr:housenumber": "No. 37",
+    "addr:street": "Jl Terusan Halimun Burangrang Bandung",
+    "amenity": "university",
+    "name": "Institut Teknologi Adityawarman",
+    "id": "node/4315338668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6259866,
+      -6.9271072
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315385932",
+  "properties": {
+    "timestamp": "2016-07-22T07:29:55Z",
+    "version": 1,
+    "changeset": 40943013,
+    "user": "Dorin Amanda",
+    "uid": 4144946,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "#80-84",
+    "addr:street": "Jalan Dipatiukur",
+    "amenity": "university",
+    "name": "Institut Teknologi Harapan Bangsa",
+    "id": "node/4315385932"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6158471,
+      -6.8888936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315403687",
+  "properties": {
+    "timestamp": "2016-07-22T07:58:47Z",
+    "version": 1,
+    "changeset": 40943571,
+    "user": "dede sadeli",
+    "uid": 4300453,
+    "addr:city": "Bandung",
+    "addr:street": "Jl. Telekomunikasi Terusan Buah Batu, Dayeuh Kolot, Jalan Sukabiru, Sukapura, Dayeuhkolot,",
+    "amenity": "university",
+    "name": "Institut Telkom",
+    "id": "node/4315403687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6335478,
+      -6.9721259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315511482",
+  "properties": {
+    "timestamp": "2016-07-22T10:08:15Z",
+    "version": 1,
+    "changeset": 40946554,
+    "user": "dede sadeli",
+    "uid": 4300453,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "112-116",
+    "addr:street": "Jalan Dipatiukur, Coblong",
+    "amenity": "university",
+    "name": "Universitas Komputer Indonesia",
+    "id": "node/4315511482"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6151136,
+      -6.8868408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4315542406",
+  "properties": {
+    "timestamp": "2016-07-22T10:41:43Z",
+    "version": 1,
+    "changeset": 40947161,
+    "user": "dede sadeli",
+    "uid": 4300453,
+    "addr:city": "Bandung",
+    "addr:street": "Jl. STT Telcom, Sukapura, Dayeuhkolot,",
+    "amenity": "university",
+    "name": "Universitas Telkom",
+    "id": "node/4315542406"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6339568,
+      -6.9725808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4326873603",
+  "properties": {
+    "timestamp": "2016-07-29T13:29:59Z",
+    "version": 1,
+    "changeset": 41109688,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "15",
+    "addr:street": "Jl. Cikapayang , Tamansari, Bandung Wetan",
+    "amenity": "university",
+    "name": "Kantor Satuan Penjaminan Mutu & Pengawas Internal Itb",
+    "id": "node/4326873603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6105185,
+      -6.8986812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4328186638",
+  "properties": {
+    "timestamp": "2016-07-30T17:31:51Z",
+    "version": 1,
+    "changeset": 41131310,
+    "user": "Stefanus5",
+    "uid": 4324978,
+    "addr:city": "Bandung",
+    "addr:housenumber": "10",
+    "addr:street": "Jl. Ganesha",
+    "amenity": "university",
+    "name": "Bandung Institute of Technology",
+    "id": "node/4328186638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6103817,
+      -6.891288
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4328206586",
+  "properties": {
+    "timestamp": "2016-07-30T17:56:28Z",
+    "version": 1,
+    "changeset": 41131614,
+    "user": "Stefanus5",
+    "uid": 4324978,
+    "addr:city": "Bandung",
+    "addr:housenumber": "65",
+    "addr:street": "Jalan Prof. Drg. Surya Sumantri",
+    "amenity": "university",
+    "name": "Universitas Kristen Maranatha",
+    "id": "node/4328206586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5812357,
+      -6.8867651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329452898",
+  "properties": {
+    "timestamp": "2016-07-31T14:12:26Z",
+    "version": 1,
+    "changeset": 41146276,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "59",
+    "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+    "amenity": "university",
+    "name": "Politeknik LP3I Bandung",
+    "id": "node/4329452898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6342973,
+      -6.8965816
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329457858",
+  "properties": {
+    "timestamp": "2016-07-31T14:19:55Z",
+    "version": 1,
+    "changeset": 41146431,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "69",
+    "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+    "amenity": "university",
+    "name": "Universitas Winaya Mukti",
+    "id": "node/4329457858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6342424,
+      -6.8961448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329467501",
+  "properties": {
+    "timestamp": "2016-07-31T14:40:36Z",
+    "version": 2,
+    "changeset": 41147106,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "83",
+    "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+    "amenity": "university",
+    "name": "Politeknik Agp",
+    "id": "node/4329467501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6346164,
+      -6.8947444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329574162",
+  "properties": {
+    "timestamp": "2016-07-31T15:47:37Z",
+    "version": 1,
+    "changeset": 41148358,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "171",
+    "addr:street": "Jl. Cikutra , Neglasari, Cibeunying Kaler",
+    "amenity": "university",
+    "name": "Universitas Bandung Raya Fakusltas Pertanian",
+    "id": "node/4329574162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6435144,
+      -6.8962936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329579351",
+  "properties": {
+    "timestamp": "2016-07-31T15:54:51Z",
+    "version": 1,
+    "changeset": 41148508,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "171",
+    "addr:street": "JL Cikutra",
+    "amenity": "university",
+    "name": "Universitas Bandung Raya (UNBAR)",
+    "id": "node/4329579351"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.643286,
+      -6.9001306
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329584401",
+  "properties": {
+    "timestamp": "2016-07-31T16:01:36Z",
+    "version": 1,
+    "changeset": 41148667,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "59",
+    "addr:street": "Jl. PH.H. Mustofa , Neglasari, Cibeunying Kaler",
+    "amenity": "university",
+    "name": "Universitas Widyatama Pascasarjana",
+    "id": "node/4329584401"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.643342,
+      -6.8995626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329639329",
+  "properties": {
+    "timestamp": "2016-07-31T17:02:53Z",
+    "version": 1,
+    "changeset": 41149902,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "8",
+    "addr:street": "Jl Cihampelas Pasir Kaliki Bandung",
+    "amenity": "university",
+    "name": "Sekolah Tinggi Hukum Bandung",
+    "id": "node/4329639329"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6045553,
+      -6.9065089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4329660483",
+  "properties": {
+    "timestamp": "2016-07-31T17:18:53Z",
+    "version": 1,
+    "changeset": 41150203,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:street": "Jl. Pajajaran, Pasir Kaliki, Cicendo",
+    "amenity": "university",
+    "name": "Politeknik Kesehatan Bandung",
+    "id": "node/4329660483"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.600491,
+      -6.9068564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4366139595",
+  "properties": {
+    "timestamp": "2016-08-25T10:35:31Z",
+    "version": 1,
+    "changeset": 41684419,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "university",
+    "name": "Universit",
+    "id": "node/4366139595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.526534,
+      -6.8875776
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4366139596",
+  "properties": {
+    "timestamp": "2016-08-25T10:35:31Z",
+    "version": 1,
+    "changeset": 41684419,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "CImahi",
+    "addr:postcode": "40285",
+    "addr:street": "Jl. Terusan Jendral Sudirman",
+    "amenity": "university",
+    "name": "Universitas Jendral Ahmad Yani (UNJANI)",
+    "id": "node/4366139596"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5267246,
+      -6.8874369
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4370460566",
+  "properties": {
+    "timestamp": "2016-08-28T00:09:51Z",
+    "version": 3,
+    "changeset": 41746189,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "university",
+    "name": "Universitas Nurtanio",
+    "id": "node/4370460566"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5816656,
+      -6.9060558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4370519683",
+  "properties": {
+    "timestamp": "2016-08-28T02:33:10Z",
+    "version": 1,
+    "changeset": 41747173,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "university",
+    "name": "STIE EKUITAS",
+    "id": "node/4370519683"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6378958,
+      -6.8984255
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4402036473",
+  "properties": {
+    "timestamp": "2016-09-15T04:30:55Z",
+    "version": 1,
+    "changeset": 42163821,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "Bandung",
+    "addr:housenumber": "32",
+    "addr:postcode": "40116",
+    "addr:street": "Jalan Purnawarman",
+    "amenity": "university",
+    "name": "Institut Francais Indonesia",
+    "id": "node/4402036473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6095093,
+      -6.9078792
+    ]
+  }
+}
+]
+}

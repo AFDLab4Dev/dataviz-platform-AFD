@@ -1,0 +1,197 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/176163176",
+  "properties": {
+    "timestamp": "2016-03-08T00:31:47Z",
+    "version": 4,
+    "changeset": 37677385,
+    "user": "MoeizHa",
+    "uid": 2842751,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Hôpital Universitaire Mohamed Taher Maamouri Nabeul",
+    "name:ar": "المستشفى الجامعي محمد الطاهر المعموري بنابل",
+    "id": "way/176163176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6742717,
+      36.4375334
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/244662752",
+  "properties": {
+    "timestamp": "2013-11-04T09:37:51Z",
+    "version": 1,
+    "changeset": 18708623,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "id": "way/244662752"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7317946,
+      36.4536399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/477096434",
+  "properties": {
+    "timestamp": "2017-02-25T11:13:48Z",
+    "version": 1,
+    "changeset": 46390214,
+    "user": "Baha Baghdadi",
+    "uid": 5383596,
+    "amenity": "hospital",
+    "name": "Hôpital de Korba",
+    "id": "way/477096434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8537347,
+      36.5699172
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1859399455",
+  "properties": {
+    "timestamp": "2012-08-09T21:18:39Z",
+    "version": 2,
+    "changeset": 12673543,
+    "user": "MichaelUbuntu",
+    "uid": 781415,
+    "amenity": "hospital",
+    "id": "node/1859399455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.744162,
+      36.4491858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1859403682",
+  "properties": {
+    "timestamp": "2012-08-09T21:16:08Z",
+    "version": 1,
+    "changeset": 12673543,
+    "user": "MichaelUbuntu",
+    "uid": 781415,
+    "amenity": "hospital",
+    "id": "node/1859403682"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.6834366,
+      36.4300893
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1863150860",
+  "properties": {
+    "timestamp": "2012-08-12T15:37:17Z",
+    "version": 1,
+    "changeset": 12703112,
+    "user": "Hedi_B",
+    "uid": 799200,
+    "amenity": "hospital",
+    "id": "node/1863150860"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.781335,
+      36.4699846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1865620937",
+  "properties": {
+    "timestamp": "2012-08-14T12:24:27Z",
+    "version": 1,
+    "changeset": 12726240,
+    "user": "Hedi_B",
+    "uid": 799200,
+    "amenity": "hospital",
+    "id": "node/1865620937"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.8081503,
+      36.4661516
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4559010284",
+  "properties": {
+    "timestamp": "2016-12-17T20:00:02Z",
+    "version": 1,
+    "changeset": 44477708,
+    "user": "Tartarugatn",
+    "uid": 4983509,
+    "amenity": "hospital",
+    "name": "Dispensaire",
+    "id": "node/4559010284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7286061,
+      36.4471672
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4559018694",
+  "properties": {
+    "timestamp": "2016-12-17T20:08:43Z",
+    "version": 1,
+    "changeset": 44477876,
+    "user": "Tartarugatn",
+    "uid": 4983509,
+    "addr:city": "Nabeul",
+    "addr:housenumber": "24",
+    "addr:postcode": "8000",
+    "addr:street": "Rue Habib Karma",
+    "amenity": "hospital",
+    "name": "Pharmacie Laouiti",
+    "operator": "Mme Naïma Chaarani Laouiti",
+    "id": "node/4559018694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.7400136,
+      36.4545129
+    ]
+  }
+}
+]
+}

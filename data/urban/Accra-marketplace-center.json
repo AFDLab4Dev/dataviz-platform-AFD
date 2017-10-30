@@ -1,0 +1,349 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:43:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1611124269,
+  "lat": 5.5490461,
+  "lon": -0.2032663,
+  "timestamp": "2016-05-20T12:16:15Z",
+  "version": 2,
+  "changeset": 39449369,
+  "user": "benste",
+  "uid": 358249,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020792,
+  "lat": 5.6081302,
+  "lon": -0.2564115,
+  "timestamp": "2013-02-09T18:04:46Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Chantan New Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2148020840,
+  "lat": 5.6392602,
+  "lon": -0.2138419,
+  "timestamp": "2013-02-09T18:04:47Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kisseman Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2148021097,
+  "lat": 5.5523258,
+  "lon": -0.2376556,
+  "timestamp": "2013-02-09T18:04:49Z",
+  "version": 1,
+  "changeset": 14970604,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Sabon Zongo Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2151944575,
+  "lat": 5.5607756,
+  "lon": -0.1569241,
+  "timestamp": "2013-02-12T15:20:07Z",
+  "version": 1,
+  "changeset": 15007672,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "La Main Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2151944591,
+  "lat": 5.6004693,
+  "lon": -0.0792959,
+  "timestamp": "2013-02-12T15:20:07Z",
+  "version": 1,
+  "changeset": 15007672,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Nungua Market"
+  }
+},
+{
+  "type": "node",
+  "id": 2152138387,
+  "lat": 5.6791257,
+  "lon": -0.1691223,
+  "timestamp": "2013-02-12T17:55:46Z",
+  "version": 1,
+  "changeset": 15009231,
+  "user": "lowlevel",
+  "uid": 722172,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 3109282498,
+  "lat": 5.5686389,
+  "lon": -0.2168619,
+  "timestamp": "2014-10-03T12:58:58Z",
+  "version": 1,
+  "changeset": 25830724,
+  "user": "sylverhawk",
+  "uid": 726142,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Odoornaa Market"
+  }
+},
+{
+  "type": "node",
+  "id": 3154426148,
+  "lat": 5.6074700,
+  "lon": -0.2480086,
+  "timestamp": "2014-10-28T16:00:29Z",
+  "version": 1,
+  "changeset": 26387565,
+  "user": "sylverhawk",
+  "uid": 726142,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Lapaz Street Market"
+  }
+},
+{
+  "type": "way",
+  "id": 261185626,
+  "timestamp": "2014-02-12T07:19:20Z",
+  "version": 1,
+  "changeset": 20516811,
+  "user": "oba510",
+  "uid": 933797,
+  "center": {
+    "lat": 5.5309161,
+    "lon": -0.2346042
+  },
+  "nodes": [
+    2148021140,
+    2668178032,
+    2668178033,
+    2668178034,
+    2668178029,
+    2668178024,
+    2668178021,
+    2668178030,
+    2668178023,
+    2668178022,
+    2668178031,
+    2148021140
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tuesday Market"
+  }
+},
+{
+  "type": "way",
+  "id": 202488344,
+  "timestamp": "2013-01-22T22:24:45Z",
+  "version": 1,
+  "changeset": 14751567,
+  "user": "FrankKlee",
+  "uid": 678922,
+  "center": {
+    "lat": 5.5401817,
+    "lon": -0.2096873
+  },
+  "nodes": [
+    2124542571,
+    2124542573,
+    2124542570,
+    2124542565,
+    2124542567,
+    2124542571
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Salaga Market"
+  }
+},
+{
+  "type": "way",
+  "id": 295106221,
+  "timestamp": "2017-03-02T17:46:52Z",
+  "version": 4,
+  "changeset": 46528362,
+  "user": "DoodleBob",
+  "uid": 4339485,
+  "center": {
+    "lat": 5.5551570,
+    "lon": -0.2264128
+  },
+  "nodes": [
+    2987757368,
+    2995447021,
+    2497162655,
+    2987757362,
+    2917311760,
+    2917311759,
+    2987757363,
+    4713828360,
+    2987757368
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Agbogbloshie Onion Market"
+  }
+},
+{
+  "type": "way",
+  "id": 414615655,
+  "timestamp": "2016-05-24T10:46:23Z",
+  "version": 2,
+  "changeset": 39530342,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.5798146,
+    "lon": -0.2083065
+  },
+  "nodes": [
+    4157336074,
+    4157336071,
+    4157336069,
+    4157336070,
+    4157336074
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Mallam Atta Market",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "way",
+  "id": 377954173,
+  "timestamp": "2015-11-02T09:54:07Z",
+  "version": 1,
+  "changeset": 35029792,
+  "user": "GO_OSM",
+  "uid": 282860,
+  "center": {
+    "lat": 5.6244504,
+    "lon": -0.1785204
+  },
+  "nodes": [
+    3813613975,
+    3813613974,
+    3813613968,
+    3813613966,
+    3813613963,
+    3813613959,
+    3813613960,
+    3813613973,
+    3813613975
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "African Market"
+  }
+},
+{
+  "type": "way",
+  "id": 397552322,
+  "timestamp": "2016-02-12T22:47:11Z",
+  "version": 1,
+  "changeset": 37178398,
+  "user": "mapChica",
+  "uid": 2023331,
+  "center": {
+    "lat": 5.5876045,
+    "lon": -0.1067765
+  },
+  "nodes": [
+    4003400989,
+    4003400990,
+    4003400991,
+    4003400992,
+    4003400993,
+    4003400994,
+    4003400995,
+    4003400996,
+    4003400997,
+    4003400989
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "residential",
+    "name": "Tsui Bleo Market"
+  }
+},
+{
+  "type": "way",
+  "id": 419698151,
+  "timestamp": "2017-02-21T07:14:08Z",
+  "version": 2,
+  "changeset": 46265077,
+  "user": "Lexi Johnson",
+  "uid": 4803526,
+  "center": {
+    "lat": 5.6793672,
+    "lon": -0.1694038
+  },
+  "nodes": [
+    4197069018,
+    4197069019,
+    4197069020,
+    4197069021,
+    4197069022,
+    4197069023,
+    4197069024,
+    4197069025,
+    4197069026,
+    4197069027,
+    4197069028,
+    4197069030,
+    4197069029,
+    4197069031,
+    4197069032,
+    4197069033,
+    4197069018
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Madina Market"
+  }
+}
+
+  ]
+}

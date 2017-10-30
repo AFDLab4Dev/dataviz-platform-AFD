@@ -1,0 +1,38 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:48:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 231919901,
+  "timestamp": "2013-07-31T13:19:13Z",
+  "version": 3,
+  "changeset": 17166151,
+  "user": "ndongpotter",
+  "uid": 1158295,
+  "center": {
+    "lat": 6.4315868,
+    "lon": 1.2127909
+  },
+  "nodes": [
+    2402461802,
+    2402461804,
+    2402461805,
+    2402461803,
+    2402461802
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "name": "Hotel de Ville de Tsévié",
+    "office": "administrative",
+    "source": "Bing;survey"
+  }
+}
+
+  ]
+}

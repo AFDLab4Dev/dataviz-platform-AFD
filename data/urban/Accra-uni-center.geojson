@@ -1,0 +1,452 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/6385148",
+  "properties": {
+    "timestamp": "2016-07-06T13:36:27Z",
+    "version": 2,
+    "changeset": 40521426,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "building": "yes",
+    "type": "multipolygon",
+    "id": "relation/6385148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5378347,
+      30.3685402
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/135886361",
+  "properties": {
+    "timestamp": "2017-01-01T09:51:35Z",
+    "version": 4,
+    "changeset": 44819436,
+    "user": "Papa Schlumpf",
+    "uid": 13969,
+    "amenity": "marketplace",
+    "building": "yes",
+    "description": "Fishmarket",
+    "name": "Souk al Hout",
+    "id": "way/135886361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5677377,
+      30.4151477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/135887503",
+  "properties": {
+    "timestamp": "2017-01-19T11:49:21Z",
+    "version": 4,
+    "changeset": 45295439,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk Al Massira",
+    "id": "way/135887503"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.567403,
+      30.4147365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/362660313",
+  "properties": {
+    "timestamp": "2017-01-28T20:28:42Z",
+    "version": 7,
+    "changeset": 45603324,
+    "user": "johnparis",
+    "uid": 2126146,
+    "addr:city": "Agadir",
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Souq El Had",
+    "id": "way/362660313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5796086,
+      30.4128173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/363017952",
+  "properties": {
+    "timestamp": "2017-01-14T13:54:47Z",
+    "version": 7,
+    "changeset": 45160695,
+    "user": "Papa Schlumpf",
+    "uid": 13969,
+    "addr:city": "Inezgane إنزكان",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Mardi ⵙⵓⵇ ⵏ ⵜⵍⴰⵜⴰ سوق الثلاثاء سوق الثلاثاء",
+    "name:ar": "سوق الثلاثاء",
+    "name:ber": "ⵙⵓⵇ ⵏ ⵜⵍⴰⵜⴰ",
+    "name:de": "Souk",
+    "name:fr": "Marché de Mardi",
+    "id": "way/363017952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5303162,
+      30.3596609
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/363022992",
+  "properties": {
+    "timestamp": "2016-02-13T21:42:05Z",
+    "version": 2,
+    "changeset": 37195028,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "addr:city": "Inezgane إنزكان",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Souk",
+    "id": "way/363022992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.532654,
+      30.3561408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381276021",
+  "properties": {
+    "timestamp": "2015-12-19T22:07:03Z",
+    "version": 4,
+    "changeset": 36055103,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "سوق الحرية",
+    "id": "way/381276021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5255961,
+      30.3574093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381276023",
+  "properties": {
+    "timestamp": "2016-04-27T14:22:26Z",
+    "version": 5,
+    "changeset": 38921219,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "area": "yes",
+    "barrier": "wall",
+    "name": "سوق الجملة الجديد",
+    "id": "way/381276023"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5219479,
+      30.3565087
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381288663",
+  "properties": {
+    "timestamp": "2016-07-06T13:36:27Z",
+    "version": 3,
+    "changeset": 40521426,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/381288663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5383392,
+      30.3685885
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/381292380",
+  "properties": {
+    "timestamp": "2016-07-19T20:13:50Z",
+    "version": 4,
+    "changeset": 40879472,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "السوق اليومي عمر الخيام",
+    "id": "way/381292380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.541479,
+      30.3656303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382246891",
+  "properties": {
+    "timestamp": "2015-11-23T13:24:56Z",
+    "version": 1,
+    "changeset": 35530210,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/382246891"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5568774,
+      30.3522718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382248565",
+  "properties": {
+    "timestamp": "2016-06-05T12:06:49Z",
+    "version": 2,
+    "changeset": 39814957,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "سوق",
+    "id": "way/382248565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5360575,
+      30.3750815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382880741",
+  "properties": {
+    "timestamp": "2016-06-20T22:25:48Z",
+    "version": 3,
+    "changeset": 40168921,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/382880741"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5260914,
+      30.36003
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/383104915",
+  "properties": {
+    "timestamp": "2015-11-27T18:05:55Z",
+    "version": 1,
+    "changeset": 35616030,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "سوق أربعاء أنزا",
+    "id": "way/383104915"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.6522227,
+      30.4493995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/383364870",
+  "properties": {
+    "timestamp": "2015-11-30T13:28:57Z",
+    "version": 2,
+    "changeset": 35665578,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "سوق السلع المستعملة",
+    "name:fr": "Brocante",
+    "id": "way/383364870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.530122,
+      30.3552547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/384255359",
+  "properties": {
+    "timestamp": "2017-01-17T07:01:21Z",
+    "version": 9,
+    "changeset": 45235154,
+    "user": "Papa Schlumpf",
+    "uid": 13969,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "سوق الجملة",
+    "name:de": "Obst- und Gemüse Großmarkt",
+    "id": "way/384255359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.529772,
+      30.3575384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/386321140",
+  "properties": {
+    "timestamp": "2015-12-17T11:08:51Z",
+    "version": 1,
+    "changeset": 36006772,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "id": "way/386321140"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5302565,
+      30.3562558
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/395341431",
+  "properties": {
+    "timestamp": "2016-02-01T17:34:56Z",
+    "version": 2,
+    "changeset": 36941541,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "سوق السلع المستعملة",
+    "id": "way/395341431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5064298,
+      30.3809358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/413937308",
+  "properties": {
+    "timestamp": "2016-04-27T14:21:56Z",
+    "version": 2,
+    "changeset": 38921200,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "area": "yes",
+    "name": "سوق المواشي",
+    "id": "way/413937308"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5302737,
+      30.3535211
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/426351449",
+  "properties": {
+    "timestamp": "2016-06-21T14:44:25Z",
+    "version": 1,
+    "changeset": 40182523,
+    "user": "Aboudrar Said",
+    "uid": 2209556,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "السوق النموذجي",
+    "id": "way/426351449"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5365302,
+      30.3751186
+    ]
+  }
+}
+]
+}

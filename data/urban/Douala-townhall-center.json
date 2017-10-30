@@ -1,0 +1,211 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:48:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 299539679,
+  "timestamp": "2016-11-01T17:57:54Z",
+  "version": 3,
+  "changeset": 43332236,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 4.0416932,
+    "lon": 9.6858233
+  },
+  "nodes": [
+    3035061274,
+    3035061265,
+    3035055858,
+    3035055859,
+    3035055664,
+    3035055675,
+    3035055875,
+    3035055930,
+    3035066468,
+    3035066457,
+    3035064850,
+    3035064834,
+    3035064647,
+    3035064662,
+    3035061535,
+    3035061326,
+    3035061233,
+    3035061239,
+    3035060664,
+    3035060657,
+    3035046017,
+    3035046004,
+    3035061286,
+    3035061274
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de Ville",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 299537305,
+  "timestamp": "2016-11-18T22:46:57Z",
+  "version": 3,
+  "changeset": 43782450,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 4.0701733,
+    "lon": 9.6844972
+  },
+  "nodes": [
+    3035198403,
+    3035198534,
+    3035196422,
+    3035198539,
+    3035198514,
+    4509464116,
+    3035198459,
+    3035198448,
+    3035198430,
+    3035198394,
+    3035198403
+  ],
+  "tags": {
+    "alt_name": "Mairie Douala IV",
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de ville Douala IV",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 456116146,
+  "timestamp": "2016-11-26T21:43:43Z",
+  "version": 1,
+  "changeset": 43972375,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 4.0894513,
+    "lon": 9.7407448
+  },
+  "nodes": [
+    4523934802,
+    4523934799,
+    4523934798,
+    4523934797,
+    4523934795,
+    4523934794,
+    4523934803,
+    4523934802
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie de Douala 5"
+  }
+},
+{
+  "type": "way",
+  "id": 300313662,
+  "timestamp": "2016-12-03T23:08:37Z",
+  "version": 4,
+  "changeset": 44148083,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 4.0371399,
+    "lon": 9.7564351
+  },
+  "nodes": [
+    3043856152,
+    3043855987,
+    3043855881,
+    4536692971,
+    4536692966,
+    4536692964,
+    4536692965,
+    4536692967,
+    4536692970,
+    4536692969,
+    4536692968,
+    3043855896,
+    4536692955,
+    3043856152
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Mairie Douala lll",
+    "source": "Plan polyvalent Douala"
+  }
+},
+{
+  "type": "way",
+  "id": 362984924,
+  "timestamp": "2015-09-03T15:16:59Z",
+  "version": 2,
+  "changeset": 33775605,
+  "user": "snapping",
+  "uid": 1895849,
+  "center": {
+    "lat": 4.1770466,
+    "lon": 9.6570604
+  },
+  "nodes": [
+    3672035384,
+    3672035391,
+    3672035405,
+    3672035410,
+    3672035396,
+    3672035399,
+    3672035324,
+    3672035322,
+    3672035319,
+    3672035314,
+    3672035325,
+    3672035321,
+    3672035384
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Mairie de Dibombari"
+  }
+},
+{
+  "type": "way",
+  "id": 368954153,
+  "timestamp": "2015-09-03T15:16:59Z",
+  "version": 1,
+  "changeset": 33775605,
+  "user": "snapping",
+  "uid": 1895849,
+  "center": {
+    "lat": 4.1777413,
+    "lon": 9.6570844
+  },
+  "nodes": [
+    3727912789,
+    3727912790,
+    3727912792,
+    3727912791,
+    3727912789
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "public",
+    "name": "Hôtel de Ville de Dibombari en Chantier"
+  }
+}
+
+  ]
+}

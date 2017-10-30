@@ -1,0 +1,200 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/424953417",
+  "properties": {
+    "timestamp": "2016-06-14T16:31:44Z",
+    "version": 1,
+    "changeset": 40020998,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSSAS",
+    "id": "way/424953417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4280023,
+      5.4615822
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424953418",
+  "properties": {
+    "timestamp": "2016-06-14T16:31:44Z",
+    "version": 1,
+    "changeset": 40020998,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "building": "yes",
+    "name": "ISSTECO",
+    "id": "way/424953418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4271556,
+      5.4620089
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425061004",
+  "properties": {
+    "timestamp": "2016-06-15T07:49:01Z",
+    "version": 1,
+    "changeset": 40033173,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institu Nanfah",
+    "id": "way/425061004"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.430644,
+      5.4702365
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425061005",
+  "properties": {
+    "timestamp": "2016-06-15T07:49:01Z",
+    "version": 1,
+    "changeset": 40033173,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut Money Keng",
+    "id": "way/425061005"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4304943,
+      5.4702383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425070172",
+  "properties": {
+    "timestamp": "2016-06-15T08:26:04Z",
+    "version": 1,
+    "changeset": 40033740,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "name": "Complexe 3i Santé",
+    "id": "way/425070172"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4445353,
+      5.4786883
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425076238",
+  "properties": {
+    "timestamp": "2016-06-15T09:20:39Z",
+    "version": 1,
+    "changeset": 40034558,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSAM",
+    "id": "way/425076238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4496985,
+      5.4743035
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/425302882",
+  "properties": {
+    "timestamp": "2016-06-16T10:30:02Z",
+    "version": 1,
+    "changeset": 40062786,
+    "user": "FutherMarket",
+    "uid": 4096432,
+    "amenity": "university",
+    "name": "ENIEG Saint Andre",
+    "id": "way/425302882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4051215,
+      5.5013383
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2340217604",
+  "properties": {
+    "timestamp": "2013-06-11T08:08:14Z",
+    "version": 1,
+    "changeset": 16506750,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "university",
+    "name": "IUT Victor FOTSO",
+    "id": "node/2340217604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4260175,
+      5.3552444
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4404320254",
+  "properties": {
+    "timestamp": "2016-09-16T14:46:52Z",
+    "version": 1,
+    "changeset": 42204953,
+    "user": "hassanchris",
+    "uid": 703186,
+    "amenity": "university",
+    "name": "Université Evangélique du Cameroun (UEC)",
+    "website": "http://www.uecam.org",
+    "id": "node/4404320254"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4149959,
+      5.4380528
+    ]
+  }
+}
+]
+}

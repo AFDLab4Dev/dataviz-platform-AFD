@@ -1,0 +1,2566 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/188761593",
+  "properties": {
+    "timestamp": "2016-04-15T10:45:32Z",
+    "version": 6,
+    "changeset": 38584369,
+    "user": "outing",
+    "uid": 3815652,
+    "addr:postcode": "5408 Ydï¿½",
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "HOPITAL GENERAL",
+    "source": "Willy",
+    "id": "way/188761593"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5415828,
+      3.9066077
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/191158128",
+  "properties": {
+    "timestamp": "2013-05-19T21:14:01Z",
+    "version": 5,
+    "changeset": 16200062,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "name": "Hôpital Protestant de Djoungolo",
+    "id": "way/191158128"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5208736,
+      3.8841912
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/191166264",
+  "properties": {
+    "timestamp": "2016-04-13T15:00:20Z",
+    "version": 4,
+    "changeset": 38527852,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "Hôpital de District de Biyem-Assi",
+    "id": "way/191166264"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4850163,
+      3.8340856
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/191248672",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:32Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "alt_name": "CMA",
+    "amenity": "hospital",
+    "name": "Centre Médical d'Arrondissement de Nkomo",
+    "id": "way/191248672"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5512815,
+      3.8436298
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/191996250",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:25Z",
+    "version": 2,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Maternité Marie Étoudi",
+    "source": "sobzeros",
+    "id": "way/191996250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5275136,
+      3.9187398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192022914",
+  "properties": {
+    "timestamp": "2017-03-22T15:22:32Z",
+    "version": 6,
+    "changeset": 47071445,
+    "user": "camlefort",
+    "uid": 5401583,
+    "addr:postcode": "4362 Ydï¿½",
+    "amenity": "hospital",
+    "building": "hospital",
+    "contact:email": "hgopy@hotmail.com",
+    "contact:fax": "222212430",
+    "contact:phone": "242059294",
+    "name": "HGOPY : Hôpital Gynéco Obstétrique et Pédiatrique de Yaoundé",
+    "source": "sobzeros",
+    "id": "way/192022914"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5393848,
+      3.9077898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192696313",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:18Z",
+    "version": 2,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Jamot",
+    "source": "sobzeros",
+    "id": "way/192696313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5223352,
+      3.9003694
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192780695",
+  "properties": {
+    "timestamp": "2016-04-15T07:20:31Z",
+    "version": 2,
+    "changeset": 38579384,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "yes",
+    "contact:phone": "696920031",
+    "name": "G.T LABO",
+    "source": "sobzeros",
+    "id": "way/192780695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5028058,
+      3.8847088
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192786640",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:45Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Sainte-Maithe",
+    "source": "sobzeros",
+    "id": "way/192786640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5264439,
+      3.8801095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192810183",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:59Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Croix Rouge Camerounaise",
+    "source": "sobzeros",
+    "id": "way/192810183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5175034,
+      3.8753132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192812391",
+  "properties": {
+    "timestamp": "2013-11-28T22:15:27Z",
+    "version": 3,
+    "changeset": 19168946,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Ze Meka",
+    "source": "sobzeros",
+    "id": "way/192812391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5200834,
+      3.8770891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192813980",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:44Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Médicale Enfants Malades",
+    "source": "sobzeros",
+    "id": "way/192813980"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5307382,
+      3.8722425
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192816584",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:33Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Santé",
+    "source": "sobzeros",
+    "id": "way/192816584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5380023,
+      3.8739941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192821580",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:45Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "alt_name": "Clinic and Maternity",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique et Maternité",
+    "source": "sobzeros",
+    "id": "way/192821580"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5317101,
+      3.8693217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192821630",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:59Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Croix Rouge Camerounaise",
+    "source": "sobzeros",
+    "id": "way/192821630"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5128335,
+      3.8688553
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192829924",
+  "properties": {
+    "timestamp": "2015-06-19T07:09:29Z",
+    "version": 3,
+    "changeset": 32067846,
+    "user": "ongolaboy",
+    "uid": 547829,
+    "addr:street": "Rue Monseigneur Graffin",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "phone": "+237 222 22 09 84",
+    "source": "sobzeros",
+    "id": "way/192829924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5246096,
+      3.8699901
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192830714",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:05Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Pavillon NGANTAHA",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192830714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5039433,
+      3.8649974
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192831590",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:31Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical",
+    "source": "sobzeros",
+    "id": "way/192831590"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5409759,
+      3.864843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192837934",
+  "properties": {
+    "timestamp": "2014-02-03T15:35:15Z",
+    "version": 4,
+    "changeset": 20354467,
+    "user": "Gilbert_Armand_OSM-CM",
+    "uid": 1269691,
+    "alt_name": "Chantal Biya Research Center",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre International De Référence “Chantal Biya”",
+    "operator": "Centre International De Référence “Chantal Biya”  Pour La Recherche Sur La Prévention Et La Prise En Charge Du VIH/SIDA",
+    "short_name": "CIRCB",
+    "source": "sobzeros",
+    "id": "way/192837934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4977682,
+      3.8635465
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192837976",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:00Z",
+    "version": 3,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Communal",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192837976"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4788366,
+      3.86109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192838105",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:01Z",
+    "version": 3,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Développé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192838105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.478139,
+      3.8607328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192839032",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:44Z",
+    "version": 4,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique",
+    "source": "sobzeros",
+    "id": "way/192839032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5303389,
+      3.8618705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192839326",
+  "properties": {
+    "timestamp": "2016-04-13T17:08:21Z",
+    "version": 3,
+    "changeset": 38531223,
+    "user": "outing",
+    "uid": 3815652,
+    "addr:postcode": "185 Ydï¿½",
+    "amenity": "hospital",
+    "building": "yes",
+    "contact:email": "chdsmp@yahoo.fr",
+    "contact:phone": "222129014",
+    "name": "Centre Hospitalier Dominicain",
+    "short_name": "CHDSMP",
+    "source": "sobzeros",
+    "id": "way/192839326"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4769037,
+      3.8602812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192841273",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:02Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Groupement d'Initiative Commune Santé",
+    "short_name": "GIC",
+    "source": "sobzeros",
+    "id": "way/192841273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5453566,
+      3.8629545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192842641",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:04Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "LM St Mary medical",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192842641"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5041705,
+      3.8628325
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192843875",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:58Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet des soins des professionnels sans frontiéres",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192843875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4781448,
+      3.85253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192844359",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:30Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Medical d'Arrondissement",
+    "short_name": "CMA",
+    "source": "sobzeros",
+    "id": "way/192844359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.486846,
+      3.863323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192844469",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:57Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de soins bon secours plus",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192844469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.479164,
+      3.8523495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192846908",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:04Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital de District de Nkolndongo",
+    "source": "sobzeros",
+    "id": "way/192846908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5319911,
+      3.8609766
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192848713",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:04Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Haward la Patience Ahead",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192848713"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4791638,
+      3.8539065
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192853125",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:04Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital Militaire",
+    "source": "sobzeros",
+    "id": "way/192853125"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5173674,
+      3.8540871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192853910",
+  "properties": {
+    "timestamp": "2016-08-22T13:48:47Z",
+    "version": 3,
+    "changeset": 41615143,
+    "user": "Annick France",
+    "uid": 4263370,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Garnison militaire",
+    "source": "GeoCameroun",
+    "id": "way/192853910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5170317,
+      3.8542865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192856501",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:03Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Fondation médecine d'Afrique",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192856501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4859222,
+      3.8368686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857277",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:05Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "ONG Nofowop CEMEST",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192857277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4603536,
+      3.8385848
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857419",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:59Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192857419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4844612,
+      3.8386073
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857883",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:59Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192857883"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4769464,
+      3.8412181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192857898",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:58Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre d'imagerie medical",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192857898"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4888717,
+      3.8363911
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192860585",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:58Z",
+    "version": 3,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre d'accueil AGOJFIDA",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192860585"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4624231,
+      3.8433043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192860947",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:01Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Lumiére",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192860947"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4857642,
+      3.8364588
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192865173",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:06Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Polyclinique Mbarga",
+    "source": "sobzeros",
+    "id": "way/192865173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5181955,
+      3.8473312
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192865785",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:01Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Médicalisé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192865785"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863245,
+      3.8462829
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192870461",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:59Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192870461"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4828674,
+      3.8452493
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192870558",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:59Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192870558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4813921,
+      3.8466177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192874798",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:59Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192874798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4777016,
+      3.8449232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192876114",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:00Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192876114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4820328,
+      3.8475944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192876603",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:00Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Ambulatoire",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192876603"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4863145,
+      3.8464418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192877443",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:00Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192877443"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4779029,
+      3.8448161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192877588",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:02Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé maman Diana",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192877588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4638576,
+      3.8443583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192877847",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:03Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gic santé la sécurité 8 cemest",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192877847"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4765099,
+      3.8501593
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192881054",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:00Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/192881054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4794626,
+      3.8454014
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/192881376",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:44Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique",
+    "source": "sobzeros",
+    "id": "way/192881376"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5218197,
+      3.846178
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193510070",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:06Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Polyclinique Médicale Chinoise",
+    "source": "sobzeros",
+    "id": "way/193510070"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5417477,
+      3.8430366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193510991",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:32Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Neurologique et Médical",
+    "source": "sobzeros",
+    "id": "way/193510991"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4988685,
+      3.8292375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193517221",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:02Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé les merveilles",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/193517221"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4691086,
+      3.8251146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193517452",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:03Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Gic de santé Espoir",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/193517452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4665735,
+      3.83342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193518106",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:02Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé communal",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/193518106"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4714385,
+      3.8264996
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193523781",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:03Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "source": "sobzeros",
+    "id": "way/193523781"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5038083,
+      3.8242257
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193527428",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:31Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical Assisté",
+    "short_name": "CMAM",
+    "source": "sobzeros",
+    "id": "way/193527428"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4779374,
+      3.826982
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193535179",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:03Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Groupement d'Initiative Commune Santé",
+    "short_name": "GIC",
+    "source": "sobzeros",
+    "id": "way/193535179"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5526624,
+      3.8243756
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193567080",
+  "properties": {
+    "timestamp": "2016-04-13T11:29:41Z",
+    "version": 3,
+    "changeset": 38522409,
+    "user": "outing",
+    "uid": 3815652,
+    "addr:postcode": "0207 Yde",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "CENTRE DE SANTE",
+    "source": "sobzeros",
+    "id": "way/193567080"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5311174,
+      3.8047278
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193574953",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:31Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre Médical d'Arrondissement",
+    "short_name": "CMA",
+    "source": "sobzeros",
+    "id": "way/193574953"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5044678,
+      3.8006838
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193577452",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:03Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Hôpital",
+    "source": "sobzeros",
+    "id": "way/193577452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5203739,
+      3.7948539
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193591484",
+  "properties": {
+    "timestamp": "2014-04-08T20:39:11Z",
+    "version": 3,
+    "changeset": 21578451,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intégré d'Afanoya IV",
+    "short_name": "CSI",
+    "source": "sobzeros",
+    "id": "way/193591484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4547279,
+      3.7569775
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193591660",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:40Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé",
+    "source": "sobzeros",
+    "id": "way/193591660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4743138,
+      3.7622546
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193598250",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:45Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Clinique Traditionnelle",
+    "source": "sobzeros",
+    "id": "way/193598250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4716693,
+      3.7430071
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193599902",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:42Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Intègre de Ntouessong I",
+    "source": "sobzeros",
+    "id": "way/193599902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4506542,
+      3.7224116
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193961608",
+  "properties": {
+    "timestamp": "2016-04-15T10:14:20Z",
+    "version": 2,
+    "changeset": 38583663,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "WELLSTAR 1",
+    "source": "sobzeros",
+    "id": "way/193961608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5206887,
+      3.8930246
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/204121310",
+  "properties": {
+    "timestamp": "2013-04-27T21:51:00Z",
+    "version": 2,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Dispensaire Maternité",
+    "source": "sobzeros",
+    "id": "way/204121310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.564976,
+      3.8591415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/215363594",
+  "properties": {
+    "timestamp": "2014-04-09T14:12:18Z",
+    "version": 3,
+    "changeset": 21590051,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Hopital Central de Yaoundé",
+    "id": "way/215363594"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5102476,
+      3.8712928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/217002872",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:01Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Saint Etienne",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/217002872"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4841617,
+      3.8337217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/217006245",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:03Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de santé le polyvalent",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/217006245"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4718449,
+      3.8310693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/217735026",
+  "properties": {
+    "timestamp": "2013-05-14T22:30:01Z",
+    "version": 2,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Centre de Santé Shlam humanitarian center for global services",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/217735026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.457255,
+      3.8356626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/218244467",
+  "properties": {
+    "timestamp": "2016-04-15T10:27:23Z",
+    "version": 3,
+    "changeset": 38583984,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "HOPITAL JAMO",
+    "id": "way/218244467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5202134,
+      3.9014034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219157313",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:23Z",
+    "version": 1,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Benoit Menni",
+    "source": "GPS Openstreetmap Cameroun 2013",
+    "id": "way/219157313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5042469,
+      3.8388724
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219157314",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:23Z",
+    "version": 1,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Centre Médical d'Arrondissement Étoa",
+    "id": "way/219157314"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4781055,
+      3.7837303
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219157317",
+  "properties": {
+    "timestamp": "2016-07-27T11:08:15Z",
+    "version": 4,
+    "changeset": 41059996,
+    "user": "ongolaboy",
+    "uid": 547829,
+    "addr:postcode": "1686 Ydé",
+    "amenity": "hospital",
+    "contact:email": "cnrhyaounde@yahoo.fr",
+    "contact:phone": "222310579",
+    "contact:website": "www.cnrh.info",
+    "emergency": "no",
+    "name": "Centre national de réhabilitation des personnes handicapées",
+    "short_name": "CNRPH",
+    "id": "way/219157317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4780796,
+      3.8506204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219157320",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:24Z",
+    "version": 1,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "alt_name": "GIC",
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "GIC Santé",
+    "source": "sobzeros",
+    "id": "way/219157320"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5356075,
+      3.8318128
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203270",
+  "properties": {
+    "timestamp": "2013-05-15T21:32:15Z",
+    "version": 2,
+    "changeset": 16145118,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "name": "CMA Yaoundé I Olembe",
+    "short_name": "CMA",
+    "id": "way/219203270"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5221115,
+      3.9463755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203271",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:15Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de Soins Santa Teresa",
+    "source": "sobzeros",
+    "id": "way/219203271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5637636,
+      3.8896097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203272",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:15Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Centre de la Mère et de l'Enfant",
+    "id": "way/219203272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5170277,
+      3.8827715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203273",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:15Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Clinique Médico-Chirurgicale Sainte-Marie",
+    "id": "way/219203273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5481361,
+      3.8973905
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203274",
+  "properties": {
+    "timestamp": "2016-04-14T17:25:55Z",
+    "version": 2,
+    "changeset": 38562382,
+    "user": "outing",
+    "uid": 3815652,
+    "addr:postcode": "8192 Ydï¿½",
+    "amenity": "hospital",
+    "contact:email": "accueil@centremedicalelacathedrale.com",
+    "contact:phone": "222203678",
+    "name": "CENTRE MEDICALE LA CATHEDRALE",
+    "id": "way/219203274"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5346606,
+      3.8837825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203275",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:15Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Dispensaire de Mimboman",
+    "id": "way/219203275"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5602646,
+      3.869789
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203277",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:16Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Groupement d'Investissement Communautaire Santé le Sonline",
+    "short_name": "GIC",
+    "id": "way/219203277"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5298241,
+      3.9521428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203278",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:16Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Hôpital",
+    "id": "way/219203278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5626121,
+      3.8736716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203279",
+  "properties": {
+    "timestamp": "2016-04-15T08:46:48Z",
+    "version": 2,
+    "changeset": 38581419,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "HOPITAL BETHESDA",
+    "id": "way/219203279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5079475,
+      3.884181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203280",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:16Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Hôpital Catholique Deo Gratias Afrique Future",
+    "id": "way/219203280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5049263,
+      3.923888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203281",
+  "properties": {
+    "timestamp": "2014-04-01T16:39:31Z",
+    "version": 4,
+    "changeset": 21442842,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "id": "way/219203281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5403612,
+      3.906674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/219203282",
+  "properties": {
+    "timestamp": "2013-04-28T09:52:17Z",
+    "version": 1,
+    "changeset": 15893183,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Polyclinique Sende",
+    "id": "way/219203282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5521924,
+      3.8880806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221409784",
+  "properties": {
+    "timestamp": "2013-05-14T22:29:57Z",
+    "version": 1,
+    "changeset": 16132298,
+    "user": "GeoCameroun",
+    "uid": 1366199,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Cabinet de soins ORL (Oto-Rhino-Laryngologie)",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "id": "way/221409784"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4847833,
+      3.8328592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221819365",
+  "properties": {
+    "timestamp": "2016-10-24T01:07:42Z",
+    "version": 3,
+    "changeset": 43112210,
+    "user": "Johnwhelan",
+    "uid": 186592,
+    "amenity": "hospital",
+    "name": "WELLSTAR 2",
+    "source": "survey",
+    "id": "way/221819365"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5172149,
+      3.8925958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/222060240",
+  "properties": {
+    "timestamp": "2016-04-14T15:21:11Z",
+    "version": 2,
+    "changeset": 38557821,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "name": "CENTRE HOSPITALIER D'ESSOS",
+    "id": "way/222060240"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5324173,
+      3.8714219
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/230560444",
+  "properties": {
+    "timestamp": "2016-04-14T11:01:51Z",
+    "version": 3,
+    "changeset": 38552862,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "contact:phone": "222312565",
+    "name": "Centre Hospitalier Universitaire",
+    "short_name": "CHU",
+    "id": "way/230560444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4961416,
+      3.8627065
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/236844355",
+  "properties": {
+    "timestamp": "2013-09-06T13:48:04Z",
+    "version": 1,
+    "changeset": 17703565,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Hôpital de la Cité Verte",
+    "id": "way/236844355"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4899297,
+      3.8760932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/293030814",
+  "properties": {
+    "timestamp": "2016-07-23T10:31:10Z",
+    "version": 3,
+    "changeset": 40968494,
+    "user": "FANIVE",
+    "uid": 2315574,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de santé de District de Soa",
+    "opening_hours": "24/7",
+    "source": "Survey TSF Cameroun 2014",
+    "id": "way/293030814"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5923374,
+      3.9739514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/293073197",
+  "properties": {
+    "timestamp": "2016-07-28T09:04:11Z",
+    "version": 6,
+    "changeset": 41081057,
+    "user": "FANIVE",
+    "uid": 2315574,
+    "amenity": "hospital",
+    "building": "public",
+    "name": "Cabinet Medical La Rose",
+    "source": "Survey TSF Cameroun 2014",
+    "id": "way/293073197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.600599,
+      3.9795502
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/293073430",
+  "properties": {
+    "timestamp": "2016-07-28T09:04:11Z",
+    "version": 6,
+    "changeset": 41081057,
+    "user": "FANIVE",
+    "uid": 2315574,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Centre de Santé LAP",
+    "phone": "77969407/99265249",
+    "short_name": "Clinique",
+    "source": "survey TSF Cameroun 2014",
+    "id": "way/293073430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.6001617,
+      3.9789853
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/410236396",
+  "properties": {
+    "timestamp": "2016-04-14T09:31:54Z",
+    "version": 1,
+    "changeset": 38551036,
+    "user": "outing",
+    "uid": 3815652,
+    "amenity": "hospital",
+    "contact:phone": "222220403",
+    "name": "HOPITAL DE LA CASS",
+    "id": "way/410236396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.536096,
+      3.8582118
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/419588091",
+  "properties": {
+    "timestamp": "2013-05-05T15:29:08Z",
+    "version": 3,
+    "changeset": 15985821,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Centre Médico Social français",
+    "short_name": "CMS",
+    "id": "node/419588091"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5175217,
+      3.8570887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272297",
+  "properties": {
+    "timestamp": "2013-05-20T13:50:15Z",
+    "version": 3,
+    "changeset": 16208890,
+    "user": "Manu1400",
+    "uid": 181135,
+    "Consultation de Paludisme": "14",
+    "Laboratoire": "1",
+    "Nombre de Lits": "7",
+    "Nombre de consultation": "23",
+    "Nombre de docteurs": "1",
+    "amenity": "hospital",
+    "name": "Centre de sante de Leboudi I",
+    "pharmacy": "1",
+    "id": "node/1067272297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4441959,
+      3.9296841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272364",
+  "properties": {
+    "timestamp": "2010-12-27T06:35:13Z",
+    "version": 1,
+    "changeset": 6774522,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "hospital",
+    "name": "Centre de sante et formation Ave Maria de Leboudi I",
+    "id": "node/1067272364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4458178,
+      3.9214731
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272474",
+  "properties": {
+    "timestamp": "2010-12-27T06:35:16Z",
+    "version": 1,
+    "changeset": 6774522,
+    "user": "Ernest Gwanvoma",
+    "uid": 331593,
+    "amenity": "hospital",
+    "name": "Centre de sante de Ngoya I",
+    "id": "node/1067272474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4520951,
+      3.962398
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067272497",
+  "properties": {
+    "timestamp": "2013-05-20T13:50:15Z",
+    "version": 3,
+    "changeset": 16208890,
+    "user": "Manu1400",
+    "uid": 181135,
+    "Consultation de Paludisme": "17",
+    "Consultation de VIH/SIDA": "0",
+    "Laboratoire": "1",
+    "Nombre de Consultation": "50",
+    "Nombre de Lits": "10",
+    "Nombre de docteurs": "1 infimier",
+    "Pediatrie": "0",
+    "amenity": "hospital",
+    "name": "Centre de sante Integre de Yegassi",
+    "pharmacy": "1",
+    "id": "node/1067272497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.468383,
+      3.9937291
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1067289788",
+  "properties": {
+    "timestamp": "2013-03-22T23:24:38Z",
+    "version": 3,
+    "changeset": 15460494,
+    "user": "AlkalIn",
+    "uid": 597179,
+    "Infomation": "No data sheet fllled",
+    "amenity": "hospital",
+    "name": "Centre de Sante Integre de Nkoldjobe",
+    "id": "node/1067289788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.3608778,
+      3.9632157
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2263245273",
+  "properties": {
+    "timestamp": "2015-03-07T08:24:14Z",
+    "version": 3,
+    "changeset": 29303535,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "amenity": "hospital",
+    "name": "Cabinet de soins CINSOL",
+    "note:nature": "privé",
+    "source": "survey:PFE(IT3) ENSTP Yaounde 2010",
+    "wheelchair": "no",
+    "id": "node/2263245273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4858898,
+      3.8324013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2283555316",
+  "properties": {
+    "timestamp": "2013-04-27T21:50:21Z",
+    "version": 1,
+    "changeset": 15889156,
+    "user": "SOGEFI",
+    "uid": 302972,
+    "amenity": "hospital",
+    "name": "Hôpital d'EFOULAN",
+    "id": "node/2283555316"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.5060201,
+      3.8343137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4576672190",
+  "properties": {
+    "timestamp": "2016-12-28T05:36:49Z",
+    "version": 1,
+    "changeset": 44722314,
+    "user": "Enyang Martin",
+    "uid": 5034845,
+    "addr:street": "Rue Ntolo Josephine",
+    "amenity": "hospital",
+    "email": "weccarefoundation@yahoo.com",
+    "name": "Hadassah Medical Center( HMC)",
+    "name:en": "Hadassah Medical Center( HMC)",
+    "website": "http://www.weccarefoundation.com",
+    "id": "node/4576672190"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4800621,
+      3.8002482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4649504695",
+  "properties": {
+    "timestamp": "2017-01-31T20:35:26Z",
+    "version": 1,
+    "changeset": 45697087,
+    "user": "Steve le seul S",
+    "uid": 5236710,
+    "amenity": "hospital",
+    "name": "Magrabi ico eyes hospital",
+    "name:en": "Magrabi ico eyes hospital",
+    "name:fr": "Hôpital des yeux de magrabi ico",
+    "id": "node/4649504695"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4491173,
+      3.983086
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4676337189",
+  "properties": {
+    "timestamp": "2017-02-09T10:23:37Z",
+    "version": 1,
+    "changeset": 45943194,
+    "user": "Aime Noutsa",
+    "uid": 3995436,
+    "amenity": "hospital",
+    "name": "Centre de Santé \"Le Polyvalent\"",
+    "name:fr": "Centre de Santé \"Le Polyvalent\"",
+    "id": "node/4676337189"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4729424,
+      3.8367182
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4757488823",
+  "properties": {
+    "timestamp": "2017-03-27T07:34:23Z",
+    "version": 1,
+    "changeset": 47193489,
+    "user": "Aime Noutsa",
+    "uid": 3995436,
+    "amenity": "hospital",
+    "name": "Clinique St Christine",
+    "name:fr": "Clinique St Christine",
+    "id": "node/4757488823"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      11.4786407,
+      3.8341433
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,239 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/119922892",
+  "properties": {
+    "timestamp": "2015-03-19T11:53:46Z",
+    "version": 4,
+    "changeset": 29590448,
+    "user": "R0bst3r",
+    "uid": 1783785,
+    "amenity": "university",
+    "name": "Centre de formation des instituteurs",
+    "name:ar": "مركز تكوين المعلمين آسفي",
+    "id": "way/119922892"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2247724,
+      32.3111024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119935026",
+  "properties": {
+    "timestamp": "2016-03-22T13:28:48Z",
+    "version": 2,
+    "changeset": 37999067,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Centre Pédagogique Régionale Mohamed V",
+    "id": "way/119935026"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2258106,
+      32.2937213
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/120290747",
+  "properties": {
+    "timestamp": "2013-01-14T06:38:46Z",
+    "version": 2,
+    "changeset": 14644395,
+    "user": "BELATAR",
+    "uid": 498538,
+    "amenity": "university",
+    "name": "l'Ecole Supperieur du Comerce et de Gestion",
+    "id": "way/120290747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2307915,
+      32.2830045
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/120851570",
+  "properties": {
+    "timestamp": "2015-07-24T06:49:03Z",
+    "version": 4,
+    "changeset": 32842294,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Ecole Supérieure de Technologie Safi - Université Cadi Ayyad",
+    "id": "way/120851570"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.216186,
+      32.3074804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/121252611",
+  "properties": {
+    "timestamp": "2016-01-07T16:17:44Z",
+    "version": 2,
+    "changeset": 36427889,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Office de la Formation Professionnelle et de la Promotion du Travail de Safi",
+    "id": "way/121252611"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2185668,
+      32.298862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122048438",
+  "properties": {
+    "timestamp": "2015-07-29T16:02:58Z",
+    "version": 4,
+    "changeset": 32959827,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "ISTA - Institut Spécialisé de Technologie Appliquée المعهد المتخصص للتكنولوجيا التطبيقية",
+    "name:ar": "المعهد المتخصص للتكنولوجيا التطبيقية",
+    "name:fr": "ISTA - Institut Spécialisé de Technologie Appliquée",
+    "id": "way/122048438"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2149737,
+      32.3057627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122266671",
+  "properties": {
+    "timestamp": "2011-07-19T16:03:51Z",
+    "version": 1,
+    "changeset": 8769374,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "university",
+    "name": "Institut de formation aux carrière de santé (poly .sage femme) safi",
+    "id": "way/122266671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.236828,
+      32.2865652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/122266679",
+  "properties": {
+    "timestamp": "2011-07-19T16:03:52Z",
+    "version": 1,
+    "changeset": 8769374,
+    "user": "boussenta",
+    "uid": 477013,
+    "amenity": "university",
+    "name": "ecole des infirmies d etat (poly. sage femme) safi",
+    "id": "way/122266679"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2366859,
+      32.2857963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/323033248",
+  "properties": {
+    "timestamp": "2015-07-21T15:02:59Z",
+    "version": 2,
+    "changeset": 32779723,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Université Qadi Ayad",
+    "id": "way/323033248"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2678799,
+      32.3286524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/323033278",
+  "properties": {
+    "timestamp": "2015-07-21T15:03:00Z",
+    "version": 2,
+    "changeset": 32779723,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "ENSA Safi",
+    "id": "way/323033278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2637508,
+      32.3264923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/324749591",
+  "properties": {
+    "timestamp": "2015-07-21T15:02:54Z",
+    "version": 2,
+    "changeset": 32779723,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "university",
+    "name": "Ecole d'ingenieur",
+    "id": "way/324749591"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.2007966,
+      32.2824786
+    ]
+  }
+}
+]
+}

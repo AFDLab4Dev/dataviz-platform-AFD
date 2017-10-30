@@ -1,0 +1,49 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/1341584",
+  "properties": {
+    "timestamp": "2016-04-02T19:34:29Z",
+    "version": 5,
+    "changeset": 38254431,
+    "user": "Aaco",
+    "uid": 1868925,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Hôtel de Ville de Agadir",
+    "type": "multipolygon",
+    "id": "relation/1341584"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.5982749,
+      30.4203041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297918380",
+  "properties": {
+    "timestamp": "2014-08-15T15:00:11Z",
+    "version": 1,
+    "changeset": 24769135,
+    "user": "Genz",
+    "uid": 2264097,
+    "amenity": "townhall",
+    "building": "yes",
+    "id": "way/297918380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -9.4603387,
+      30.2929669
+    ]
+  }
+}
+]
+}

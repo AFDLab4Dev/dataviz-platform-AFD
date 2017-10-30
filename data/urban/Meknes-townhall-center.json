@@ -1,0 +1,81 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2434591148,
+  "lat": 33.8975967,
+  "lon": -5.5490345,
+  "timestamp": "2015-02-09T09:09:07Z",
+  "version": 4,
+  "changeset": 28722397,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Baladia"
+  }
+},
+{
+  "type": "way",
+  "id": 332736713,
+  "timestamp": "2015-03-14T20:57:01Z",
+  "version": 1,
+  "changeset": 29480423,
+  "user": "عقبة بن نافع",
+  "uid": 1823346,
+  "center": {
+    "lat": 33.8976813,
+    "lon": -5.5487125
+  },
+  "nodes": [
+    3398721976,
+    3398721977,
+    3398721978,
+    3398721979,
+    3398721976
+  ],
+  "tags": {
+    "alt_name": "بلدية حمرية",
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "القصر البلدي",
+    "name:fr": "Hôtel de Ville"
+  }
+},
+{
+  "type": "way",
+  "id": 307428044,
+  "timestamp": "2014-10-12T11:38:18Z",
+  "version": 1,
+  "changeset": 26023868,
+  "user": "marocagreg",
+  "uid": 2183569,
+  "center": {
+    "lat": 33.9011269,
+    "lon": -5.5515479
+  },
+  "nodes": [
+    3125685335,
+    3125685336,
+    3125685337,
+    3125685338,
+    3125685339,
+    3125685335
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Wilaya de Meknès",
+    "name:ar": "الولاية"
+  }
+}
+
+  ]
+}

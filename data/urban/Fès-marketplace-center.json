@@ -1,0 +1,173 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:39:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1360122234,
+  "lat": 34.0650207,
+  "lon": -4.9743144,
+  "timestamp": "2016-03-31T07:13:29Z",
+  "version": 3,
+  "changeset": 38189108,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Kessaria"
+  }
+},
+{
+  "type": "node",
+  "id": 1866538017,
+  "lat": 34.0395164,
+  "lon": -4.9982624,
+  "timestamp": "2012-08-14T22:47:45Z",
+  "version": 1,
+  "changeset": 12732963,
+  "user": "nono de codo",
+  "uid": 805747,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "marché central"
+  }
+},
+{
+  "type": "node",
+  "id": 2001342005,
+  "lat": 34.0292175,
+  "lon": -4.9951313,
+  "timestamp": "2012-11-07T14:50:23Z",
+  "version": 1,
+  "changeset": 13786241,
+  "user": "Pavelsh",
+  "uid": 1031618,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523152,
+  "lat": 34.0648188,
+  "lon": -4.9807334,
+  "timestamp": "2013-05-20T07:54:38Z",
+  "version": 1,
+  "changeset": 16203915,
+  "user": "obitus",
+  "uid": 510390,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Quaat Smen Fondouk"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523170,
+  "lat": 34.0640900,
+  "lon": -4.9800146,
+  "timestamp": "2013-05-20T07:54:39Z",
+  "version": 1,
+  "changeset": 16203915,
+  "user": "obitus",
+  "uid": 510390,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fondouk Tazi"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523280,
+  "lat": 34.0654854,
+  "lon": -4.9750793,
+  "timestamp": "2013-05-20T07:54:40Z",
+  "version": 1,
+  "changeset": 16203915,
+  "user": "obitus",
+  "uid": 510390,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Souk el Henna"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523437,
+  "lat": 34.0641478,
+  "lon": -4.9727941,
+  "timestamp": "2016-03-31T07:17:37Z",
+  "version": 2,
+  "changeset": 38190042,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Place Seffarine"
+  }
+},
+{
+  "type": "node",
+  "id": 2312523588,
+  "lat": 34.0656009,
+  "lon": -4.9804437,
+  "timestamp": "2013-05-20T07:54:52Z",
+  "version": 1,
+  "changeset": 16203915,
+  "user": "obitus",
+  "uid": 510390,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Tannerie Ain Azliten"
+  }
+},
+{
+  "type": "node",
+  "id": 4552318205,
+  "lat": 34.0060034,
+  "lon": -5.0083665,
+  "timestamp": "2016-12-16T17:43:40Z",
+  "version": 2,
+  "changeset": 44452495,
+  "user": "johnparis",
+  "uid": 2126146,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de légumes سوق خضراوات",
+    "name:ar": "سوق خضراوات",
+    "name:en": "Vegetable Market",
+    "name:fr": "Marché de légumes"
+  }
+},
+{
+  "type": "way",
+  "id": 156534713,
+  "timestamp": "2012-03-23T21:16:54Z",
+  "version": 1,
+  "changeset": 11078605,
+  "user": "Rumpeltux",
+  "uid": 23451,
+  "center": {
+    "lat": 34.0617959,
+    "lon": -4.9853467
+  },
+  "nodes": [
+    1687718659,
+    1687718674,
+    1687718657,
+    1687718612,
+    1687718659
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name:en": "Fruit & Vegetable market"
+  }
+}
+
+  ]
+}

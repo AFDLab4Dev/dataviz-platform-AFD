@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/312980511",
+  "properties": {
+    "timestamp": "2014-11-15T19:54:49Z",
+    "version": 1,
+    "changeset": 26806866,
+    "user": "BTH",
+    "uid": 481447,
+    "amenity": "hospital",
+    "name": "Hôpital Hassan II",
+    "id": "way/312980511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9060318,
+      32.8925762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/400838908",
+  "properties": {
+    "timestamp": "2016-02-29T19:01:30Z",
+    "version": 1,
+    "changeset": 37527991,
+    "user": "alain2003",
+    "uid": 578772,
+    "amenity": "hospital",
+    "name": "Hopital OCP",
+    "id": "way/400838908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9073889,
+      32.8814293
+    ]
+  }
+}
+]
+}

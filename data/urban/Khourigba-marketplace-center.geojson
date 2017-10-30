@@ -1,0 +1,47 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2576985939",
+  "properties": {
+    "timestamp": "2016-04-01T13:10:34Z",
+    "version": 2,
+    "changeset": 38225760,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Jotyya Lebriq ( Marché populaire quartier Labriq )",
+    "id": "node/2576985939"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9234053,
+      32.8862494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2576990879",
+  "properties": {
+    "timestamp": "2016-04-01T13:10:34Z",
+    "version": 2,
+    "changeset": 38225760,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "marketplace",
+    "name": "Marché Régional Hebdomadaire ( Dimanche )",
+    "id": "node/2576990879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.9180569,
+      32.8978056
+    ]
+  }
+}
+]
+}

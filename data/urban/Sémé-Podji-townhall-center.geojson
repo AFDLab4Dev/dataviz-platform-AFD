@@ -1,0 +1,137 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/235099160",
+  "properties": {
+    "timestamp": "2013-08-26T08:26:29Z",
+    "version": 1,
+    "changeset": 17512077,
+    "user": "boroles",
+    "uid": 1718426,
+    "amenity": "townhall",
+    "building": "yes",
+    "man_made": "tower",
+    "name": "Ministère de la Santé",
+    "office": "administrative",
+    "source": "Bing;survey",
+    "id": "way/235099160"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4552067,
+      6.3658853
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/366465312",
+  "properties": {
+    "timestamp": "2016-04-14T20:16:55Z",
+    "version": 2,
+    "changeset": 38568053,
+    "user": "Sam AGBADONOU",
+    "uid": 1718307,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Arrondissement de Zoungamè",
+    "id": "way/366465312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.5442779,
+      6.4598508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/415781858",
+  "properties": {
+    "timestamp": "2016-10-10T06:58:43Z",
+    "version": 3,
+    "changeset": 42769636,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Arrondissement de Tohouè",
+    "id": "way/415781858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6679751,
+      6.432394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1102519112",
+  "properties": {
+    "timestamp": "2015-01-30T06:44:08Z",
+    "version": 4,
+    "changeset": 28499192,
+    "user": "benoitberlin",
+    "uid": 1197015,
+    "amenity": "townhall",
+    "name": "Mairie de Cotonou",
+    "id": "node/1102519112"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.4595376,
+      6.3671433
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3636317141",
+  "properties": {
+    "timestamp": "2015-07-06T06:04:40Z",
+    "version": 1,
+    "changeset": 32440654,
+    "user": "benoitberlin",
+    "uid": 1197015,
+    "amenity": "townhall",
+    "name": "Mairie d'Adjarra",
+    "id": "node/3636317141"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.667614,
+      6.5226053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4212421285",
+  "properties": {
+    "timestamp": "2016-05-28T13:44:48Z",
+    "version": 1,
+    "changeset": 39624555,
+    "user": "nerus1er",
+    "uid": 3323102,
+    "amenity": "townhall",
+    "name": "Mairie Seme Podji",
+    "id": "node/4212421285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.6037637,
+      6.3818969
+    ]
+  }
+}
+]
+}

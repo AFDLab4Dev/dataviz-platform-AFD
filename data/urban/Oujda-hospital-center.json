@@ -1,0 +1,306 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 412853238,
+  "timestamp": "2016-04-22T23:14:56Z",
+  "version": 2,
+  "changeset": 38802377,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6250716,
+    "lon": -1.9839779
+  },
+  "nodes": [
+    4141831206,
+    4141831194,
+    4141831220,
+    4141831195,
+    4141831193,
+    4141831227,
+    4141831209,
+    4141831221,
+    4141831201,
+    4141831204,
+    4141831222,
+    4141831216,
+    4141831217,
+    4141831208,
+    4141831210,
+    4141831199,
+    4141831190,
+    4141831192,
+    4141831213,
+    4141831226,
+    4141831207,
+    4141831211,
+    4141831205,
+    4141831200,
+    4141831224,
+    4141831198,
+    4141831203,
+    4141831228,
+    4141831197,
+    4141831196,
+    4141831229,
+    4141831212,
+    4141831189,
+    4141831191,
+    4141831215,
+    4141831202,
+    4141831219,
+    4141831223,
+    4141831225,
+    4141831214,
+    4141831218,
+    4141831206
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hopital de Oncologie"
+  }
+},
+{
+  "type": "way",
+  "id": 306127863,
+  "timestamp": "2014-10-03T15:07:35Z",
+  "version": 1,
+  "changeset": 25833762,
+  "user": "ulilu",
+  "uid": 16881,
+  "center": {
+    "lat": 34.6562437,
+    "lon": -1.9107790
+  },
+  "nodes": [
+    3109478983,
+    3109478984,
+    3109478985,
+    3109478981,
+    3109478982,
+    3109478983
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Centre Hospitalier Universitaire (CHU) Mohammed VI",
+    "name:fr": "Centre Hospitalier Universitaire (CHU) Mohammed VI"
+  }
+},
+{
+  "type": "way",
+  "id": 322172160,
+  "timestamp": "2015-01-15T04:14:30Z",
+  "version": 1,
+  "changeset": 28152848,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6700246,
+    "lon": -1.9113664
+  },
+  "nodes": [
+    3289274744,
+    3289274745,
+    3289274752,
+    3289274730,
+    3289274736,
+    3289274749,
+    3289274751,
+    3289274744
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Polyclinique CNSS"
+  }
+},
+{
+  "type": "way",
+  "id": 319795112,
+  "timestamp": "2015-01-01T00:45:32Z",
+  "version": 1,
+  "changeset": 27831415,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6778842,
+    "lon": -1.9356027
+  },
+  "nodes": [
+    3262561501,
+    3262560989,
+    3262561028,
+    3262561027,
+    3262561464,
+    3262561037,
+    3262561501
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Centre de Santé Lamharchi"
+  }
+},
+{
+  "type": "way",
+  "id": 322579233,
+  "timestamp": "2015-02-12T18:34:48Z",
+  "version": 3,
+  "changeset": 28802001,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6729664,
+    "lon": -1.9258820
+  },
+  "nodes": [
+    3293525200,
+    3293525277,
+    3332949525,
+    3293525173,
+    3293525284,
+    3293525447,
+    3293525200
+  ],
+  "tags": {
+    "addr:city": "Oujda",
+    "addr:housenumber": "12",
+    "addr:street": "Rue Abdelaziz Taalibi",
+    "amenity": "hospital",
+    "name": "Clinique Isly",
+    "phone": "+212 536700701"
+  }
+},
+{
+  "type": "way",
+  "id": 306089485,
+  "timestamp": "2015-07-27T08:07:21Z",
+  "version": 3,
+  "changeset": 32903370,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6755048,
+    "lon": -1.9144880
+  },
+  "nodes": [
+    3109032818,
+    3109032822,
+    3109032825,
+    3109032819,
+    3109032816,
+    3215073132,
+    3109033532,
+    3668244174,
+    3668244175,
+    3109033543,
+    3109032817,
+    3109032818
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "area": "yes",
+    "name": "Hôpital El Farabi",
+    "name:fr": "Hôpital El Farabi"
+  }
+},
+{
+  "type": "way",
+  "id": 323165500,
+  "timestamp": "2015-01-20T01:26:43Z",
+  "version": 1,
+  "changeset": 28266992,
+  "user": "alain2003",
+  "uid": 578772,
+  "center": {
+    "lat": 34.6800227,
+    "lon": -1.8906515
+  },
+  "nodes": [
+    3299593156,
+    3299592960,
+    3299592390,
+    3299592471,
+    3299592804,
+    3299591772,
+    3299592383,
+    3299592004,
+    3299592002,
+    3299592328,
+    3299592426,
+    3299591829,
+    3299591827,
+    3299593156
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "L'Hôpital des Maladies Psychiatriques"
+  }
+},
+{
+  "type": "way",
+  "id": 391290733,
+  "timestamp": "2016-11-24T14:22:25Z",
+  "version": 3,
+  "changeset": 43921801,
+  "user": "johnparis",
+  "uid": 2126146,
+  "center": {
+    "lat": 34.6883068,
+    "lon": -1.9007217
+  },
+  "nodes": [
+    3944974419,
+    3944974420,
+    3944974421,
+    3944974422,
+    3944974423,
+    3944974424,
+    3944974419
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "health_facility:type": "dispensary",
+    "name": "Dispensaire El Aounia مستوصف العونية",
+    "name:ar": "مستوصف العونية",
+    "name:fr": "Dispensaire El Aounia"
+  }
+},
+{
+  "type": "way",
+  "id": 324065524,
+  "timestamp": "2015-01-24T20:21:39Z",
+  "version": 2,
+  "changeset": 28381650,
+  "user": "Yazid Ringo",
+  "uid": 2554696,
+  "center": {
+    "lat": 34.7913823,
+    "lon": -1.9020136
+  },
+  "nodes": [
+    3308200398,
+    3308200399,
+    3308200400,
+    3308200401,
+    3308200402,
+    3308200403,
+    3308200398
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "health_facility_type": "health_center",
+    "name": "Centre Mehdi Ibn Toumart",
+    "name:ar": "مركز المهدي ابن تومرت"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,1554 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/32041987",
+  "properties": {
+    "timestamp": "2007-07-16T21:24:38Z",
+    "version": 1,
+    "changeset": 147858,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Puskesmas Karang Setra",
+    "id": "node/32041987"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5911377,
+      -6.8773969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520363",
+  "properties": {
+    "timestamp": "2007-07-21T12:27:20Z",
+    "version": 1,
+    "changeset": 157215,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Puskesmas Sukajadi",
+    "id": "node/32520363"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5944038,
+      -6.8922013
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520369",
+  "properties": {
+    "timestamp": "2012-06-30T21:21:29Z",
+    "version": 2,
+    "changeset": 12070208,
+    "user": "gormur",
+    "uid": 103253,
+    "amenity": "hospital",
+    "name": "RS Sariningsih",
+    "id": "node/32520369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6108762,
+      -6.9067355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520372",
+  "properties": {
+    "timestamp": "2013-11-09T02:16:21Z",
+    "version": 2,
+    "changeset": 18793332,
+    "user": "ynov",
+    "uid": 1794631,
+    "amenity": "hospital",
+    "name": "RS Limijati",
+    "id": "node/32520372"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6132423,
+      -6.9066048
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520373",
+  "properties": {
+    "timestamp": "2016-07-30T17:29:10Z",
+    "version": 3,
+    "changeset": 41131281,
+    "user": "Stefanus5",
+    "uid": 4324978,
+    "addr:city": "Bandung",
+    "addr:housenumber": "100",
+    "addr:street": "Jalan Ir. Haji Juanda",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Santo Boromeus",
+    "id": "node/32520373"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6134497,
+      -6.8942744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520381",
+  "properties": {
+    "timestamp": "2013-11-09T02:16:22Z",
+    "version": 2,
+    "changeset": 18793332,
+    "user": "ynov",
+    "uid": 1794631,
+    "amenity": "hospital",
+    "name": "Halmahera Siaga",
+    "id": "node/32520381"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6156302,
+      -6.9065198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32520384",
+  "properties": {
+    "timestamp": "2007-07-21T12:28:02Z",
+    "version": 1,
+    "changeset": 157215,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "RS ZR Tedja",
+    "id": "node/32520384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6201443,
+      -6.9057428
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32529122",
+  "properties": {
+    "timestamp": "2007-07-21T16:14:58Z",
+    "version": 1,
+    "changeset": 158765,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Rajawali",
+    "id": "node/32529122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5732265,
+      -6.912508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32529134",
+  "properties": {
+    "timestamp": "2014-03-17T15:26:27Z",
+    "version": 2,
+    "changeset": 21156817,
+    "user": "Andrijc",
+    "uid": 1989231,
+    "amenity": "hospital",
+    "name": "RS Cibadak",
+    "id": "node/32529134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5966131,
+      -6.9209101
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32529140",
+  "properties": {
+    "timestamp": "2013-01-30T06:02:12Z",
+    "version": 4,
+    "changeset": 14843517,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Immanuel",
+    "id": "node/32529140"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.596926,
+      -6.9347862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32529144",
+  "properties": {
+    "timestamp": "2012-08-24T08:19:50Z",
+    "version": 2,
+    "changeset": 12842020,
+    "user": "Muhammad Saiful Islam",
+    "uid": 827504,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Santosa International Hospital",
+    "id": "node/32529144"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6015379,
+      -6.9157594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/32529148",
+  "properties": {
+    "timestamp": "2007-07-21T16:15:11Z",
+    "version": 1,
+    "changeset": 158765,
+    "user": "adhitya",
+    "uid": 7748,
+    "amenity": "hospital",
+    "created_by": "JOSM",
+    "name": "Melinda",
+    "id": "node/32529148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6033743,
+      -6.9066836
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/100262052",
+  "properties": {
+    "timestamp": "2016-11-16T16:04:31Z",
+    "version": 4,
+    "changeset": 43703527,
+    "user": "ArjanO",
+    "uid": 38066,
+    "amenity": "hospital",
+    "id": "way/100262052"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5983394,
+      -6.8980357
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119419634",
+  "properties": {
+    "timestamp": "2011-06-28T06:12:42Z",
+    "version": 1,
+    "changeset": 8568401,
+    "user": "ayugantoro",
+    "uid": 478138,
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "confined_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "RSGM Unpad",
+    "id": "way/119419634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.619317,
+      -6.8906295
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/119437624",
+  "properties": {
+    "timestamp": "2012-11-28T07:00:20Z",
+    "version": 3,
+    "changeset": 14069354,
+    "user": "dadan dany dipoera",
+    "uid": 922816,
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "name": "Gedung St Yosep",
+    "id": "way/119437624"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6137351,
+      -6.8944452
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/120340028",
+  "properties": {
+    "timestamp": "2015-12-03T03:01:02Z",
+    "version": 4,
+    "changeset": 35718831,
+    "user": "Aditya Prayoga",
+    "uid": 3416870,
+    "addr:city": "Bandung",
+    "addr:housenumber": "161",
+    "addr:postcode": "40131",
+    "addr:street": "Jalan Cihampelas",
+    "amenity": "hospital",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "medical",
+    "building:walls": "brick",
+    "emergency": "yes",
+    "name": "Rumah Sakit Advent",
+    "id": "way/120340028"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6034359,
+      -6.8924289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/152948636",
+  "properties": {
+    "timestamp": "2014-10-23T00:27:34Z",
+    "version": 5,
+    "changeset": 26268582,
+    "user": "eBin",
+    "uid": 973600,
+    "amenity": "hospital",
+    "building:color": "grey",
+    "building:levels": "2",
+    "building:part": "yes",
+    "emergency": "no",
+    "name": "Poliklinik",
+    "roof:colour": "grey",
+    "id": "way/152948636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5930231,
+      -6.8619806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/155091969",
+  "properties": {
+    "timestamp": "2012-03-15T03:01:10Z",
+    "version": 1,
+    "changeset": 10984490,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Sukasari",
+    "id": "way/155091969"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.582344,
+      -6.8682032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/156022638",
+  "properties": {
+    "timestamp": "2012-03-20T16:52:27Z",
+    "version": 1,
+    "changeset": 11042316,
+    "user": "ardh",
+    "uid": 632288,
+    "amenity": "hospital",
+    "name": "R.S. Hermina",
+    "id": "way/156022638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6668015,
+      -6.9047748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/175011356",
+  "properties": {
+    "timestamp": "2015-11-27T11:23:21Z",
+    "version": 2,
+    "changeset": 35609410,
+    "user": "Aditya Prayoga",
+    "uid": 3416870,
+    "addr:city": "Bandung",
+    "addr:housenumber": "644",
+    "addr:street": "Jalan Soekarno-Hatta",
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Al Islam",
+    "phone": "+62 (022) 7510583",
+    "website": "http://www.rsalislam.com/",
+    "id": "way/175011356"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6687814,
+      -6.9400195
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/193663131",
+  "properties": {
+    "timestamp": "2012-11-30T12:32:36Z",
+    "version": 1,
+    "changeset": 14098166,
+    "user": "Perdana Firmansyah",
+    "uid": 913389,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Daerah Soreang",
+    "id": "way/193663131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5171465,
+      -7.026125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/319706077",
+  "properties": {
+    "timestamp": "2008-12-18T11:48:17Z",
+    "version": 3,
+    "changeset": 466762,
+    "user": "lutfi",
+    "uid": 79016,
+    "amenity": "hospital",
+    "created_by": "Potlatch 0.10f",
+    "name": "RSAU Dr Salamun",
+    "id": "node/319706077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6048127,
+      -6.8643151
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/344079024",
+  "properties": {
+    "timestamp": "2015-05-10T11:24:17Z",
+    "version": 1,
+    "changeset": 30960687,
+    "user": "andika",
+    "uid": 20586,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Yusuf",
+    "id": "way/344079024"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6431385,
+      -6.9066391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/363379669",
+  "properties": {
+    "timestamp": "2015-07-31T20:14:10Z",
+    "version": 1,
+    "changeset": 33017963,
+    "user": "Fat'hah Noor Prawita",
+    "uid": 3111337,
+    "amenity": "hospital",
+    "name": "Posyandu",
+    "id": "way/363379669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6645016,
+      -6.9329998
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/380223312",
+  "properties": {
+    "timestamp": "2015-11-14T13:00:34Z",
+    "version": 1,
+    "changeset": 35305614,
+    "user": "ArjanO",
+    "uid": 38066,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Santo Boromeus",
+    "id": "way/380223312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6136752,
+      -6.893907
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/382982561",
+  "properties": {
+    "timestamp": "2015-11-30T19:14:19Z",
+    "version": 3,
+    "changeset": 35672443,
+    "user": "Aditya Prayoga",
+    "uid": 3416870,
+    "addr:city": "Bandung",
+    "addr:housenumber": "21",
+    "addr:postcode": "40286",
+    "addr:street": "Rancabolang",
+    "amenity": "hospital",
+    "building": "hospital",
+    "emergency": "yes",
+    "name": "RSIA Humana Prima",
+    "phone": "+62 (022) 7563701",
+    "source": "survey",
+    "id": "way/382982561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6642269,
+      -6.9408605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/412599698",
+  "properties": {
+    "timestamp": "2016-04-24T19:53:56Z",
+    "version": 2,
+    "changeset": 38841244,
+    "user": "R0bst3r",
+    "uid": 1783785,
+    "amenity": "hospital",
+    "building": "hospital",
+    "name": "Rumah Sakit Cahaya Kawaluyaan",
+    "short_name": "RS Cahaya Kawaluyaan",
+    "id": "way/412599698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.4740295,
+      -6.865596
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/423157043",
+  "properties": {
+    "timestamp": "2016-06-06T15:37:39Z",
+    "version": 1,
+    "changeset": 39841176,
+    "user": "ArjanO",
+    "uid": 38066,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Kebon Jati",
+    "id": "way/423157043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5964154,
+      -6.9158239
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/462560032",
+  "properties": {
+    "timestamp": "2016-12-29T13:08:20Z",
+    "version": 1,
+    "changeset": 44756801,
+    "user": "ArjanO",
+    "uid": 38066,
+    "amenity": "hospital",
+    "name": "RS Dustira",
+    "id": "way/462560032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5340193,
+      -6.8865629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/479732486",
+  "properties": {
+    "timestamp": "2016-12-13T06:22:30Z",
+    "version": 2,
+    "changeset": 44363921,
+    "user": "Asep Sugandi (Asep382)",
+    "uid": 4668774,
+    "addr:street": "Jalan Bukit Jarian",
+    "amenity": "hospital",
+    "name": "Paru paru Cipaganti",
+    "id": "node/479732486"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6064864,
+      -6.8777867
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342944384",
+  "properties": {
+    "timestamp": "2011-06-29T06:22:52Z",
+    "version": 1,
+    "changeset": 8577858,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Jiwa Pusat Bandung",
+    "id": "node/1342944384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6115329,
+      -6.9068551
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342944402",
+  "properties": {
+    "timestamp": "2012-03-13T10:00:54Z",
+    "version": 2,
+    "changeset": 10964732,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Sariningsih",
+    "id": "node/1342944402"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6109445,
+      -6.9068455
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342948126",
+  "properties": {
+    "timestamp": "2013-11-09T02:16:21Z",
+    "version": 2,
+    "changeset": 18793332,
+    "user": "ynov",
+    "uid": 1794631,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Khusus Gigi",
+    "id": "node/1342948126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.614114,
+      -6.9063359
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342948127",
+  "properties": {
+    "timestamp": "2013-11-09T02:16:21Z",
+    "version": 2,
+    "changeset": 18793332,
+    "user": "ynov",
+    "uid": 1794631,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Limijati",
+    "id": "node/1342948127"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6136554,
+      -6.9064024
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342970054",
+  "properties": {
+    "timestamp": "2012-08-24T08:14:31Z",
+    "version": 2,
+    "changeset": 12842020,
+    "user": "Muhammad Saiful Islam",
+    "uid": 827504,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Rumah Sakit Emma Puradiredja",
+    "id": "node/1342970054"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6136493,
+      -6.9132468
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1342970056",
+  "properties": {
+    "timestamp": "2011-06-29T07:15:06Z",
+    "version": 1,
+    "changeset": 8578163,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Palang Merah Indonesia Citarum",
+    "id": "node/1342970056"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6196119,
+      -6.9088168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1381753529",
+  "properties": {
+    "timestamp": "2011-08-04T01:34:15Z",
+    "version": 2,
+    "changeset": 8915857,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Ginjal Nyonya Ra Habibie",
+    "id": "node/1381753529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6203433,
+      -6.8853403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1381753576",
+  "properties": {
+    "timestamp": "2015-10-28T14:28:11Z",
+    "version": 3,
+    "changeset": 34927689,
+    "user": "okono0403",
+    "uid": 421748,
+    "amenity": "hospital",
+    "name": "Puskesmas Dago",
+    "id": "node/1381753576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6185752,
+      -6.8759742
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1388222204",
+  "properties": {
+    "timestamp": "2011-08-06T08:24:02Z",
+    "version": 1,
+    "changeset": 8935695,
+    "user": "Irwan",
+    "uid": 478136,
+    "amenity": "hospital",
+    "name": "Puskesmas Cikutra Lama",
+    "id": "node/1388222204"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6272402,
+      -6.8913271
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1657503395",
+  "properties": {
+    "timestamp": "2012-03-03T14:29:58Z",
+    "version": 1,
+    "changeset": 10858164,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "hospital",
+    "name": "Hermina",
+    "id": "node/1657503395"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5884505,
+      -6.8954102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1879501441",
+  "properties": {
+    "timestamp": "2015-11-17T11:36:17Z",
+    "version": 3,
+    "changeset": 35373947,
+    "user": "Elena Mezzini",
+    "uid": 1054944,
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Rumah Sakit Cibabat Cimahi",
+    "id": "node/1879501441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5509047,
+      -6.8791563
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1919646276",
+  "properties": {
+    "timestamp": "2016-09-14T06:47:48Z",
+    "version": 2,
+    "changeset": 42141730,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "Bandung",
+    "addr:housenumber": "99",
+    "addr:postcode": "40251",
+    "addr:street": "Jalan Pasundan",
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Pasundan",
+    "id": "node/1919646276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6089534,
+      -6.9273603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1930140081",
+  "properties": {
+    "timestamp": "2012-09-24T07:34:01Z",
+    "version": 1,
+    "changeset": 13229838,
+    "user": "purnamamanullang",
+    "uid": 913374,
+    "amenity": "hospital",
+    "id": "node/1930140081"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5961373,
+      -6.9004372
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1957913105",
+  "properties": {
+    "timestamp": "2013-01-29T14:45:46Z",
+    "version": 2,
+    "changeset": 14834764,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Bungsu",
+    "id": "node/1957913105"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6134403,
+      -6.9185273
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2016370359",
+  "properties": {
+    "timestamp": "2012-11-16T11:22:49Z",
+    "version": 1,
+    "changeset": 13892916,
+    "user": "yudiwbs",
+    "uid": 268765,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Sarijadi",
+    "id": "node/2016370359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5774069,
+      -6.8755508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2054039775",
+  "properties": {
+    "timestamp": "2012-12-20T09:23:50Z",
+    "version": 2,
+    "changeset": 14340691,
+    "user": "Dani Gustiawan",
+    "uid": 1140300,
+    "amenity": "hospital",
+    "name": "Klinik IT Telkom",
+    "id": "node/2054039775"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6302836,
+      -6.9770087
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133710945",
+  "properties": {
+    "timestamp": "2013-01-29T13:57:50Z",
+    "version": 1,
+    "changeset": 14834764,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Jiwa Hurip Waluya",
+    "id": "node/2133710945"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5941316,
+      -6.8835946
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133722104",
+  "properties": {
+    "timestamp": "2016-12-21T05:30:59Z",
+    "version": 3,
+    "changeset": 44556965,
+    "user": "ArjanO",
+    "uid": 38066,
+    "addr:city": "Bandung",
+    "addr:housenumber": "38",
+    "addr:postcode": "40161",
+    "addr:street": "Jalan Pasteur",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Hasan Sadikin",
+    "old_name": "Wilhelmina Ziekenhuis",
+    "id": "node/2133722104"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5984231,
+      -6.8983839
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133728315",
+  "properties": {
+    "timestamp": "2016-07-29T07:39:04Z",
+    "version": 3,
+    "changeset": 41101896,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung",
+    "addr:housenumber": "#4",
+    "addr:street": "Jalan Cicendo , Sumurbandung",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Mata Cicendo",
+    "name:en": "Cicendo Eye Hospital",
+    "id": "node/2133728315"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6042726,
+      -6.909787
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133741445",
+  "properties": {
+    "timestamp": "2013-01-29T14:33:03Z",
+    "version": 1,
+    "changeset": 14834764,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Ginjal",
+    "id": "node/2133741445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6200766,
+      -6.8852642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133756380",
+  "properties": {
+    "timestamp": "2013-01-29T14:49:18Z",
+    "version": 1,
+    "changeset": 14834764,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Pindad",
+    "id": "node/2133756380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6460591,
+      -6.9402412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2133758689",
+  "properties": {
+    "timestamp": "2013-01-29T14:52:07Z",
+    "version": 1,
+    "changeset": 14834764,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Sukapura",
+    "id": "node/2133758689"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6567933,
+      -6.9361248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2134509654",
+  "properties": {
+    "timestamp": "2013-01-30T05:57:42Z",
+    "version": 1,
+    "changeset": 14843517,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Muhammadiyah",
+    "id": "node/2134509654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6232872,
+      -6.9335102
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2134510103",
+  "properties": {
+    "timestamp": "2013-01-30T06:00:57Z",
+    "version": 1,
+    "changeset": 14843517,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Astana Anyar",
+    "id": "node/2134510103"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6004777,
+      -6.9293459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2134510992",
+  "properties": {
+    "timestamp": "2013-01-30T06:05:00Z",
+    "version": 1,
+    "changeset": 14843517,
+    "user": "rizkydp",
+    "uid": 1108281,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Bhayangkara Sartika Asih",
+    "id": "node/2134510992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6123706,
+      -6.9560618
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3062139312",
+  "properties": {
+    "timestamp": "2014-09-05T23:53:45Z",
+    "version": 1,
+    "changeset": 25258990,
+    "user": "usriyah",
+    "uid": 2287591,
+    "amenity": "hospital",
+    "name": "Puskesmas",
+    "id": "node/3062139312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6072151,
+      -6.8970637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3734660938",
+  "properties": {
+    "timestamp": "2015-09-08T15:08:55Z",
+    "version": 1,
+    "changeset": 33884615,
+    "user": "Zefa Yullah",
+    "uid": 3222347,
+    "amenity": "hospital",
+    "name": "KSR",
+    "id": "node/3734660938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5251138,
+      -6.8884504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3834119157",
+  "properties": {
+    "timestamp": "2015-12-09T11:42:01Z",
+    "version": 3,
+    "changeset": 35844259,
+    "user": "wheelmap_android",
+    "uid": 524500,
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Puskesmas Bojongsoang",
+    "phone": "022 154443",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
+    "id": "node/3834119157"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6354167,
+      -6.9694356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4327896045",
+  "properties": {
+    "timestamp": "2016-07-30T11:25:33Z",
+    "version": 1,
+    "changeset": 41125658,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "81",
+    "addr:street": "Jalan Dadali , Garuda, Andir",
+    "amenity": "hospital",
+    "name": "Puskesmas Garuda",
+    "id": "node/4327896045"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5775511,
+      -6.911579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4328115074",
+  "properties": {
+    "timestamp": "2016-07-30T16:07:29Z",
+    "version": 2,
+    "changeset": 41130045,
+    "user": "yoan tjahjono",
+    "uid": 4322405,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "152",
+    "addr:street": "Jl. Kb. Jati , Kb. Jeruk, Andir",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Umum Kebonjati",
+    "id": "node/4328115074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5961982,
+      -6.916315
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4328207174",
+  "properties": {
+    "timestamp": "2016-07-30T17:57:19Z",
+    "version": 1,
+    "changeset": 41131625,
+    "user": "Stefanus5",
+    "uid": 4324978,
+    "addr:city": "Bandung",
+    "addr:housenumber": "65",
+    "addr:street": "Jl. Surya Sumantri",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Gigi dan Mulut Maranatha",
+    "id": "node/4328207174"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5812491,
+      -6.886821
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4350962537",
+  "properties": {
+    "timestamp": "2016-08-15T11:32:18Z",
+    "version": 1,
+    "changeset": 41465629,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "8",
+    "addr:postcode": "40228",
+    "addr:street": "Jalan Taman Kopo Indah 1 Block C",
+    "amenity": "hospital",
+    "name": "Klinik Kasih jaya",
+    "id": "node/4350962537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.573508,
+      -6.9665403
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4365875851",
+  "properties": {
+    "timestamp": "2016-08-25T06:49:04Z",
+    "version": 1,
+    "changeset": 41679965,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "Bandung",
+    "addr:housenumber": "7",
+    "addr:postcode": "40124",
+    "addr:street": "Jalan Cikutra",
+    "amenity": "hospital",
+    "name": "Rumah sakit Sanato Yusuf",
+    "id": "node/4365875851"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6437613,
+      -6.9067652
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4368144230",
+  "properties": {
+    "timestamp": "2016-08-26T16:35:20Z",
+    "version": 1,
+    "changeset": 41718751,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:housenumber": "413",
+    "addr:street": "Jalan Kopo",
+    "amenity": "hospital",
+    "name": "Sentosa Hospita",
+    "id": "node/4368144230"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5855324,
+      -6.9519809
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4369219426",
+  "properties": {
+    "timestamp": "2016-08-27T08:16:27Z",
+    "version": 1,
+    "changeset": 41730400,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "hospital",
+    "name": "ERHA Clinic",
+    "id": "node/4369219426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6209995,
+      -6.9038215
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4370023250",
+  "properties": {
+    "timestamp": "2016-08-27T17:03:23Z",
+    "version": 1,
+    "changeset": 41740345,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "hospital",
+    "name": "Melinda Hospital 2",
+    "id": "node/4370023250"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5982561,
+      -6.9065575
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4370197110",
+  "properties": {
+    "timestamp": "2016-08-27T19:23:27Z",
+    "version": 1,
+    "changeset": 41742758,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "hospital",
+    "name": "AIRIN BEAUTY CARE",
+    "id": "node/4370197110"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6585757,
+      -6.9213387
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4375129543",
+  "properties": {
+    "timestamp": "2016-08-31T10:16:11Z",
+    "version": 3,
+    "changeset": 41823117,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "addr:city": "Bandung, Jawa Barat",
+    "addr:housenumber": "38",
+    "addr:postcode": "40181",
+    "addr:street": "Jalan Kebon Jati",
+    "amenity": "hospital",
+    "name": "Rumah Sakit Santosa",
+    "id": "node/4375129543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.6003414,
+      -6.9155358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4380225077",
+  "properties": {
+    "timestamp": "2016-09-02T07:38:55Z",
+    "version": 1,
+    "changeset": 41863145,
+    "user": "YosuaNatanael",
+    "uid": 4359011,
+    "amenity": "hospital",
+    "name": "Rumah Sakit Imanuel Jl. Masuk via Jl. Raya Kopo",
+    "id": "node/4380225077"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      107.5958505,
+      -6.9352819
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,1038 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "relation/1732512",
+  "properties": {
+    "timestamp": "2014-10-26T03:47:46Z",
+    "version": 2,
+    "changeset": 26334443,
+    "user": "fx99",
+    "uid": 130472,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Treichville",
+    "type": "multipolygon",
+    "id": "relation/1732512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0136186,
+      5.308881
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "relation/4873419",
+  "properties": {
+    "timestamp": "2015-05-07T18:21:38Z",
+    "version": 1,
+    "changeset": 30880970,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché aux Bestiaux",
+    "type": "multipolygon",
+    "id": "relation/4873419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.965959,
+      5.2634031
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/70010707",
+  "properties": {
+    "timestamp": "2017-03-21T10:15:44Z",
+    "version": 6,
+    "changeset": 47035677,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Belleville",
+    "id": "way/70010707"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9970229,
+      5.3046449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/184618396",
+  "properties": {
+    "timestamp": "2015-05-08T11:13:20Z",
+    "version": 2,
+    "changeset": 30900678,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Port-Bouët",
+    "id": "way/184618396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9637383,
+      5.2579692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/184618398",
+  "properties": {
+    "timestamp": "2015-05-08T11:03:27Z",
+    "version": 4,
+    "changeset": 30900412,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "building": "market",
+    "name": "Marché de Port-Bouët",
+    "id": "way/184618398"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9637373,
+      5.2579594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/229571749",
+  "properties": {
+    "timestamp": "2017-03-22T09:42:59Z",
+    "version": 4,
+    "changeset": 47063120,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Williamsville",
+    "id": "way/229571749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0211728,
+      5.365587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237232224",
+  "properties": {
+    "timestamp": "2017-03-20T16:15:19Z",
+    "version": 5,
+    "changeset": 47016945,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Grand marché de Marcory",
+    "id": "way/237232224"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9759879,
+      5.2998568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/237312771",
+  "properties": {
+    "timestamp": "2014-10-14T07:57:04Z",
+    "version": 2,
+    "changeset": 26066283,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "marketplace",
+    "name": "Marché de Sans-Fils",
+    "id": "way/237312771"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9644951,
+      5.3074964
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/239854323",
+  "properties": {
+    "timestamp": "2016-03-03T00:08:10Z",
+    "version": 2,
+    "changeset": 37576713,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Dje Konan",
+    "id": "way/239854323"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9683244,
+      5.2890226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/240003199",
+  "properties": {
+    "timestamp": "2016-03-03T00:08:10Z",
+    "version": 3,
+    "changeset": 37576713,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Grand Marché de Koumassi",
+    "id": "way/240003199"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.958342,
+      5.2926939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/241780388",
+  "properties": {
+    "timestamp": "2013-10-12T13:23:49Z",
+    "version": 1,
+    "changeset": 18314920,
+    "user": "kalmis",
+    "uid": 1772669,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marche Gouro",
+    "id": "way/241780388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.955014,
+      5.2964624
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/243379577",
+  "properties": {
+    "timestamp": "2014-05-01T11:53:42Z",
+    "version": 2,
+    "changeset": 22062607,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "building": "roof",
+    "source": "Bing",
+    "id": "way/243379577"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.1012579,
+      5.3121415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/262167210",
+  "properties": {
+    "timestamp": "2017-03-22T18:47:37Z",
+    "version": 8,
+    "changeset": 47075887,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Bracodi - Niangon",
+    "name:en": "Bracodi Market - Niangon",
+    "name:fr": "Marché de Bracodi - Niangon",
+    "id": "way/262167210"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.1052487,
+      5.3293726
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/271006875",
+  "properties": {
+    "timestamp": "2015-01-21T00:36:51Z",
+    "version": 3,
+    "changeset": 28297443,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de pailler",
+    "id": "way/271006875"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0129373,
+      5.3755506
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/271007158",
+  "properties": {
+    "timestamp": "2015-01-21T00:36:51Z",
+    "version": 2,
+    "changeset": 28297443,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de pailler",
+    "id": "way/271007158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0125939,
+      5.3754078
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/271267131",
+  "properties": {
+    "timestamp": "2014-04-02T20:32:04Z",
+    "version": 1,
+    "changeset": 21465560,
+    "user": "Emmanuel Bama",
+    "uid": 1704472,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marche de Nuit",
+    "id": "way/271267131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9438608,
+      5.3133536
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/296904738",
+  "properties": {
+    "timestamp": "2014-08-09T16:33:14Z",
+    "version": 1,
+    "changeset": 24637314,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "id": "way/296904738"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.094028,
+      5.3201555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302522522",
+  "properties": {
+    "timestamp": "2014-09-08T23:30:40Z",
+    "version": 1,
+    "changeset": 25318267,
+    "user": "MickeyDasi",
+    "uid": 2040201,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Niangon Nord",
+    "id": "way/302522522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0982447,
+      5.3276026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/302689558",
+  "properties": {
+    "timestamp": "2014-10-16T13:56:56Z",
+    "version": 2,
+    "changeset": 26118547,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de Toits-Rouges",
+    "id": "way/302689558"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0488788,
+      5.3270142
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/306322745",
+  "properties": {
+    "timestamp": "2016-11-19T10:57:42Z",
+    "version": 3,
+    "changeset": 43795749,
+    "user": "racky",
+    "uid": 1730834,
+    "amenity": "marketplace",
+    "name": "Marché Selmer",
+    "id": "way/306322745"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0684543,
+      5.3403542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307285998",
+  "properties": {
+    "timestamp": "2016-06-30T04:30:17Z",
+    "version": 2,
+    "changeset": 40381173,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché de M’Badon",
+    "id": "way/307285998"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9339571,
+      5.3294877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/321457496",
+  "properties": {
+    "timestamp": "2017-03-22T13:01:51Z",
+    "version": 2,
+    "changeset": 47067877,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/321457496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0070301,
+      5.4154823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/324349797",
+  "properties": {
+    "timestamp": "2015-01-29T23:09:49Z",
+    "version": 2,
+    "changeset": 28496022,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Cocody",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:suburb": "Deux Plateaux",
+    "amenity": "marketplace",
+    "id": "way/324349797"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9928901,
+      5.3746583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/329121278",
+  "properties": {
+    "timestamp": "2015-02-19T13:27:17Z",
+    "version": 1,
+    "changeset": 28956280,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché COCOVICO",
+    "operator": "Coopérative de Commercialisation de Produits Vivriers de Cocody (COCOVICO)",
+    "id": "way/329121278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.979184,
+      5.4014319
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/330071488",
+  "properties": {
+    "timestamp": "2015-02-24T15:50:50Z",
+    "version": 1,
+    "changeset": 29070093,
+    "user": "Guy Maurel KONAN",
+    "uid": 1703949,
+    "amenity": "marketplace",
+    "id": "way/330071488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0055357,
+      5.4006041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/343509276",
+  "properties": {
+    "timestamp": "2015-05-07T18:30:21Z",
+    "version": 1,
+    "changeset": 30881217,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/343509276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.96918,
+      5.2603361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/383756304",
+  "properties": {
+    "timestamp": "2016-06-16T16:48:15Z",
+    "version": 2,
+    "changeset": 40071630,
+    "user": "Anebo Philippe",
+    "uid": 2231043,
+    "amenity": "marketplace",
+    "source": "bing",
+    "id": "way/383756304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0149475,
+      5.4357367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/386644845",
+  "properties": {
+    "timestamp": "2015-12-19T15:22:11Z",
+    "version": 1,
+    "changeset": 36048017,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché d'Anoumabo",
+    "id": "way/386644845"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9698415,
+      5.3078067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/397562855",
+  "properties": {
+    "timestamp": "2016-02-13T01:47:45Z",
+    "version": 1,
+    "changeset": 37179795,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/397562855"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9630987,
+      5.3638081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/398743996",
+  "properties": {
+    "timestamp": "2016-02-19T16:36:55Z",
+    "version": 1,
+    "changeset": 37312208,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Market de la Gare",
+    "id": "way/398743996"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0025246,
+      5.2996748
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/438523663",
+  "properties": {
+    "timestamp": "2017-03-21T10:55:31Z",
+    "version": 3,
+    "changeset": 47036606,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Carena",
+    "id": "way/438523663"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0291895,
+      5.3308868
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482010432",
+  "properties": {
+    "timestamp": "2017-03-22T13:01:31Z",
+    "version": 1,
+    "changeset": 47067877,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "id": "way/482010432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0107006,
+      5.4179922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/768587444",
+  "properties": {
+    "timestamp": "2011-03-27T08:20:59Z",
+    "version": 2,
+    "changeset": 7682965,
+    "user": "FredB",
+    "uid": 1626,
+    "amenity": "marketplace",
+    "name": "Marché de Kouté",
+    "id": "node/768587444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0703977,
+      5.3254173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/768587687",
+  "properties": {
+    "timestamp": "2016-03-13T08:10:17Z",
+    "version": 4,
+    "changeset": 37795477,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Marché Siporex",
+    "id": "node/768587687"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0749818,
+      5.3562472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1219799988",
+  "properties": {
+    "timestamp": "2014-10-16T13:56:55Z",
+    "version": 2,
+    "changeset": 26118547,
+    "user": "Skiper",
+    "uid": 306409,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "source": "SAFER GMES & Spot Image",
+    "id": "node/1219799988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0580023,
+      5.339323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2364395466",
+  "properties": {
+    "timestamp": "2016-03-08T11:31:36Z",
+    "version": 3,
+    "changeset": 37684457,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Attécoubé",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "marketplace",
+    "name": "Site central du marché d'attécoubé(en construction)",
+    "id": "node/2364395466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0343346,
+      5.3488391
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2413004715",
+  "properties": {
+    "timestamp": "2013-08-10T11:27:31Z",
+    "version": 1,
+    "changeset": 17290068,
+    "user": "doumbiala",
+    "uid": 1710074,
+    "amenity": "marketplace",
+    "id": "node/2413004715"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0225301,
+      5.3691897
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2443098756",
+  "properties": {
+    "timestamp": "2016-11-22T16:17:29Z",
+    "version": 5,
+    "changeset": 43874480,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Grand Marché d’Abobo",
+    "id": "node/2443098756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0153921,
+      5.4257719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2468322944",
+  "properties": {
+    "timestamp": "2015-02-24T15:50:50Z",
+    "version": 2,
+    "changeset": 29070093,
+    "user": "Guy Maurel KONAN",
+    "uid": 1703949,
+    "amenity": "marketplace",
+    "name": "Marché",
+    "id": "node/2468322944"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0055599,
+      5.4006466
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2476376362",
+  "properties": {
+    "timestamp": "2014-06-23T07:03:49Z",
+    "version": 3,
+    "changeset": 23094711,
+    "user": "sommerluk",
+    "uid": 1700634,
+    "amenity": "marketplace",
+    "name": "Le Djassa Koumassi",
+    "id": "node/2476376362"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9704555,
+      5.2888598
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2493705724",
+  "properties": {
+    "timestamp": "2016-03-03T00:09:58Z",
+    "version": 2,
+    "changeset": 37577234,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché poulet de Koumassi",
+    "id": "node/2493705724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.955056,
+      5.2973167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3172419228",
+  "properties": {
+    "timestamp": "2015-02-03T17:04:17Z",
+    "version": 2,
+    "changeset": 28593728,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "name": "Marché de Blockauss",
+    "id": "node/3172419228"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0004117,
+      5.3238689
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3177106068",
+  "properties": {
+    "timestamp": "2014-11-09T16:28:54Z",
+    "version": 1,
+    "changeset": 26667169,
+    "user": "Emmanuel Bama",
+    "uid": 1704472,
+    "amenity": "marketplace",
+    "name": "Bracodi",
+    "id": "node/3177106068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0265947,
+      5.3608323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3177106074",
+  "properties": {
+    "timestamp": "2014-11-09T16:28:55Z",
+    "version": 1,
+    "changeset": 26667169,
+    "user": "Emmanuel Bama",
+    "uid": 1704472,
+    "amenity": "marketplace",
+    "name": "Espace Refrigerateur",
+    "id": "node/3177106074"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0238279,
+      5.3572782
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3746018147",
+  "properties": {
+    "timestamp": "2016-03-08T08:46:36Z",
+    "version": 2,
+    "changeset": 37681541,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Koumassi",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "amenity": "marketplace",
+    "name": "Marché du Campement",
+    "id": "node/3746018147"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9429682,
+      5.3049642
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4002476466",
+  "properties": {
+    "timestamp": "2016-03-08T02:02:08Z",
+    "version": 2,
+    "changeset": 37677846,
+    "user": "ulrichm",
+    "uid": 192829,
+    "addr:city": "Yopougon",
+    "addr:country": "CI",
+    "addr:state": "Abidjan",
+    "addr:street": "Rue P20",
+    "amenity": "marketplace",
+    "name": "Marché de Sicogi",
+    "id": "node/4002476466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.0772059,
+      5.3393878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4037522870",
+  "properties": {
+    "timestamp": "2016-03-03T00:09:46Z",
+    "version": 1,
+    "changeset": 37577234,
+    "user": "ulrichm",
+    "uid": 192829,
+    "amenity": "marketplace",
+    "surface": "paved",
+    "id": "node/4037522870"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9711185,
+      5.2884007
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4345488262",
+  "properties": {
+    "timestamp": "2016-08-11T08:18:45Z",
+    "version": 1,
+    "changeset": 41383473,
+    "user": "Douyeri",
+    "uid": 4402411,
+    "addr:city": "Angré Cocoteraie",
+    "addr:postcode": "225",
+    "amenity": "marketplace",
+    "name": "Marché Valentin",
+    "id": "node/4345488262"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9839021,
+      5.4224427
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,221 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:40:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2340217604,
+  "lat": 5.3552444,
+  "lon": 10.4260175,
+  "timestamp": "2013-06-11T08:08:14Z",
+  "version": 1,
+  "changeset": 16506750,
+  "user": "zaizone",
+  "uid": 1122708,
+  "tags": {
+    "amenity": "university",
+    "name": "IUT Victor FOTSO"
+  }
+},
+{
+  "type": "node",
+  "id": 4404320254,
+  "lat": 5.4380528,
+  "lon": 10.4149959,
+  "timestamp": "2016-09-16T14:46:52Z",
+  "version": 1,
+  "changeset": 42204953,
+  "user": "hassanchris",
+  "uid": 703186,
+  "tags": {
+    "amenity": "university",
+    "name": "Université Evangélique du Cameroun (UEC)",
+    "website": "http://www.uecam.org"
+  }
+},
+{
+  "type": "way",
+  "id": 424953417,
+  "timestamp": "2016-06-14T16:31:44Z",
+  "version": 1,
+  "changeset": 40020998,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4615822,
+    "lon": 10.4280023
+  },
+  "nodes": [
+    4243083478,
+    4243083474,
+    4243083475,
+    4243083477,
+    4243083476,
+    4243083479,
+    4243083478
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSSAS"
+  }
+},
+{
+  "type": "way",
+  "id": 424953418,
+  "timestamp": "2016-06-14T16:31:44Z",
+  "version": 1,
+  "changeset": 40020998,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4620089,
+    "lon": 10.4271556
+  },
+  "nodes": [
+    4243083482,
+    4243083485,
+    4243083481,
+    4243083480,
+    4243083482
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "ISSTECO"
+  }
+},
+{
+  "type": "way",
+  "id": 425061004,
+  "timestamp": "2016-06-15T07:49:01Z",
+  "version": 1,
+  "changeset": 40033173,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4702365,
+    "lon": 10.4306440
+  },
+  "nodes": [
+    4243974075,
+    4243974074,
+    4243974071,
+    4243974073,
+    4243974075
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institu Nanfah"
+  }
+},
+{
+  "type": "way",
+  "id": 425061005,
+  "timestamp": "2016-06-15T07:49:01Z",
+  "version": 1,
+  "changeset": 40033173,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4702383,
+    "lon": 10.4304943
+  },
+  "nodes": [
+    4243974077,
+    4243974076,
+    4243974070,
+    4243974072,
+    4243974077
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Institut Money Keng"
+  }
+},
+{
+  "type": "way",
+  "id": 425302882,
+  "timestamp": "2016-06-16T10:30:02Z",
+  "version": 1,
+  "changeset": 40062786,
+  "user": "FutherMarket",
+  "uid": 4096432,
+  "center": {
+    "lat": 5.5013383,
+    "lon": 10.4051215
+  },
+  "nodes": [
+    4246170404,
+    4246170405,
+    4246170406,
+    4246170407,
+    4246170408,
+    4246170409,
+    4246170404
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ENIEG Saint Andre"
+  }
+},
+{
+  "type": "way",
+  "id": 425070172,
+  "timestamp": "2016-06-15T08:26:04Z",
+  "version": 1,
+  "changeset": 40033740,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4786883,
+    "lon": 10.4445353
+  },
+  "nodes": [
+    4244018640,
+    4244018639,
+    4244018637,
+    4244018636,
+    4244018638,
+    4244018640
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Complexe 3i Santé"
+  }
+},
+{
+  "type": "way",
+  "id": 425076238,
+  "timestamp": "2016-06-15T09:20:39Z",
+  "version": 1,
+  "changeset": 40034558,
+  "user": "outing",
+  "uid": 3815652,
+  "center": {
+    "lat": 5.4743035,
+    "lon": 10.4496985
+  },
+  "nodes": [
+    4244066132,
+    4244066129,
+    4244066122,
+    4244066124,
+    4244066132
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "INSAM"
+  }
+}
+
+  ]
+}

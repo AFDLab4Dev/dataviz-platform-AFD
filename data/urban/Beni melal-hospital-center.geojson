@@ -1,0 +1,51 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/2068353391",
+  "properties": {
+    "timestamp": "2016-06-12T11:01:26Z",
+    "version": 6,
+    "changeset": 39968670,
+    "user": "johnparis",
+    "uid": 2126146,
+    "amenity": "hospital",
+    "emergency": "no",
+    "id": "node/2068353391"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.3537145,
+      32.328858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4230313822",
+  "properties": {
+    "timestamp": "2016-06-22T11:22:24Z",
+    "version": 4,
+    "changeset": 40202480,
+    "user": "GEOSYSTEME",
+    "uid": 4063963,
+    "addr:city": "Béni Mellal",
+    "addr:postcode": "23000",
+    "addr:street": "Avenue Mohammed V, 1 ère étage",
+    "amenity": "hospital",
+    "name": "Laboratoire Central D'Analyses Médicales du Tadla",
+    "phone": "0523486448",
+    "id": "node/4230313822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.3602737,
+      32.3336887
+    ]
+  }
+}
+]
+}

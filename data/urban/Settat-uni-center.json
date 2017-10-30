@@ -1,0 +1,134 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:46:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 292378428,
+  "timestamp": "2016-11-04T21:39:15Z",
+  "version": 3,
+  "changeset": 43410701,
+  "user": "ZakariaMKL",
+  "uid": 3870359,
+  "center": {
+    "lat": 33.0254503,
+    "lon": -7.6153145
+  },
+  "nodes": [
+    2959315686,
+    2959315713,
+    2959315666,
+    2959315701,
+    2959315686
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "FSJES de Settat"
+  }
+},
+{
+  "type": "way",
+  "id": 450191118,
+  "timestamp": "2016-12-04T22:53:41Z",
+  "version": 3,
+  "changeset": 44168451,
+  "user": "ZakariaMKL",
+  "uid": 3870359,
+  "center": {
+    "lat": 33.0306535,
+    "lon": -7.6161946
+  },
+  "nodes": [
+    4471060847,
+    4471113458,
+    4538631891,
+    4471113459,
+    4471113460,
+    4471113461,
+    4471113462,
+    4471113463,
+    4471113464,
+    4471113465,
+    4471113466,
+    4471113467,
+    4471113468,
+    4471113469,
+    4471113470,
+    4471113471,
+    4471060848,
+    4471060847
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "FST de Settat"
+  }
+},
+{
+  "type": "way",
+  "id": 450191119,
+  "timestamp": "2016-12-04T22:53:42Z",
+  "version": 4,
+  "changeset": 44168451,
+  "user": "ZakariaMKL",
+  "uid": 3870359,
+  "center": {
+    "lat": 33.0282677,
+    "lon": -7.6158594
+  },
+  "nodes": [
+    4471113459,
+    4538631891,
+    4471113458,
+    4471113472,
+    4471113473,
+    4471113459
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Cité universitaire de Settat"
+  }
+},
+{
+  "type": "way",
+  "id": 292378419,
+  "timestamp": "2016-12-05T23:20:29Z",
+  "version": 5,
+  "changeset": 44195182,
+  "user": "ZakariaMKL",
+  "uid": 3870359,
+  "center": {
+    "lat": 33.0331650,
+    "lon": -7.6165042
+  },
+  "nodes": [
+    2959315712,
+    2959315647,
+    4540405768,
+    4540405707,
+    4540405706,
+    2959315709,
+    4471060851,
+    2959308476,
+    4471060849,
+    4471060850,
+    4471060852,
+    4471060853,
+    2959315699,
+    2959315724,
+    4471060848,
+    4471060847,
+    2959315712
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "ENCG de Settat"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,4941 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:42:01Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 316549106,
+  "lat": -6.2575310,
+  "lon": 106.8548495,
+  "timestamp": "2008-12-15T04:24:03Z",
+  "version": 2,
+  "changeset": 388144,
+  "user": "Firman Hadi",
+  "uid": 76518,
+  "tags": {
+    "amenity": "university",
+    "created_by": "Potlatch 0.10f",
+    "name": "IPMI"
+  }
+},
+{
+  "type": "node",
+  "id": 318562281,
+  "lat": -6.1885201,
+  "lon": 106.8410773,
+  "timestamp": "2017-01-22T13:15:45Z",
+  "version": 5,
+  "changeset": 45369170,
+  "user": "agni@",
+  "uid": 5169179,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:housenumber": "1",
+    "addr:postcode": "10330",
+    "addr:street": "Jalan Sekolah Seni",
+    "amenity": "university",
+    "name": "Jakarta Institute of Arts",
+    "name:id": "Institut Kesenian Jakarta",
+    "operator": "ikj.ac.id"
+  }
+},
+{
+  "type": "node",
+  "id": 324566342,
+  "lat": -6.1796489,
+  "lon": 106.8766522,
+  "timestamp": "2016-04-28T10:31:31Z",
+  "version": 2,
+  "changeset": 38947069,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Pulo Gadung, East Jakarta",
+    "addr:housenumber": "KM 28",
+    "addr:postcode": "13210",
+    "addr:street": "Jalan Raya Bogor",
+    "amenity": "university",
+    "name": "Universitas Jayabaya"
+  }
+},
+{
+  "type": "node",
+  "id": 344429766,
+  "lat": -6.2018774,
+  "lon": 106.7816055,
+  "timestamp": "2009-02-11T12:33:23Z",
+  "version": 1,
+  "changeset": 359646,
+  "user": "Firman Hadi",
+  "uid": 76518,
+  "tags": {
+    "amenity": "university",
+    "created_by": "Merkaartor 0.13",
+    "name": "Bina Nusantara"
+  }
+},
+{
+  "type": "node",
+  "id": 387400834,
+  "lat": -6.1729432,
+  "lon": 106.8963390,
+  "timestamp": "2009-04-29T15:14:40Z",
+  "version": 1,
+  "changeset": 1015783,
+  "user": "dkabul",
+  "uid": 120689,
+  "tags": {
+    "amenity": "university",
+    "name": "JIBES"
+  }
+},
+{
+  "type": "node",
+  "id": 396646062,
+  "lat": -6.1321053,
+  "lon": 106.8617588,
+  "timestamp": "2016-06-15T02:47:43Z",
+  "version": 4,
+  "changeset": 40029860,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:housenumber": "RT.11/RW.6, Sunter Agung, Tj. Priok,",
+    "addr:postcode": "14350",
+    "addr:street": "Jl. Sunter Permai Raya",
+    "amenity": "university",
+    "name": "Universitas 17 Agustus 1945 (Untag)"
+  }
+},
+{
+  "type": "node",
+  "id": 1138822443,
+  "lat": -6.2484426,
+  "lon": 106.8726655,
+  "timestamp": "2011-02-06T09:59:42Z",
+  "version": 1,
+  "changeset": 7201351,
+  "user": "Firman Hadi",
+  "uid": 76518,
+  "tags": {
+    "amenity": "university",
+    "name": "UKI (Universitas Kristen Indonesia)",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1170854110,
+  "lat": -6.3064543,
+  "lon": 106.7557268,
+  "timestamp": "2016-04-27T08:19:24Z",
+  "version": 2,
+  "changeset": 38913124,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Ciputat, Tangerang Selatan",
+    "addr:housenumber": "No. 95",
+    "addr:postcode": "15412",
+    "addr:street": "‎Jl. Ir. H. Djuanda No. 95",
+    "amenity": "university",
+    "name": "UIN Jakarta Kampus 1"
+  }
+},
+{
+  "type": "node",
+  "id": 1170854922,
+  "lat": -6.3103040,
+  "lon": 106.7592888,
+  "timestamp": "2011-02-24T20:18:50Z",
+  "version": 1,
+  "changeset": 7384903,
+  "user": "Wirapati",
+  "uid": 354205,
+  "tags": {
+    "amenity": "university",
+    "name": "UIN Jakarta Kampus 2"
+  }
+},
+{
+  "type": "node",
+  "id": 1351091480,
+  "lat": -6.1997991,
+  "lon": 106.8529960,
+  "timestamp": "2011-07-06T07:53:37Z",
+  "version": 1,
+  "changeset": 8645924,
+  "user": "dimdim02",
+  "uid": 477569,
+  "tags": {
+    "amenity": "university",
+    "name": "Universitas Budi Luhur"
+  }
+},
+{
+  "type": "node",
+  "id": 1695660919,
+  "lat": -6.2329028,
+  "lon": 106.7468148,
+  "timestamp": "2012-03-29T04:47:24Z",
+  "version": 1,
+  "changeset": 11133521,
+  "user": "Adi Maulana",
+  "uid": 617230,
+  "tags": {
+    "amenity": "university",
+    "building": "university",
+    "name": "Universitas Budi Luhur"
+  }
+},
+{
+  "type": "node",
+  "id": 1912469559,
+  "lat": -6.2215414,
+  "lon": 106.8336162,
+  "timestamp": "2016-06-15T02:50:35Z",
+  "version": 2,
+  "changeset": 40029891,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12920",
+    "addr:street": "Jalan HR Rasuna Said",
+    "amenity": "university",
+    "name": "Universitas Bakrie"
+  }
+},
+{
+  "type": "node",
+  "id": 2372055103,
+  "lat": -6.2685441,
+  "lon": 106.7322620,
+  "timestamp": "2015-06-11T06:51:52Z",
+  "version": 3,
+  "changeset": 31888840,
+  "user": "TangSentinel",
+  "uid": 2965717,
+  "tags": {
+    "amenity": "university",
+    "name": "Sekolah Tinggi Akuntansi Negera (STAN)"
+  }
+},
+{
+  "type": "node",
+  "id": 4145856261,
+  "lat": -6.2620076,
+  "lon": 106.8158854,
+  "timestamp": "2016-04-25T03:50:14Z",
+  "version": 1,
+  "changeset": 38846649,
+  "user": "gimegimmick2",
+  "uid": 3872612,
+  "tags": {
+    "addr:city": "Jakarta Selatan",
+    "addr:housenumber": "No.35, 2",
+    "addr:postcode": "12730",
+    "addr:street": "Kemang Raya",
+    "amenity": "university",
+    "name": "LPPI (Lembaga Pendidikan Perbankan Indonesia)"
+  }
+},
+{
+  "type": "node",
+  "id": 4146606481,
+  "lat": -6.3038040,
+  "lon": 106.8715323,
+  "timestamp": "2016-04-25T11:44:05Z",
+  "version": 1,
+  "changeset": 38854585,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.11/RW.2, Rambutan, Ps. Rebo,  East Jakarta",
+    "addr:postcode": "13750",
+    "addr:street": "Jl. Tanah Merdeka",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah"
+  }
+},
+{
+  "type": "node",
+  "id": 4148371639,
+  "lat": -6.2503620,
+  "lon": 106.8729718,
+  "timestamp": "2016-04-26T06:09:08Z",
+  "version": 1,
+  "changeset": 38876625,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.9/RW.6, Cawang, Kramatjati, East Jakarta",
+    "addr:housenumber": "No.2",
+    "addr:postcode": "13630",
+    "addr:street": "Jl. Mayjen Sutoyo",
+    "amenity": "university",
+    "name": "Universitas Kristen Indonesia (UKI)"
+  }
+},
+{
+  "type": "node",
+  "id": 4148479459,
+  "lat": -6.2021872,
+  "lon": 106.7820887,
+  "timestamp": "2016-06-23T07:22:08Z",
+  "version": 2,
+  "changeset": 40221431,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kebon Jeruk ,West Jakarta",
+    "addr:housenumber": "No.27",
+    "addr:postcode": "11530",
+    "addr:street": "Jl. Kebon Jeruk Raya",
+    "amenity": "university",
+    "name": "Binus University - Anggrek Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4148486750,
+  "lat": -6.2289644,
+  "lon": 106.7970786,
+  "timestamp": "2016-06-23T07:23:18Z",
+  "version": 2,
+  "changeset": 40221460,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Senayan ,South Jakarta",
+    "addr:housenumber": "No. 6",
+    "addr:postcode": "12270",
+    "addr:street": "Jalan Hang Lekir I",
+    "amenity": "university",
+    "name": "Binus University - JWC Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4148494744,
+  "lat": -6.2006052,
+  "lon": 106.7851943,
+  "timestamp": "2016-06-23T07:18:01Z",
+  "version": 2,
+  "changeset": 40221343,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Palmerah , West Jakarta",
+    "addr:housenumber": "No. 9",
+    "addr:postcode": "11480",
+    "addr:street": "Jl. K H. Syahdan",
+    "amenity": "university",
+    "name": "Binus University Syahdan Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4148735169,
+  "lat": -6.1937767,
+  "lon": 106.8487987,
+  "timestamp": "2016-04-26T09:46:34Z",
+  "version": 1,
+  "changeset": 38881228,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10430",
+    "addr:street": "Jalan Salemba Raya",
+    "amenity": "university",
+    "name": "Salemba UI"
+  }
+},
+{
+  "type": "node",
+  "id": 4150352997,
+  "lat": -6.3228547,
+  "lon": 106.8351328,
+  "timestamp": "2016-04-27T04:34:56Z",
+  "version": 1,
+  "changeset": 38909209,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Jagakarsa, South Jakarta",
+    "addr:housenumber": "No.32",
+    "addr:postcode": "12610",
+    "addr:street": "Jl. Raya Lenteng Agung",
+    "amenity": "university",
+    "name": "Institut Ilmu Sosial dan Ilmu Politik"
+  }
+},
+{
+  "type": "node",
+  "id": 4150713240,
+  "lat": -6.1670311,
+  "lon": 106.7935507,
+  "timestamp": "2016-04-27T08:05:48Z",
+  "version": 1,
+  "changeset": 38912779,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.5/RW.9, Grogol, Grogol petamburan, West Jakarta",
+    "addr:postcode": "11440",
+    "addr:street": "Jl. Kyai Tapa No.20",
+    "amenity": "university",
+    "name": "Trisakti School of Management"
+  }
+},
+{
+  "type": "node",
+  "id": 4150759630,
+  "lat": -6.2358153,
+  "lon": 106.7473261,
+  "timestamp": "2016-04-27T08:30:17Z",
+  "version": 1,
+  "changeset": 38913379,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Petukangan Utara, Pesanggrahan, WEst Jakarta",
+    "addr:postcode": "12260",
+    "addr:street": "Jalan Ciledug Raya",
+    "amenity": "university",
+    "name": "Universitas Budi Luhur"
+  }
+},
+{
+  "type": "node",
+  "id": 4150763907,
+  "lat": -6.1307054,
+  "lon": 106.8181586,
+  "timestamp": "2016-04-27T08:35:52Z",
+  "version": 1,
+  "changeset": 38913512,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Pademangan, North Jakarta",
+    "addr:postcode": "14430",
+    "addr:street": "Jalan Lodan Raya No.2",
+    "amenity": "university",
+    "name": "Universitas Bunda Mulia Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4150766781,
+  "lat": -6.1859691,
+  "lon": 106.7790783,
+  "timestamp": "2016-04-27T08:38:36Z",
+  "version": 1,
+  "changeset": 38913575,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.1/RW.2, Duri Kepa, Kb. Jeruk, West Jakarta",
+    "addr:housenumber": "No.9",
+    "addr:postcode": "11510",
+    "addr:street": "Jl. Arjuna Utara",
+    "amenity": "university",
+    "name": "Universitas Esa Unggul"
+  }
+},
+{
+  "type": "node",
+  "id": 4150780692,
+  "lat": -6.1785471,
+  "lon": 106.8765167,
+  "timestamp": "2016-04-27T08:49:32Z",
+  "version": 1,
+  "changeset": 38913836,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Pulo Mas, East Jakarta",
+    "addr:postcode": "13210",
+    "addr:street": "Jl. Pulomas Selatan Kav 23",
+    "amenity": "university",
+    "name": "Universitas Jayabaya Kampus A"
+  }
+},
+{
+  "type": "node",
+  "id": 4150781250,
+  "lat": -6.2174333,
+  "lon": 106.8151839,
+  "timestamp": "2016-04-27T08:51:26Z",
+  "version": 1,
+  "changeset": 38913876,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.5/RW.4, Karet Semanggi, South Jakarta",
+    "addr:housenumber": "No.51",
+    "addr:postcode": "12930",
+    "addr:street": "Jl. Jend. Sudirman",
+    "amenity": "university",
+    "name": "Universitas Katolik Atma Jaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4150790050,
+  "lat": -6.2972918,
+  "lon": 106.7677794,
+  "timestamp": "2016-06-23T07:01:34Z",
+  "version": 2,
+  "changeset": 40220993,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Cireundeu, Ciputat, South Jakarta",
+    "addr:postcode": "15419",
+    "addr:street": "Jalan KH Ahmad Dahlan",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4150795404,
+  "lat": -6.2479542,
+  "lon": 106.7913592,
+  "timestamp": "2016-04-27T08:58:46Z",
+  "version": 1,
+  "changeset": 38914028,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.3/RW.3, Kramat Pela, Kby. Baru, South Jakarta",
+    "addr:postcode": "12130",
+    "addr:street": "Jl. Limau II",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Prof Dr Hamka"
+  }
+},
+{
+  "type": "node",
+  "id": 4150799229,
+  "lat": -6.2804809,
+  "lon": 106.8393658,
+  "timestamp": "2016-04-27T09:00:04Z",
+  "version": 1,
+  "changeset": 38914053,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.14/RW.3, Ps. Minggu, South Jakarta",
+    "addr:postcode": "12520",
+    "addr:street": "Jl. Sawo Manila",
+    "amenity": "university",
+    "name": "Universitas Nasional"
+  }
+},
+{
+  "type": "node",
+  "id": 4150802845,
+  "lat": -6.1962792,
+  "lon": 106.8490096,
+  "timestamp": "2016-04-27T09:12:15Z",
+  "version": 1,
+  "changeset": 38914333,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Menteng, Central Jakarta",
+    "addr:postcode": "10340",
+    "addr:street": "Jl. Pangeran Diponegoro No. 74",
+    "amenity": "university",
+    "name": "University of Persada Indonesia Y.A.I"
+  }
+},
+{
+  "type": "node",
+  "id": 4150806021,
+  "lat": -6.1950235,
+  "lon": 106.8781673,
+  "timestamp": "2016-06-24T07:46:40Z",
+  "version": 2,
+  "changeset": 40253301,
+  "user": "nusa",
+  "uid": 4158278,
+  "tags": {
+    "addr:city": "RT. 11 / RW. 14, Rawamangun, East Jakarta",
+    "addr:postcode": "13220",
+    "addr:street": "Jl. Rawamangun Muka",
+    "amenity": "university",
+    "name": "Universitas Negeri Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4150833549,
+  "lat": -6.2292139,
+  "lon": 106.7962050,
+  "timestamp": "2016-04-27T09:13:40Z",
+  "version": 1,
+  "changeset": 38914361,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT.1/RW.3, Gelora, Center Jakarta",
+    "addr:housenumber": "No.8",
+    "addr:postcode": "10270",
+    "addr:street": "Jl. Hang Lekir I",
+    "amenity": "university",
+    "name": "Universitas Prof Dr Moestopo"
+  }
+},
+{
+  "type": "node",
+  "id": 4150834623,
+  "lat": -6.1693900,
+  "lon": 106.7903056,
+  "timestamp": "2016-04-27T09:17:37Z",
+  "version": 1,
+  "changeset": 38914442,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Grogol, West Jakarta",
+    "addr:postcode": "11440",
+    "addr:street": "Jl. Letjen S. Parman No. 1",
+    "amenity": "university",
+    "name": "Universitas Tarumanagara Kampus 1"
+  }
+},
+{
+  "type": "node",
+  "id": 4150836880,
+  "lat": -6.2362251,
+  "lon": 106.8439888,
+  "timestamp": "2016-04-27T09:16:04Z",
+  "version": 1,
+  "changeset": 38914416,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "RT007/RW001, Tebet, South Jakarta",
+    "addr:postcode": "12870",
+    "addr:street": "Jl. Prof. Dr. Soepomo SH No. 84",
+    "amenity": "university",
+    "name": "Universitas Sahid Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4150842489,
+  "lat": -6.1693265,
+  "lon": 106.7875067,
+  "timestamp": "2016-04-27T09:19:10Z",
+  "version": 1,
+  "changeset": 38914475,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Tanjung Duren, West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jl. Tanjung Duren Raya No.1",
+    "amenity": "university",
+    "name": "Universitas Tarumanagara Kampus II"
+  }
+},
+{
+  "type": "node",
+  "id": 4150865633,
+  "lat": -6.2534732,
+  "lon": 106.8487396,
+  "timestamp": "2016-04-27T09:35:11Z",
+  "version": 1,
+  "changeset": 38914793,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Kalibata, South Jakarta",
+    "addr:housenumber": "No. 1",
+    "addr:postcode": "12760",
+    "addr:street": "Jl. TMP. Kalibata",
+    "amenity": "university",
+    "name": "Universitas Trilogi"
+  }
+},
+{
+  "type": "node",
+  "id": 4150871355,
+  "lat": -6.1669284,
+  "lon": 106.7911106,
+  "timestamp": "2016-06-23T05:11:48Z",
+  "version": 3,
+  "changeset": 40219154,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Grogol, Petamburan, West Jakarta",
+    "addr:housenumber": "No.1",
+    "addr:postcode": "11440",
+    "addr:street": "Jalan Kyai Tapa",
+    "amenity": "university",
+    "name": "Universitas Trisakti"
+  }
+},
+{
+  "type": "node",
+  "id": 4150911520,
+  "lat": -6.1701537,
+  "lon": 106.8688404,
+  "timestamp": "2016-04-27T09:59:19Z",
+  "version": 1,
+  "changeset": 38915294,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Cempaka Putih, Central Jakarta",
+    "addr:postcode": "10510",
+    "addr:street": "Jl. Letjen Suprapto",
+    "amenity": "university",
+    "name": "Universitas YARSI"
+  }
+},
+{
+  "type": "node",
+  "id": 4150933736,
+  "lat": -6.3157114,
+  "lon": 106.7933446,
+  "timestamp": "2016-04-27T10:09:04Z",
+  "version": 1,
+  "changeset": 38915523,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12450",
+    "addr:street": "Jalan Pondok Labu",
+    "amenity": "university",
+    "name": "Universitas Pembangunan Nasional"
+  }
+},
+{
+  "type": "node",
+  "id": 4152444161,
+  "lat": -6.1789536,
+  "lon": 106.8773059,
+  "timestamp": "2016-04-28T02:23:56Z",
+  "version": 1,
+  "changeset": 38939807,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Pulo Gadung, East Jakarta",
+    "addr:housenumber": "Kav. 22",
+    "addr:postcode": "13210",
+    "addr:street": "Jl. Pulo Mas Selatan",
+    "amenity": "university",
+    "name": "Kalbis Institute"
+  }
+},
+{
+  "type": "node",
+  "id": 4152478046,
+  "lat": -6.3030623,
+  "lon": 106.8495886,
+  "timestamp": "2016-06-21T05:31:18Z",
+  "version": 2,
+  "changeset": 40172159,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Pasar Rebo, East Jakarta",
+    "addr:housenumber": "No.58 C",
+    "addr:postcode": "13760",
+    "addr:street": "Jl. T.B. Simatupang",
+    "amenity": "university",
+    "name": "Kampus Indraprasta PGRI"
+  }
+},
+{
+  "type": "node",
+  "id": 4152506841,
+  "lat": -6.1686067,
+  "lon": 106.7885573,
+  "timestamp": "2016-04-28T03:28:30Z",
+  "version": 1,
+  "changeset": 38940481,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "Nomor 1",
+    "addr:postcode": "11450",
+    "addr:street": "Jl. Kyai Tapa",
+    "amenity": "university",
+    "name": "Universitas Trisakti - Pintu 2"
+  }
+},
+{
+  "type": "node",
+  "id": 4152517713,
+  "lat": -6.2950064,
+  "lon": 106.8622197,
+  "timestamp": "2016-06-15T03:43:29Z",
+  "version": 2,
+  "changeset": 40030369,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "RT.1 / RW.3, Gedong, Pasar Rebo, East Jakarta",
+    "addr:postcode": "13760",
+    "addr:street": "Jalan Raya Tengah",
+    "amenity": "university",
+    "name": "Universitas Indraprasta PGRI"
+  }
+},
+{
+  "type": "node",
+  "id": 4152682189,
+  "lat": -6.1513063,
+  "lon": 106.8877187,
+  "timestamp": "2016-04-28T06:22:02Z",
+  "version": 1,
+  "changeset": 38942670,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Sunter, North Jakarta",
+    "addr:housenumber": "Kav No.87,RT.9/RW.11",
+    "addr:postcode": "14350",
+    "addr:street": "Jln Yos Sudarso",
+    "amenity": "university",
+    "name": "Kwik Kian Gie School of Business (d/h IBII)"
+  }
+},
+{
+  "type": "node",
+  "id": 4153028414,
+  "lat": -6.1943359,
+  "lon": 106.7874739,
+  "timestamp": "2016-06-23T07:20:35Z",
+  "version": 3,
+  "changeset": 40221394,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "Nomor 45",
+    "addr:postcode": "11480",
+    "addr:street": "Jl. Kemanggisan Ilir III",
+    "amenity": "university",
+    "name": "Binus University - Kijang Campus"
+  }
+},
+{
+  "type": "node",
+  "id": 4235054338,
+  "lat": -6.2472922,
+  "lon": 106.7912274,
+  "timestamp": "2016-06-10T06:20:53Z",
+  "version": 1,
+  "changeset": 39922936,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Kebayoran Baru, South Jakarta",
+    "addr:housenumber": "1",
+    "addr:postcode": "12130",
+    "addr:street": "Jl. Limau, Kramat Pela",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Prof. Dr. Hamka (UHAMKA)"
+  }
+},
+{
+  "type": "node",
+  "id": 4240681926,
+  "lat": -6.1037157,
+  "lon": 106.9586878,
+  "timestamp": "2016-06-13T02:51:54Z",
+  "version": 1,
+  "changeset": 39982741,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "north jakarta",
+    "addr:postcode": "14120",
+    "addr:street": "Jl. Marunda Makmur",
+    "amenity": "university",
+    "name": "Sekolah Tinggi Ilmu Pelayaran"
+  }
+},
+{
+  "type": "node",
+  "id": 4240684322,
+  "lat": -6.1661449,
+  "lon": 106.7999947,
+  "timestamp": "2016-06-13T03:01:29Z",
+  "version": 1,
+  "changeset": 39982787,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jalan Kyai Tapa",
+    "amenity": "university",
+    "name": "STP SAHID"
+  }
+},
+{
+  "type": "node",
+  "id": 4240843510,
+  "lat": -6.2601910,
+  "lon": 106.8171830,
+  "timestamp": "2016-06-13T06:41:22Z",
+  "version": 1,
+  "changeset": 39985033,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:housenumber": "35",
+    "addr:postcode": "12730",
+    "addr:street": "Jl. Kemang Raya",
+    "amenity": "university",
+    "name": "Indonesia Banking School"
+  }
+},
+{
+  "type": "node",
+  "id": 4240905228,
+  "lat": -6.1929105,
+  "lon": 106.8532463,
+  "timestamp": "2016-06-13T07:35:20Z",
+  "version": 1,
+  "changeset": 39986027,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Paseban, Senen , Central Jakarta",
+    "addr:housenumber": "No.45, RT.14/RW.3",
+    "addr:postcode": "10440",
+    "addr:street": "Jl. Salemba Tengah",
+    "amenity": "university",
+    "name": "Bina Sarana Informatika, Kampus B3"
+  }
+},
+{
+  "type": "node",
+  "id": 4241291219,
+  "lat": -6.2304660,
+  "lon": 106.9247143,
+  "timestamp": "2016-06-13T13:18:27Z",
+  "version": 1,
+  "changeset": 39992809,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Pondok Kelapa, Duren Sawit, East Jakarta",
+    "addr:postcode": "13430",
+    "addr:street": "Jl. Radin Intan II (Terusan Casablanca)",
+    "amenity": "university",
+    "name": "Universitas Darma Persada"
+  }
+},
+{
+  "type": "node",
+  "id": 4242294059,
+  "lat": -6.1792127,
+  "lon": 106.8425527,
+  "timestamp": "2016-06-14T03:01:27Z",
+  "version": 1,
+  "changeset": 40007460,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Senen, Central Jakarta",
+    "addr:postcode": "10450",
+    "addr:street": "Jalan Kramat Raya",
+    "amenity": "university",
+    "name": "LP3I Kampus Kramat"
+  }
+},
+{
+  "type": "node",
+  "id": 4242595245,
+  "lat": -6.2047612,
+  "lon": 106.8170057,
+  "timestamp": "2016-06-23T07:02:03Z",
+  "version": 2,
+  "changeset": 40221007,
+  "user": "bleutaxi",
+  "uid": 3873184,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10220",
+    "addr:street": "Jalan KH Mas Mansyur",
+    "amenity": "university",
+    "name": "London School of Public Relation Side Entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4243787310,
+  "lat": -6.2144907,
+  "lon": 106.8443737,
+  "timestamp": "2016-06-15T02:47:15Z",
+  "version": 2,
+  "changeset": 40029850,
+  "user": "bleutan",
+  "uid": 3873179,
+  "tags": {
+    "addr:city": "Tebet, South Jakarta",
+    "addr:housenumber": "83",
+    "addr:postcode": "12850",
+    "addr:street": "Jalan Doktor Saharjo",
+    "amenity": "university",
+    "name": "Master of Management Faculty of Economics and Business Universitas Gadjah Mada (Main Entrance)"
+  }
+},
+{
+  "type": "node",
+  "id": 4243790233,
+  "lat": -6.2602977,
+  "lon": 106.7690331,
+  "timestamp": "2016-06-15T02:44:02Z",
+  "version": 1,
+  "changeset": 40029813,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12330",
+    "addr:street": "Jalan IKPN Bintaro",
+    "amenity": "university",
+    "name": "STP Trisakti"
+  }
+},
+{
+  "type": "node",
+  "id": 4243794189,
+  "lat": -6.2539751,
+  "lon": 106.7980192,
+  "timestamp": "2016-06-15T02:52:26Z",
+  "version": 1,
+  "changeset": 40029916,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12160",
+    "addr:street": "Jl. Darmawangsa 1 No.1",
+    "amenity": "university",
+    "name": "Universitas Bhayangkara Jaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4243794198,
+  "lat": -6.1974295,
+  "lon": 106.8435827,
+  "timestamp": "2016-06-15T02:57:15Z",
+  "version": 1,
+  "changeset": 40029964,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10430",
+    "addr:street": "Jalan Pegangsaan Timur No.17",
+    "amenity": "university",
+    "name": "Universitas Bung Karno,Campus Pegangsaan"
+  }
+},
+{
+  "type": "node",
+  "id": 4243794981,
+  "lat": -6.2436665,
+  "lon": 106.8980497,
+  "timestamp": "2016-06-15T02:54:24Z",
+  "version": 1,
+  "changeset": 40029939,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13620",
+    "addr:street": "Jl Raya Kali Malang 1",
+    "amenity": "university",
+    "name": "Universitas Borobudur"
+  }
+},
+{
+  "type": "node",
+  "id": 4243804622,
+  "lat": -6.2621459,
+  "lon": 106.9106264,
+  "timestamp": "2016-06-15T03:05:23Z",
+  "version": 1,
+  "changeset": 40030040,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Java",
+    "addr:housenumber": "No.12",
+    "addr:postcode": "17411",
+    "addr:street": "Jalan Jatiwaringin Raya",
+    "amenity": "university",
+    "name": "Universitas Islam As-Syafi'iyah"
+  }
+},
+{
+  "type": "node",
+  "id": 4243805139,
+  "lat": -6.2241922,
+  "lon": 106.8600484,
+  "timestamp": "2016-06-15T03:08:03Z",
+  "version": 1,
+  "changeset": 40030067,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12810",
+    "addr:street": "Jl. Kp. Melayu Kecil III No.15",
+    "amenity": "university",
+    "name": "Universitas Islam Attahiriyah"
+  }
+},
+{
+  "type": "node",
+  "id": 4243807020,
+  "lat": -6.1347822,
+  "lon": 106.7381170,
+  "timestamp": "2016-06-15T03:17:22Z",
+  "version": 1,
+  "changeset": 40030166,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11740",
+    "addr:street": "Jl. Kw. Rumah Susun",
+    "amenity": "university",
+    "name": "Universitas Kejuangan 45 Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4243808156,
+  "lat": -6.2221809,
+  "lon": 106.9288259,
+  "timestamp": "2016-06-15T03:11:23Z",
+  "version": 1,
+  "changeset": 40030107,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13470",
+    "addr:street": "Jalan Delima II",
+    "amenity": "university",
+    "name": "Universitas Muhammadiyah Prof. Dr. Hamka, Fakultas Farmasi dan Sains"
+  }
+},
+{
+  "type": "node",
+  "id": 4243808333,
+  "lat": -6.1970169,
+  "lon": 106.8688271,
+  "timestamp": "2016-06-15T03:12:49Z",
+  "version": 1,
+  "changeset": 40030121,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "RT.8/RW.10",
+    "addr:postcode": "13130",
+    "addr:street": "Jl. Balai Rakyat",
+    "amenity": "university",
+    "name": "Universitas Islam Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4243812178,
+  "lat": -6.2632305,
+  "lon": 106.9083645,
+  "timestamp": "2016-06-15T03:19:54Z",
+  "version": 1,
+  "changeset": 40030182,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "17411",
+    "addr:street": "Jl. Raya Jatiwaringin",
+    "amenity": "university",
+    "name": "Universitas Krisnadwipayana"
+  }
+},
+{
+  "type": "node",
+  "id": 4243812871,
+  "lat": -6.3084384,
+  "lon": 106.7559277,
+  "timestamp": "2016-06-15T03:26:44Z",
+  "version": 2,
+  "changeset": 40030233,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Tangerang City",
+    "addr:postcode": "15412",
+    "addr:street": "Ir H Juanda",
+    "amenity": "university",
+    "name": "UIN Syarif Hidayatullah Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4243812873,
+  "lat": -6.1727929,
+  "lon": 106.7887534,
+  "timestamp": "2016-06-15T03:22:37Z",
+  "version": 1,
+  "changeset": 40030201,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jalan Letjen. S. Parman",
+    "amenity": "university",
+    "name": "Universitas Kristen Krida Wacana Tanjung Duren"
+  }
+},
+{
+  "type": "node",
+  "id": 4243813382,
+  "lat": -6.2911747,
+  "lon": 106.7248243,
+  "timestamp": "2016-06-15T03:25:49Z",
+  "version": 1,
+  "changeset": 40030227,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Banten",
+    "addr:postcode": "15411",
+    "addr:street": "Jalan Tegalrotan",
+    "amenity": "university",
+    "name": "Universitas Pembangunan Jaya"
+  }
+},
+{
+  "type": "node",
+  "id": 4243813557,
+  "lat": -6.1853016,
+  "lon": 106.7804559,
+  "timestamp": "2016-06-15T03:26:44Z",
+  "version": 1,
+  "changeset": 40030233,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11510",
+    "addr:street": "Jalan Arjuna Utara",
+    "amenity": "university",
+    "name": "UKRIDA"
+  }
+},
+{
+  "type": "node",
+  "id": 4243816790,
+  "lat": -6.3163478,
+  "lon": 106.9008920,
+  "timestamp": "2016-06-15T03:32:04Z",
+  "version": 1,
+  "changeset": 40030281,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "East Jakarta",
+    "addr:street": "Jl. Bambu Apus I No.3",
+    "amenity": "university",
+    "name": "Universitas Respati Indonesia"
+  }
+},
+{
+  "type": "node",
+  "id": 4243821688,
+  "lat": -6.1433170,
+  "lon": 106.7305178,
+  "timestamp": "2016-06-15T03:44:25Z",
+  "version": 1,
+  "changeset": 40030375,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "No.2A, RT.6/RW.8",
+    "addr:postcode": "11720",
+    "addr:street": "Jl. Kamal Raya",
+    "amenity": "university",
+    "name": "Universitas Satyagama, Kampus Pusat"
+  }
+},
+{
+  "type": "node",
+  "id": 4243822839,
+  "lat": -6.2297087,
+  "lon": 106.7607862,
+  "timestamp": "2016-06-15T04:04:04Z",
+  "version": 1,
+  "changeset": 40030510,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:housenumber": "No.58",
+    "addr:postcode": "12620",
+    "addr:street": "Jalan Swadarma Raya",
+    "amenity": "university",
+    "name": "Tanri Abeng University"
+  }
+},
+{
+  "type": "node",
+  "id": 4243823577,
+  "lat": -6.2522981,
+  "lon": 106.8643934,
+  "timestamp": "2016-06-15T03:51:40Z",
+  "version": 1,
+  "changeset": 40030418,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "No.184",
+    "addr:postcode": "13510",
+    "addr:street": "Jl. Dewi Sartika",
+    "amenity": "university",
+    "name": "Universitas Surapati"
+  }
+},
+{
+  "type": "node",
+  "id": 4243823668,
+  "lat": -6.2585246,
+  "lon": 106.8840788,
+  "timestamp": "2016-06-15T03:54:00Z",
+  "version": 1,
+  "changeset": 40030436,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13610",
+    "addr:street": "Jl. Angkasa 1 Blok N No.7K",
+    "amenity": "university",
+    "name": "Universitas Dirgantara Marsekal Suryadarma"
+  }
+},
+{
+  "type": "node",
+  "id": 4243825101,
+  "lat": -6.3026220,
+  "lon": 106.8404044,
+  "timestamp": "2016-06-15T03:57:30Z",
+  "version": 1,
+  "changeset": 40030455,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:housenumber": "No. 152",
+    "addr:postcode": "12610",
+    "addr:street": "Jl. Letjen TB Simatupang",
+    "amenity": "university",
+    "name": "Universitas Tama Jagakarsa"
+  }
+},
+{
+  "type": "node",
+  "id": 4243830241,
+  "lat": -6.2253270,
+  "lon": 106.8755741,
+  "timestamp": "2016-06-15T04:09:42Z",
+  "version": 2,
+  "changeset": 40030545,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "East Jarta",
+    "addr:postcode": "13410",
+    "addr:street": "Jalan Cipinang Besar",
+    "amenity": "university",
+    "name": "Universitas Mpu Tantular"
+  }
+},
+{
+  "type": "node",
+  "id": 4243830289,
+  "lat": -6.1734126,
+  "lon": 106.7974648,
+  "timestamp": "2016-06-15T04:07:15Z",
+  "version": 1,
+  "changeset": 40030531,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "No.33-34",
+    "addr:postcode": "11470",
+    "addr:street": "Jalan Mandala Utara",
+    "amenity": "university",
+    "name": "Universitas Timbul Nusantara"
+  }
+},
+{
+  "type": "node",
+  "id": 4243835430,
+  "lat": -6.2248613,
+  "lon": 106.8694048,
+  "timestamp": "2016-06-15T04:13:56Z",
+  "version": 1,
+  "changeset": 40030582,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "No.19-20",
+    "addr:postcode": "13410",
+    "addr:street": "Jalan Jend. Basuki Rahmat",
+    "amenity": "university",
+    "name": "Universitas Wiraswasta Indonesia"
+  }
+},
+{
+  "type": "node",
+  "id": 4243835927,
+  "lat": -6.2214906,
+  "lon": 106.9402239,
+  "timestamp": "2016-06-15T04:30:07Z",
+  "version": 1,
+  "changeset": 40030718,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:postcode": "13450",
+    "addr:street": "Jl. Raya Mawar Merah No. 23",
+    "amenity": "university",
+    "name": "Institut Teknologi Budi Utomo"
+  }
+},
+{
+  "type": "node",
+  "id": 4243836853,
+  "lat": -6.3227042,
+  "lon": 106.8339333,
+  "timestamp": "2016-06-15T04:18:24Z",
+  "version": 1,
+  "changeset": 40030617,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:housenumber": "No.32, RT.11/RW.5",
+    "addr:postcode": "12610",
+    "addr:street": "Jl. Lenteng Agung",
+    "amenity": "university",
+    "name": "Institut Ilmu Sosial dan Ilmu Politik"
+  }
+},
+{
+  "type": "node",
+  "id": 4243838395,
+  "lat": -6.1862000,
+  "lon": 106.7596858,
+  "timestamp": "2016-06-15T04:25:34Z",
+  "version": 1,
+  "changeset": 40030677,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11520",
+    "addr:street": "Jalan Raya Kedoya Al Kamal No.2",
+    "amenity": "university",
+    "name": "Institut Sains dan Teknologi Al-Kamal"
+  }
+},
+{
+  "type": "node",
+  "id": 4243840057,
+  "lat": -6.2414887,
+  "lon": 106.7830197,
+  "timestamp": "2016-06-15T04:31:11Z",
+  "version": 2,
+  "changeset": 40030728,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12240",
+    "addr:street": "Jalan Sultan Iskandar Muda",
+    "amenity": "university",
+    "name": "Universitas Satya Negara Indonesia"
+  }
+},
+{
+  "type": "node",
+  "id": 4243842960,
+  "lat": -6.1791793,
+  "lon": 106.8784888,
+  "timestamp": "2016-06-15T04:36:49Z",
+  "version": 1,
+  "changeset": 40030782,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "East Jakarta",
+    "addr:housenumber": "No.88",
+    "addr:postcode": "13250",
+    "addr:street": "Jalan Pulo MAS Barat 3",
+    "amenity": "university",
+    "name": "Indonesia International Institute for Life-Sciences"
+  }
+},
+{
+  "type": "node",
+  "id": 4243844505,
+  "lat": -6.2715848,
+  "lon": 106.7983913,
+  "timestamp": "2016-06-15T04:39:46Z",
+  "version": 1,
+  "changeset": 40030813,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:housenumber": "No. 3-5",
+    "addr:postcode": "12410",
+    "addr:street": "JL. Asem Dua",
+    "amenity": "university",
+    "name": "ESMOD Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4243844507,
+  "lat": -6.1669075,
+  "lon": 106.7971724,
+  "timestamp": "2016-06-15T04:39:56Z",
+  "version": 1,
+  "changeset": 40030816,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:postcode": "11450",
+    "addr:street": "Jalan Kyai Tapa",
+    "amenity": "university",
+    "name": "Universitas Trisakti Kampus B"
+  }
+},
+{
+  "type": "node",
+  "id": 4243844917,
+  "lat": -6.1893891,
+  "lon": 106.7699404,
+  "timestamp": "2016-06-15T04:41:32Z",
+  "version": 1,
+  "changeset": 40030836,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "West Jakarta",
+    "addr:housenumber": "no. 35",
+    "addr:postcode": "11510",
+    "addr:street": "Jl. Arjuna Utara",
+    "amenity": "university",
+    "name": "Inti College"
+  }
+},
+{
+  "type": "node",
+  "id": 4248041293,
+  "lat": -6.1852464,
+  "lon": 106.8448198,
+  "timestamp": "2016-06-17T08:30:42Z",
+  "version": 1,
+  "changeset": 40086209,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10450",
+    "addr:street": "Jalan Kramat Raya",
+    "amenity": "university",
+    "name": "STIE Ahmad Dahlan"
+  }
+},
+{
+  "type": "node",
+  "id": 4248089158,
+  "lat": -6.3076675,
+  "lon": 106.7563191,
+  "timestamp": "2016-06-17T09:18:55Z",
+  "version": 1,
+  "changeset": 40087253,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Tangerang City",
+    "addr:postcode": "15412",
+    "addr:street": "Ir H Juanda",
+    "amenity": "university",
+    "name": "Institut Ilmu Al-Qur'an Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4248093447,
+  "lat": -6.3109409,
+  "lon": 106.7548195,
+  "timestamp": "2016-06-17T09:22:39Z",
+  "version": 1,
+  "changeset": 40087367,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "South Tangerang",
+    "addr:postcode": "15419",
+    "addr:street": "Ir H Juanda",
+    "amenity": "university",
+    "name": "AkPar Nusantara"
+  }
+},
+{
+  "type": "node",
+  "id": 4248104604,
+  "lat": -6.3111092,
+  "lon": 106.7509520,
+  "timestamp": "2016-06-17T09:29:14Z",
+  "version": 1,
+  "changeset": 40087523,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Ciputat Timur, Banten",
+    "addr:postcode": "15411",
+    "addr:street": "Ir H Juanda",
+    "amenity": "university",
+    "name": "AMIK BSI CIPUTAT"
+  }
+},
+{
+  "type": "node",
+  "id": 4248120154,
+  "lat": -6.2632401,
+  "lon": 106.7150193,
+  "timestamp": "2016-06-17T09:36:11Z",
+  "version": 1,
+  "changeset": 40087718,
+  "user": "bleumeltha",
+  "uid": 3873217,
+  "tags": {
+    "addr:city": "Tangerang City",
+    "addr:postcode": "15224",
+    "addr:street": "Jalan Pondok Aren Raya",
+    "amenity": "university",
+    "name": "Akademi Refraksi Optisi Gapopin"
+  }
+},
+{
+  "type": "node",
+  "id": 4255693777,
+  "lat": -6.1250271,
+  "lon": 106.7936113,
+  "timestamp": "2016-06-21T04:26:20Z",
+  "version": 1,
+  "changeset": 40171680,
+  "user": "Tan William",
+  "uid": 3944348,
+  "tags": {
+    "addr:city": "North Jakarta",
+    "addr:postcode": "14450",
+    "addr:street": "Pluit Selatan Raya",
+    "amenity": "university",
+    "name": "Universitas Katolik Atma Jaya (Kedokteran)"
+  }
+},
+{
+  "type": "node",
+  "id": 4255704441,
+  "lat": -6.2010767,
+  "lon": 106.8449935,
+  "timestamp": "2016-06-21T04:56:00Z",
+  "version": 1,
+  "changeset": 40171882,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "Central Jakarta",
+    "addr:postcode": "10320",
+    "addr:street": "Jalan Proklamasi",
+    "amenity": "university",
+    "name": "Sekolah Tinggi Teologi Jakarta"
+  }
+},
+{
+  "type": "node",
+  "id": 4255959068,
+  "lat": -6.2441513,
+  "lon": 106.8405014,
+  "timestamp": "2016-06-21T08:41:13Z",
+  "version": 2,
+  "changeset": 40175100,
+  "user": "blueueto",
+  "uid": 3873099,
+  "tags": {
+    "addr:city": "South Jakarta",
+    "addr:postcode": "12780",
+    "addr:street": "Jln. Gatot Subroto Kav.72",
+    "amenity": "university",
+    "name": "Wisma Aldiron"
+  }
+},
+{
+  "type": "node",
+  "id": 4438546288,
+  "lat": -6.3106071,
+  "lon": 106.7933642,
+  "timestamp": "2016-10-09T04:35:17Z",
+  "version": 1,
+  "changeset": 42746603,
+  "user": "Sidik Hadiwijaya",
+  "uid": 2817475,
+  "tags": {
+    "amenity": "university",
+    "name": "Bina Sarana Informatik"
+  }
+},
+{
+  "type": "node",
+  "id": 4516565417,
+  "lat": -6.2961361,
+  "lon": 106.7661147,
+  "timestamp": "2016-11-23T07:16:57Z",
+  "version": 1,
+  "changeset": 43888480,
+  "user": "Noerman aldhi",
+  "uid": 4866370,
+  "tags": {
+    "amenity": "university",
+    "name": "stie ahmad dahlan jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 398057808,
+  "timestamp": "2016-02-15T22:14:51Z",
+  "version": 1,
+  "changeset": 37235353,
+  "user": "Farras",
+  "uid": 136807,
+  "center": {
+    "lat": -6.3045834,
+    "lon": 106.6873760
+  },
+  "nodes": [
+    4008336662,
+    4008336912,
+    4008336865,
+    4008336863,
+    4008336850,
+    4008336851,
+    4008336630,
+    4008336637,
+    4008336662
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Bina Sarana Informatika"
+  }
+},
+{
+  "type": "way",
+  "id": 121370627,
+  "timestamp": "2011-07-12T08:43:02Z",
+  "version": 1,
+  "changeset": 8700947,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.2916666,
+    "lon": 106.7893949
+  },
+  "nodes": [
+    1359114557,
+    1359114600,
+    1359114511,
+    1359114707,
+    1359114557
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Prasetya Mulya Business School"
+  }
+},
+{
+  "type": "way",
+  "id": 120018536,
+  "timestamp": "2011-07-02T10:47:45Z",
+  "version": 1,
+  "changeset": 8606667,
+  "user": "dwiprasetyo",
+  "uid": 479281,
+  "center": {
+    "lat": -6.3022614,
+    "lon": 106.8405948
+  },
+  "nodes": [
+    1346716526,
+    1346716519,
+    1346716531,
+    1346716528,
+    1346716517,
+    1346716529,
+    1346716526
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universitas Tama Jagakarsa"
+  }
+},
+{
+  "type": "way",
+  "id": 157363165,
+  "timestamp": "2012-04-11T09:26:47Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2929245,
+    "lon": 106.8171810
+  },
+  "nodes": [
+    1695821822,
+    1695821823,
+    1695821825,
+    1695821824,
+    1695821822
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. cilandak KKO",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "700",
+    "name": "UNTAR"
+  }
+},
+{
+  "type": "way",
+  "id": 157362118,
+  "timestamp": "2015-10-01T02:24:11Z",
+  "version": 3,
+  "changeset": 34359311,
+  "user": "Vera Ramdhani",
+  "uid": 2817403,
+  "center": {
+    "lat": -6.2804062,
+    "lon": 106.8277811
+  },
+  "nodes": [
+    1695811906,
+    1695811907,
+    1695811909,
+    1695811908,
+    1695811906
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. warung jati barat",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "LIPIA"
+  }
+},
+{
+  "type": "way",
+  "id": 157348295,
+  "timestamp": "2012-04-11T09:17:04Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2799750,
+    "lon": 106.8353520
+  },
+  "nodes": [
+    1695674554,
+    1695674559,
+    1695674560,
+    1695674555,
+    1695674554
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "RT 008 RW 010",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "plastered",
+    "building:walls": "brick",
+    "capacity:persons": "600 ORANG",
+    "name": "NEXT ACADEMY"
+  }
+},
+{
+  "type": "way",
+  "id": 157359890,
+  "timestamp": "2012-03-29T06:51:39Z",
+  "version": 1,
+  "changeset": 11134171,
+  "user": "kelurahantjbarat",
+  "uid": 642243,
+  "center": {
+    "lat": -6.3030129,
+    "lon": 106.8505650
+  },
+  "nodes": [
+    1695786391,
+    1695786420,
+    1695786418,
+    1695786386,
+    1695786391
+  ],
+  "tags": {
+    "addr:full": "Jalan Nangka RT 005 RW 005",
+    "amenity": "university",
+    "building": "university",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Universitas Indraprasta"
+  }
+},
+{
+  "type": "way",
+  "id": 119914470,
+  "timestamp": "2011-07-01T13:48:12Z",
+  "version": 1,
+  "changeset": 8599708,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.3050826,
+    "lon": 106.8667823
+  },
+  "nodes": [
+    1345769934,
+    1345769924,
+    1345769932,
+    1345769925,
+    1345769934
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "UHAMKA"
+  }
+},
+{
+  "type": "way",
+  "id": 155957613,
+  "timestamp": "2012-03-20T08:01:09Z",
+  "version": 1,
+  "changeset": 11038491,
+  "user": "kageino",
+  "uid": 617276,
+  "center": {
+    "lat": -6.2954252,
+    "lon": 106.8619719
+  },
+  "nodes": [
+    1682908882,
+    1682908871,
+    1682908883,
+    1682908888,
+    1682908882
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UNIVERSITAS INDRAPRASTA PGRI"
+  }
+},
+{
+  "type": "way",
+  "id": 155957616,
+  "timestamp": "2012-03-20T08:01:09Z",
+  "version": 1,
+  "changeset": 11038491,
+  "user": "kageino",
+  "uid": 617276,
+  "center": {
+    "lat": -6.2950607,
+    "lon": 106.8617910
+  },
+  "nodes": [
+    1682908869,
+    1682908862,
+    1682908857,
+    1682908858,
+    1682908869
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UNIVERSITAS INDRAPRASTA PGRI"
+  }
+},
+{
+  "type": "way",
+  "id": 156922212,
+  "timestamp": "2016-10-09T15:52:36Z",
+  "version": 5,
+  "changeset": 42757119,
+  "user": "MM Al Hafidz",
+  "uid": 4699109,
+  "center": {
+    "lat": -6.2096311,
+    "lon": 106.7391104
+  },
+  "nodes": [
+    1691637657,
+    1691637873,
+    1691637758,
+    1691637613,
+    1691637704,
+    1691637827,
+    1691637695,
+    1691637866,
+    1691637726,
+    4439292366,
+    1691637652,
+    4439292364,
+    4439292365,
+    1691637657
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:city": "Meruya Selatan, Kembangan, West Jakarta",
+    "addr:full": "Jalan Raya Meruya Selatan",
+    "addr:housenumber": "No. 1",
+    "addr:postcode": "11650",
+    "addr:street": "Jl. Meruya Selatan",
+    "amenity": "university",
+    "building:levels": ">7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "Lebih dari 1000",
+    "name": "Universitas Mercubuana"
+  }
+},
+{
+  "type": "way",
+  "id": 358577179,
+  "timestamp": "2015-08-22T10:07:17Z",
+  "version": 3,
+  "changeset": 33501602,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1435850,
+    "lon": 106.7308412
+  },
+  "nodes": [
+    3634835007,
+    3709063808,
+    3709063807,
+    3634835008,
+    3634835009,
+    3634835010,
+    3634835011,
+    3634835012,
+    3420863495,
+    2286411174,
+    2286411176,
+    3634835007
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universtas SatyaGama"
+  }
+},
+{
+  "type": "way",
+  "id": 156928801,
+  "timestamp": "2017-03-19T10:14:30Z",
+  "version": 3,
+  "changeset": 46976198,
+  "user": "Asrul Sani",
+  "uid": 1385805,
+  "center": {
+    "lat": -6.1344459,
+    "lon": 106.7334001
+  },
+  "nodes": [
+    1691690273,
+    1691690275,
+    1691690276,
+    1691690274,
+    4742763641,
+    4742763640,
+    4742763639,
+    1691690273
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:city": "RW 11",
+    "addr:full": "Jalan Perumahan Mutiara Taman Palem",
+    "addr:postcode": "11730",
+    "addr:street": "Jalan Boulevard Raya",
+    "amenity": "university",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "internet_access": "yes",
+    "level": "3",
+    "name": "Kampus Gunadarma",
+    "operator": "Yayasan Pendidikan Gunadarma"
+  }
+},
+{
+  "type": "way",
+  "id": 157357077,
+  "timestamp": "2012-04-11T02:04:52Z",
+  "version": 2,
+  "changeset": 11260025,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2571025,
+    "lon": 106.7812182
+  },
+  "nodes": [
+    1695761318,
+    1695761347,
+    1695761350,
+    1695761321,
+    1695761318
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 157354751,
+  "timestamp": "2012-04-11T09:25:42Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2423980,
+    "lon": 106.7521412
+  },
+  "nodes": [
+    1695725894,
+    1695725895,
+    1695725908,
+    1695725906,
+    1695725924,
+    1695725926,
+    1695725898,
+    1695725899,
+    1695725894
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Kemajuan RW04",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "600",
+    "name": "STIE Bakti Pembangunan"
+  }
+},
+{
+  "type": "way",
+  "id": 157367790,
+  "timestamp": "2012-04-11T09:26:52Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2419846,
+    "lon": 106.7834631
+  },
+  "nodes": [
+    1695868362,
+    1695868364,
+    1695868367,
+    1695868369,
+    1695868375,
+    1695868378,
+    1695868387,
+    1695868401,
+    1695868417,
+    1695868420,
+    1695868415,
+    1695868413,
+    1695868362
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Sultan Iskandar Muda",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "600",
+    "name": "Universitas Satya Negara Indonesia"
+  }
+},
+{
+  "type": "way",
+  "id": 157360363,
+  "timestamp": "2012-04-11T09:26:46Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2478648,
+    "lon": 106.7909291
+  },
+  "nodes": [
+    1695791137,
+    1695791140,
+    1695791142,
+    1695791143,
+    1695791141,
+    1695791138,
+    1695791137
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jln. Limau",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "UHAMKA"
+  }
+},
+{
+  "type": "way",
+  "id": 157364414,
+  "timestamp": "2012-04-11T09:26:49Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2341228,
+    "lon": 106.7854870
+  },
+  "nodes": [
+    1695831499,
+    1695831500,
+    1695831509,
+    1695831521,
+    1695831515,
+    1695831527,
+    1695831530,
+    1695831538,
+    1695831534,
+    1695831545,
+    1695831558,
+    1695831542,
+    1695831540,
+    1695831532,
+    1695831536,
+    1695831528,
+    1695831525,
+    1695831518,
+    1695831523,
+    1695831512,
+    1695831499
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "JL Teuku Nyak Arief RW 02",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": ">7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "> 2000 orang",
+    "name": "Universitas Bina Nusantara"
+  }
+},
+{
+  "type": "way",
+  "id": 157364898,
+  "timestamp": "2012-03-30T09:31:52Z",
+  "version": 2,
+  "changeset": 11149568,
+  "user": "ridha",
+  "uid": 617283,
+  "center": {
+    "lat": -6.2531836,
+    "lon": 106.8490537
+  },
+  "nodes": [
+    1695836950,
+    1695836945,
+    1695836943,
+    1695836947,
+    1695836953,
+    1695836957,
+    1695836980,
+    1695837004,
+    1695837025,
+    1695837027,
+    1695837023,
+    1695837021,
+    1695837019,
+    1695837014,
+    1695837007,
+    1695837000,
+    1695837001,
+    1695836999,
+    1695836998,
+    1695836995,
+    1695836982,
+    1695836979,
+    1695836975,
+    1695836972,
+    1695836960,
+    1695836959,
+    1695836955,
+    1695836950
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl.duren tiga timur",
+    "amenity": "university",
+    "building": "university",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "STEKPI"
+  }
+},
+{
+  "type": "way",
+  "id": 336068420,
+  "timestamp": "2015-04-02T12:34:28Z",
+  "version": 1,
+  "changeset": 29927516,
+  "user": "BenjiDad",
+  "uid": 352655,
+  "center": {
+    "lat": -6.2449952,
+    "lon": 106.8066427
+  },
+  "nodes": [
+    193821434,
+    3431488939,
+    186858139,
+    186858141,
+    309821181,
+    309821182,
+    191407718,
+    309821395,
+    356175400,
+    356175404,
+    3431488962,
+    193821434
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Perguruan Tinggi Ilmu Kepolisian",
+    "operator": "Polri"
+  }
+},
+{
+  "type": "way",
+  "id": 122159900,
+  "timestamp": "2016-09-10T19:16:20Z",
+  "version": 4,
+  "changeset": 42065356,
+  "user": "IbnTēšfīn",
+  "uid": 4260390,
+  "center": {
+    "lat": -6.2361089,
+    "lon": 106.7991771
+  },
+  "nodes": [
+    1365840331,
+    1365839498,
+    1365837868,
+    1695681637,
+    1695681638,
+    1365838994,
+    1365840949,
+    1365839565,
+    1365840331
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:city": "Kebayoran Baru , South Jakarta",
+    "addr:full": "Jalan Sisingamangaraja",
+    "addr:postcode": "12110",
+    "addr:street": "Jalan Sisingamangaraja",
+    "amenity": "university",
+    "building": "university",
+    "building:levels": "6",
+    "building:material": "brick",
+    "building:structure": "reinforced_masonry",
+    "capacity:persons": "1000",
+    "name": "Universitas Al Azhar",
+    "roof:material": "tile"
+  }
+},
+{
+  "type": "way",
+  "id": 122140816,
+  "timestamp": "2013-04-25T04:06:20Z",
+  "version": 3,
+  "changeset": 15856291,
+  "user": "R Endro Teguh Kusumo",
+  "uid": 1090118,
+  "center": {
+    "lat": -6.2411239,
+    "lon": 106.8329825
+  },
+  "nodes": [
+    1365564549,
+    2280319472,
+    2280319468,
+    2280319470,
+    2280319474,
+    1365564403,
+    1365564092,
+    1365564517,
+    1365564549
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Universitas Paramadina"
+  }
+},
+{
+  "type": "way",
+  "id": 218820173,
+  "timestamp": "2013-04-25T03:53:38Z",
+  "version": 1,
+  "changeset": 15856247,
+  "user": "winata",
+  "uid": 1094754,
+  "center": {
+    "lat": -6.2418579,
+    "lon": 106.8329360
+  },
+  "nodes": [
+    2280319548,
+    2280319552,
+    2280319558,
+    2280319572,
+    2280319574,
+    2280319564,
+    2280319566,
+    2280319584,
+    2280319582,
+    2280319600,
+    2280319614,
+    2280319616,
+    2280319618,
+    2280319602,
+    2280319588,
+    2280319590,
+    2280319673,
+    2280319667,
+    2280319686,
+    2280319680,
+    2280319633,
+    2280319631,
+    2280319620,
+    2280319612,
+    2280319596,
+    2280319592,
+    2280319546,
+    2280319548
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universitas Paramadina"
+  }
+},
+{
+  "type": "way",
+  "id": 153306199,
+  "timestamp": "2012-10-17T18:03:22Z",
+  "version": 2,
+  "changeset": 13535058,
+  "user": "Herwin Lesmana",
+  "uid": 984660,
+  "center": {
+    "lat": -6.2019464,
+    "lon": 106.7816582
+  },
+  "nodes": [
+    1660119825,
+    1660119830,
+    1660119829,
+    1660119828,
+    1660119827,
+    1660119824,
+    1660119826,
+    1660119822,
+    1660119825
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan kebun jeruk raya no 27",
+    "amenity": "university",
+    "building:levels": "4-7",
+    "building:roof": "asbestos",
+    "building:structure": "unreinforced_masonry",
+    "building:walls": "brick",
+    "name": "Bina Nusantara (Kampus Anggrek)"
+  }
+},
+{
+  "type": "way",
+  "id": 157359522,
+  "timestamp": "2012-04-11T09:28:39Z",
+  "version": 3,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2082872,
+    "lon": 106.7905499
+  },
+  "nodes": [
+    1695780417,
+    1695780420,
+    1695780418,
+    1695780415,
+    1695780417
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Palmerah Barat",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "fix me"
+  }
+},
+{
+  "type": "way",
+  "id": 153306200,
+  "timestamp": "2012-10-17T18:03:22Z",
+  "version": 2,
+  "changeset": 13535058,
+  "user": "Herwin Lesmana",
+  "uid": 984660,
+  "center": {
+    "lat": -6.2002567,
+    "lon": 106.7854010
+  },
+  "nodes": [
+    1660119816,
+    1660119814,
+    1660119818,
+    1660119820,
+    1660119816
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan K.H Syahdan No 9",
+    "amenity": "university",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Bina Nusantara (Kampus Syahdan)"
+  }
+},
+{
+  "type": "way",
+  "id": 156921630,
+  "timestamp": "2012-03-26T07:42:16Z",
+  "version": 1,
+  "changeset": 11102834,
+  "user": "raniedwianugrah",
+  "uid": 617220,
+  "center": {
+    "lat": -6.1987247,
+    "lon": 106.7958287
+  },
+  "nodes": [
+    1691633250,
+    1691633182,
+    1691633239,
+    1691633208,
+    1691633250
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jln Anggrek Cendrawasih",
+    "amenity": "university",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "IGI"
+  }
+},
+{
+  "type": "way",
+  "id": 156923935,
+  "timestamp": "2012-04-11T09:26:57Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1857706,
+    "lon": 106.7610846
+  },
+  "nodes": [
+    1691650484,
+    1691650386,
+    1691650413,
+    1691650382,
+    1691650406,
+    1691650432,
+    1691650484
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jl. Kedoya Al-Kamal RT 07 RW 03",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:walls": "brick",
+    "capacity:persons": "2000",
+    "name": "Universitas Yayasan Al-Kamal"
+  }
+},
+{
+  "type": "way",
+  "id": 157205905,
+  "timestamp": "2014-04-28T05:04:57Z",
+  "version": 3,
+  "changeset": 21993097,
+  "user": "fdsimon",
+  "uid": 518740,
+  "center": {
+    "lat": -6.1853721,
+    "lon": 106.7802620
+  },
+  "nodes": [
+    1694259156,
+    1694259159,
+    1694259160,
+    1694259162,
+    1694259166,
+    1694259171,
+    1694259175,
+    1694259167,
+    1694259163,
+    1694259161,
+    1694259156
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl arjuna selatan",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">1000",
+    "name": "Fakultas Kedokteran UKRIDA"
+  }
+},
+{
+  "type": "way",
+  "id": 157205932,
+  "timestamp": "2014-04-28T05:04:57Z",
+  "version": 3,
+  "changeset": 21993097,
+  "user": "fdsimon",
+  "uid": 518740,
+  "center": {
+    "lat": -6.1854438,
+    "lon": 106.7789759
+  },
+  "nodes": [
+    1694259157,
+    1694259172,
+    1694259176,
+    1694259178,
+    1694259180,
+    1694259181,
+    1694259183,
+    1694259182,
+    1694259179,
+    1694259177,
+    1694259170,
+    1694259169,
+    1694259158,
+    1694259155,
+    1694259157
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl arjuna selatan",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": ">7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">2000",
+    "name": "Universitas Esa Unggul"
+  }
+},
+{
+  "type": "way",
+  "id": 156917698,
+  "timestamp": "2016-06-23T07:20:20Z",
+  "version": 5,
+  "changeset": 40221386,
+  "user": "bleutan",
+  "uid": 3873179,
+  "center": {
+    "lat": -6.1939150,
+    "lon": 106.7879674
+  },
+  "nodes": [
+    1691602590,
+    1691602644,
+    1691602705,
+    1691602760,
+    1691602569,
+    1970322218,
+    1970322208,
+    1970322222,
+    1970322216,
+    1970322201,
+    1970322179,
+    1970322177,
+    1970322204,
+    1691602590
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:city": "Kemanggisan, West Jakarta",
+    "addr:full": "Jln Kemanggisan Ilir",
+    "addr:housenumber": "3",
+    "addr:postcode": "11480",
+    "addr:street": "Jl. Kemanggisan Ilir",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "Binus University - Kijang Campus"
+  }
+},
+{
+  "type": "way",
+  "id": 156926480,
+  "timestamp": "2012-04-11T09:26:48Z",
+  "version": 3,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1733401,
+    "lon": 106.7974295
+  },
+  "nodes": [
+    1691671740,
+    1691671742,
+    1691671743,
+    1691671744,
+    1691671745,
+    1691671747,
+    1691671749,
+    1691671748,
+    1691671740
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. gelong baru utara",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">500",
+    "name": "UTIRA"
+  }
+},
+{
+  "type": "way",
+  "id": 156922064,
+  "timestamp": "2012-04-11T09:26:46Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1725432,
+    "lon": 106.7883963
+  },
+  "nodes": [
+    1691636538,
+    1691636557,
+    1691636558,
+    1691636566,
+    1691636564,
+    1691636570,
+    1691636569,
+    1691636589,
+    1691636588,
+    1691636568,
+    1691636567,
+    1691636554,
+    1691636553,
+    1691636540,
+    1691636538
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Tg. Duren Raya",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "UKRIDA"
+  }
+},
+{
+  "type": "way",
+  "id": 484635861,
+  "timestamp": "2017-04-04T01:09:20Z",
+  "version": 1,
+  "changeset": 47428377,
+  "user": "Robi Ripai",
+  "uid": 2166021,
+  "center": {
+    "lat": -6.2187608,
+    "lon": 106.8153356
+  },
+  "nodes": [
+    4773875094,
+    4773875093,
+    4773875092,
+    4773875091,
+    4773875090,
+    4773875089,
+    4773875088,
+    4773875087,
+    4773875086,
+    4773875085,
+    4773875084,
+    4773875083,
+    4773875082,
+    4773875081,
+    4773875080,
+    4773875079,
+    4773875078,
+    4773875077,
+    4773875076,
+    4773875075,
+    4773875074,
+    4773875073,
+    4773875072,
+    4773875071,
+    4773875070,
+    4773875069,
+    4773875068,
+    4773875067,
+    4773875094
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Universitas Atmajaya"
+  }
+},
+{
+  "type": "way",
+  "id": 157361025,
+  "timestamp": "2013-07-15T06:58:32Z",
+  "version": 3,
+  "changeset": 16957560,
+  "user": "Firman Hadi",
+  "uid": 76518,
+  "center": {
+    "lat": -6.2176270,
+    "lon": 106.8287775
+  },
+  "nodes": [
+    1695799046,
+    1695799042,
+    1695799070,
+    1695799063,
+    1695799046
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "jl. Perbanas",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "STIE Perbanas"
+  }
+},
+{
+  "type": "way",
+  "id": 157344282,
+  "timestamp": "2012-04-14T06:43:41Z",
+  "version": 2,
+  "changeset": 11295166,
+  "user": "Ian Granger",
+  "uid": 575039,
+  "center": {
+    "lat": -6.2106558,
+    "lon": 106.8254422
+  },
+  "nodes": [
+    1695618537,
+    1695618541,
+    1695618544,
+    1695618545,
+    1695618546,
+    1695618543,
+    1695618542,
+    1695618537
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Setiabudi 1",
+    "amenity": "university",
+    "building": "university",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Universitas Negeri Jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 157368467,
+  "timestamp": "2012-04-11T09:26:49Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2148123,
+    "lon": 106.8446517
+  },
+  "nodes": [
+    1695873240,
+    1695873246,
+    1695873242,
+    1695873247,
+    1695873278,
+    1695873249,
+    1695873238,
+    1695873240
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Dr Saharjo",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": ">7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">2000",
+    "name": "Universitas Gajah Mada"
+  }
+},
+{
+  "type": "way",
+  "id": 157358528,
+  "timestamp": "2014-07-16T04:42:24Z",
+  "version": 3,
+  "changeset": 24174010,
+  "user": "Iyan",
+  "uid": 627315,
+  "center": {
+    "lat": -6.2059428,
+    "lon": 106.8334817
+  },
+  "nodes": [
+    1695772100,
+    1695772107,
+    1695772126,
+    1695772119,
+    1695772132,
+    1695772129,
+    1695772104,
+    1695772102,
+    1695772099,
+    1695772100
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Halimun Raya No. 13",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "300",
+    "name": "Pasca Sarjana Universitas Brawijaya"
+  }
+},
+{
+  "type": "way",
+  "id": 157358552,
+  "timestamp": "2012-04-11T09:26:52Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2057062,
+    "lon": 106.8335346
+  },
+  "nodes": [
+    1695772074,
+    1695772079,
+    1695772105,
+    1695772098,
+    1695772090,
+    1695772095,
+    1695772088,
+    1695772084,
+    1695772074
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Halimun Raya",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "Universitas Negeri Jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 119783546,
+  "timestamp": "2011-06-30T16:38:52Z",
+  "version": 1,
+  "changeset": 8592214,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.1968519,
+    "lon": 106.8492816
+  },
+  "nodes": [
+    1344902473,
+    1344902485,
+    1344902481,
+    1344902477,
+    1344902513,
+    1344902511,
+    1344902482,
+    1344902506,
+    1344902473
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "10+",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "universitas YAI"
+  }
+},
+{
+  "type": "way",
+  "id": 235429368,
+  "timestamp": "2013-08-28T08:21:20Z",
+  "version": 1,
+  "changeset": 17550077,
+  "user": "soraya bunga larasati",
+  "uid": 1727324,
+  "center": {
+    "lat": -6.2003968,
+    "lon": 106.8466432
+  },
+  "nodes": [
+    2434915124,
+    2434915125,
+    2434915126,
+    2434915127,
+    2434915124
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Pascasarjana Universitas Pancasila"
+  }
+},
+{
+  "type": "way",
+  "id": 119783228,
+  "timestamp": "2011-06-30T16:34:17Z",
+  "version": 1,
+  "changeset": 8592182,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.1950373,
+    "lon": 106.8488604
+  },
+  "nodes": [
+    1344889810,
+    1344889818,
+    1344889829,
+    1344889817,
+    1344889812,
+    1344889805,
+    1344889807,
+    1344889796,
+    1344889843,
+    1344889837,
+    1344889840,
+    1344889833,
+    1344889810
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Fakultas Kedokteran Universitas Indonesia"
+  }
+},
+{
+  "type": "way",
+  "id": 155112558,
+  "timestamp": "2017-03-30T04:24:33Z",
+  "version": 5,
+  "changeset": 47279866,
+  "user": "adam maulana",
+  "uid": 5506020,
+  "center": {
+    "lat": -6.1882138,
+    "lon": 106.8408286
+  },
+  "nodes": [
+    1675475636,
+    1675475637,
+    4763410621,
+    1675475639,
+    4763408620,
+    1675475640,
+    1675475638,
+    1675475635,
+    1675475632,
+    1675475631,
+    1675475629,
+    1675475627,
+    1675475628,
+    1675475630,
+    4763406051,
+    1675475634,
+    1675475633,
+    1675475636
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:city": "Central Jakarta",
+    "addr:full": "Jl Sekolah Seni No. 1",
+    "addr:housenumber": "1",
+    "addr:postcode": "10330",
+    "addr:street": "Jalan Sekolah Seni",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "300",
+    "name": "INSTITUT KESENIAN JAKARTA",
+    "operator": "ikj.ac.id"
+  }
+},
+{
+  "type": "way",
+  "id": 155110615,
+  "timestamp": "2012-04-11T09:06:46Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1798498,
+    "lon": 106.8420212
+  },
+  "nodes": [
+    1675459721,
+    1675459725,
+    1675459724,
+    1675459719,
+    1675459721
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "JL. KRAMAT KWITANG RT 01/ RW 07",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "200",
+    "name": "BSI"
+  }
+},
+{
+  "type": "way",
+  "id": 483368651,
+  "timestamp": "2017-04-04T06:46:10Z",
+  "version": 2,
+  "changeset": 47432944,
+  "user": "Hajid Naufal",
+  "uid": 5520507,
+  "center": {
+    "lat": -6.2489147,
+    "lon": 106.8715116
+  },
+  "nodes": [
+    4761148337,
+    4761148342,
+    4761148346,
+    4761148341,
+    4761148349,
+    4761148348,
+    4761148340,
+    4761148345,
+    4761148353,
+    4761148354,
+    4761148352,
+    4761148338,
+    4761148347,
+    4761148350,
+    4761148351,
+    4761148337
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity:persons": ">500",
+    "name": "Universitas Kristen Indonesia",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 315718643,
+  "timestamp": "2014-12-04T09:31:01Z",
+  "version": 1,
+  "changeset": 27231079,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.2490066,
+    "lon": 106.8665199
+  },
+  "nodes": [
+    3218506879,
+    3218506885,
+    3218506887,
+    3218506883,
+    3218506879
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "BSI"
+  }
+},
+{
+  "type": "way",
+  "id": 120390218,
+  "timestamp": "2017-04-04T09:17:42Z",
+  "version": 2,
+  "changeset": 47436250,
+  "user": "irwan hidayatullah",
+  "uid": 5520510,
+  "center": {
+    "lat": -6.2536113,
+    "lon": 106.8647291
+  },
+  "nodes": [
+    1350009887,
+    1350009924,
+    1350009873,
+    1350009948,
+    1350009902,
+    1350009972,
+    1350009887
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Dewi Sartika No 77 dan No 289, Cawang, Kramatjati",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "commercial",
+    "building:walls": "concrete",
+    "capacity": "250-500",
+    "name": "Bina Sarana Informatika",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 315708106,
+  "timestamp": "2014-12-04T06:38:00Z",
+  "version": 1,
+  "changeset": 27218751,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.2521080,
+    "lon": 106.8644721
+  },
+  "nodes": [
+    3218391466,
+    3218391470,
+    3218391471,
+    3218391467,
+    3218391466
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Universitas Suropati"
+  }
+},
+{
+  "type": "way",
+  "id": 483414460,
+  "timestamp": "2017-04-04T06:46:15Z",
+  "version": 2,
+  "changeset": 47432944,
+  "user": "Hajid Naufal",
+  "uid": 5520507,
+  "center": {
+    "lat": -6.2500675,
+    "lon": 106.8725988
+  },
+  "nodes": [
+    4761524410,
+    4761524409,
+    4761524408,
+    4761524407,
+    4761524410
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:floor": "ceramics",
+    "building:levels": "10",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "concrete",
+    "capacity:persons": ">500",
+    "name": "Fakultas Kedokteran UKI",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 155963030,
+  "timestamp": "2014-07-03T04:33:13Z",
+  "version": 2,
+  "changeset": 23753065,
+  "user": "raniedwianugrah",
+  "uid": 617220,
+  "center": {
+    "lat": -6.2625914,
+    "lon": 106.8881319
+  },
+  "nodes": [
+    1682969103,
+    1682969114,
+    1682969170,
+    1682969166,
+    1682969158,
+    2945180393,
+    2945180390,
+    1682969148,
+    2945180385,
+    2945180383,
+    2945180381,
+    2945180382,
+    2945180380,
+    2945180379,
+    2945180371,
+    2945180372,
+    1682969100,
+    1682969103
+  ],
+  "tags": {
+    "addr:full": "Jl. Komodor Halim P",
+    "amenity": "university",
+    "building:levels": "1",
+    "name": "Universitas Surya Dharma"
+  }
+},
+{
+  "type": "way",
+  "id": 157355130,
+  "timestamp": "2014-12-12T07:32:23Z",
+  "version": 4,
+  "changeset": 27415672,
+  "user": "Ratry Chairunnisa",
+  "uid": 617241,
+  "center": {
+    "lat": -6.2241963,
+    "lon": 106.8599387
+  },
+  "nodes": [
+    1695734495,
+    1695734493,
+    1695794647,
+    1695734491,
+    1695734547,
+    1695734553,
+    1695734557,
+    1695734495
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "jalan kp. melayu kecil 3",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "<400 orang",
+    "evacuation_center": "no",
+    "flood_prone": "no",
+    "name": "Universitas Islam Atahiriyah"
+  }
+},
+{
+  "type": "way",
+  "id": 157360672,
+  "timestamp": "2012-04-11T09:26:47Z",
+  "version": 3,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2234848,
+    "lon": 106.8623388
+  },
+  "nodes": [
+    1695794638,
+    1695794645,
+    1695794650,
+    1695794648,
+    1695794638
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "JALAN KP.MELAYU KECIL",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "1",
+    "building:roof": "tile",
+    "building:structure": "plastered",
+    "building:walls": "brick",
+    "capacity:persons": "100",
+    "name": "UNIV. KRISANTI WIDYA MANDIRI"
+  }
+},
+{
+  "type": "way",
+  "id": 482149087,
+  "timestamp": "2017-04-04T06:46:02Z",
+  "version": 3,
+  "changeset": 47432893,
+  "user": "Febrina Dewi",
+  "uid": 617262,
+  "center": {
+    "lat": -6.2232616,
+    "lon": 106.8657530
+  },
+  "nodes": [
+    4750112996,
+    4750112993,
+    4750112994,
+    4750112995,
+    4750112996
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl Jatinegara Barat No.144",
+    "amenity": "university",
+    "backup_generator": "yes",
+    "building": "university",
+    "building:condition": "good",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "buildings:floor": "ceramics",
+    "capacity": ">500",
+    "name": "Universitas Azzahra",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 234852840,
+  "timestamp": "2013-08-24T05:09:07Z",
+  "version": 2,
+  "changeset": 17479392,
+  "user": "phermana_map",
+  "uid": 932591,
+  "center": {
+    "lat": -6.2254610,
+    "lon": 106.8758597
+  },
+  "nodes": [
+    2429759913,
+    2429759914,
+    2429759915,
+    2429759916,
+    2429759913
+  ],
+  "tags": {
+    "addr:city": "jakarta",
+    "addr:housename": "JL cipinang Besar",
+    "addr:housenumber": "1a",
+    "amenity": "university",
+    "name": "Universitas Mpu Tantular"
+  }
+},
+{
+  "type": "way",
+  "id": 155957328,
+  "timestamp": "2012-04-11T09:25:43Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2373089,
+    "lon": 106.8768710
+  },
+  "nodes": [
+    1682906612,
+    1682906624,
+    1682906620,
+    1682906601,
+    1682906612
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan DI Panjaitan RT 10/03",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "2000",
+    "name": "STIE Nusantara"
+  }
+},
+{
+  "type": "way",
+  "id": 120161323,
+  "timestamp": "2015-03-27T09:23:08Z",
+  "version": 4,
+  "changeset": 29772822,
+  "user": "Mia Renauly",
+  "uid": 756040,
+  "center": {
+    "lat": -6.2441691,
+    "lon": 106.8978166
+  },
+  "nodes": [
+    1347935613,
+    1347935923,
+    3421209991,
+    3421209988,
+    1347935509,
+    1347935805,
+    1347935613
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jl. Inspeksi Tarum Barat Rt 09/ Rw 04",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": ">7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "evacuation_center": "yes",
+    "flood_prone": "no",
+    "kitchen:facilities": "yes",
+    "name": "Universitas Borobudur",
+    "shelter_type": "building",
+    "toilet:facilities": "yes",
+    "toilets:number": "4",
+    "water_source": "powered_pump"
+  }
+},
+{
+  "type": "way",
+  "id": 234852841,
+  "timestamp": "2013-08-24T05:09:35Z",
+  "version": 5,
+  "changeset": 17479397,
+  "user": "phermana_map",
+  "uid": 932591,
+  "center": {
+    "lat": -6.2255143,
+    "lon": 106.8767180
+  },
+  "nodes": [
+    2429759917,
+    2429759918,
+    2429759919,
+    2429759920,
+    2429759917
+  ],
+  "tags": {
+    "addr:city": "jakarta",
+    "addr:housename": "JL Cipinang besar",
+    "addr:housenumber": "2",
+    "amenity": "university",
+    "name": "Universitas Mpu Tantular kampus B"
+  }
+},
+{
+  "type": "way",
+  "id": 121543558,
+  "timestamp": "2011-07-13T14:31:15Z",
+  "version": 1,
+  "changeset": 8713226,
+  "user": "gnemok",
+  "uid": 138225,
+  "center": {
+    "lat": -6.2296247,
+    "lon": 106.9239401
+  },
+  "nodes": [
+    1360401035,
+    1360401037,
+    1360400975,
+    1360401030,
+    1360401020,
+    1360401029,
+    1360400984,
+    1360401000,
+    1360401031,
+    1360400951,
+    1360401035
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 121543559,
+  "timestamp": "2011-07-13T14:31:16Z",
+  "version": 1,
+  "changeset": 8713226,
+  "user": "gnemok",
+  "uid": 138225,
+  "center": {
+    "lat": -6.2302643,
+    "lon": 106.9243714
+  },
+  "nodes": [
+    1360400950,
+    1360401007,
+    1360401021,
+    1360401023,
+    1360400950
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universitas Dharma Persada"
+  }
+},
+{
+  "type": "way",
+  "id": 121543561,
+  "timestamp": "2011-07-13T14:31:16Z",
+  "version": 1,
+  "changeset": 8713226,
+  "user": "gnemok",
+  "uid": 138225,
+  "center": {
+    "lat": -6.2295491,
+    "lon": 106.9246782
+  },
+  "nodes": [
+    1360400952,
+    1360401018,
+    1360400990,
+    1360401001,
+    1360401027,
+    1360400980,
+    1360400958,
+    1360400986,
+    1360401034,
+    1360400999,
+    1360400971,
+    1360401028,
+    1360400952
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 121543564,
+  "timestamp": "2011-07-13T14:31:16Z",
+  "version": 1,
+  "changeset": 8713226,
+  "user": "gnemok",
+  "uid": 138225,
+  "center": {
+    "lat": -6.2301718,
+    "lon": 106.9238807
+  },
+  "nodes": [
+    1360400994,
+    1360400992,
+    1360400993,
+    1360400947,
+    1360400994
+  ],
+  "tags": {
+    "amenity": "university"
+  }
+},
+{
+  "type": "way",
+  "id": 155952116,
+  "timestamp": "2014-09-22T09:17:27Z",
+  "version": 3,
+  "changeset": 25598362,
+  "user": "errybest",
+  "uid": 2351890,
+  "center": {
+    "lat": -6.2297663,
+    "lon": 106.9242768
+  },
+  "nodes": [
+    1682871242,
+    1682871250,
+    1682871256,
+    1682871258,
+    1682871271,
+    1682871288,
+    1682871290,
+    1682871289,
+    1682871285,
+    1682871279,
+    1682871264,
+    1682871260,
+    1682871254,
+    1682871248,
+    1682871244,
+    1682871240,
+    1682871234,
+    1682871236,
+    1682871242
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Taman Malaka Utara",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "5000",
+    "name": "Universitas Dharma Persada"
+  }
+},
+{
+  "type": "way",
+  "id": 155952190,
+  "timestamp": "2012-04-11T09:26:42Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2350838,
+    "lon": 106.9298225
+  },
+  "nodes": [
+    1682871360,
+    1682871364,
+    1682871373,
+    1682871388,
+    1682871394,
+    1682871396,
+    1682871410,
+    1682871412,
+    1682871430,
+    1682871427,
+    1682871406,
+    1682871403,
+    1682871393,
+    1682871391,
+    1682871375,
+    1682871371,
+    1682871367,
+    1682871369,
+    1682871361,
+    1682871362,
+    1682871358,
+    1682871360
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Janur",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "5000",
+    "name": "Tarakanita"
+  }
+},
+{
+  "type": "way",
+  "id": 155957538,
+  "timestamp": "2012-04-11T09:26:50Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.2245398,
+    "lon": 106.9397151
+  },
+  "nodes": [
+    1682908107,
+    1682908101,
+    1682908102,
+    1682908109,
+    1682908112,
+    1682908115,
+    1682908113,
+    1682908111,
+    1682908108,
+    1682908107
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "Jalan Malaka Country",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "2",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "Universitas Insida"
+  }
+},
+{
+  "type": "way",
+  "id": 120549685,
+  "timestamp": "2011-07-06T14:35:18Z",
+  "version": 1,
+  "changeset": 8648969,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.1970972,
+    "lon": 106.8520367
+  },
+  "nodes": [
+    1351436791,
+    1351436797,
+    1351436799,
+    1351436793,
+    1351436791
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "name": "Universitas Gunadarma"
+  }
+},
+{
+  "type": "way",
+  "id": 155938154,
+  "timestamp": "2017-03-24T07:13:57Z",
+  "version": 3,
+  "changeset": 47116636,
+  "user": "Yudha Sidhikoro",
+  "uid": 4706322,
+  "center": {
+    "lat": -6.1970655,
+    "lon": 106.8690226
+  },
+  "nodes": [
+    1682767233,
+    1682767273,
+    1682767176,
+    1682767289,
+    1682767195,
+    1682767307,
+    1682767233
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jln Balai Rakyat Utan Kayu",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Universitas Islam Jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 482397051,
+  "timestamp": "2017-03-24T06:59:46Z",
+  "version": 1,
+  "changeset": 47116392,
+  "user": "Yudha Sidhikoro",
+  "uid": 4706322,
+  "center": {
+    "lat": -6.2013495,
+    "lon": 106.8725467
+  },
+  "nodes": [
+    4752227549,
+    4752227550,
+    4752227559,
+    4752227552,
+    4752227564,
+    4752227555,
+    4752227557,
+    4752227556,
+    4752227554,
+    4752227553,
+    4752227551,
+    4752227509,
+    4752227518,
+    4752227539,
+    4752227545,
+    4752227549
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 426962758,
+  "timestamp": "2016-06-24T09:39:10Z",
+  "version": 3,
+  "changeset": 40255643,
+  "user": "nusa",
+  "uid": 4158278,
+  "center": {
+    "lat": -6.1963225,
+    "lon": 106.8778610
+  },
+  "nodes": [
+    4262124838,
+    4262124839,
+    4262124840,
+    4262124841,
+    4262124842,
+    4262124843,
+    4262124844,
+    4262124845,
+    4262124846,
+    4262124847,
+    4262124848,
+    4262124849,
+    4262124850,
+    4262124851,
+    4262124852,
+    4262124853,
+    4262124838
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Fakultas Ilmu Pendidikan UNJ"
+  }
+},
+{
+  "type": "way",
+  "id": 363842568,
+  "timestamp": "2015-08-04T03:34:55Z",
+  "version": 1,
+  "changeset": 33086852,
+  "user": "felix_yew",
+  "uid": 3007260,
+  "center": {
+    "lat": -6.1952545,
+    "lon": 106.8690981
+  },
+  "nodes": [
+    3679675852,
+    3679675854,
+    3679675859,
+    3679675856,
+    3679675852
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "500",
+    "name": "Atro Nusantara Jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 155114219,
+  "timestamp": "2017-03-23T07:38:51Z",
+  "version": 3,
+  "changeset": 47088074,
+  "user": "alifatri",
+  "uid": 4793967,
+  "center": {
+    "lat": -6.1769802,
+    "lon": 106.8582787
+  },
+  "nodes": [
+    1675488369,
+    4750386365,
+    4750386364,
+    4750386363,
+    1675488368,
+    1675488373,
+    4750386366,
+    4750386367,
+    1675488374,
+    1675488369
+  ],
+  "tags": {
+    "addr:full": "Jl. Pangkalan Asem Raya Rt 08 Rw 07",
+    "amenity": "university",
+    "building:roof": "tile",
+    "building:walls": "brick",
+    "name": "STIAMI"
+  }
+},
+{
+  "type": "way",
+  "id": 155114218,
+  "timestamp": "2012-04-11T02:06:48Z",
+  "version": 4,
+  "changeset": 11260025,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1744199,
+    "lon": 106.8567828
+  },
+  "nodes": [
+    1675488269,
+    1675488270,
+    1675488266,
+    1675488265,
+    1675488269
+  ],
+  "tags": {
+    "access:roof": "fix me",
+    "addr:full": "J. Letjen Suprapto Rt 01 Rw 06",
+    "amenity": "university",
+    "building:roof": "tile",
+    "building:walls": "brick"
+  }
+},
+{
+  "type": "way",
+  "id": 119788128,
+  "timestamp": "2011-06-30T17:21:22Z",
+  "version": 1,
+  "changeset": 8592524,
+  "user": "dimdim02",
+  "uid": 477569,
+  "center": {
+    "lat": -6.1697935,
+    "lon": 106.8697655
+  },
+  "nodes": [
+    1344983163,
+    1344983177,
+    1344983179,
+    1344983164,
+    1344983163
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "name": "Universitas Yarsi"
+  }
+},
+{
+  "type": "way",
+  "id": 155259359,
+  "timestamp": "2017-03-23T13:20:23Z",
+  "version": 4,
+  "changeset": 47096991,
+  "user": "RodFC",
+  "uid": 5148494,
+  "center": {
+    "lat": -6.1720154,
+    "lon": 106.8760587
+  },
+  "nodes": [
+    1676676524,
+    1676676550,
+    1676676526,
+    1676676545,
+    1676676552,
+    1676676554,
+    1676676557,
+    1676676560,
+    1676676565,
+    1676676568,
+    1676676596,
+    1676676600,
+    1676676599,
+    1676676602,
+    1676676630,
+    1676676635,
+    1676676634,
+    1676676626,
+    1676676623,
+    1676676604,
+    1676676603,
+    1676676598,
+    1676676595,
+    1676676597,
+    1676676593,
+    1676676591,
+    4750889562,
+    1676676588,
+    1676676559,
+    1676676563,
+    1676676548,
+    1676676524
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "8000",
+    "name": "Universitas Trisakti"
+  }
+},
+{
+  "type": "way",
+  "id": 426761668,
+  "timestamp": "2016-06-24T07:46:41Z",
+  "version": 2,
+  "changeset": 40253301,
+  "user": "nusa",
+  "uid": 4158278,
+  "center": {
+    "lat": -6.1940939,
+    "lon": 106.8782369
+  },
+  "nodes": [
+    4260217370,
+    4262124880,
+    4260217368,
+    4260217369,
+    4260217371,
+    4260217370
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Perspustakaan UNJ"
+  }
+},
+{
+  "type": "way",
+  "id": 426962748,
+  "timestamp": "2016-06-24T09:39:10Z",
+  "version": 2,
+  "changeset": 40255643,
+  "user": "nusa",
+  "uid": 4158278,
+  "center": {
+    "lat": -6.1954187,
+    "lon": 106.8785470
+  },
+  "nodes": [
+    4262120771,
+    4262120772,
+    4262120773,
+    4262120774,
+    4262120769,
+    4262120770,
+    4262120771
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Gedung Rektorat UNj"
+  }
+},
+{
+  "type": "way",
+  "id": 426761663,
+  "timestamp": "2016-11-21T06:30:50Z",
+  "version": 2,
+  "changeset": 43838636,
+  "user": "Salman Alfarizi",
+  "uid": 4811010,
+  "center": {
+    "lat": -6.1949442,
+    "lon": 106.8777506
+  },
+  "nodes": [
+    4260217372,
+    4260217376,
+    4260217377,
+    4260217373,
+    4260217372
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Gedung R.A Kartini"
+  }
+},
+{
+  "type": "way",
+  "id": 426761664,
+  "timestamp": "2016-11-21T06:30:51Z",
+  "version": 2,
+  "changeset": 43838636,
+  "user": "Salman Alfarizi",
+  "uid": 4811010,
+  "center": {
+    "lat": -6.1950323,
+    "lon": 106.8785993
+  },
+  "nodes": [
+    4260217374,
+    4260217379,
+    4260217380,
+    4260217375,
+    4260217374
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Gedung Raden Dewi Sartika"
+  }
+},
+{
+  "type": "way",
+  "id": 155956558,
+  "timestamp": "2012-03-20T07:51:39Z",
+  "version": 1,
+  "changeset": 11038515,
+  "user": "Kelurahan Kayu Putih",
+  "uid": 633602,
+  "center": {
+    "lat": -6.1793973,
+    "lon": 106.8790925
+  },
+  "nodes": [
+    1682901711,
+    1682901713,
+    1682901741,
+    1682901727,
+    1682901711
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Pulomas",
+    "amenity": "university",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "Universitas Jakarta"
+  }
+},
+{
+  "type": "way",
+  "id": 121919419,
+  "timestamp": "2012-03-20T08:02:46Z",
+  "version": 2,
+  "changeset": 11038587,
+  "user": "Kelurahan Kayu Putih",
+  "uid": 633602,
+  "center": {
+    "lat": -6.1723546,
+    "lon": 106.8885808
+  },
+  "nodes": [
+    1363623959,
+    1363624056,
+    1363623875,
+    1363624022,
+    1363623830,
+    1363624090,
+    1363623959
+  ],
+  "tags": {
+    "access:roof": "no",
+    "addr:full": "Jalan Perintis Kemerdekaan",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "10+",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "commercial",
+    "building:walls": "brick",
+    "name": "ASMI"
+  }
+},
+{
+  "type": "way",
+  "id": 155941432,
+  "timestamp": "2012-03-20T05:54:09Z",
+  "version": 1,
+  "changeset": 11037749,
+  "user": "kelurahan malaka sari",
+  "uid": 633636,
+  "center": {
+    "lat": -6.2182798,
+    "lon": 106.9285302
+  },
+  "nodes": [
+    1682786191,
+    1682786195,
+    1682786211,
+    1682786194,
+    1682786191
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "JL. Delima II",
+    "amenity": "university",
+    "building:levels": "3",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "UHAMKA"
+  }
+},
+{
+  "type": "way",
+  "id": 122159902,
+  "timestamp": "2012-03-26T07:46:33Z",
+  "version": 2,
+  "changeset": 11102948,
+  "user": "mutiafaiza",
+  "uid": 617259,
+  "center": {
+    "lat": -6.1692963,
+    "lon": 106.7864647
+  },
+  "nodes": [
+    1365840814,
+    1691636521,
+    1365840246,
+    1365840760,
+    1365839316,
+    1365840814
+  ],
+  "tags": {
+    "access:roof": "no",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "10+",
+    "building:roof": "concrete",
+    "building:structure": "confined_masonry",
+    "building:use": "education",
+    "building:walls": "brick",
+    "capacity:persons": "1000",
+    "name": "Universitas Tarumanegara"
+  }
+},
+{
+  "type": "way",
+  "id": 156926460,
+  "timestamp": "2012-03-27T09:27:14Z",
+  "version": 2,
+  "changeset": 11114342,
+  "user": "bowie",
+  "uid": 617284,
+  "center": {
+    "lat": -6.1670864,
+    "lon": 106.7969087
+  },
+  "nodes": [
+    1691671600,
+    1691671603,
+    1691671627,
+    1691671631,
+    1691671636,
+    1691671642,
+    1691671650,
+    1691671648,
+    1691671600
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. kyai tapa",
+    "amenity": "university",
+    "building:levels": ">7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "name": "FKG trisakti"
+  }
+},
+{
+  "type": "way",
+  "id": 156926481,
+  "timestamp": "2012-04-11T09:26:55Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1669887,
+    "lon": 106.7937052
+  },
+  "nodes": [
+    1691671616,
+    1691671615,
+    1691671612,
+    1691671613,
+    1691671632,
+    1691671638,
+    1691671616
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. kyai tapa",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "3",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">500",
+    "name": "Universitas Trisakti"
+  }
+},
+{
+  "type": "way",
+  "id": 156926482,
+  "timestamp": "2012-04-11T09:26:56Z",
+  "version": 2,
+  "changeset": 11262415,
+  "user": "emirhartato",
+  "uid": 452826,
+  "center": {
+    "lat": -6.1671239,
+    "lon": 106.7943559
+  },
+  "nodes": [
+    1691671617,
+    1691671614,
+    1691671624,
+    1691671623,
+    1691671646,
+    1691671647,
+    1691671618,
+    1691671617
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. kyai tapa",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">1000",
+    "name": "Universitas Trisakti"
+  }
+},
+{
+  "type": "way",
+  "id": 156917648,
+  "timestamp": "2015-03-06T09:27:50Z",
+  "version": 3,
+  "changeset": 29285330,
+  "user": "Farras",
+  "uid": 136807,
+  "center": {
+    "lat": -6.1689765,
+    "lon": 106.7903718
+  },
+  "nodes": [
+    1691602501,
+    1691602500,
+    1691602498,
+    1691602497,
+    1691602493,
+    1691602489,
+    1691602487,
+    1691602488,
+    1691602490,
+    1691602492,
+    1691602496,
+    1691602502,
+    1691602504,
+    1691602505,
+    1691602507,
+    1691602509,
+    1691602510,
+    1691602511,
+    1691602508,
+    1691602506,
+    1691602503,
+    1691602501
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. S Parman",
+    "amenity": "university",
+    "building:levels": ">7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">1000",
+    "name": "Universitas Tarumanagara"
+  }
+},
+{
+  "type": "way",
+  "id": 156917649,
+  "timestamp": "2015-03-06T09:27:50Z",
+  "version": 4,
+  "changeset": 29285330,
+  "user": "Farras",
+  "uid": 136807,
+  "center": {
+    "lat": -6.1677797,
+    "lon": 106.7905061
+  },
+  "nodes": [
+    1691602499,
+    1691602495,
+    1691602491,
+    1691602485,
+    1691671657,
+    1691671656,
+    1691671655,
+    1691602480,
+    1691602475,
+    1691602476,
+    1691602477,
+    1691602478,
+    1691602479,
+    1691602481,
+    1691602494,
+    1691602499
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "addr:full": "jl. tomang raya",
+    "amenity": "university",
+    "building:levels": ">7",
+    "building:roof": "tile",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": ">1000",
+    "name": "Unversitas Trisakti"
+  }
+},
+{
+  "type": "way",
+  "id": 154421174,
+  "timestamp": "2014-12-18T03:00:44Z",
+  "version": 4,
+  "changeset": 27543126,
+  "user": "Mas Ben",
+  "uid": 617239,
+  "center": {
+    "lat": -6.1254725,
+    "lon": 106.7933520
+  },
+  "nodes": [
+    1669588399,
+    2506856431,
+    2506856433,
+    2506856435,
+    2506856444,
+    2506856442,
+    1669588450,
+    1669588551,
+    1669588575,
+    1669588690,
+    1669588794,
+    1669588462,
+    1669588570,
+    1669588353,
+    1669588686,
+    1669588786,
+    1669588373,
+    2506856458,
+    2506856457,
+    1669588474,
+    1669588399
+  ],
+  "tags": {
+    "amenity": "university",
+    "building": "yes",
+    "evacuation_center": "no",
+    "flood_prone": "yes",
+    "name": "Atmajaya Medical"
+  }
+},
+{
+  "type": "way",
+  "id": 154894838,
+  "timestamp": "2015-08-10T13:37:15Z",
+  "version": 3,
+  "changeset": 33240143,
+  "user": "Latze",
+  "uid": 2318,
+  "center": {
+    "lat": -6.1359871,
+    "lon": 106.8867274
+  },
+  "nodes": [
+    3689550665,
+    3689550669,
+    3689550667,
+    1673559834,
+    3689550671,
+    3689550670,
+    1673559830,
+    3689550668,
+    3689550666,
+    3689550659,
+    3689550660,
+    3689550654,
+    3689550655,
+    3689550656,
+    3689550657,
+    3689550658,
+    3689550661,
+    3689550662,
+    3689550663,
+    3689550664,
+    3689550665
+  ],
+  "tags": {
+    "access:roof": "yes",
+    "amenity": "university",
+    "building": "yes",
+    "building:levels": "4-7",
+    "building:roof": "concrete",
+    "building:structure": "reinforced_masonry",
+    "building:walls": "brick",
+    "capacity:persons": "4000",
+    "name": "Politeknik Manufaktur Astra"
+  }
+},
+{
+  "type": "relation",
+  "id": 7119864,
+  "timestamp": "2017-03-30T03:06:28Z",
+  "version": 1,
+  "changeset": 47278911,
+  "user": "Anjar Akrimullah",
+  "uid": 4159996,
+  "center": {
+    "lat": -6.3032234,
+    "lon": 106.8719154
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 155915762,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 482201146,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 482201144,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "university",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 7132797,
+  "timestamp": "2017-04-04T09:17:30Z",
+  "version": 1,
+  "changeset": 47436250,
+  "user": "irwan hidayatullah",
+  "uid": 5520510,
+  "center": {
+    "lat": -6.2524447,
+    "lon": 106.8642926
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 484685063,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 120161322,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 483594526,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 483594525,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "addr:full": "Jalan Dewi Sartika No. 184 A Cawang - Jakarta Timur",
+    "amenity": "university",
+    "name": "Universitas Surapati",
+    "operator:type": "private",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 6352388,
+  "timestamp": "2016-06-24T07:46:40Z",
+  "version": 1,
+  "changeset": 40253301,
+  "user": "nusa",
+  "uid": 4158278,
+  "center": {
+    "lat": -6.1947918,
+    "lon": 106.8786985
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 157396411,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 426962750,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universitas Negeri Jakarta",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 5614981,
+  "timestamp": "2015-10-26T05:41:24Z",
+  "version": 1,
+  "changeset": 34872578,
+  "user": "wulankhairunisa",
+  "uid": 617233,
+  "center": {
+    "lat": -6.1028992,
+    "lon": 106.9574000
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 154828688,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 153318346,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "SEKOLAH TINGGI ILMU PELAYARAN MARUNDA",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

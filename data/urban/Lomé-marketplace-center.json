@@ -1,0 +1,938 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:44:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1879805356,
+  "lat": 6.1671791,
+  "lon": 1.2019405,
+  "timestamp": "2013-06-29T17:47:29Z",
+  "version": 3,
+  "changeset": 16755250,
+  "user": "Edem Alomatsi",
+  "uid": 1581642,
+  "tags": {
+    "amenity": "marketplace",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1879842665,
+  "lat": 6.1273769,
+  "lon": 1.2334876,
+  "timestamp": "2013-07-17T14:16:09Z",
+  "version": 2,
+  "changeset": 16987818,
+  "user": "ndongpotter",
+  "uid": 1158295,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand Marché"
+  }
+},
+{
+  "type": "node",
+  "id": 2730903125,
+  "lat": 6.1596337,
+  "lon": 1.2362292,
+  "timestamp": "2015-12-20T04:44:06Z",
+  "version": 3,
+  "changeset": 36058349,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Noukafu",
+    "source": "Note by Otis Messio"
+  }
+},
+{
+  "type": "node",
+  "id": 3101142730,
+  "lat": 6.1161997,
+  "lon": 1.2039083,
+  "timestamp": "2014-09-29T08:38:19Z",
+  "version": 2,
+  "changeset": 25741540,
+  "user": "jeanmariemancabou",
+  "uid": 1072176,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Tomates",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3161426132,
+  "lat": 6.1534842,
+  "lon": 1.2697162,
+  "timestamp": "2014-11-01T17:53:05Z",
+  "version": 1,
+  "changeset": 26487298,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Akodésséwa",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3161471078,
+  "lat": 6.2544491,
+  "lon": 1.2079169,
+  "timestamp": "2014-11-01T18:20:13Z",
+  "version": 1,
+  "changeset": 26487842,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Agoè Zongo"
+  }
+},
+{
+  "type": "node",
+  "id": 3161505910,
+  "lat": 6.1412713,
+  "lon": 1.2299640,
+  "timestamp": "2014-11-01T18:43:12Z",
+  "version": 1,
+  "changeset": 26488288,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Amoutivé",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3174714660,
+  "lat": 6.1590973,
+  "lon": 1.2072448,
+  "timestamp": "2014-11-08T12:46:10Z",
+  "version": 1,
+  "changeset": 26640586,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Gbossimé",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3435848334,
+  "lat": 6.2625893,
+  "lon": 1.2847115,
+  "timestamp": "2015-04-03T21:40:46Z",
+  "version": 1,
+  "changeset": 29961746,
+  "user": "Amen ABBEY MATHEY",
+  "uid": 2245273,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Avéta"
+  }
+},
+{
+  "type": "node",
+  "id": 3458599490,
+  "lat": 6.1283172,
+  "lon": 1.2351920,
+  "timestamp": "2015-04-16T01:20:55Z",
+  "version": 1,
+  "changeset": 30252956,
+  "user": "Amen ABBEY MATHEY",
+  "uid": 2245273,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché des fruits"
+  }
+},
+{
+  "type": "node",
+  "id": 3471508178,
+  "lat": 6.1647578,
+  "lon": 1.2207016,
+  "timestamp": "2015-04-29T15:49:03Z",
+  "version": 2,
+  "changeset": 30625661,
+  "user": "djoumbata",
+  "uid": 1995876,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "ETS NYIKOLE"
+  }
+},
+{
+  "type": "node",
+  "id": 3471508182,
+  "lat": 6.1647558,
+  "lon": 1.2206160,
+  "timestamp": "2015-04-29T15:49:03Z",
+  "version": 2,
+  "changeset": 30625661,
+  "user": "djoumbata",
+  "uid": 1995876,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bar le Raccoura."
+  }
+},
+{
+  "type": "node",
+  "id": 3486882572,
+  "lat": 6.1649056,
+  "lon": 1.2211801,
+  "timestamp": "2015-04-29T15:49:02Z",
+  "version": 1,
+  "changeset": 30625661,
+  "user": "djoumbata",
+  "uid": 1995876,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Fufu Bar Chez da MA"
+  }
+},
+{
+  "type": "node",
+  "id": 3486923922,
+  "lat": 6.1632902,
+  "lon": 1.2166008,
+  "timestamp": "2015-11-12T13:17:52Z",
+  "version": 2,
+  "changeset": 35260886,
+  "user": "SAIBOUL",
+  "uid": 3375707,
+  "tags": {
+    "amenity": "marketplace",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 3673916953,
+  "lat": 6.1784674,
+  "lon": 1.1690629,
+  "timestamp": "2015-07-30T19:13:37Z",
+  "version": 1,
+  "changeset": 32990130,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Awatamé",
+    "opening_hours": "Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25 off",
+    "organic": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3692007498,
+  "lat": 6.1022982,
+  "lon": 1.1464222,
+  "timestamp": "2015-08-11T18:29:09Z",
+  "version": 1,
+  "changeset": 33274582,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "tags": {
+    "amenity": "marketplace",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3762101285,
+  "lat": 6.1246241,
+  "lon": 1.2217292,
+  "timestamp": "2016-12-06T18:24:34Z",
+  "version": 4,
+  "changeset": 44216260,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "marketplace",
+    "is_in:city": "Lomé",
+    "is_in:country": "TOGO",
+    "name": "Assigamé",
+    "showcase": "Only",
+    "source": "Bing;Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3832310128,
+  "lat": 6.1599076,
+  "lon": 1.2127447,
+  "timestamp": "2015-11-12T09:58:45Z",
+  "version": 1,
+  "changeset": 35257291,
+  "user": "saliousoft",
+  "uid": 1717441,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "MARCHÉ DE DOUMA\nSSESSE"
+  }
+},
+{
+  "type": "node",
+  "id": 4007144984,
+  "lat": 6.2680613,
+  "lon": 1.1506570,
+  "timestamp": "2016-02-15T10:42:58Z",
+  "version": 1,
+  "changeset": 37221419,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Légbassito"
+  }
+},
+{
+  "type": "node",
+  "id": 4008404885,
+  "lat": 6.1837779,
+  "lon": 1.1691348,
+  "timestamp": "2016-02-15T23:16:53Z",
+  "version": 1,
+  "changeset": 37236253,
+  "user": "hermann106",
+  "uid": 632960,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Bokovi-simé",
+    "organic": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4130834099,
+  "lat": 6.1941961,
+  "lon": 1.2026297,
+  "timestamp": "2016-04-18T16:01:23Z",
+  "version": 1,
+  "changeset": 38671036,
+  "user": "Toub",
+  "uid": 2109205,
+  "tags": {
+    "amenity": "marketplace"
+  }
+},
+{
+  "type": "node",
+  "id": 4139079892,
+  "lat": 6.1410686,
+  "lon": 1.2533592,
+  "timestamp": "2016-04-21T17:35:27Z",
+  "version": 1,
+  "changeset": 38763455,
+  "user": "AGBOLI Komla",
+  "uid": 3815281,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Ahligo"
+  }
+},
+{
+  "type": "node",
+  "id": 4623471463,
+  "lat": 6.1119144,
+  "lon": 1.1952131,
+  "timestamp": "2017-01-22T13:20:36Z",
+  "version": 1,
+  "changeset": 45369245,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Aflao Border Market"
+  }
+},
+{
+  "type": "way",
+  "id": 245994461,
+  "timestamp": "2014-06-03T19:37:29Z",
+  "version": 4,
+  "changeset": 22721584,
+  "user": "Aurimas Fišeras",
+  "uid": 651869,
+  "center": {
+    "lat": 6.0985328,
+    "lon": 1.1455804
+  },
+  "nodes": [
+    2530880382,
+    2530880386,
+    2530880388,
+    2530880391,
+    2530880393,
+    2530880382
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Denu Market"
+  }
+},
+{
+  "type": "way",
+  "id": 235835158,
+  "timestamp": "2013-12-27T03:32:14Z",
+  "version": 2,
+  "changeset": 19655025,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.1977553,
+    "lon": 1.1470909
+  },
+  "nodes": [
+    2439100035,
+    2439100040,
+    2439100037,
+    2439100017,
+    2439100012,
+    2439100020,
+    2439100022,
+    2439100025,
+    2439100031,
+    2439100035
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Adidogomé Assiyeye",
+    "opening_hours": "Tu,Sa",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 247234130,
+  "timestamp": "2015-01-04T08:34:37Z",
+  "version": 2,
+  "changeset": 27904228,
+  "user": "Enock4seth",
+  "uid": 1803854,
+  "center": {
+    "lat": 6.1176418,
+    "lon": 1.1872338
+  },
+  "nodes": [
+    2541573286,
+    2541573289,
+    2541573291,
+    2541573294,
+    2541573286
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Aflao Market"
+  }
+},
+{
+  "type": "way",
+  "id": 230227835,
+  "timestamp": "2014-09-28T23:20:54Z",
+  "version": 5,
+  "changeset": 25736463,
+  "user": "FofB",
+  "uid": 1663504,
+  "center": {
+    "lat": 6.1289631,
+    "lon": 1.2309846
+  },
+  "nodes": [
+    2387531828,
+    2387686219,
+    2387697832,
+    2387531827,
+    2387686235,
+    2387531829,
+    2387697868,
+    2387531830,
+    2387531831,
+    2387686351,
+    2387531828
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Atikpodji",
+    "source": "bing and survey"
+  }
+},
+{
+  "type": "way",
+  "id": 378999349,
+  "timestamp": "2015-11-07T23:23:25Z",
+  "version": 2,
+  "changeset": 35159349,
+  "user": "sev_osm",
+  "uid": 219668,
+  "center": {
+    "lat": 6.1260415,
+    "lon": 1.2272734
+  },
+  "nodes": [
+    3823553109,
+    3823553121,
+    3823553118,
+    3823553106,
+    3823553109
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Grand marché"
+  }
+},
+{
+  "type": "way",
+  "id": 319275498,
+  "timestamp": "2014-12-28T16:54:36Z",
+  "version": 1,
+  "changeset": 27757730,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.1412037,
+    "lon": 1.2182157
+  },
+  "nodes": [
+    3256866794,
+    3256866793,
+    3256866792,
+    3256866648,
+    3256866641,
+    3256866620,
+    3256866606,
+    3256866609,
+    3256866616,
+    3256866794
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Nouvelle Marche"
+  }
+},
+{
+  "type": "way",
+  "id": 409074625,
+  "timestamp": "2016-04-09T14:49:00Z",
+  "version": 1,
+  "changeset": 38430080,
+  "user": "dominique hoavonon",
+  "uid": 2582707,
+  "center": {
+    "lat": 6.1426654,
+    "lon": 1.2441351
+  },
+  "nodes": [
+    4109635751,
+    4109637431,
+    4109636479,
+    4109635442,
+    4109635751
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Bè"
+  }
+},
+{
+  "type": "way",
+  "id": 409074626,
+  "timestamp": "2016-04-09T14:49:00Z",
+  "version": 1,
+  "changeset": 38430080,
+  "user": "dominique hoavonon",
+  "uid": 2582707,
+  "center": {
+    "lat": 6.1429201,
+    "lon": 1.2439052
+  },
+  "nodes": [
+    4109638000,
+    4109638329,
+    4109638204,
+    4109638269,
+    4109637700,
+    4109635783,
+    4109638000
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Bè"
+  }
+},
+{
+  "type": "way",
+  "id": 227994837,
+  "timestamp": "2013-06-29T20:43:26Z",
+  "version": 1,
+  "changeset": 16757443,
+  "user": "DOLAGBENOU Kossi",
+  "uid": 1581755,
+  "center": {
+    "lat": 6.1765213,
+    "lon": 1.2009275
+  },
+  "nodes": [
+    2366184905,
+    2366184913,
+    2366184912,
+    2366184881,
+    2366184885,
+    2366184887,
+    2366184905
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Djidjolé",
+    "source": "bing;survey"
+  }
+},
+{
+  "type": "way",
+  "id": 230197950,
+  "timestamp": "2014-11-01T18:06:46Z",
+  "version": 2,
+  "changeset": 26487573,
+  "user": "hyacinthe Djiwonou",
+  "uid": 1595908,
+  "center": {
+    "lat": 6.1945408,
+    "lon": 1.1878597
+  },
+  "nodes": [
+    2387283144,
+    2387283143,
+    2387283142,
+    2387283135,
+    2387283136,
+    2387283134,
+    2387283133,
+    2387283137,
+    2387283139,
+    2387283140,
+    2387283141,
+    2387283145,
+    2387283144
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché de Totsi",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 445974845,
+  "timestamp": "2016-10-05T17:53:17Z",
+  "version": 1,
+  "changeset": 42664398,
+  "user": "Verdy_p",
+  "uid": 90780,
+  "center": {
+    "lat": 6.1599975,
+    "lon": 1.2125633
+  },
+  "nodes": [
+    4433105454,
+    4433105455,
+    4433105456,
+    4433105457,
+    4433105458,
+    4433105459,
+    4433105451,
+    4433105450,
+    4433105454
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Adéwui"
+  }
+},
+{
+  "type": "way",
+  "id": 379888673,
+  "timestamp": "2015-11-12T10:59:46Z",
+  "version": 1,
+  "changeset": 35258461,
+  "user": "ADJOGBLE Emmanuel",
+  "uid": 1799293,
+  "center": {
+    "lat": 6.1595796,
+    "lon": 1.2130903
+  },
+  "nodes": [
+    3832385660,
+    3832385661,
+    3832385657,
+    3832384954,
+    3832385660
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché Adéwui"
+  }
+},
+{
+  "type": "way",
+  "id": 318013137,
+  "timestamp": "2014-12-19T22:58:42Z",
+  "version": 1,
+  "changeset": 27580088,
+  "user": "Amen ABBEY MATHEY",
+  "uid": 2245273,
+  "center": {
+    "lat": 6.2335542,
+    "lon": 1.1513365
+  },
+  "nodes": [
+    3243684458,
+    3243684459,
+    3243684460,
+    3243684861,
+    3243684458
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Zossimé"
+  }
+},
+{
+  "type": "way",
+  "id": 236316879,
+  "timestamp": "2016-04-07T15:23:22Z",
+  "version": 5,
+  "changeset": 38383865,
+  "user": "AKE Amazan",
+  "uid": 1586794,
+  "center": {
+    "lat": 6.2048423,
+    "lon": 1.1960594
+  },
+  "nodes": [
+    2443559068,
+    4105409681,
+    4105409683,
+    4105409682,
+    4105409684,
+    4105409685,
+    3055359990,
+    2443559062,
+    3055359986,
+    4105409672,
+    2443559058,
+    4105409670,
+    4105409669,
+    4105409665,
+    2813472745,
+    4105409658,
+    4105409657,
+    4105409656,
+    3055280321,
+    2443559056,
+    4105409659,
+    4105409675,
+    2443559066,
+    3055359988,
+    3055359989,
+    2443559068
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "barrier": "wall",
+    "name": "Marché de Cacaveli"
+  }
+},
+{
+  "type": "way",
+  "id": 200074784,
+  "timestamp": "2015-01-12T19:39:45Z",
+  "version": 3,
+  "changeset": 28095793,
+  "user": "Aimé BOUKPESSI",
+  "uid": 1995994,
+  "center": {
+    "lat": 6.2311137,
+    "lon": 1.1972032
+  },
+  "nodes": [
+    2100609962,
+    3284611177,
+    3284611178,
+    2100609958,
+    3284611175,
+    3284611168,
+    3284611169,
+    3284611171,
+    3284611174,
+    2100609956,
+    2100609966,
+    2100609970,
+    3284611179,
+    2100609962
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Agoè-Assiyéyé",
+    "source": "bing;"
+  }
+},
+{
+  "type": "way",
+  "id": 235049306,
+  "timestamp": "2013-08-26T23:23:00Z",
+  "version": 2,
+  "changeset": 17527338,
+  "user": "Djemaah Allahare",
+  "uid": 1652249,
+  "center": {
+    "lat": 6.2267618,
+    "lon": 1.2144664
+  },
+  "nodes": [
+    2431517872,
+    2431517869,
+    2431517853,
+    2431517854,
+    2431517872
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché d'Atsanvé",
+    "source": "bing; survey"
+  }
+},
+{
+  "type": "way",
+  "id": 319953216,
+  "timestamp": "2015-01-01T23:29:03Z",
+  "version": 1,
+  "changeset": 27852129,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.1576252,
+    "lon": 1.2673251
+  },
+  "nodes": [
+    3264510382,
+    3264510383,
+    3264510384,
+    3264510385,
+    3264510388,
+    3264510390,
+    3264510391,
+    3264510395,
+    3264510398,
+    3264510402,
+    3264510434,
+    3264510433,
+    3264510432,
+    3264510431,
+    3264510430,
+    3264510429,
+    3264510428,
+    3264510427,
+    3264510426,
+    3264510425,
+    3264510424,
+    3264510423,
+    3264510422,
+    3264510421,
+    3264510420,
+    3264510418,
+    3264510403,
+    3264510401,
+    3264510399,
+    3264510396,
+    3264510386,
+    3264510382
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Marché des Féticheurs",
+    "source": "survey",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 336597797,
+  "timestamp": "2015-04-04T01:11:59Z",
+  "version": 1,
+  "changeset": 29963953,
+  "user": "Amen ABBEY MATHEY",
+  "uid": 2245273,
+  "center": {
+    "lat": 6.2625947,
+    "lon": 1.2847218
+  },
+  "nodes": [
+    3436338001,
+    3436338002,
+    3436338003,
+    3436338004,
+    3436338005,
+    3436338001
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Marché Avéta"
+  }
+},
+{
+  "type": "relation",
+  "id": 4119840,
+  "timestamp": "2014-10-18T22:27:00Z",
+  "version": 1,
+  "changeset": 26180779,
+  "user": "Oberpfälzer",
+  "uid": 1244807,
+  "center": {
+    "lat": 6.1809904,
+    "lon": 1.2420586
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 235895303,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 235895308,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Grand-marché d'ASSIYEYE",
+    "opening_hours": "sunrise-sunset",
+    "operator": "Etablissements Publics pour l'Exploitation des Marchés de Lomé",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

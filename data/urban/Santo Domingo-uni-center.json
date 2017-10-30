@@ -1,0 +1,699 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 213274051,
+  "timestamp": "2016-04-09T18:02:50Z",
+  "version": 3,
+  "changeset": 38433836,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4697003,
+    "lon": -69.9942453
+  },
+  "nodes": [
+    2230042743,
+    2230042747,
+    2230042756,
+    2230042755,
+    2230042745,
+    2230042751,
+    2230042749,
+    2230042757,
+    2230042743
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo Oeste",
+    "addr:street": "Prolong Avenida 27 De Febrero",
+    "amenity": "university",
+    "name": "Universidad Odontologica Dominicana",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 410061868,
+  "timestamp": "2016-05-10T22:33:45Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4337529,
+    "lon": -69.9510194
+  },
+  "nodes": [
+    4119271454,
+    4119271455,
+    4119271456,
+    4119271457,
+    4119271454
+  ],
+  "tags": {
+    "addr:street": "Autopista 30 de Mayo",
+    "amenity": "university",
+    "name": "Universidad del Caribe",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 376021807,
+  "timestamp": "2016-04-09T18:02:51Z",
+  "version": 4,
+  "changeset": 38433836,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4534526,
+    "lon": -69.9772857
+  },
+  "nodes": [
+    3793613549,
+    3793613550,
+    3793613551,
+    3793613552,
+    3793613553,
+    3793613554,
+    3793613549
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida Isabel Aguiar",
+    "amenity": "university",
+    "name": "Universidad Tecnológica de Santiago",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 177692085,
+  "timestamp": "2013-08-14T12:53:51Z",
+  "version": 2,
+  "changeset": 17345068,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4503906,
+    "lon": -69.9560324
+  },
+  "nodes": [
+    1881150564,
+    1881150565,
+    2418877361,
+    2418877362,
+    1881150563,
+    1881150566,
+    1881150564
+  ],
+  "tags": {
+    "alt_name": "Centro Educacion Integral",
+    "amenity": "university",
+    "name": "Universidad de la Tercera Edad UTE"
+  }
+},
+{
+  "type": "way",
+  "id": 228039247,
+  "timestamp": "2016-02-17T15:59:25Z",
+  "version": 18,
+  "changeset": 37269989,
+  "user": "Guvani",
+  "uid": 2379712,
+  "center": {
+    "lat": 18.4613042,
+    "lon": -69.9172176
+  },
+  "nodes": [
+    2366877292,
+    2423464742,
+    2366877299,
+    3649307213,
+    3649307215,
+    3649307214,
+    2366877285,
+    3649308321,
+    3649307209,
+    3649307211,
+    3649307208,
+    3649307210,
+    3649307207,
+    3649307206,
+    3649307203,
+    3649307204,
+    3649307205,
+    3649307202,
+    3649307201,
+    3649307200,
+    310306441,
+    310306458,
+    3649307199,
+    3649307198,
+    2366877302,
+    3649461317,
+    2366877296,
+    3649461315,
+    3649234205,
+    3649234206,
+    3649234207,
+    3649234208,
+    3649234209,
+    2366877310,
+    2423464735,
+    2423464743,
+    2423464725,
+    2423464739,
+    2423464744,
+    2366877317,
+    2423464733,
+    2423464728,
+    2423464734,
+    2423464720,
+    2423464732,
+    2423464741,
+    2423464716,
+    2423464736,
+    2423464737,
+    2423464723,
+    2423464746,
+    2423464730,
+    2423464745,
+    2366877290,
+    310306628,
+    2366877313,
+    3649719966,
+    3649719967,
+    3649719968,
+    3649719969,
+    2423464738,
+    3649719970,
+    3649719971,
+    3649719972,
+    2366877289,
+    2366877320,
+    3710789448,
+    2423464740,
+    3710685880,
+    3710685884,
+    3710685882,
+    3710685883,
+    3710685881,
+    2366877312,
+    3649320067,
+    3649320063,
+    310306465,
+    310306495,
+    3649320064,
+    3649320065,
+    3649320066,
+    2366877292
+  ],
+  "tags": {
+    "alt_name": "UASD",
+    "amenity": "university",
+    "barrier": "wall",
+    "int_name": "UASD",
+    "name": "Universidad Autonoma de Santo Domingo",
+    "old_name": "Universidad Santo Thomas de Aquino"
+  }
+},
+{
+  "type": "way",
+  "id": 329206504,
+  "timestamp": "2015-02-19T23:43:11Z",
+  "version": 1,
+  "changeset": 28968414,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4634910,
+    "lon": -69.9296940
+  },
+  "nodes": [
+    3360479180,
+    3360479181,
+    3356960342,
+    3356960343,
+    3356960316,
+    3356960317,
+    3356960318,
+    3360479180
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Pontificia Universidad Catolica Madre y Maestra (PUCMM)"
+  }
+},
+{
+  "type": "way",
+  "id": 333724776,
+  "timestamp": "2016-05-10T22:28:30Z",
+  "version": 3,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4616715,
+    "lon": -69.9301751
+  },
+  "nodes": [
+    3408132818,
+    4122001032,
+    4122001031,
+    4122001034,
+    4122001035,
+    4122001036,
+    4122001033,
+    3408132818
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida Bolivar",
+    "amenity": "university",
+    "name": "Pontifica Universidad Catolica Madre y Maestra Posgrado",
+    "smoking": "outside",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 338342953,
+  "timestamp": "2015-04-13T15:54:55Z",
+  "version": 1,
+  "changeset": 30191282,
+  "user": "Ronald Rodriguez",
+  "uid": 2824260,
+  "center": {
+    "lat": 18.4628192,
+    "lon": -69.9232593
+  },
+  "nodes": [
+    3454195737,
+    3454195738,
+    3454195739,
+    3454195740,
+    3454195741,
+    3454195742,
+    3454195743,
+    3454195744,
+    3454195745,
+    3454195746,
+    3454195747,
+    3454195748,
+    3454195749,
+    3454195750,
+    3454195751,
+    3454195752,
+    3454195753,
+    3454195754,
+    3454195755,
+    3454195756,
+    3454195757,
+    3454195737
+  ],
+  "tags": {
+    "addr:city": "Santo Domingo",
+    "addr:street": "Avenida Bolivar",
+    "amenity": "university",
+    "name": "Universidad Católica Santo Domingo (UCSD)"
+  }
+},
+{
+  "type": "way",
+  "id": 174466996,
+  "timestamp": "2015-11-18T01:39:50Z",
+  "version": 5,
+  "changeset": 35393858,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4660472,
+    "lon": -69.9111178
+  },
+  "nodes": [
+    1851520421,
+    1851520427,
+    1851520423,
+    3506703693,
+    1851520425,
+    1851520421
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad UTESA, Recinto Santo Domingo",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 112410358,
+  "timestamp": "2016-05-10T22:33:42Z",
+  "version": 4,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4694992,
+    "lon": -69.9121904
+  },
+  "nodes": [
+    1277702722,
+    1277702723,
+    1277702721,
+    1277702724,
+    1277702722
+  ],
+  "tags": {
+    "addr:street": "Avenida Máximo Gómez",
+    "amenity": "university",
+    "name": "Universidad Federico Henriquez y Carvajal",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 407742569,
+  "timestamp": "2016-05-10T22:33:44Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4702186,
+    "lon": -69.8972595
+  },
+  "nodes": [
+    4097765074,
+    4097765075,
+    4097765076,
+    4097765077,
+    4097765074
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional Tecnológica",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 205359320,
+  "timestamp": "2016-05-10T21:50:12Z",
+  "version": 4,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4675693,
+    "lon": -69.8745676
+  },
+  "nodes": [
+    2153319435,
+    2153319429,
+    2153319436,
+    2153319439,
+    2153319433,
+    2153319431,
+    2153319432,
+    2153319427,
+    308527059,
+    2153319437,
+    2153319434,
+    2153319428,
+    2153319430,
+    2153319438,
+    2153319435
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Academia Naval VA César De Windt Lavandier",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 250877911,
+  "timestamp": "2017-02-03T19:36:03Z",
+  "version": 5,
+  "changeset": 45788254,
+  "user": "Eduardo Antonio Garcia Suarez",
+  "uid": 5202765,
+  "center": {
+    "lat": 18.4859683,
+    "lon": -69.9488525
+  },
+  "nodes": [
+    2572298532,
+    2572298533,
+    2572298534,
+    2572298535,
+    2572298536,
+    2572298537,
+    2572298538,
+    2572298539,
+    2572298556,
+    2572298555,
+    2572298557,
+    2572298554,
+    2572298540,
+    309173363,
+    2572298545,
+    4121661341,
+    2572298548,
+    2572298550,
+    2572298552,
+    2572298553,
+    2572298551,
+    2572298546,
+    2572298544,
+    2572298541,
+    2572298542,
+    2572298543,
+    2572298532
+  ],
+  "tags": {
+    "addr:street": "Av. J.F. Kennedy, km 7 1/2. Santo Domingo",
+    "amenity": "university",
+    "name": "Universidad Nacional Pedro Heriquez Urena - UNPHU",
+    "phone": "8095626601",
+    "source": "KG Ground Survey 2016",
+    "website": "http://www.unphu.edu.do"
+  }
+},
+{
+  "type": "way",
+  "id": 30087660,
+  "timestamp": "2016-03-22T21:30:42Z",
+  "version": 6,
+  "changeset": 38008664,
+  "user": "Julio Valeiron",
+  "uid": 1004783,
+  "center": {
+    "lat": 18.4876981,
+    "lon": -69.9621974
+  },
+  "nodes": [
+    331396137,
+    331396138,
+    4074091587,
+    331396139,
+    331396140,
+    331396141,
+    331396142,
+    331396143,
+    331396144,
+    331396145,
+    2299198560,
+    2299198567,
+    2299198566,
+    2299198565,
+    4074091588,
+    4074092789,
+    4074092790,
+    2299198564,
+    4074092791,
+    2299198563,
+    2299198562,
+    2299198561,
+    2897257176,
+    2897257177,
+    331396153,
+    331396154,
+    331396155,
+    331396137
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Instituto Tecnológico de Santo Domingo, INTEC"
+  }
+},
+{
+  "type": "way",
+  "id": 153866620,
+  "timestamp": "2016-04-25T21:00:56Z",
+  "version": 3,
+  "changeset": 38867878,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4737910,
+    "lon": -69.9136795
+  },
+  "nodes": [
+    1664975325,
+    1664975326,
+    1664975323,
+    1664975321,
+    1664975324,
+    1664975322,
+    1664975325
+  ],
+  "tags": {
+    "addr:housename": "Universidad Apec",
+    "addr:street": "Av. Maximo Gomez Esq. Mexico",
+    "amenity": "university",
+    "name": "Universidad Apec",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 344021413,
+  "timestamp": "2015-05-10T02:57:22Z",
+  "version": 1,
+  "changeset": 30952660,
+  "user": "labeyaka071",
+  "uid": 2653888,
+  "center": {
+    "lat": 18.4746294,
+    "lon": -69.9095954
+  },
+  "nodes": [
+    3507906200,
+    3507906201,
+    3507906202,
+    3507906203,
+    3507906204,
+    3507906205,
+    3507906200
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Iberoamericana"
+  }
+},
+{
+  "type": "way",
+  "id": 328193763,
+  "timestamp": "2015-02-14T14:45:27Z",
+  "version": 1,
+  "changeset": 28842754,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4791090,
+    "lon": -69.9103756
+  },
+  "nodes": [
+    3350072229,
+    3350072230,
+    3350072231,
+    3350072232,
+    3350072233,
+    3350072229
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UNEV"
+  }
+},
+{
+  "type": "way",
+  "id": 406840018,
+  "timestamp": "2016-05-10T22:33:44Z",
+  "version": 2,
+  "changeset": 39229102,
+  "user": "Canyonsrcool",
+  "uid": 126508,
+  "center": {
+    "lat": 18.4751849,
+    "lon": -69.8947146
+  },
+  "nodes": [
+    4088968151,
+    4088968152,
+    4088968153,
+    4088968155,
+    4088968151
+  ],
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Calle 16 de Agosto",
+    "amenity": "university",
+    "building": "university",
+    "name": "Universidad Tecnológica de Santiago Extensión San Carlos",
+    "source": "KG Ground Survey 2016"
+  }
+},
+{
+  "type": "way",
+  "id": 453811277,
+  "timestamp": "2016-11-16T19:45:09Z",
+  "version": 1,
+  "changeset": 43708973,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.4878021,
+    "lon": -69.8773930
+  },
+  "nodes": [
+    4504957734,
+    4504957735,
+    3768209959,
+    4504957736,
+    4504957734
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Tecnológica de Santiago"
+  }
+},
+{
+  "type": "way",
+  "id": 224239757,
+  "timestamp": "2013-07-07T19:41:15Z",
+  "version": 5,
+  "changeset": 16864780,
+  "user": "renesigma",
+  "uid": 1139318,
+  "center": {
+    "lat": 18.5154588,
+    "lon": -69.8472073
+  },
+  "nodes": [
+    2330596904,
+    2330596905,
+    2330596902,
+    2330596907,
+    2330596906,
+    2330596901,
+    2330596903,
+    2330596904
+  ],
+  "tags": {
+    "amenity": "university",
+    "name": "UAPA Universidad Abierta Para Adultos"
+  }
+}
+
+  ]
+}

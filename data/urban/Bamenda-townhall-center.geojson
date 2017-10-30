@@ -1,0 +1,71 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/403278278",
+  "properties": {
+    "timestamp": "2016-03-12T12:49:09Z",
+    "version": 1,
+    "changeset": 37782437,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Bamenda III Townhall",
+    "name:fr": "Mairie de Bamenda III",
+    "id": "way/403278278"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1894796,
+      5.9801289
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/426138924",
+  "properties": {
+    "timestamp": "2016-08-06T10:21:50Z",
+    "version": 2,
+    "changeset": 41284762,
+    "user": "zaizone",
+    "uid": 1122708,
+    "amenity": "townhall",
+    "name": "Bamenda Urban Council",
+    "id": "way/426138924"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.1364346,
+      5.9735599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3145006102",
+  "properties": {
+    "timestamp": "2016-11-11T13:35:58Z",
+    "version": 3,
+    "changeset": 43559335,
+    "user": "zaizone",
+    "uid": 1122708,
+    "addr:city": "Mbengwi",
+    "amenity": "townhall",
+    "name": "Mbengwi Council Building",
+    "id": "node/3145006102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.012446,
+      6.0092529
+    ]
+  }
+}
+]
+}

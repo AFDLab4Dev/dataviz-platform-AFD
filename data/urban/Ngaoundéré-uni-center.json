@@ -1,0 +1,77 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:38:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 332260282,
+  "timestamp": "2016-11-02T16:16:29Z",
+  "version": 4,
+  "changeset": 43356668,
+  "user": "ongolaboy",
+  "uid": 547829,
+  "center": {
+    "lat": 7.4193930,
+    "lon": 13.5446497
+  },
+  "nodes": [
+    3393718174,
+    3393718171,
+    3393717551,
+    3393715839,
+    3393715336,
+    3393715298,
+    3393712488,
+    3393712485,
+    3126984485,
+    3393715321,
+    4477206247,
+    3126984502,
+    3393715373,
+    3126984501,
+    3393715636,
+    3393715649,
+    3393715652,
+    3393715658,
+    3393715662,
+    3393715670,
+    3393715676,
+    3393715679,
+    3393715804,
+    3393716319,
+    3126984500,
+    3393717765,
+    3393717770,
+    3393717761,
+    3393717756,
+    3393717580,
+    3393717518,
+    3393717510,
+    3393717513,
+    3393717531,
+    3393717571,
+    3393717755,
+    3393717768,
+    3393717781,
+    3393717839,
+    3393718106,
+    3393718165,
+    3393718174
+  ],
+  "tags": {
+    "addr:city": "Ngaoundéré",
+    "amenity": "university",
+    "name": "Université de Ngaoundéré",
+    "name:en": "University of Ngaoundere",
+    "website": "http://www.univ-ndere.cm/",
+    "wikipedia": "en:University of Ngaoundéré"
+  }
+}
+
+  ]
+}

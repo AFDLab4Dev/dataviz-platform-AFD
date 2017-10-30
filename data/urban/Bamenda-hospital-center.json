@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1082879039,
+  "lat": 5.9458385,
+  "lon": 10.1393749,
+  "timestamp": "2011-01-05T13:12:06Z",
+  "version": 2,
+  "changeset": 6871397,
+  "user": "SHed",
+  "uid": 120875,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bamenda Polyclinic"
+  }
+},
+{
+  "type": "way",
+  "id": 403273769,
+  "timestamp": "2016-03-12T12:09:15Z",
+  "version": 1,
+  "changeset": 37781895,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9554835,
+    "lon": 10.1441495
+  },
+  "nodes": [
+    4056359803,
+    4056359804,
+    4056359805,
+    4056359806,
+    4056359807,
+    4056359830,
+    4056359831,
+    4056359808,
+    4056359809,
+    4056359810,
+    4056359811,
+    4056359812,
+    4056359813,
+    4056359814,
+    4056359815,
+    4056359816,
+    4056359817,
+    4056359818,
+    4056359819,
+    4056359820,
+    4056359821,
+    4056359822,
+    4056359823,
+    4056359824,
+    4056359825,
+    4056359826,
+    4056359827,
+    4056359828,
+    4056359803
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Bamenda Regional Hospital",
+    "name:fr": "Hôpital Régional de Bamenda"
+  }
+},
+{
+  "type": "way",
+  "id": 452710595,
+  "timestamp": "2016-11-11T16:05:45Z",
+  "version": 1,
+  "changeset": 43562172,
+  "user": "zaizone",
+  "uid": 1122708,
+  "center": {
+    "lat": 5.9902959,
+    "lon": 10.1545798
+  },
+  "nodes": [
+    4494583931,
+    4494583929,
+    4494583933,
+    4494583935,
+    4494583934,
+    4494583932,
+    4494583931
+  ],
+  "tags": {
+    "amenity": "hospital",
+    "name": "Saint Francis Hospital"
+  }
+}
+
+  ]
+}

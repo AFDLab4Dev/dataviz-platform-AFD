@@ -1,0 +1,332 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/342937156",
+  "properties": {
+    "timestamp": "2015-05-05T10:34:18Z",
+    "version": 1,
+    "changeset": 30802144,
+    "user": "ulilu",
+    "uid": 16881,
+    "amenity": "hospital",
+    "area": "yes",
+    "emergency": "yes",
+    "name": "Hôpital Sanousouro",
+    "id": "way/342937156"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.301255,
+      11.1704942
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/343160686",
+  "properties": {
+    "timestamp": "2015-09-11T20:47:36Z",
+    "version": 2,
+    "changeset": 33969347,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "hospital",
+    "barrier": "wall",
+    "name": "Centre Médical avec Antenne chirurgicale du sect22",
+    "short_name": "CMA du 22",
+    "id": "way/343160686"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.319826,
+      11.2024861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/358441576",
+  "properties": {
+    "timestamp": "2015-07-03T22:47:37Z",
+    "version": 1,
+    "changeset": 32400413,
+    "user": "JOCK7",
+    "uid": 3025735,
+    "amenity": "hospital",
+    "building": "yes",
+    "name": "Siloe",
+    "operator": "Eglise des Assemblées de Dieu de Colma",
+    "id": "way/358441576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3024823,
+      11.2049345
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424160016",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Sarfalao",
+    "id": "way/424160016"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2693372,
+      11.1603132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/424160018",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Kua",
+    "id": "way/424160018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.248311,
+      11.1734637
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2136139092",
+  "properties": {
+    "timestamp": "2015-11-07T15:04:41Z",
+    "version": 3,
+    "changeset": 35151176,
+    "user": "wheelmap_visitor",
+    "uid": 290680,
+    "amenity": "hospital",
+    "name": "Maternité Guimbi Ouattara",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no",
+    "id": "node/2136139092"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2810853,
+      11.1730187
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2897440871",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 3,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Colsama",
+    "id": "node/2897440871"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3190594,
+      11.1770129
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3447272008",
+  "properties": {
+    "timestamp": "2015-09-11T20:47:38Z",
+    "version": 2,
+    "changeset": 33969347,
+    "user": "SANA Ibrahim",
+    "uid": 2098157,
+    "amenity": "hospital",
+    "name": "Dispensaire Islamique",
+    "source": "survey;bing",
+    "id": "node/3447272008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3089736,
+      11.2011627
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3459759166",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:42Z",
+    "version": 2,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "health_facility:type": "field_hospital",
+    "name": "CSPS ACCART-VILLE",
+    "operator:type": "public",
+    "source": "survey",
+    "id": "node/3459759166"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3109165,
+      11.1885806
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3631358131",
+  "properties": {
+    "timestamp": "2015-07-02T11:55:52Z",
+    "version": 1,
+    "changeset": 32352663,
+    "user": "Pooda Sié Hermann",
+    "uid": 3026168,
+    "amenity": "hospital",
+    "name": "Saint Joseph",
+    "id": "node/3631358131"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2533894,
+      11.1581626
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296808",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:40Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Bolomakoté",
+    "id": "node/4236296808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2903286,
+      11.1609147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296809",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:40Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Lafiabougou",
+    "id": "node/4236296809"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3236884,
+      11.15226
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296810",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Belle Ville",
+    "id": "node/4236296810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.3655568,
+      11.1733969
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296812",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Colma",
+    "id": "node/4236296812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2968418,
+      11.2149662
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4236296813",
+  "properties": {
+    "timestamp": "2016-06-10T19:00:41Z",
+    "version": 1,
+    "changeset": 39938262,
+    "user": "Do Edmond",
+    "uid": 3768332,
+    "amenity": "hospital",
+    "name": "CSPS de Sakaby",
+    "id": "node/4236296813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2874118,
+      11.2095424
+    ]
+  }
+}
+]
+}

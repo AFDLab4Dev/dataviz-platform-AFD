@@ -1,0 +1,102 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-04-04T16:47:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4321193219,
+  "lat": 0.3394468,
+  "lon": 9.4822130,
+  "timestamp": "2016-07-26T13:28:42Z",
+  "version": 1,
+  "changeset": 41038176,
+  "user": "askywhale",
+  "uid": 740301,
+  "tags": {
+    "amenity": "townhall",
+    "name": "Mairie d'Owendo"
+  }
+},
+{
+  "type": "way",
+  "id": 249526244,
+  "timestamp": "2013-12-02T12:21:13Z",
+  "version": 1,
+  "changeset": 19232286,
+  "user": "johanemilsson",
+  "uid": 559500,
+  "center": {
+    "lat": 0.4079906,
+    "lon": 9.4391878
+  },
+  "nodes": [
+    2561162723,
+    2561162663,
+    2561162656,
+    2561162655,
+    2561162659,
+    2561162666,
+    2561162679,
+    2561162717,
+    2561162727,
+    2561162736,
+    2561162738,
+    2561162732,
+    2561162723
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "office",
+    "name": "Govt1"
+  }
+},
+{
+  "type": "relation",
+  "id": 2804205,
+  "timestamp": "2014-03-25T15:25:46Z",
+  "version": 2,
+  "changeset": 21306835,
+  "user": "Baloss",
+  "uid": 1709247,
+  "center": {
+    "lat": 0.4104625,
+    "lon": 9.4444889
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 208495218,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 208495219,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495221,
+      "role": "inner"
+    },
+    {
+      "type": "way",
+      "ref": 208495220,
+      "role": "inner"
+    }
+  ],
+  "tags": {
+    "amenity": "townhall",
+    "building": "civic",
+    "name": "Hotel de Ville",
+    "source": "bing",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

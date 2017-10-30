@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "node/4749295447",
+  "properties": {
+    "timestamp": "2017-03-22T18:08:41Z",
+    "version": 1,
+    "changeset": 47074958,
+    "user": "marocagreg",
+    "uid": 2183569,
+    "amenity": "university",
+    "name": "Université Sultan Moulay Slimane",
+    "id": "node/4749295447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -6.3700857,
+      32.3362748
+    ]
+  }
+}
+]
+}
