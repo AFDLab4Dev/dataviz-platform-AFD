@@ -104,7 +104,7 @@ function hide(id){
 function show(id){
     var element= document.getElementById(id);
   element.style.visibility = 'visible'
-  element.style.height = 400;
+  element.style.height = "auto";
 
 }
 
