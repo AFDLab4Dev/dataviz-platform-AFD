@@ -29,7 +29,7 @@ $.getJSON( "data/geometry_pop.geojson", function( data ) {
 
 // Object to handle hash issues
 function hash_to_dict(hash) {
-        var temporary_list = hash.slice(1,).split("?");
+        var temporary_list = hash.slice(1,hash.length).split("?");
         var dictionary = new Object;
         temporary_list.forEach(function(element){
             var pieces = element.split('=');

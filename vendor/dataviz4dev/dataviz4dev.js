@@ -1224,6 +1224,7 @@ function parse_data_dhs_type5(url, container, API_params) {
         var temp = yearData.Data.length
         var surveyyear = yearData.Data[temp - 1].SurveyYear;
         apiURL = "https://api.dhsprogram.com/rest/dhs/data/?f=geojson&returnGeometry=true&breakdown=subnational&countryIds=" + iso2 + "+&surveyYear=" + surveyyear.toString() + "&indicatorIds=" + API_params['Ind_Select'];
+        console.log(apiURL)
         $.getJSON(apiURL, function(returnData) {
             var view = gps_dict[iso2].split(",")
             map.remove()
