@@ -176,14 +176,11 @@ function set_map(){
 	}
   
 	function style(feature) {
-				console.log(feature.properties.density )
-		console.log( pop_th_global )
 
-		console.log(Math.round(feature.properties.density/100) > pop_th_global ? 0.9 : 0.1 )
 			return {
 				opacity: 0.01,
 
-				fillOpacity: Math.round(feature.properties.density/100) > pop_th_global ? 0.9 : 0.1  ,
+				fillOpacity: Math.round(feature.properties.density/100) >= pop_th_global ? 0.9 : 0.1  ,
 				fillColor: getColor(feature.properties.render, Max,Min)
 			};
 		}
