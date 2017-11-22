@@ -1925,7 +1925,7 @@ function rotatePoints(center, points, yaw, r) {
         var p3 = [Math.cos(angle) * p2[0] - Math.sin(angle) * p2[1], Math.sin(angle) * p2[0] + Math.cos(angle) * p2[1]]
             // translate back to cente
 
-        t = turf.distanceToDegrees(r)
+        t = turf.lengthToDegrees(r)
 
         var d = Math.sqrt(Math.pow(p3[0], 2) + Math.pow(p3[1], 2))
 
@@ -2168,7 +2168,7 @@ calcButton.onclick = function() {
     size_road = 0;
     arrayIntersection.map(function(x) {
         if (x.geometry.type != "Point") {
-            size_road += turf.lineDistance(x, 'kilometers');
+            size_road += turf.lineDistance(x, {units: 'kilometers'});
         }
     })
     JSONIntersection = turf.featureCollection(arrayIntersection);
@@ -2179,7 +2179,7 @@ calcButton.onclick = function() {
     var n = 1000;
     var dist = Math.sqrt(((bbox[2] - bbox[0]) * (bbox[3] - bbox[1])) / n);
 
-    var grid = turf.pointGrid(bbox, dist, 'degrees');
+    var grid = turf.pointGrid(bbox, dist, {units: 'degrees'});
     var isInside = turf.within(grid, data);
 
     var density = 0;
@@ -2234,20 +2234,21 @@ corridorButton.onclick = function() {
 
 
     data.features.map(function(feature) {
+
         switch (feature.geometry.type) {
             case "LineString":
                 var buff = []
                 feature.geometry.coordinates.map(function(x) {
                     buff.push(x)
                 })
-                var temp = turf.circle(buff[0], r / 1000, 10, 'kilometers')
+                var temp = turf.circle(buff[0], r / 1000, {steps: 10, units: 'kilometers'})
                 linelength = linelength + turf.lineDistance(feature.geometry);
                 for (var i = 0; i < buff.length - 1; i++) {
                     var retour = line2rect(buff[i], buff[i + 1], r / 1000)
 
                     a = turf.convex(turf.featureCollection(retour))
-                    b = turf.circle(buff[i], r / 1000, 10, 'kilometers')
-                    c = turf.circle(buff[i + 1], r / 1000, 10, 'kilometers')
+                    b = turf.circle(buff[i], r / 1000, {steps: 10, units: 'kilometers'})
+                    c = turf.circle(buff[i + 1], r / 1000, {steps: 10, units: 'kilometers'})
                     temp = turf.union(temp, a, b, c)
                 }
                 if (newdraw) {
@@ -2257,7 +2258,7 @@ corridorButton.onclick = function() {
                 }
                 break;
             case "Point":
-                var temp = turf.circle(feature.geometry.coordinates, r / 1000, 100, 'kilometers');
+                var temp = turf.circle(feature.geometry.coordinates, r / 1000, {steps: 100, units: 'kilometers'});
 
 
                 if (newdraw) {
