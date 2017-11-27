@@ -1,7 +1,7 @@
 var API_list = {"WDI":{furnisher_fr:"Banque Mondiale", indicators : "../data/wdi.json"},
                 "DHS":{furnisher_fr:"USAID", indicators: "../data/dhs.json"}}
 var furnisher = {
-  WDI : {prepare_type1 : prepare_api_request_wdi_type1, prepare_type2 : prepare_api_request_wdi_type2, parse_type1: parse_data_WDI_type1, parse_type2: parse_data_WDI_type2, source: '<b>Source: </b> <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/889386" target="_blank">World Bank Data API</a><br><b>Author: </b><a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD</a>' },
+  WDI : {prepare_type1 : prepare_api_request_wdi_type1, prepare_type2 : prepare_api_request_wdi_type2, parse_type1: parse_data_WDI_type1, parse_type2: parse_data_WDI_type2, source: '<b>Source: </b> <a href="https://datahelpdesk.worldbank.org/knowledgebase/articles/889386" target="_blank">World Bank Data API</a><br><b>Author: </b><a href="https://twitter.com/EtienneDavid" target="_blank">Etienne David, AFD</a> and <a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD</a>' },
   DHS: {prepare_type5: prepare_api_request_dhs_type5, parse_type5 : parse_data_dhs_type5 ,prepare_type1: prepare_api_request_dhs_type1, parse_type1: parse_data_dhs_type1, prepare_type2: prepare_api_request_dhs_type2, parse_type2: parse_data_dhs_type2, source:'<b>Source: </b> <a href="http://api.dhsprogram.com/#/index.html" target="_blank">DHS programme API</a> | <a href="http://www.dhsprogram.com/data/Data-Tools-and-Manuals.cfm" target="_blank">Data description</a><br><b>Author: </b><a href="https://twitter.com/thomas_roca" target="_blank">Thomas Roca, AFD and</a> <a href="https://twitter.com/EtienneDavid" target="_blank">Etienne David, AFD</a>'},
  }
 
