@@ -1892,13 +1892,18 @@ function onChangeCountry() {
 
 
 }
-
 function onChangeCity() {
     ind = $("select[name=city]").val();
-    draw.deleteAll()
-    mapm.setCenter([data.country[cnt].city[ind].gps[1], data.country[cnt].city[ind].gps[0]])
-    var answer = document.getElementById('calculated-area');
-    answer.innerHTML = "";
+    draw.deleteAll();
+    mapm.setCenter([data.country[cnt].city[ind].gps[1], data.country[cnt].city[ind].gps[0]]);
+    var corridor_ = document.getElementById('corridor_length');
+    var surface_ = document.getElementById('surface_table');
+    var population_ = document.getElementById("population_table");
+    var ratio_ = document.gCetElementById("ration");
+    corridor_.innerHTML = "0"
+    surface_.innerHTML ="0"
+    population_.innerHTML ="0"
+    ratio_.innerHTML ="0"
     setMapbox(data.country[cnt].city[ind].name);
 }
 
