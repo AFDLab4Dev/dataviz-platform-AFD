@@ -282,20 +282,24 @@ function OnChartComplete(chart) { // on complete
 // =================================== DATAVIZ TYPES =======================================================
 function dataviz_type1(container, API_params, common_ressources, furnisher_obj, furnisher_name) {
     var get = furnisher_obj[furnisher_name].prepare_type1(common_ressources, API_params);
-    $.getJSON(get[2], function(json) {
-        var return_data = furnisher_obj[furnisher_name].parse_type1(json, get[0], get[1], API_params)
+    $.ajax({url : get[2], 
+        complete : function (json) {
+        var json1 = JSON.parse(json.responseText);
+        var return_data = furnisher_obj[furnisher_name].parse_type1(json1, get[0], get[1], API_params)
         display_dataviz_type1(return_data, container, get[0], get[1], furnisher_obj[furnisher_name].source)
-    });
+    }});
 
 }
 
 function dataviz_type2(container, API_params, common_ressources, furnisher_obj, furnisher_name) {
     var url = furnisher_obj[furnisher_name].prepare_type2(common_ressources, API_params);
-    $.getJSON(url, function(json) {
-        var return_data = furnisher_obj[furnisher_name].parse_type2(json, API_params['Country_Select'])
+    $.ajax({url : url, 
+        complete : function (json) {
+        var json1 = JSON.parse(json.responseText);
+        var return_data = furnisher_obj[furnisher_name].parse_type2(json1, API_params['Country_Select'])
         display_dataviz_type2(return_data, container, API_params);
 
-    });
+    }});
 
 }
 
@@ -597,7 +601,7 @@ function prepare_api_request_wdi_type1(common_ressources, API_params) {
     // display is the amount of information retrieved from the API query    
     var display = nbSerie * ((API_params['end'] - API_params['start']) + 1);
     // Set url request
-    var url = "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + ExtraUrl + ";WLD/indicators/" + API_params['Ind_Select'] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSerie) + "&format=jsonP&prefix=?"
+    var url = "https://api.worldbank.org/v2/countries/" + API_params['Country_Select'] + ";" + region + ExtraUrl + ";WLD/indicators/" + API_params['Ind_Select'] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSerie) + "&format=json&prefix=?&callback=?"
     return [cname, CnameExtra, url]
 
 }
@@ -681,7 +685,7 @@ function prepare_api_request_wdi_type2(common_ressources, API_params) {
     }
     var url_isolist = String(isolist).replace(/,/g, ';');
     var display = isolist.length;
-    var urlMAP = "http://api.worldbank.org/countries/" + url_isolist + "/indicators/" + API_params['Ind_Select'] + "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=1" + "&format=jsonP&prefix=?"
+    var urlMAP = "https://api.worldbank.org/v2/countries/" + url_isolist + "/indicators/" + API_params['Ind_Select'] + "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=1" + "&format=json&prefix=?"
     return urlMAP
 }
 
@@ -750,8 +754,8 @@ function prepare_api_request_wdi_type3(common_ressources, API_params) {
     var display = nbSeries * ((API_params['end'] - API_params['start']) + 1);
     // Set url request
 
-    var url_ind1 = "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + "/indicators/" + API_params['Ind_Select'][0] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=jsonP&prefix=?"
-    var url_ind2 = "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + "/indicators/" + API_params['Ind_Select'][1] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=jsonP&prefix=?"
+    var url_ind1 = "https://api.worldbank.org/v2/countries/" + API_params['Country_Select'] + ";" + region + "/indicators/" + API_params['Ind_Select'][0] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=json&prefix=?&callback=?"
+    var url_ind2 = "https://api.worldbank.org/v2/countries/" + API_params['Country_Select'] + ";" + region + "/indicators/" + API_params['Ind_Select'][1] + "?date=" + API_params['start'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=json&prefix=?&callback=?"
     return [cname, url_ind1, url_ind2]
 }
 
@@ -768,10 +772,15 @@ function parse_data_wdi_type3(get, cname, API_params) {
     var date_1 = [];
     var date_2 = [];
 
-    $.getJSON(get[1], function(json) {
+
+    $.ajax({
+        url: get[1], 
+        complete: function(json) {
+        var json1 = JSON.parse(json.responseText) 
+
         var date_1 = []
 
-        $.each(json[1], function(i, data) {
+        $.each(json1[1], function(i, data) {
             switch (1) {
                 case (positive($.inArray(data.country.value, common_ressources.region_list))):
                     return_data.region_name = data.country.value;
@@ -790,12 +799,15 @@ function parse_data_wdi_type3(get, cname, API_params) {
 
         request_1.resolve(date_1);
 
-    });
+    }});
 
-    $.getJSON(get[2], function(json) {
+    $.ajax({url: get[2],
+        complete: function(json) {
+        var json1 = JSON.parse(json.responseText) 
+
         var date_2 = []
 
-        $.each(json[1], function(i, data) {
+        $.each(json1[1], function(i, data) {
             switch (1) {
                 case (positive($.inArray(data.country.value, common_ressources.region_list))):
                     return_data.region_name = data.country.value;
@@ -815,7 +827,7 @@ function parse_data_wdi_type3(get, cname, API_params) {
 
         request_2.resolve(date_2);
 
-    });
+    }});
 
 
 
@@ -858,7 +870,7 @@ function prepare_api_request_wdi_type4(common_ressources, API_params) {
     var display = nbSeries * ((API_params['end'] - API_params['start']) + 1);
     // Set url request
     var url_array = API_params['Ind_Select'].map(function(i) {
-        return "http://api.worldbank.org/countries/" + API_params['Country_Select'] + ";" + region + ";WLD/indicators/" + i + "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=jsonP&prefix=?"
+        return "https://api.worldbank.org/v2/countries/" + API_params['Country_Select'] + ";" + region + ";WLD/indicators/" + i + "?date=" + API_params['end'] + ":" + API_params['end'] + "&per_page=" + display + "&MRV=" + (display / nbSeries) + "&format=json&prefix=?&callback=?"
 
     });
 
